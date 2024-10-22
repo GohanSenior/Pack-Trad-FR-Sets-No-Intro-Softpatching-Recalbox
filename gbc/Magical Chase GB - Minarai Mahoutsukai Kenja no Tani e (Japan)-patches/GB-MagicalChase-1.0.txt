@@ -1,0 +1,50 @@
+		***********************************************
+		**********G_E_N_E_R_A_T_I_O_N    I_X***********
+		******http://generation9.kanshima.net**********
+		***********************************************
+	 ---------------------------------------------------
+	 --Traduction de Magical Chase  sur Game Boy Color--
+	 ---------------------------------------------------
+->Fait par Speeder-Speed
+                 	~~~~Attention aux problèmes~~~~
+
+Je ne suis pas responsable des dommages pouvant être
+causés par ce patch. Ce patch est GRATUIT.
+Vous ne pouvez le vendre à qui que ce soit. 
+
+*-------> LES VERSIONS: 
+
+""""""""""""""""""""""""""""""
+""" VERSION du Patch: v1.00 ""(24/03/2001)
+""""""""""""""""""""""""""""""
++Texte         = 100% 
++Menu          = 100%
++Lieux         = 100%
++Le graphisme  = 100%
+
+
+*-------> COMMENT APPLIQUER LE PATCH ?
+
+Le patch "GB-MagicalChase-1.0.IPS" est à utiliser sur la rom suivante :
+  Nom de la rom   : Magical Chase GB (J) [C][!].gbc
+  Taille de la rom: 1 048 576 octets
+  Rom avec Header ? Non
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+*------->CONTACT:
+
+La traduction a été faite par Speeder-speed (membre de GIX).
+Le patch se trouve sur le site du groupe de traducteurs: GENERATION 9
+<http://generation9.kanshima.net>
+
+--------------Pour nous contacter par e-mail: --------------
+GreatSkaori@yahoo.com
+s-o-r@nobis-crew.org
+tiflamedragon@hotmail.com

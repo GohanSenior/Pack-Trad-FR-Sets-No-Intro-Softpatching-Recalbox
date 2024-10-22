@@ -1,0 +1,91 @@
+
+----------------------------------------------------------------
+***********************Table des matières***********************
+----------------------------------------------------------------
+
+1.	INFORMATION SUR LE JEU
+2.      CONTENU DE L'ARCHIVE ET UTILISATION
+3.	TOUT CE QUI A ÉTÉ FAIT
+4.	L'ÉQUIPE DE TRADUCTION
+5.	REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  INFORMATION SUR LE JEU
+----------------------------------------------------------------
+
+Titre       : Tekken Advance
+Console     : Game Boy Advance
+Développeur : Namco
+Editeur     : Namco
+Année       : 2002
+Genre       : Baston
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+L'archive ZIP doit contenir :
+
+Tekken Advance (F).ips --> Le patch de traduction du jeu.
+LisezMoi.txt -------> Le fichier que vous êtes en train de lire.
+
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+(Lunar IPS  par exemple).
+Ce patch est à utiliser avec la rom AMÉRICAINE du jeu, dont la
+référence est : 0284 - Tekken Advance.
+
+----------------------------------------------------------------
+3.  TOUT CE QUI A ÉTÉ FAIT
+----------------------------------------------------------------
+
+Menu             :  99 % 
+Crédits          : 100 %
+Graphismes	 :   0 %
+
+Soit une traduction globale de 97%
+
+Note : pour la liste des coups, seuls les manipulations à faire 
+sont traduites, les coups en eux-mêmes sont restés dans leurs 
+versions originales.
+La seule exception revient à Hwoarang qui possèdent des coups 
+differents selon son profil droit ou gauche, cette spécifité a 
+donc été traduite.
+"Game Over" n'a pas non plus été traduit, pour rester dans le 
+style arcade du jeu.
+
+----------------------------------------------------------------
+4.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+Corrigo : tout
+
+Si vous trouvez des erreurs dans le patch, merci d'envoyer un
+courriel à : corrigo21@hotmail.fr pour les soucis textuels, et 
+pour les soucis graphiques, avec si possible une capture 
+d'écran du problème.	
+
+
+----------------------------------------------------------------
+5.  REMARQUES LÉGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de Tekken Advance n'est pas 
+officiel et n'est pas supporté par Namco.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout, à bientôt et bon jeu!
+
+Corrigo.

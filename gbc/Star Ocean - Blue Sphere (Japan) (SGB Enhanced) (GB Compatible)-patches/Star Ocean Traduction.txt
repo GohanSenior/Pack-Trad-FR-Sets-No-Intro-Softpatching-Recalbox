@@ -1,0 +1,117 @@
+STAR OCEAN - La sphère bleue
+
+Release Candidate 1
+
+----------------------------------------------------------------
+***********************Table des matières***********************
+----------------------------------------------------------------
+
+1.	L'HISTOIRE DE STAR OCEAN - LA SPHERE BLEUE
+2.      LES PATCHS PUBLIES
+3.	TOUT CE QUI A ETE FAIT
+4.	L'ÉQUIPE
+5.	LES RETOURS DE BUGS ET FAUTES
+6.      CONTACTS
+
+----------------------------------------------------------------
+1.  L'HISTOIRE DE STAR OCEAN - LA SPHERE BLEUE
+----------------------------------------------------------------
+
+Suite à la réception d'un SOS provenant des navettes
+d'Ernest et d'Opéra, Précis contacte l'ensemble de
+l'équipe de star Ocean 2 afin de se porter à leur secours.
+
+Etrange! Leur navette s'écrase aussi sans aucune raison.
+Partant à la recherche de leurs compagnons, ils explorent
+la planète Edifice qui semblent cacher d'anciennes ruines
+au niveau technologique particulièrement avancé par rapport
+aux restes de la civilisation de cette planète.
+
+L'aventure peut commencer!
+
+N'oubliez pas de pratiquer l'artisanat:
+on ne gagne pas un Fol dans les combats!
+Va falloir travailler!
+
+----------------------------------------------------------------
+2.  LES PATCHS PUBLIES
+----------------------------------------------------------------
+
+- 01/04/2011 : Patch Public version 1. (Ce n'est pas un poisson
+               d'Avril!)
+
+- 28/02/2011 : Bêta2
+
+- 14/02/2011 : Bêta 1
+  La première version bêta du patch.
+  A utiliser sur la ROM : Star Ocean - Blue Sphere (J) [C][!]
+
+----------------------------------------------------------------
+3.  TOUT CE QUI A ETE FAIT
+----------------------------------------------------------------
+
+Intro        : 100 %
+Script       : 100 % (J'espère! :p)
+Objets       : 100 %
+Menus        : 100 %
+Monstres     : 100 %
+Magies       : 100 %
+Talents      : 100 %
+Artisanat    : 100 %
+Graphique    : 100 %
+
+
+----------------------------------------------------------------
+4.  L'ÉQUIPE DE TERMINUS TRADUCTION
+----------------------------------------------------------------
+
+   Bahamut        : Traduction du Script
+		    Extraction / Réinsertion
+		    DTE graphique
+
+   Lyan		  : Modification des graphismes
+
+   Pinktagada	  : Bêta-testeur
+   StorMyu	  : Bêta-testeur
+   Ommnislash 	  : Bêta-testeur
+
+Chaleureux remerciement à l'équipe de TRAF.
+Se faire soutenir est toujours le meilleur moyen d'avancer.
+
+Remerciement final à ceux qui ont joué à la Bêta 1/2 et qui ont
+relevé les bugs ou les fautes!
+
+----------------------------------------------------------------
+5.  LES RETOURS DE BUGS ET FAUTES
+----------------------------------------------------------------
+
+A tous ceux qui sont intéressés à m'aider pour créer la
+meilleure version possible de cette traduction, voici quelques
+petites consignes simples :
+
+- Vérifiez que vous avez bien la dernière version! ^^
+  (http://sites.google.com/site/sobstrad/home)
+  (http://traf.romhack.org/)
+  (http://terminus.romhack.net/)
+
+
+- Pour une erreur aller la poster sur :
+  http://www.romhack.org/viewtopic.php?t=3542
+  (Merci à la TRAF!)
+
+Merci d'avance!
+
+----------------------------------------------------------------
+6.  CONTACTS
+----------------------------------------------------------------
+
+
+T.R.A.F. : http://traf.romhack.org/
+
+Terminus : http://terminus.romhack.net/
+Le patch sera sans doute mis sur le site de Terminus Traduction
+mais il faudra que j'attende le retour d'un administrateur et je
+rappelle que des TRAFeurs y ont participé. Ce n'est donc pas un
+patch 100% Terminus, les groupes n'existant plus vraiment.
+
+Mon site : http://sites.google.com/site/sobstrad/home

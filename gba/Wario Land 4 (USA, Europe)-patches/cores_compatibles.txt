@@ -1,0 +1,6 @@
+
+Ce patch ne fonctionne pas avec tout les cores.
+
+Core compatible:
+
+	- Libretro Meteor

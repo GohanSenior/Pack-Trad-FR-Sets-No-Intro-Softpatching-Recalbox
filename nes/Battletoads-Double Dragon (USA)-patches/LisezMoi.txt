@@ -1,0 +1,123 @@
+TERMINUS TRADUCTION présente
+
+Battletoads & Double Dragon - L'équipe ultime
+----------------------------------------------------------------
+*******************Table des matières******************
+----------------------------------------------------------------
+
+1.    L'HISTOIRE DU JEU
+2.      CONTENU DE L'ARCHIVE ET UTILISATION
+3.    LES PATCHS PUBLIES
+4.      TOUT CE QUI A ETE FAIT
+5.    L'ÉQUIPE DE LA TRADUCTION
+6.      CONTACTS
+7.    REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  L'HISTOIRE DE Battletoads & Double Dragon - L'équipe ultime
+----------------------------------------------------------------
+
+Vous vous souvenez de Battletoads et de Double Dragon ?
+Les voici réunis pour de nouvelles bastons!
+Dans ce jeu édité sur NES par Rare en 1993, vous avez le choix
+entre 5 personnages :
+Les Toads : le trio de Battletoads, Rash, Zitz et Pimple.
+Les Dragons : Billy & Jimmy.
+
+Scénario :
+Suite à sa cuisante défaite face aux Battletoads sur Ragnarok,
+la reine des ombres s’est enfuie à l’autre bout de l’univers.
+Les mois ont passé, et la menace n’est plus qu’un lointain
+souvenir.
+
+Cependant quand un mystérieux faisceau d’énergie met hors d’état
+les défenses de la Terre et qu’un vaisseau spatial de la taille
+d’une ville, le Collossus, s’écrase sur la Lune, il ne faut pas
+longtemps au professeur T.bird pour comprendre que la reine des
+ombres est derrière tout cela...
+Ce qu’il ignore, c’est que celle-ci a cette fois décidé de ne
+leur laisser aucune chance, et s’est donc alliée avec le chef
+du gang des Shadow Warriors.
+
+Cette fois, les grenouilles bagarreuses devront, en plus du
+Général Slaughter, de Big Blag et de Robo-Manus, affronter les
+compagnons du chef des Shadow Warriors, Abobo et Roper.
+Heureusement pour les Battletoads, si la reine des ombres a pu
+trouver le soutien du grand méchant de l’univers de Double Dragon,
+eux trouveront le soutien de 
+Billy et Jimmy Lee, les jumeaux qui ont déjà donné du fil à
+retordre aux chefs des Shadow Warrior.
+
+Source: https://emunova.net/
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir:
+BattletoadsDoubleDragonFr.ips  - Le patch IPS du jeu
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+(le Patcheur Terminus par exemple).
+Ce patch est à utiliser avec la ROM No-Intro:
+Battletoads-Double Dragon (USA).nes
+
+----------------------------------------------------------------
+3.  LES PATCHS PUBLIES
+----------------------------------------------------------------
+
+- V1.00
+
+----------------------------------------------------------------
+4.  TOUT CE QUI A ETE FAIT
+----------------------------------------------------------------
+
+Traduction du jeu
+
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+Kazan:   Hacking, Traduction
+
+Tools: Griever
+
+----------------------------------------------------------------
+6.  CONTACTS
+----------------------------------------------------------------
+
+Une remarque, une question ou une correction à apporter à la
+traduction du jeu.
+
+Kazan - newkazan@hotmail.fr
+
+Vous voulez mieux connaître le groupe, télécharger nos derniers
+patchs ou vous renseigner sur un projet.
+
+Site Web - http://terminus.romhack.net
+Facebook - https://www.facebook.com/TerminusTrad/
+
+----------------------------------------------------------------
+7.  REMARQUES LEGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de ce jeu n'est pas officiel et
+n'est pas supporté par RARE, TRADEWEST et Nintendo.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+Kazan

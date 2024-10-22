@@ -1,0 +1,24 @@
+***** Mystical Ninja Patch fr 0.9 par Happexamendios *****
+
+-LA PETITE HISTOIRE-
+
+Ce jeu sorti au Japon sous le nom de Gambarre Goemon (ou Goemon Fight) a connu pas moins
+de 3 suites la bas. Malheureusement, seul le 1er episode est sorti officielement en
+anglais sous le nom de Legend of the Mystical Ninja.
+Les autres jeux n'ont d'ailleurs pas été traduits en anglais par des groupes indépendants,
+du moins pas a ma connaissance. Trop japonnais peut etre?
+Moi en tout cas, j'adore!
+
+-TRADUCTION-
+
+A peu près 92% du texte est traduit.
+Pour utiliser le patch, utiliser Snestool ou Arkana.
+
+-MERCI-
+Je tiens a remercier tous les groupes de traduction pour leur fantastique travail
+et Sir Jaguar pour son site www.consolemul.com surement le meilleur site francais
+d émulation!
+Merci a Biglo aussi pour la font de la page d intro.
+Si vous avez des commentaires ou que vous pouvez m'aider a finir la traduction
+( et particulierement a trouver la 2eme font du jeu... ), merci d'envoyer un mail 
+a FlashPV@aol.com.

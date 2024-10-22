@@ -1,0 +1,127 @@
+TERMINUS TRADUCTION présente
+
+BREATH OF FIRE
+
+----------------------------------------------------------------
+*******************Table des matières******************
+----------------------------------------------------------------
+
+1.    L'HISTOIRE DU JEU
+2.      CONTENU DE L'ARCHIVE ET UTILISATION
+3.    LES PATCHS PUBLIES
+4.      TOUT CE QUI A ETE FAIT
+5.    L'ÉQUIPE DE LA TRADUCTION
+6.      CONTACTS
+7.    REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  L'HISTOIRE DE BREATH OF FIRE
+----------------------------------------------------------------
+
+Breath Of Fire est une série de RPGs signée Capcom qui a débuté
+sa carrière sur la fameuse Super NES. On compte à ce jour cinq
+volets, les 2 premiers étant sortis sur Snes (et réédités sur GBA),
+le 3 et le 4 sur Playstation et le 5 sur PS2.
+C'est donc le premier épisode qu'on vous propose aujourd'hui,
+en espérant que vous apprécierez cette traduction.
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir :
+
+BofFr.ips  - Le patch IPS de Breath Of Fire
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+(le Patcheur Terminus par exemple).
+Ce patch est à utiliser avec la rom Breath Of  Fire (U) [!].smc
+
+----------------------------------------------------------------
+3.  LES PATCHS PUBLIES
+----------------------------------------------------------------
+
+-Version Pré.Finale
+ Ajout d'un écran d'introduction
+ Traduction intégralement revue
+ Ajout de répliques manquantes (Ox à Prima) dans la version US
+ Traduction des monstres/objets manquants
+ Ajout de DTE dans la font
+ Nouveau hack des menus (bug avec l'ancien)
+ Correction du bug de transformation (merci ManZ)
+
+-Version Beta
+ Traduction complete du script
+ Traduction des sorts et objets
+ Expension de la rom de 1,5 à 2 Mo
+ Ajout d'accents dans la font
+
+----------------------------------------------------------------
+4.  TOUT CE QUI A ETE FAIT
+----------------------------------------------------------------
+
+Texte:        100 %
+Pointeurs:   100 %
+Menus:       100 %
+Graphismes:  50% (icones à modifier)
+
+Il reste quelques cadres qui seront agrandis pour la version
+finale et probablement des erreurs qui n'ont pas été décelées.
+
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+-Version Pré.finale:
+   FlashPV:   Chef du projet
+                                      Traduction et corrections
+                                      Hacking général
+   ManZ:       Hacking ASM
+
+-Version Beta:
+   Readiosys: Chef du projet
+		  Programmation du dumpeur
+		  Hacking général
+  Copernic:    Programmation du réinserteur
+		  Réinsertion et expand de la rom
+   Bahamut :  Traduction du Script	  
+   Ryusan:     Traduction des Menus/Objets
+
+----------------------------------------------------------------
+6.  CONTACTS
+----------------------------------------------------------------
+
+Une remarque, une question ou une correction à apporter à la
+traduction de BREATH OF FIRE.
+
+FlashPV - FlashPV@aol.com
+
+Vous voulez mieux connaître le groupe, télécharger nos derniers
+patchs ou vous renseigner sur un projet.
+
+Site Web - http://terminus.romhack.net
+
+----------------------------------------------------------------
+7.  REMARQUES LEGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de BREATH OF FIRE n'est pas
+officiel et n'est pas supporté par Capcom ou Nintendo.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+FlashPV

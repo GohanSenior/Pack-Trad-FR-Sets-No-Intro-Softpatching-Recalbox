@@ -1,0 +1,98 @@
+			Génération IX (http://generation9.kanshima.net) 
+				vous présente la traduction de
+				Dragon - The Bruce Lee Strory
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre	: Dragon - The Bruce Lee Strory
+Console	: Super Nintendo
+Développeur : Virgin Interactive
+Date	: Février 1995
+Genre	: Baston !!!
+
+
+\ ETAT DE LA TRADUCTION : Patch 1.0 créé le 17/03/2010
+ \_____________________________________________________ 
+
+
+Vous aimez les films d'arts martiaux des années 80-90 ?
+Vous adorez Bruce Lee et ses p'tits cris si caractéristiques ??
+Vous raffolez des mandales et des bourre-pifs assénés à une vitesse ahurissante ???
+Alors...
+Vous allez détester jouer à ce jeu !
+
+Pourtant, ça partait d'une bonne idée : adapter en jeu vidéo le film éponyme hommage au petit dragon
+aurait pu donner quelque chose de valable, mais on peut pas dire que le résultat soit à la hauteur!
+Le jeu n'est qu'une suite de combats en 1 contre 1 tirés de scènes de films plus ou moins connus de
+Bruce Lee, et c'est très très très vite casse-becs. La maniabilité n'est pas franchement au top et
+on peine pas mal à essayer de sortir un coup puissant parmi la maigre panoplie disponible.
+Certes, on peut activer un mode "nunchaku" et un autre genre "ultra-combat-de-la-mort-qui-tue-sa-mère",
+mais c'est assez injouable pour qu'on ne prenne même pas la peine d'essayer.
+Les adversaires sont plutôt ardus, et après avoir passé près d'une demi-heure dessus en activant
+l'invincibilité, je suis en mesure de confirmer ce qui est it dans les soluces sur Gamefaqs :
+LE BOSS DE FIN DE JEU EST INDESTRUCTIBLE !!
+
+Impossible pour moi de tester la scène de fin de jeu !!
+Ce jeu est donc terriblement frustrant, car après avoir galéré pour arriver au dernier adversaire, on
+ne peut tout simplement pas en venir à bout.
+
+A côté de ça, le jeu n'est pas trop désagréable à jouer et les graphismes entrent dans la catégorie
+du potable.
+
+
+Mention spéciale à la pub discrète au début du jeu ;p
+
+
+\ CODES DE TRICHE 
+ \________________
+
+Voici une fois de plus les codes Action Replay que j'ai dégotté pour ce p'tit jeu :
+
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Energie infinie		7E00D9		FF
+Temps infini		7E2082		9
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack 	  : Happexamendios
+Traduction: Happexamendios
+Bêta-Test : Happexamendios
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "SNES-Dragon-TheBruceLeestory-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Dragon - The Bruce Lee Story (E) [!].smc
+  Taille de la rom: 2 097 152 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 038212EA
+  CRC rom patchée : D32C96F4
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  BSnes          [ ]		SNes9X 1.51    [x]
+  Snes 9X 1.43   [ ]		Snes 9X 1.53   [x]
+  Snes 9x Geiger [ ]		Snes GT        [ ]
+  ZSnes          [x]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+Site Web : http://generation9.kanshima.net 
+Forum : http://www.bessab.com/viewforum.php?f=12 

@@ -1,0 +1,170 @@
+Final Fantasy 1 Traduction en Français 
+Version 2.98
+par Wild Ham (wildham@multimania.com)
+
+Pour les dernières traductions, allez sur mon site web:
+http://www.multimania.com/wildham/main.html
+
+
+1.Quoi de neuf?
+
+2.Jusqu`a maintenant...
+
+3.Il reste quoi?
+
+4.Comment utiliser l`IPS patch
+
+5.Autres traductons.
+
+6.Disclaimer
+
+-----------------------------------------------------------------
+
+1.Quoi de neuf?
+
+Version 2.98 (08/11/99)
+
+-Complètement retraduit le scripte, offrant une traduction plus fidèle
+ et avec moins de fautes d'orthographes.
+
+-Ajouté 6 lettres pour le noms des sorts.
+
+-Retraduit les objets, les classes, les monstres, les techniques des
+ monstres. Ils contiennet moins d'abréviations.
+
+----
+Version Finale 2.1 (01/05/98)
+
+-L`Intro est maintenant droite.
+
+-Quelque oublie comme GP et EXP à la fin des combats.
+
+----
+Version Finale 2.0 (12/07/97)
+
+-100% du script est traduis!
+
+-L`Intro est traduis à 100%!
+
+-La Fin est traduis à 100%!
+
+-Fixé le problème des points de suspension "..." ,des "é" et des "è"
+
+-Les Menus d`achats sont tous traduis.
+
+-Bref, tout est traduis à 100%
+
+Merci pour votre soutient, j`espère que cette traduction vous plait.
+Si il y a un autre jeu que vous souhaiteriez voir être traduis faites le
+moi savoir, je me ferais un plaisir de vous répondre!
+Merci encore,
+					
+					Wild Ham
+----
+
+Version 1.2 (11/30/97)
+
+-Les gens de Conneria et de Pravoka ainsi que d`autre 
+ personnages parlent français.
+
+-Fixé le problème des virgules, apostrophes et points.
+
+----
+
+Version 1.1 (11/22/97)
+
+-D`autres messages de combats sont traduis.
+
+-Fixer quelque parole au début, le prince de Elfland, son valet, 
+ Matoya, Astos, Bahamut et d`autres personnes parlent français.
+
+-D`autres notes d`Objets et de Magies sont traduis.
+
+-Un peu plus dans les fenêtres d`achats.
+
+----
+Version 1.0 (09/12/97)
+
+-Première sortie!
+
+-La pluspart des Monstres,Objets et Magies.(95%)
+
+-Le menu et les Commandes de combat.(99%)
+
+-Les messages pendant les combats (50%)
+
+-Le texte (5%)
+
+----------------------------------------------------------
+2.Jusqu`a maintenant...
+
+-Les Monstres,Objets et Magies.100%
+
+-Le menu et les Commandes de combat.100%
+
+-Les messages pendant les combats 100%
+
+-Le texte 100%
+
+-La fenêtre de boutiques 100%
+
+-L`Intro 100% (et droite maintenant!)
+
+-La Fin 100%
+---------------------------------------------------------
+
+3.Il reste quoi?
+
+-Fixer un bug qui cause la "Main Pointeuse" à ne pas pointer
+ correctement les sorts.
+
+-Fixer un bug qui fait disparaitre le nombre de MP quand il y a 3 sorts
+ en combat.
+
+-Traduire quelque lettres (ex: le "L" pour "Level" dans le menu.)
+
+---------------------------------------------------------
+
+4.Comment utiliser l`IPS patch
+
+Premièrement unzippez tous les fichiers dans le même dossier 
+(Assurez-vous que le ROM Final fantasy 1 est dans le même répertoire 
+et sous le nom de ff1.nes).
+
+Après, actionnez (Double-click) le fichiers ff1f.bat, lorsque c`est 
+finis vous devriez trouvez le fichiers ff1f.nes
+
+Maintenant, plus qu`a l`utiliser sur votre émulateur favoris.
+
+--------------------------------------------------------------------
+
+5. Traductions aussi disponible chez le même traducteur:
+
+-Final Fantasy II (SNES) Version 1.7
+
+-Zelda II: The Adventure of Link (NES) Version 1.1 Finale
+
+-Dragon Warrior (NES) Version 1.0 Finale
+
+
+Fait par d`autres traducteurs:
+
+-Phantasy Star III (Sega/Genesis)
+
+-Arcana (SNES) Terminus Translation
+
+-Mega Man X (SNES) Terminus Translation
+
+...et plus de 35 autres traductions!
+
+
+À venir:
+
+-Final Fantasy V (SNES) Final Translation
+
+-Crystalis (NES) Pack & Wild Ham
+
+---------------------------------------------------------------------
+
+6. Wild Ham et ©TRAF ne sont aucunement affiliés avec SQUARESOFT et NINTENDO
+   Le nom Final Fantasy et tous ses dérivés sont du Copyright de SQUARESOFT.

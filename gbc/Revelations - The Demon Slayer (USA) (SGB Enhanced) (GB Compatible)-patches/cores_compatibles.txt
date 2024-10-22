@@ -1,0 +1,10 @@
+Ce patch ne fonctionne pas avec tout les cores.
+
+cores compatibles:
+
+	- Libretro Mesen_S
+
+	- Libretro mGBA
+
+	- Libretro TGB Dual
+

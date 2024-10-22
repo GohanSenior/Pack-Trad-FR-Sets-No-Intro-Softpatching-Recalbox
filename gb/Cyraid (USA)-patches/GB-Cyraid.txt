@@ -1,0 +1,118 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                                Cyraid
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Cyraid
+Console		: Game Boy
+Développeur	: EPOCH Co.,Ltd.
+Editeur		: Nexoft
+Date		: Mars 1991
+Genre		: Action / réflexion / esquive...
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 14/10/2015) :
+\_________________________________________________________________
+
+Cela faisait plusieurs fois que je lançais ce jeu sans aller plus
+loin que le premier niveau, et c'est en ce jour pluvieux d'octobre
+que je décidais de me pencher dessus.
+
+Cyraid est un petit jeu sympa où l'on incarne un héros parmi deux
+(Walther ou Francis) qui devra parcourir de nombreux niveaux
+afin de sauver sa belle enlevée par un malfrat local...
+
+Chaque tableau comporte des blocs, des échelles, des monstres
+et des capsules d'énergie qu'il faudra collecter afin d'accéder
+au niveau suivant.
+
+Dit comme ça, ça paraît simple, mais le concept du jeu repose
+sur la seule capacité du héros : le coup de pied violent à faire
+pâlir Olive & Tom.
+
+Chaque niveau est parsemé de blocs et d'échelles dans lesquelles
+il faudra shooter pour les expédier dans tous les sens (sauf pour
+les échelles qui ne peuvent être déplacées qu'horizontalement).
+Dès qu'une échelle arrive au dessus (ou au dessous) d'un autre
+morceau d'échelle, on obtient une échelle plus haute qu'on peut
+encore déplacer, et ainsi de suite.
+
+Les ennemis quant à eux ne meurrent que si on leur expédie
+un bloc ou une échelle sur le coin du museau.
+
+La principale difficulté du jeu consiste à bien utiliser
+le coup de pied (bouton A + une flèche de direction) et
+surtout à bien manoeuvrer les échelles afin d'avancer
+correctement dans les tableaux, ce qui demande un petit
+temps d'adaptation.
+
+Les graphismes sont moyens mais lisibles, ce qui est essentiel
+pour un jeu de ce genre ; et le personnage répond bien aux
+commandes.
+
+
+La traduction s'est faite en à peine 5 heures. Le script est
+assez pauvre et j'espérais mieux, mais le test était beaucoup
+plus long que prévu car le jeu est ardu. Heureusement, un p'tit
+code qui va bien permet de terminer les niveaux rapidement :p
+
+Pour ma part, j'ai bien aimé y jouer, et malgré sa difficulté
+et sa prise en main particulière, le jeu est sympa et mérite
+d'être essayé.
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Vies infinies          0xC67D          09
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Cyraid.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Cyraid (U) [!].gb
+  Taille de la rom: 65 536 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 9D00DA55
+  CRC rom patchée : C35F3CF7
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  BgB    [x]		GBEmul [ ]
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

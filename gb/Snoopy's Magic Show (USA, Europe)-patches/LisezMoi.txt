@@ -1,0 +1,60 @@
+Snoopy - Magic Show (Game Boy)
+Traduction en Français v1.0 (13/02/2021)
+
+Ceci est ma première traduction
+
+------------------------
+Genre: puzzle game
+------------------------
+Snoopy's Magic Show est un Puzzle-Game sur Gameboy qui vous fait incarner Snoopy, 
+le célèbre chien.
+
+------------------------
+CONTENU DE L'ARCHIVE ET UTILISATION
+------------------------
+Normalement, l'archive ZIP doit contenir:
+SnoopyGbFr.ips - Le patch IPS de Snoopy's Magic Show
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+comme LumarIPS.
+Ce patch est à utiliser avec la rom
+Snoopy - Magic Show (USA, Europe).gb
+MD5: 8a06994b2e265244147a4d6d0e80623f
+SHA1: bc21fb3aa1a58e2aef30fabe103b2e5bec02b535
+CRC32: 2b7a5034
+65536 bytes
+
+--------
+TRADUCTION
+--------
+Yoda07: texte, GFX
+
+----------------------------------------------------------------
+CONTACTS
+----------------------------------------------------------------
+Une remarque, une question ou une correction à apporter à la
+traduction de Snoopy - Magic Show.
+
+Yoda07 - juin-2010@hotmail.fr
+
+----------------------------------------------------------------
+REMARQUES LEGALES
+----------------------------------------------------------------
+Le patch de traduction française de Snoopy - Magic Show n'est
+pas officiel et n'est pas supporté par Kemco ou Nintendo.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !

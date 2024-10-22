@@ -1,0 +1,72 @@
+
+http://generation9.kanshima.net/
+
+Traducteur	: KS151
+Romhackeur	: KS151
+Jeu :
+	GHOST N GOBLINS
+	
+\ Message :
+ \__________
+
+	Certainement l'un des jeux les plus difficiles de la nes même
+	avec les continus infinis c'est mission impossible. Mais 
+	avec de l'acharnement et beaucoup, beaucoup de patience...
+	Vous pourrez peut-être voir les deux fins de ce jeu ! C'est
+	typiquement un jeu d'arcade fait pour durer et promis; vous 
+	allez morfler !
+
+	Tout ça à cause de votre dulcinée qui se fait capturer par 
+	Satan ( Quelle gourde ! ) Bref, c'est un jeu d'action et de 
+	plateforme qui vous emmènera à travers 7 mondes plus 
+	dangereux les uns des autres...
+
+	Bon courage ...
+
+\ Caractéristiques du jeu :
+ \_________________________
+ 
+	Nombre de joueurs : 2 (en alternance)
+	Style : Plates-formes/Action
+	Note : 02/20 (pour les glands) et 18/20 (pour les puristes ^^)
+
+\ Le patch :
+ \__________
+	Version 1.00
+
+\ Traduction :
+ \___________
+	de l'anglais au français au stade de 99% (le titre du jeu 
+	n'est pas traduit). Beta-test nikel sous Nestopia et 
+	Virtua Nes. Peu de texte à traduire mais peu d'espaces ^^
+	A noter que c'est ma deuxième traduction !
+	
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "NES-GhostsnGoblins-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Ghosts 'N Goblins (U) [!].nes
+  Taille de la rom: 131 088 octets sans le header
+  Rom avec Header ? Non
+  CRC de la rom   : B4E4879E
+  CRC rom patchée : 345DF273
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+\ CONTACTS :
+ \__________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12	
+	
+	

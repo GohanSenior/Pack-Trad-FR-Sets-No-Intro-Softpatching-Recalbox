@@ -1,0 +1,72 @@
+Super Adventure Island II
+Patch de traduction Française.
+
+
+Fichier ips à appliquer sur la Rom :
+
+Super Adventure Island II (U) [!].smc
+
+Name: S ADVENTURE ISLAND2
+Speed: 31/FastROM
+ROM Map: HiROM
+Type: 02
+Kart contents: ROM+RAM+BAT
+Header ROM Size: 16Mbits
+Calculated ROM Size: 12 Mbits
+SRAM size: 64Kbits (64Kbit)
+Actual Checksum: 3CE3
+Header Checksum: 3CE3
+Header Checksum Compliment: C31C
+Output: NTSC 60Hz
+CRC32:	52FE16FD
+Licensee: Pal Soft
+ROM Version: 1.0
+Region: USA/Canada
+
+Script     : 100 %
+Graphismes : 96 % <---- le Tile " PUSH START " n'est pas traduit.
+Titre      : 100 %
+Crédits    : 100 %
+
+Hacking : 4PH
+Traducteur : MOnsieurL
+Testeur et correcteur : Chomel
+Merci à eux.
+----------------------------------------------------------------
+
+T.R.A.F. : http://traf.romhack.org
+
+Pour toutes remarques concernant un probable bug, des fautes d'orthographes
+ou autre, veuillez poster un message à cette adresse :
+
+http://www.romhack.org (Pseudo : 4ph)
+
+----------------------------------------------------------------
+ Remarques légales.
+----------------------------------------------------------------
+
+Le patch de traduction française de " Super Adventure Island II " 
+n'est pas officiel et n'est aucunement supporté par Nintendo.
+
+CE PATCH EST GRATUIT ET NE PEUT EN AUCUN CAS ETRE VENDU SOUS N'IMPORTE QUELQUE FORME!!!
+
+Il peut être distribué gratuitement tant qu'il n'est pas modifié et que l'archive originale 
+n'est pas modifiée non plus. 
+Aucunes ventes, biens ou services ne peuvent être demandés pour ce patch, dans sa forme originale 
+ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres risques.
+Aucunes personnes citées dans cette documentation ne pourront êtres responsables de quelques
+dommages provenant de son usage.
+
+----------------------------------------------------------------------
+
+J'espère que vous aimerez cette traduction, autant que j'ai eu plaisir à la faire. 
+
+Merci d'avoir lu ce "LisezMoi" jusqu'au bout.
+
+4ph
+
+#------------#
+# 15.05.2024 #
+#------------#

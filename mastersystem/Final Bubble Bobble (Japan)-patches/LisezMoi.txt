@@ -1,0 +1,97 @@
+TERMINUS TRADUCTION  présente
+
+FINAL BUBBLE BOBBLE
+----------------------------------------------------------------
+*******************Table des matières******************
+----------------------------------------------------------------
+
+1.    L'HISTOIRE DU JEU
+2.      CONTENU DE L'ARCHIVE ET UTILISATION
+3.    LES PATCHS PUBLIES
+4.      TOUT CE QUI A ETE FAIT
+5.    L'ÉQUIPE DE LA TRADUCTION
+6.      CONTACTS
+7.    REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  L'HISTOIRE DE FINAL BUBBLE BOBBLE
+----------------------------------------------------------------
+
+On ne présente plus Bubble Bobble, un des plus grands classiques
+de l'arcade mais une de ses meilleures adaptations n'est pas la
+version la plus connue, cette version Master System est non
+seulement la plus proche de l'arcade mais se paie le luxe de
+proposer le double de niveau, soit 200 !
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir:
+FinalBubbleBobbleFr.ips  - Le patch IPS de Final Bubble Bobble
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+supportant le format IPS (patcheur Terminus exemple).
+Ce patch est à utiliser avec la Rom NO-INTRO
+Final Bubble Bobble (Japan).zip
+
+----------------------------------------------------------------
+3.  LES PATCHS PUBLIES
+----------------------------------------------------------------
+
+-V1.00
+Traduction complète
+
+----------------------------------------------------------------
+4.  TOUT CE QUI A ETE FAIT
+----------------------------------------------------------------
+
+Script    :   100 %
+Pointeurs :   100 %
+Graphismes:   100 %
+ 
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+FlashPV : Hacking, Traduction
+Basé sur la traduction anglaise de Rainwarrior
+
+----------------------------------------------------------------
+6.  CONTACTS
+----------------------------------------------------------------
+
+Une remarque, une question ou une correction à apporter à la
+traduction de Final Bubble Bobble
+
+FlashPV - FlashPV@aol.com
+
+Vous voulez mieux connaître le groupe, télécharger nos derniers
+patchs ou vous renseigner sur un projet.
+
+Site Web - http://terminus.romhack.net
+
+----------------------------------------------------------------
+7.  REMARQUES LEGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de Final Bubble Bobble n'est pas
+officiel et n'est pas supporté par Sega ou Taito.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+FlashPV

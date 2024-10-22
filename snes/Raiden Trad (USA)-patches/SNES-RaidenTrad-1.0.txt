@@ -1,0 +1,60 @@
+				Génération IX (http://generation9.kanshima.net)
+
+			 	  vous présente la traduction de Raiden Trad
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre : Raiden Trad
+Console : Super Nintendo
+Développeur : Nintendo
+Genre : Shoot em'up
+
+
+\ ETAT DE LA TRADUCTION : Patch bêta le 25/11/2004
+ \__________________________________________________
+
+
+Normalement tout est traduit mais si un oubli persiste, prévenez moi.
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack : Si on peut appeler ça un hack... Ben moi
+Traduction : Alb_a_tort
+Bêta-Test : Alb_a_tort
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "SNES-RaidenTrad-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Raiden Trad (U) [!].smc
+  Taille de la rom: 1 048 576 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 02CE6C96
+  CRC rom patchée : 5D7CF944
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  BSnes          [ ]		SNes9X 1.51    [x]
+  Snes 9X 1.43   [ ]		Snes 9X 1.53   [x]
+  Snes 9x Geiger [ ]		Snes GT        [ ]
+  ZSnes          [ ]
+
+
+\ REMERCIEMENTS 
+ \______________ 
+
+GreatSkaori : Pour la correction des fautes d'orthographes.
+Jes : Qui par l'intermédiaire de GreatSkaori m'a permis de modifier la font.
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum : http://www.bessab.com/viewforum.php?f=12
+Traduction : Greatskaori (ptimarc56@hotmail.com)

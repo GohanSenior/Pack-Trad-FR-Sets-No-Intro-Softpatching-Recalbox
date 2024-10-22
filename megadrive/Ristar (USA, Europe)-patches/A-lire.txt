@@ -1,0 +1,145 @@
+||||||||    ||            ||||    ||      ||  ||||||||||  ||||||||
+||      ||  ||          ||    ||    ||  ||    ||          ||      ||
+||      ||  ||          ||    ||    ||  ||    ||          ||      ||
+||||||||    ||          ||||||||      ||      ||||||||    ||||||||
+||          ||          ||    ||      ||      ||          ||    ||
+||          ||          ||    ||      ||      ||          ||    ||
+||          ||||||||||  ||    ||      ||      ||||||||||  ||      ||
+
+
+            ||||||||||   ||||||   ||      ||  |||||||||| 
+                ||         ||     ||||  ||||  ||
+                ||         ||     ||  ||  ||  ||
+                ||         ||     ||      ||  ||||||||
+                ||         ||     ||      ||  ||
+                ||         ||     ||      ||  ||
+                ||       ||||||   ||      ||  ||||||||||
+
+
+Player Time présente
+
+Ristar v1.0
+
+----------------------------------------------------------------------------------------------
+********************************Table des matières********************************
+----------------------------------------------------------------------------------------------
+
+1.    L'HISTOIRE DU JEU
+2.      CONTENU DE L'ARCHIVE ET UTILISATION
+3.    LES PATCHS PUBLIES
+4.      TOUT CE QUI A ETE FAIT
+5.    L'ÉQUIPE DE LA TRADUCTION
+6.      CE QUI RESTE A FAIRE
+7.    REMARQUES LEGALES
+
+----------------------------------------------------------------------------------------------
+1.  HISTOIRE DE RISTAR
+----------------------------------------------------------------------------------------------
+
+Sauvez le système solaire !
+
+Dans une lointaine galaxie se trouve un système solaire aux planètes mystérieuses et aux 
+créatures sympathiques. Depuis des millénaires la paix régnait, mais aujourd'hui tout est 
+boulerversé.
+
+Le pirate spatial Greedy, chef tyrannique d'une armée spatiale malfaisante, a décidé de
+s'emparer de ce système solaire pour y installer l'état-major de son armée grandissante.
+Son projet est diabolique : soumettre les chefs de chaque planète à un lavage de cerveau et 
+les forcer à lui obéir. Même le héros légendaire du système solaire a été capturé. Il est
+maintenant aux mains de Greedy.
+
+La planète Flora, désespérée,a lancé un dernier appel au secours. Ristar, le fils du héros
+spatial captif, l'a entendu. Bien que jeune et inexpérimenté, Ristar est courageux et 
+audacieux. Il est le seul espoir du système solaire. Ristar devra voyager de planète en
+planète pour libérer les chefs prisonniers et finalement vaincre Greedy. Si le jeune Ristar
+réussit, son système solaire natal retrouvera la paix, et son père sera libéré.
+
+(information officiel de la notice de Ristar version européenne)
+
+----------------------------------------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------------------------------------
+
+L'archive ZIP doit contenir :
+
+[MD] Ristar (FR)(v1.0).ips  - Le patch IPS de Ristar
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, vous pouvez utiliser LunarIPS ou Floating IPS.
+
+ROM utilisée:
+
+Ristar (USA).md
+
+Size: 2097152
+CRC32: 6511AA61
+MD5: ecf9d0bac130fed7b6a54a67d7b27df7
+SHA-1: 1D15FF596DD4F3B2C1212A2E0C6E2B72F62C001E
+
+
+----------------------------------------------------------------------------------------------
+3.  PATCH PUBLIÉ
+----------------------------------------------------------------------------------------------
+-Version 1.0
+Traduction initial
+
+----------------------------------------------------------------------------------------------
+4.  CE QUI A ÉTÉ FAIT
+----------------------------------------------------------------------------------------------
+
+- Script    : 100 %
+- Ajout du nom des objet qu'on récupére lors des Bonus Stage qu'on cela fut le cas dans la version Japonaise
+- Ajout de plusieurs cheat code qui été présent dans la version japonaise :
+	MAGURO	Mode Onchi Music et musique du crédit dans le test sonore.
+	CANDY	Invincibilité
+	ILOVEU	Sélection d'étape
+	MIEMIE	Les points de saisie des objets cachés sont indiqués par une étoile bleue.
+	AAAAAA	Pas de limite de continue
+	MUSEUM	Mode Boss Rush
+	DOFEEL	Mode contre-la-montre
+	STAR	Une étoile filante traverse l’arrière-plan.
+	VALDI	Montre le système solaire.
+	HETAP	Inverse le meilleur score en mode démo.
+	AGES	Les informations de droit d'auteur s'affichent.
+	XXXXXX	Efface/Désactive le mot de passe actuel.
+	MACCHA	Mentionne la couleur Miyake
+	PLAYER	Combinaison de ILOVEU,MIEMIE,CANDY, actifs tous à la fois "Player comme Player Time ;-)"
+
+
+
+
+----------------------------------------------------------------------------------------------
+5.  ÉQUIPE DE TRADUCTION
+----------------------------------------------------------------------------------------------
+
+Player Time - Hacking, Traduction et Test
+
+----------------------------------------------------------------------------------------------
+6.  CE QUI N'A PAS ÉTÉ FAIT
+----------------------------------------------------------------------------------------------
+- Crédit (tout le monde s'en fout)
+- Sound Test
+
+----------------------------------------------------------------------------------------------
+Notes et Bugs connus
+----------------------------------------------------------------------------------------------
+Normalement aucun.
+si vous rencontrez un bug, vous pouvez me contacter sur le Forum de la Traf.
+
+----------------------------------------------------------------------------------------------
+7.  REMARQUES LEGALES
+----------------------------------------------------------------------------------------------
+
+Le patch de traduction française de Ristar n'est pas
+officiel et n'est pas supporté par Sega.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.

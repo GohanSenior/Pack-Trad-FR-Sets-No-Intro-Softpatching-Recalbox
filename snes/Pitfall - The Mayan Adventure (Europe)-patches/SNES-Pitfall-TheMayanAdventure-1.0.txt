@@ -1,0 +1,105 @@
+			Génération IX (http://generation9.kanshima.net) 
+				vous présente la traduction de 
+				 Pitfall - The mayan adventure
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre	: Pitfall - The mayan adventure
+Console	: Super Nintendo
+Développeur : Redline Games
+Editeur : Activision
+Date	: Novembre 1994
+Genre	: plates-formes
+
+
+\ ETAT DE LA TRADUCTION : patch V1.0 créé le 19/03/2011 
+ \______________________________________________________ 
+
+Cela faisait un moment que je ne m'étais pas fait un p'tit jeu rapide, et les projets que j'avais
+entamés ne me motivant plus trop pour le moment, j'ai choisi de m'atteler à ce grand
+classique vidéo ludique, j'ai nommé Pitfall.
+
+En fait, j'avais déjà entamé la traduction de ce jeu il y a déjà bien longtemps, et le projet
+est resté à l'état larvaire sur un de mes vieux disques durs. Par flemme de retrouver et
+rebrancher le disque en question, j'ai opté pour le refaire "from scratch" comme on dit.
+
+Après quelques heures, voici donc le patch de ce jeu qui est la suite directe
+du vénérable Pitfall sorti sur Atari 2600.
+
+Vous incarnez ici le fils du héros du premier Pitfall qui doit sauver son père enlevé
+par un sorcier maya lors de fouilles. Votre quête vous conduira par delà des forêts
+sauvages, à travers des temples oubliés des hommes et des ruines infestées de créatures
+qui n'auront de cesse de se jeter sur vous.
+
+Le jeu est assez difficile et l'absence de codes (dont j'ai pu voir un embryon dans la rom
+mais qui n'ont visiblement pas été implémentés) n'arrangent pas les choses, mais on peut
+trouver facilement des vies et de quoi engranger des continues.
+
+Les graphismes sont à la hauteur de la Super Nes et les musiques ne sont pas mal.
+La jouabilité quant à elle, est un peu limite et il arrive régulièrement qu'on se fasse
+toucher parce qu'on a voulu sauter en lançant un truc et que le jeu n'ait pas "autorisé"
+le saut...
+
+Bref, c'est un bon p'tit jeu qui aurait gagné à être plus simple et plus maniable, mais
+l'ambiance est vraiment sympa. A noter qu'il y a des petits bonus secrets qui permettent
+de jouer au premier Pitfall.
+
+Mention spéciale pour le père du héros qu'on voit à la fin du jeu ;)
+
+
+La traduction du jeu est quasi-complète, il ne reste que le "start" de l'écran titre
+et le "get ready" qui apparaît avant les boss qui ne sont pas changés car il s'agit
+de graphismes et ça posait problème à la retouche. Peut-être pour une prochaine version
+du patch, qui sait? 
+
+
+\ CODES DE TRICHE 
+ \________________
+
+Voici une fois de plus un code Action Replay que j'ai dégotté pour ce p'tit jeu :
+
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Energie infinie		7E10C1		70
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack 	  : Happexamendios
+Traduction: Happexamendios
+Bêta-Test : Happexamendios
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Le patch "SNES-Pitfall-TheMayanAdventure-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Pitfall - The Mayan Adventure (E) [!].smc
+  Taille de la rom: 2 097 152 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 7E9BC944
+  CRC rom patchée : AB8B2D80
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  BSnes          [ ]		SNes9X 1.51    [x]
+  Snes 9X 1.43   [ ]		Snes 9X 1.53   [x]
+  Snes 9x Geiger [ ]		Snes GT        [ ]
+  ZSnes          [ ]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher. 
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils 
+peuvent créer une sauvegarde de la rom avant de patcher). 
+Voilà maintenant votre rom avec les modifications apportées par notre traduction. 
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+Site Web : http://generation9.kanshima.net 
+Forum : http://www.bessab.com/viewforum.php?f=12 

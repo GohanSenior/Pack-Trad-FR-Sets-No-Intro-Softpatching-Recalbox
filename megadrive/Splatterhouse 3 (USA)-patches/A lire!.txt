@@ -1,0 +1,80 @@
+RGAlucania présente
+
+SplatterHouse 3 (Megadrive)
+
+----------------------------------------------------------------------------------------------
+********************************Table des matières********************************
+----------------------------------------------------------------------------------------------
+
+1.    L'HISTOIRE DU JEU
+2.      CONTENU DE L'ARCHIVE ET UTILISATION
+3.    LES PATCHS PUBLIES
+4.      TOUT CE QUI A ETE FAIT
+5.    L'ÉQUIPE DE LA TRADUCTION
+6.      CE QUI RESTE A FAIRE
+7.    REMARQUES LEGALES
+
+----------------------------------------------------------------------------------------------
+1.  L'HISTOIRE DE SplatterHouse 3
+----------------------------------------------------------------------------------------------
+
+Une entité maléfique nommée "The Evil One" a kidnappé la femme et le fils de Rick et ce dernier n'a donc plus le choix : il doit à nouveau porter le masque du démon qui le transforme en tueur sanguinaire. Le joueur devra se débarrasser de nombreux ennemis à travers les six niveaux que compte le jeu. Il est possible de ramasser des bonus ainsi que des armes en cours de route afin d'affronter les redoutables boss.
+
+----------------------------------------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir :
+
+[MD] SplatterHouse 3 (v0.95).ips  - Le patch IPS de Désert Strike
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un le Patcheur Lunar IPS
+Ce patch est à utiliser avec la rom Splatterhouse 3 (USA).md
+
+Size:1048576
+CRC32:00F05D07
+MD5:8c2a9b15ba24b611c895efd49c175ebe
+SHA-1:7F29F00EC724E20CB93907F1E33AC4AF16879827
+
+
+----------------------------------------------------------------------------------------------
+3.  LES PATCHS PUBLIES
+----------------------------------------------------------------------------------------------
+-Version 0.95
+
+----------------------------------------------------------------------------------------------
+4.  TOUT CE QUI A ETE FAIT
+----------------------------------------------------------------------------------------------
+
+Script    : 95 %
+Graphismes: 0 %
+
+----------------------------------------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------------------------------------
+
+   RGAlucania (Alias Alucard73): Traduction et correction
+   Player Time: Hack et Traduction
+----------------------------------------------------------------------------------------------
+6.  CE QUI RESTE A FAIRE
+----------------------------------------------------------------------------------------------
+- Les accents (non trouvé)
+- Certains mots (LEVEL, Retry, Password) que j'ai pas trouve le pointeur
+----------------------------------------------------------------------------------------------
+7.  REMARQUES LEGALES
+----------------------------------------------------------------------------------------------
+
+Le patch de traduction française de SplatterHouse 3 n'est pas
+officiel et n'est pas supporté par Sega ou Namco.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.

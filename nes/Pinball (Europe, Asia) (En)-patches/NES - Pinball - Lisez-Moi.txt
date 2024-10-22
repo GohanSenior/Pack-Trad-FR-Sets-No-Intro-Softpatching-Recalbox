@@ -1,0 +1,67 @@
+------------------------------------------------
+
+Génération IX (http://generation9.kanshima.net) 
+vous présente la traduction de Pinball. 
+
+------------------------------------------------
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre : CRISIS FORCE 
+Console : Nes 
+Développeur : Nintendo
+Date : 1983
+Genre : Flipper
+Date Traduction : 3/11/04
+Rom Traduite : Pinball (E) [!]
+
+\ DESCRIPTION
+ \_______________________________ 
+
+Oui je sais ... encore un jeu que tout le monde connaît mais celui-ci
+a une saveur un peu particulière dans le sens où c'est l'un des tous 
+premiers jeux sortis sur ma petite 8 bits préférée. 
+
+Le jeu est on ne peut plus simple mais j'y suis resté scotché plus de 3
+heures ... bah c'est assez sympa de jouer avec des pingouins :).
+
+Encore une fois ce n'est pas un must mais énormement de Nostalgie ... 
+
+
+\ ETAT DE LA TRADUCTION : Patch Final 
+ \___________________________________ 
+
+Tout a normalement été traduit. 
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack : KS151 
+Traduction : KS151 
+Bêta-Test : ColibriAlpha 
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Il vous faut en tout premier lieu la rom et la bonne ! Pour cette traduction, il s'agit de la 
+version européenne : Pinball (E) [!]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher. 
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils 
+peuvent créer une sauvegarde de la rom avant de patcher). 
+Voilà maintenant votre rom avec les modifications apportées par notre traduction. 
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+
+Forum : http://www.bessab.com/viewforum.php?f=12 
+Hack & Traduction : ks151@msn.com
+Site Web : http://generation9.kanshima.net 

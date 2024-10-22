@@ -1,0 +1,99 @@
+TERMINUS TRADUCTION présente
+
+F-ZERO
+----------------------------------------------------------------
+*******************Table des matières******************
+----------------------------------------------------------------
+
+1.    L'HISTOIRE DU JEU
+2.      CONTENU DE L'ARCHIVE ET UTILISATION
+3.    LES PATCHS PUBLIES
+4.      TOUT CE QUI A ETE FAIT
+5.    L'ÉQUIPE DE LA TRADUCTION
+6.      CONTACTS
+7.    REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  L'HISTOIRE DE F-ZERO
+----------------------------------------------------------------
+
+Ancêtre des jeux de course anti-grav et 1er opus d'une série de
+très bons jeux, F-Zero a servi de vitrine technologique pour le
+fameux mode 7 de la Super NES, ayant été un des jeux disponibles
+au lancement de la machine en 1990.
+Mais le titre possède aussi une maniabilité impeccable et des
+musiques prenantes, il est d'ailleurs souvent classé parmi les
+meilleurs jeux de la Super Nintendo.
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir
+F-ZeroFr.ips  - Le patch IPS de F-Zero
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+(le Patcheur Terminus par exemple).
+Ce patch est à utiliser avec la rom F-Zero (USA).sfc
+
+----------------------------------------------------------------
+3.  LES PATCHS PUBLIES
+----------------------------------------------------------------
+
+-V1.00
+Traduction complète
+
+----------------------------------------------------------------
+4.  TOUT CE QUI A ETE FAIT
+----------------------------------------------------------------
+
+Script    :    99 % (manque juste un "N" à "NON" sur un menu)
+Pointeurs:    100 %
+Graphismes:   100 %
+
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+FlashPV : Hacking, Traduction
+Killy: Bêta-test
+Bahabulle: petit coup de pouce bien utile :)
+
+----------------------------------------------------------------
+6.  CONTACTS
+----------------------------------------------------------------
+
+Une remarque, une question ou une correction à apporter à la
+traduction de F-Zero.
+
+FlashPV - FlashPV@aol.com
+
+Vous voulez mieux connaître le groupe, télécharger nos derniers
+patchs ou vous renseigner sur un projet.
+
+Site Web - http://terminus.romhack.net
+
+----------------------------------------------------------------
+7.  REMARQUES LEGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de F-Zero n'est pas officiel et
+n'est pas supporté par Nintendo..
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+FlashPV

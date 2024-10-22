@@ -1,0 +1,22 @@
+================================================================
+[PATCH FR] Indy Racing 2000 (Nintendo 64)
+Par BFrancois
+http://www.emulation64.fr
+----------------------------------------------------------------
+Version : 1.0 (du 28/12/2010)
+================================================================
+
+Traduction française du Jeu.
+Tout a été traduit, sauf les crédits.
+
+Pour appliquer le Patch :
+- Lancer Lunar IPS
+- Cliquer sur "Apply IPS Patch"
+- Sélectionner le patch puis la Rom à patcher
+
+Ce patch est à utiliser avec la rom : Indy Racing 2000 (U) [!]
+
+Merci à Corrigo et à Magnio pour leur aide !
+
+
+Amusez-vous bien ;)

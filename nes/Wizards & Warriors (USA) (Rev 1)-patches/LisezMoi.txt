@@ -1,0 +1,47 @@
+WIZARDS & WARRIORS v1.0 
+
+Cette traduction a été faite par des personnes indépendantes.
+
+
+
+Résumé du ROMhacking
+--------------------
+
+Infos sur le jeu
+____________________________________________________________________
+Console : NES
+Etat de la traduction : 100%
+Date de sortie du patch : 3 février 2008
+Version de la ROM originale : Wizards & Warriors (U) (PRG0) [!].nes
+CRC32 de la ROM originale : A0F0FF4A
+____________________________________________________________________
+
+
+Infos sur le projet
+____________________________________________________________________
+Hackeur :             Soprano
+Traducteur :          Soprano
+Edition Graphique :   Soprano, Dante				
+Relecture:            Soprano
+Bêta Testeur :        Soprano, Dante
+Aide supplémentaire : Ti Dragon
+Bons conseils :       Loki, BahaBulle
+
+Remarque : j'ai dû raccourcir certains mots par manque de place. Ce
+n'est pas très joli. Désolé.
+____________________________________________________________________
+
+Si vous rencontrez des erreurs ou des fautes, merci de me contacter
+à cette adresse e-mail : iam113@hotmail.fr
+
+Je remercie Loki, Dante, BahaBulle et Ti Dragon pour leur aide.
+
+Et aussi, je remercie la T.R.A.F qui, grâce à leur tuto, m'ont
+permis d'apprendre ce que je sais du ROMhacking.
+
+
+P.S.: C'est mon premier projet ^^
+
+
+Soprano
+ 

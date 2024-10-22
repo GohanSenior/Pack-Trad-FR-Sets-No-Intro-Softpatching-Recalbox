@@ -1,0 +1,131 @@
+TERMINUS TRADUCTION présente
+
+ATOMIC RUNNER V1.00
+
+----------------------------------------------------------------
+***********************Table des matières***********************
+----------------------------------------------------------------
+
+1.	L'HISTOIRE DU JEU
+2.      CONTENU DE L'ARCHIVE ET UTILISATION
+3.      LES PATCHS PUBLIES
+4.	TOUT CE QUI A ETE FAIT
+5.	L'ÉQUIPE DE TERMINUS TRADUCTION
+6.      CONTACTS
+7.      AUTRES PROJETS
+8.	REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  L'HISTOIRE D'ATOMIC RUNNER
+----------------------------------------------------------------
+
+Atomic Runner est un jeu d'arcade de Data East sorti en 1988 sous
+le nom Chelnov - Atomic Runner. L'adaptation sur Mégadrive varrie
+quelque peu mais le jeu reste globalement le même. A noter que les
+graphismes sont plus fins sur la console qu'en arcade surtout au
+niveau des décors de fond avec souvent des scrollings parallaxes
+que ne possedait pas la borne. Le scénario du jeu est un des plus
+nazes que je connaisse, des envahisseurs qui tuent le père du héro
+et enlèvent sa soeur, c'est pas vraiment crédible...
+Enfin, en tout cas c'est un bon petit jeu que moi j'aime bien et
+que j'avais à l'époque.
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir :
+
+AtomicFr.ips  - Le patch IPS d'Atomic Runner
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+(le Patcheur Terminus par exemple).
+Ce patch est à utiliser avec la ROM européenne au format .bin.
+
+----------------------------------------------------------------
+3.  LES PATCHS PUBLIES
+----------------------------------------------------------------
+
+V1.00
+Traduction complete :-)
+
+----------------------------------------------------------------
+4.  TOUT CE QUI A ETE FAIT
+----------------------------------------------------------------
+
+Script    : 100 %
+Menu      : 100 %
+Crédits   : 100 %
+
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+   FlashPV : Tout
+		    
+----------------------------------------------------------------
+6.  CONTACTS
+----------------------------------------------------------------
+
+Vous avez envie de faire partie d'un projet en cours ou de
+lancer un nouveau projet dans le groupe.
+
+Card Master - cardmaster@romhack.net
+
+Vous voulez mieux connaître le groupe, télécharger nos derniers
+patchs ou vous renseigner sur un projet.
+
+Site Web - http://terminus.romhack.net
+
+----------------------------------------------------------------
+7.  AUTRES PROJETS
+----------------------------------------------------------------
+
+Certains projets sont encore secrets, mais voici quand même la
+plupart des traductions en cours.
+
+Seiken Densetsu 3
+
+L'exploit mondial, le plus grand projet du groupe à l'heure 
+actuelle, et seul Bahamut Lagoon peut le dépasser dans ce 
+contexte historique. Une traduction utilisée par plusieurs 
+autres pays pour leur propre projet.
+
+Megaman VII
+
+Après avoir traduit Megaman X, le groupe a logiquement décidé de
+se lancer dans la traduction de Megaman VII. Elle devrait être
+de même qualité que la précédente, mais ne pourra pas être finie
+tant que les autres projets n'auront pas été achevés.
+
+Chrono Trigger
+
+Le projet du groupe qui a le plus marqué, celui qui est le plus 
+réussi et qui a suscité le plus de réactions. C'est grâce à lui
+que Terminus est devenu un groupe de référence dans la scène de
+la traduction francophone.
+
+----------------------------------------------------------------
+8.  REMARQUES LEGALES
+----------------------------------------------------------------
+
+Le patch de traduction française d'Atomic Runner n'est pas
+officiel et n'est pas supporté par Data East ou Sega.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+FlashPV

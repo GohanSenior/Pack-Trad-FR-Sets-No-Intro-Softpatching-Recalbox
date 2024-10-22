@@ -1,0 +1,136 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                            Toxic Crusaders
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Toxic Crusaders
+Console		: Nintendo NES
+Développeur	: Tose
+Editeur		: Bandai
+Date		: Avril 1992
+Genre		: Action
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 02/06/2015) :
+ \_________________________________________________________________
+
+Salut tout le monde!
+Ca faisait longtemps, hein ?
+
+Nous allons aujourd'hui dégoiser d'une rom monstrueuse dans tous
+les sens du terme, puisqu'il s'agit ici de "Toxic Crusader".
+
+Ce jeu est l'adaptation sur Nes d'un dessin animé que je ne crois
+pas avoir vu en France. Cette série animée est elle-même tirée
+du "Toxic Avenger", un film d'une boîte de prod que les fans de
+nanars fauchés tels que moi raffolent : la Troma.
+
+Toxie, le héros du jeu, attend donc ses amis pour le repas.
+Manque de bol, ils ont été enlevés par l'odieux Dr Killemoff,
+un alien pollueur venu saccager la terre.
+
+Ni une ni deux, notre héros à la tronche de purée radioactive
+enfile son plus beau pantalon de combat et s'en va tatanner les
+sbires de Killemoff.
+
+Les lieux parcourus par Toxie sont emblématiques des films de
+la Troma : on visitera Tromaville, ses égoûts, son usine, ses
+faubourgs pour aller enfin faire ravaler son masque à gaz à
+l'odieux alien pollueur.
+
+Soyons clairs, le jeu n'est pas une perle. Loin de là, même !
+Les ennemis différents doivent être au nombre faramineux de 2,
+les décors sont fatiguants pour la vue (il faut aimer les couleurs
+criardes! ) et l'ennui pointe vite son nez.
+En effet, le challenge n'est pas ultra relevé, et l'action manque
+cruellement : on sait qu'après 2 ou 3 vagues de 3 ennemis
+on a 9 chances sur 10 de devoir éviter quelques bidons enflammés.
+Viennent ensuite 2 ou 3 vagues de 3 sbires, des bidons...
+
+De temps en temps, un piège ou deux viendront égayer un level design
+assez léger. La monotonie sera toutefois cassée avec un niveau
+en skateboard, un niveau vertical au lieu d'horizontal et
+un passage dans les égoûts où l'on ne peut vraisemblablement
+pas sauter.
+
+
+Cela dit, le personnage répond bien, ce qui ne sera plus votre
+cas après 10 minutes de l'infâme bouillie sonore qui compose
+la musique du jeu, il y a peu de chances que vous puissiez encore
+entendre quoi que ce soit. On a connu nettement mieux sur Nes!
+
+La difficulté est relative, et on parcourt assez facilement les 6
+niveaux du jeu. A noter que les bonus sont cachés non pas sur
+les ennemis, mais dans les fûts de bidule radioactifs. N'espérez
+pas récupérer de la vie si vous ne tapez pas dessus !
+
+Le jeu n'est pas mauvais, il est juste... moche. De plus, le fait
+que la série animée dont il est tiré ne soit pas passée chez nous
+n'a pas dû l'aider à se faire connaître, et c'est relativement
+dommage, car malgré une laideur certaine, j'avoue m'y être attaché...
+ 
+La traduction est complète, à part une phrase que j'ai repéré dans
+la rom mais que je n'ai pas vue s'afficher.
+
+Il a fallu une petite demi journée pour tout traduire, retoucher
+les graphismes, modifier quelques pointeurs et faire le bêta test.
+
+A bentôt pour de nouvelles aventures...
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Energie infinie        0x00DE          08
+Vies infinies          0x00DD          09
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Toxic Crusaders.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Toxic Crusaders (U) [!].nes
+  Taille de la rom: 262 160 octets
+  Rom avec Header ? Oui
+  CRC de la rom   : DA9AD540
+  CRC rom patchée : C04458A9
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  FCeu XD SP [x]		NesTicle   [ ]
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

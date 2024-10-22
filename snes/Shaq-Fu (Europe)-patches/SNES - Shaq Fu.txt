@@ -1,0 +1,119 @@
+			Génération IX (http://generation9.kanshima.net) 
+				vous présente la traduction de 
+							Shaq-fu
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre	: Shaq Fu
+Console	: Super Nintendo
+Développeur : Delphine Software
+Editeur : Electronic Arts
+Développeur : Delphine software
+Date	: Octobre 1994
+Genre	: Combat à chier
+
+
+\ ETAT DE LA TRADUCTION : Patch 1.0 créé le 18/08/2013
+ \_____________________________________________________
+
+Ce jeu est connu pour avoir été élu "bouse du siècle", et en effet ce titre n'est
+pas usurpé ! Il n'en fallait pas plus pour que je me jette dessus tel la grippe
+aviaire sur le poulet moyen...
+
+Il faut croire que 1994 était une année faste pour les basketteurs américains.
+Electronic Arts avait sorti "Chaos in Windy city" avec Michael "air" Jordan en novembre 1994
+et un mois plus tard, en voulant sûrement continuer à profiter de l'engouement mondial
+pour les stars de la NBA, enrôlent Delphine Software et digitalisent cette fois Shaquile O'Neal.
+
+Admettons... Là où le bât blesse, c'est que les p'tits frenchies de Delphine (qui ont quand même
+à leur palmarès "Operation Stealth", "Croisade pour un cadavre", ou les non moins célèbres
+"Another world" et "Flashback") ont dû abuser du chanvre indien puisqu'ils ont confondu
+"jeu de basket" et "jeu de baston".
+
+A une syllabe près, le destin de ce jeu catastromerdique aurait certainement pu être différent...
+
+Lançons la bête et voyons ce que ça donne...
+Un mode histoire, un mode duel, un mode tournoi, les options classiques...
+Jusque là, à part la musique d'intro à la limite du douteux, c'est la même chose que dans
+n'importe quel jeu de tatanne.
+
+Commençons donc par le mode histoire.
+Mais... Mais.... Mais c'est du vrai foutage de gueule ? 
+Qui a bien pu pondre une histoire pareille ?
+Je vous laisse le plaisir de la découvrir, mais ça vaut le détour :D
+
+Le mode tournoi permet à 8 joueurs de se savatter dans la joie et la bonne humeur et
+le mode duel quant à lui, ben c'est la même chose mais à 2...
+
+Passons maintenant aux personnages. Etrangement, un combattant a été supprimé par rapport
+à la version Megadrive. A dire vrai, je doute que ça enlève à la durée de vie du jeu
+car c'est tellement caca qu'on n'y revient que sous la torture...
+
+Shaq-fu Snes aligne donc 7 gugusses aux styles bien différents. Ca va du chat extra terrestre
+à la momie magicienne en passant par la prêtresse vaudou et bien évidement le célèbre
+basketteur.
+
+Bon, si comme moi vous avez passé des heures sur Street Fighter 2, Killer instinct ou
+les Samourai showdown, alors abandonnez ici tout espoir !
+Ce jeu est lent, mou, les coups sont particulièrement imprécis et sont encore plus
+galères à sortir que les pires attaques de Art of fighting.
+
+Résultat, on oublie les coups spéciaux et on essaie de survivre désespérement aux
+assauts répétés de l'ennemi. 
+
+Rien que d'y repenser, j'en ai encore des noeuds à l'estomac ! Depuis, je ne peux
+m'empêcher de trembler dès que j'entraperçois une cartouche du jeu sur une brocante.
+
+
+
+\ CODES DE TRICHE 
+ \________________
+
+Voici une fois de plus le code Action Replay que j'ai dégotté pour ce p'tit jeu :
+
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Energie infinie J1		7E20B2			80
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack 	  : Happexamendios
+Traduction: Happexamendios
+Bêta-Test : Happexamendios
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Le patch "Shaq-fu.ips" est à utiliser sur la rom suivante :
+Nom de la rom   : Shaq Fu (E) [!].smc
+Taille          : 2 097 152 octets
+Rom avec header : Non
+Crc de la rom   : DDD55E27
+Crc rom patchée : F99EEEF8
+
+Le patch a été créé avec Ultra IPS et a été testé sous les émulateurs suivants :
+Snes9X 1.53 [x]
+Snes9x 1.43 [ ]
+ZsnesW      [ ]
+Bsnes 0.60  [ ]
+SnesGT      [x]
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher. 
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils 
+peuvent créer une sauvegarde de la rom avant de patcher). 
+Voilà maintenant votre rom avec les modifications apportées par notre traduction. 
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+Site Web : http://generation9.kanshima.net 
+Forum : http://www.bessab.com/viewforum.php?f=12 

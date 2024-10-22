@@ -1,0 +1,11 @@
+Voici une nouvelle traduction française de Wario Land 3.
+
+- Accents sur certaines voyelles.
+- Nom des niveaux traduits
+- Dialogues traduits
+
+Comme il reste encore quelques petits trucs à traduire, la traduction est à 80%.
+
+Merci de NE PAS FAIRE DE CARTMODS.
+
+Appliquez le patch sur la ROM Wario Land 3 (World) (En,Ja).gbc

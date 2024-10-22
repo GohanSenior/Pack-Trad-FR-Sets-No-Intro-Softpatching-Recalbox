@@ -1,0 +1,60 @@
+				Génération IX (http://generation9.kanshima.net)
+
+				 Vous présente la traduction de Lucky Dimes Caper Starring Donald Duck
+
+
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre : Lucky Dimes Caoer Starring Donald Duck
+Console : SEGA
+Date : 1986
+Genre : Plateforme
+
+
+
+\ ETAT DE LA TRADUCTION : Patch Final 11/06/2005
+ \__________________________________________________
+
+
+Tout le texte concernant le scénario est traduit. Mais certains éléments du jeu restent 
+compressés mais cela n'enlève rien à la compréhension du jeu.
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack : KS 151
+Traduction : GreatSkaori
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "SMS-TheLuckyDimesCaper-0.9.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Lucky Dime Caper, The - Starring Donald Duck (E) [!].sms
+  Taille de la rom: 262 144 octets
+  Rom avec Header ? Non
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum : http://www.bessab.com/viewforum.php?f=12

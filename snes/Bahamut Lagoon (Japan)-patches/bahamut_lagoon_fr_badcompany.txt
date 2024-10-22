@@ -1,0 +1,37 @@
+__________        .__                           __    .____                                         
+\______   \_____  |  |__ _____    _____  __ ___/  |_  |    |   _____     ____   ____   ____   ____  
+ |    |  _/\__  \ |  |  \\__  \  /     \|  |  \   __\ |    |   \__  \   / ___\ /  _ \ /  _ \ /    \ 
+ |    |   \ / __ \|   Y  \/ __ \|  Y Y  \  |  /|  |   |    |___ / __ \_/ /_/  >  <_> |  <_> )   |  \
+ |______  /(____  /___|  (____  /__|_|  /____/ |__|   |_______ (____  /\___  / \____/ \____/|___|  /
+        \/      \/     \/     \/      \/                      \/    \//_____/                    \/ 
+		
+		
+		Bahamut Lagoon V.2.1 par Naboo & Julien en version française depuis la version de
+		                          Neil Corlett & Tomato & Dejap
+		
+		
+Bahamut Lagoon par Naboo & Julien en version française 
+Ceci est un patch pour traduire la version JAP du jeu de Bahamut Lagoon en version française intégrale.
+Pour ce faire, il vous faut vous munir du jeu japonais d'origine Bahamut Lagoon (Japan).sfc 3,00 Mo (3 145 728 octets)
+Une fois patché il fera 4096Mo. Prenez un patcheur tel que Flip. https://www.romhacking.net/utilities/...?
+
+Alors ce qui a été fait dans le jeu... et bien... pas mal de choses.
+Premièrement nous n'avons aucunement dénaturé la nature du jeu avec des artifices quelconques.
+
+Ce jeu est jouable intégralement en français du début à la fin.
+Nous avons corrigé tous les bugs qui étaient présents dans la version US.
+Par souci de vouloir bien faire les choses, certains passages du jeu on fait
+l'objet de recherche un peu plus approfondie depuis la version japonaise.
+
+Naboo a créé pour l'occasion un logiciel spécial pour la traduction de ce jeu, le bahatexte-editor.
+Il permet de traduire le jeu directement via une interface graphique.
+Si jamais vous rencontrez un problème quelconques veuillez nous le signaler afin de le corriger.
+Merci à Desska.K qui nous a grandement aidé dans la relecture et la correction du jeu.
+
+Bon jeu à tous.
+
+
+
+
+
+

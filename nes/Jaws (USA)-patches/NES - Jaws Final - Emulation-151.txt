@@ -1,0 +1,55 @@
+				Emulation-151 (http://www.emulation-151.com)
+
+				 Vous présente la traduction de Jaws
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre : Jaws
+Console : Nes
+Date : 1990
+Genre : Action
+
+
+
+\ ETAT DE LA TRADUCTION : Patch Final 25/04/06
+ \__________________________________________________
+
+
+Aucun soucis ici. Un jeu assez sympathique bien que très court. Les dents de la mer ont donc donné un jeu relativement agréable mais
+décevant sur sa durée de vie. Même si agilité et précision seront nécessaire pour mettre à mort la bête. Au niveau de la traduction, 
+j'ai changé la font et quelques autres petites choses. En tout cas il ne reste plus rien d'anglais sur la rom.
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack : KS 151
+Traduction : KS151 ( Pas grand chose :) )
+Betatest : KS151 et Colibrialpha.
+
+Patch n°48 !
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Le patch "NES - Jaws Final - Emulation-151.ips" est à appliquer sur
+la rom "Jaws (U) [!].NES"
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher. 
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils 
+peuvent créer une sauvegarde de la rom avant de patcher). 
+Voilà maintenant votre rom avec les modifications apportées par notre traduction. 
+
+
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://www.emulation-151.com
+Forum : http://www.emulation-151.com/Forum/phpBB2/index.php

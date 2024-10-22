@@ -1,0 +1,60 @@
+James Bond 007: The Duel (Mega Drive)
+Traduction en Français v1.01 (12/12/2021)
+(C) 2020 Traduction Alucard73
+
+---------------
+Histoire du Jeu
+----------------
+James Bond 007 : The Duel est un jeu de plates-formes vous permettant d'incarner le célèbre 
+agent secret britannique. Comme toujours, Bond affronte un professeur mégalomane qui tente de 
+mettre le monde à sa merci. Durant ses péripéties, 007 fera de nombreuses rencontres, certaines 
+douloureuses comme Jaws, d'autres plus heureuses comme les James Bond Girls.
+
+----------------------------------------------------------------------
+Patch 1.01
+----------------------------------------------------------------------
+Changer Niveau Dur par Jeu Difficile
+
+-----------------
+Ce qui a été fait
+-----------------
+Script    : 100 %
+Graphismes: 0 %
+
+--------------------
+Notes et Bugs connus
+--------------------
+Normalement aucun.
+Si vous rencontrer un bug, vous pouvez me contacter sur le Forum de la Traf.
+
+--------------------------
+Instructions pour le patch
+--------------------------
+Au format, vous pouvez utiliser LunarIPS ou Floating IPS.
+Archive utilisée:
+
+James Bond 007 - The Duel (USA).md
+
+MD5: d7937eee5a0fa4fabb035a2862bcd78d
+SHA1: 847DE1168BF737AC7FAA4F77EB0749738014ED87
+CRC32: 4E614548
+Size: 524288
+
+-------
+Credits
+-------
+Alucard73 - Hacking, traduction et tests.
+
+-----------------
+REMARQUES LEGALES
+-----------------
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.

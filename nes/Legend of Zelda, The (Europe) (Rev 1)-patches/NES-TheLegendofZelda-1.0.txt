@@ -1,0 +1,89 @@
+				Génération IX (http://generation9.kanshima.net)
+
+			 vous présente la traduction de The Legend of Zelda
+
+
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre : The Legend of Zelda
+Console : Nintendo
+Développeur : Nintendo
+Date : 1986
+Genre : Aventure-action
+
+
+
+\ ETAT DE LA TRADUCTION : Patch 1.0 le 25/11/2004
+ \__________________________________________________
+
+
+
+Tout est traduit, si si, tout, s'il reste de l'anglais à part le "TM" sur l'écran titre,
+y faut nous le dire, parce qu'on l'a pas vu!
+Hell et moi remercions meradrin qui nous avoir aidés pour le mot "LEVEL" .
+
+*A SAVOIR - IMPORTANT -*
+
+Pour les téméraires qui se lanceraient dans la seconde quête de Zelda, sachez que les palais sont
+habités par des espèces d'ennemis rouges, comme des éponges rondes avec des yeux. Ces ennemis
+rouges, lorsqu'ils vous touchent empêchent Link de se servir de son épée.
+-- !!! CE N'EST PAS UN BUG !!!  --
+Pour pouvoir réutiliser votre arme, il vous faut soit boire une potion, soit vous faire
+toucher par le même type d'ennemi, mais bleu celui-ci. Inutile donc de nous mailer à
+ce sujet, merci.
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack : Hell
+Traduction : GreatSkaori
+Bêta-Test : Hell, GreatSkaori
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "NES-TheLegendofZelda-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Legend of Zelda, The (E) (PRG1) [!].nes
+  Taille de la rom: 131 088 octets
+  Rom avec Header ? Non
+  CRC de la rom   : D44B412E
+  CRC rom patchée : FAD60EFF
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ HISTORIQUE DE LA TRADUCTION
+ \____________________________
+
+Cette traduction a été réalisée dans le but de figurer dans notre calendrier de l'Avent
+de Noël. Cela faisait longtemps que je titillais Hell en lui demandant s'il se mettrait
+au hack un jour, et on avait dit que s'il le faisait, on ferait les deux zelda à deux.
+Eh bien, voici déjà le premier :)
+
+
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum : http://www.bessab.com/viewforum.php?f=12
+Hacking : Hell (hell2405@yahoo.fr)
+Traduction : GreatSkaori (greatskaori@yahoo.com)

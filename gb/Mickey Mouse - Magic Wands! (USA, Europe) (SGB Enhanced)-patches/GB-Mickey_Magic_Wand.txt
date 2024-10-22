@@ -1,0 +1,116 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                       Mickey Mouse - Magic Wand
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Mickey Mouse - Magic Wand
+Console		: Game Boy
+Développeur	: Kemco
+Editeur		: Nintendo
+Date		: Mai 1998
+Genre		: Plates-formes
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 15/05/2014) :
+\_________________________________________________________________
+
+Il y avait longtemps que j'avais pas joué à un jeu Mickey sur
+Game Boy, et je me suis dit "Pourquoi pas celui-ci ?"
+
+Cette rom n'est pas la plus connue, mais elle mérite qu'on lui
+accorde un peu d'attention...
+
+Passons sur le scénario (Mickey et ses amis se baladent et dérangent
+une vieille sorcière qui emprisonne tous les copains du héros
+dans des images) et attardons-nous un peu sur le principe du jeu.
+
+Il s'agit ici de diriger Mickey dans 40 tableaux et de retrouver
+les morceaux de l'image correspondant au copain à sauver.
+Les images sont cachées dans des cristaux, et il faut utiliser
+une baguette magique pour ouvrir les cristaux.
+
+Au fur et à mesure de l'avancée dans le jeu, la baguette aura
+de nouvelles capacités et permettra de geler l'eau et de
+créer ou lancer des blocs. Par contre, elle ne sert PAS 
+à tuer les ennemis ! Pour s'en débarrasser, il faut leur
+balancer des pommes cachées elles aussi dans les cristaux.
+
+Et c'est là le gros point noir du gameplay! Pour utiliser
+les objets (et donc les pommes), il faut passer dans le menu,
+sélectionner l'objet et valider, ce qui rompt quelque peu
+le rythme du jeu.
+
+C'est vite saoulant... Mais ça permet aux plus jeunes d'avoir
+le temps de bien fixer son action.
+
+Le jeu est fluide et les niveaux sont de plus en plus corsés
+sans être impossibles, et le système de code donné après chaque
+niveau évite de refaire X niveaux déjà finis.
+
+Les graphismes sont bien lisibles sans être dans le top de ce
+que peut faire la GB, et l'activation du mode "Super Game Boy"
+permet de profiter de quelques variations de couleurs sympas.
+
+
+Personnellement, je me suis bien amusé sur ce jeu, et j'espère
+qu'il en sera de même pour vous. Certes, on est loin d'un "Castle
+of Illusion", mais si vous aimez ce genre de jeu, vous ne pouvez
+qu'accrocher.
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Pommes infinies        0xC33B          09
+Energie infinie        0xC3A4          06
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Mickey_Magic_Wand.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Mickey Mouse - Magic Wand (U) [S][!].sgb
+  Taille de la rom: 131 072 octets
+  Rom avec Header ? Non
+  CRC de la rom   : F0482567
+  CRC rom patchée : CBD350CD
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  BgB    [x]		GBEmul [ ]
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

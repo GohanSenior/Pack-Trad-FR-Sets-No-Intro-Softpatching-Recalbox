@@ -1,0 +1,132 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                            Avenging Spirit
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Avenging Spirit
+Console		: Game Boy
+Développeur	: Jaleco
+Editeur		: Jaleco
+Date		: Décembre 1992
+Genre		: Action
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 10/07/2014) :
+\_________________________________________________________________
+
+Comment présenter "Avenging Spirit" ?
+Hummm....
+Ben c'est de la bombe, bébé !
+
+C'est tout simple, j'adore ce jeu depuis que j'ai acheté la cartouche
+dans ma p'tite boutique de location de jeux vidéo dans les années 90.
+
+Ca faisait longtemps que je voulais en faire la traduction, mais
+je n'avais pas encore pris le temps de m'y coller sérieusement.
+C'est désormais chose faite...
+
+
+"Avenging spirit" sur GB est l'adaptation du jeu d'arcade
+éponyme. Il s'agit bien entendu de sauver une donzelle en
+détresse mais le jeu marque son originalité avec le personnage
+central, puisque vous incarnez ni plus ni moins qu'un... fantôme...
+
+En effet, alors que vous vous baladiez tranquillement avec
+votre copine, un gang fort malintentionné vous attaque, enlève
+la fille et vous abat froidement.
+
+Une fois ressucité (je ne vous dirai pas comment pour ne pas
+déflorer l'histoire), vous voici sous l'aspect d'un petit
+spectre et vous pouvez prendre le contrôle de n'importe quel
+ennemi du jeu (sauf les boss, bien entendu).
+
+Et c'est là tout le fun du jeu ! Chaque ennemi a des caractéristiques
+bien différentes (certains sautent haut, d'autres tirent loin,
+d'autres encore volent...) et il faudra jongler d'un corps à
+l'autre pour arriver à s'en sortir.
+
+Histoire de pimenter un peu le jeu, lorsque vous quittez un corps,
+vous n'avez que peu de temps avant d'en posséder un nouveau,
+votre énergie fantômatique n'étant pas illimitée...
+
+Le jeu n'est pas excessivement difficile, et les 6 niveaux sont
+trop courts à mon goût, mais quel pied !
+
+L'animation est tip top et on voit très peu de ralentissements,
+l'action est omniprésente et la variété des ennemis apporte
+un plus indéniable au gameplay (mention spéciale pour l'homme
+invisible et le comte Dracula).
+Les personnages répondent parfaitement aux sollicitations et
+on ne s'ennuie pas une seule seconde.
+Les graphismes sont fins et travaillés, et les décors sont sympas
+sans être des modèles du genre.
+
+Je ne peux que vous conseiller de l'essayer, et vous verrez 
+ce que c'est qu'un bon jeu!
+
+La traduction a été plus longue que prévu car les lettres étaient
+gérées comme des sprites, donc il fallait les positionner à
+l'écran une par une et il a fallu jongler avec 6 tables de
+caractères différentes.
+
+Bahabulle le Grand a finalisé le projet en trouvant le p'tit
+bidule qui me manquait pour afficher l'écran de fin de niveau
+correctement.
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Energie infinie        0xC49B          09
+Energie fantome infinie0xC45C          0F
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Bahabulle, Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Avenging Spirit.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Avenging Spirit (U).gb
+  Taille de la rom: 262 144 octets
+  Rom avec Header ? Non
+  CRC de la rom   : CF2BA5F7
+  CRC rom patchée : BC6F0844
+
+Le patch a été créé avec Flips 1.12 et a été testé avec les émulateurs suivants :
+  BgB    [x]		GBEmul [ ]
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

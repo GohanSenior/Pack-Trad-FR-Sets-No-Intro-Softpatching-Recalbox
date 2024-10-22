@@ -1,0 +1,54 @@
+				Emulation-151 (http://www.emulation-151.com)
+
+				 Vous présente la traduction de Legendary Wings
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre : Legendary Wings
+Console : Nes
+Date : 1991
+Genre : Shoot Them Up
+Editeur : Konami
+
+
+
+\ ETAT DE LA TRADUCTION : Patch Final 22/04/07
+ \__________________________________________________
+
+
+Tout a été fait. Même si je ne suis pas à l'abri d'un oubli, j'ai parcouru le jeu en entier sans voir quoi que ce soit à traduire.
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack : KS 151
+Traduction : KS151 ( Pas grand chose :) )
+
+Patch n°47 !
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Le patch "NES - Legendary Wings Final - Emulation-151" est à appliquer sur
+la rom "Legendary Wings (U).NES"
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher. 
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils 
+peuvent créer une sauvegarde de la rom avant de patcher). 
+Voilà maintenant votre rom avec les modifications apportées par notre traduction. 
+
+
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://www.emulation-151.com
+Forum : http://www.emulation-151.com/Forum/phpBB2/index.php

@@ -1,0 +1,113 @@
+Traduction Française de Yuu Yuu Hakusho 3
+sur Game Boy par "Sstrad Translations"
+
+Contenu de l'archive et utilisation
+-----------------------------------
+Normalement, l'archive ZIP doit contenir :
+
+yuu3fr.ips   - Le patch IPS de Yuu Yuu Hakusho 3 FR
+yuu3fr.bat   - Le batch d'installation du patch
+ips.exe      - Le patcheur obligatoire pour le batch
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Le meilleur moyen d'utiliser ce patch est d'extraire cette 
+archive ZIP dans le répertoire où se trouve la rom originale, 
+qui doit s'appeller yuu3.gb, puis de lancer le batch 
+yuu3fr.bat, pour avoir une rom yuu3fr.gb traduite.
+
+Ce qui a été fait
+-----------------
+Intro      :  20 %
+Script     : 100 %
+Menus      :  20 %
+Combats    : 100 %
+Messages   : 100 %
+Minis-Jeux :  90 %
+Palette    : 100 %
+Pointeurs  : 100 %
+Passwoard  :   0 %
+
+L'équipe de la traduction
+-------------------------
+    zekiller    : Chef du projet
+		  Hacking général
+		  Traduction du Script
+		  Traduction des combats
+		  Réinsertion du Script et des autres textes.
+	          Correction du Script
+                    
+    Psxhacker   : Hacking de la font (accents + minuscules)
+              	  Hacking général
+                     
+    Ben         : Hack Graphique 
+
+Autres Projets
+--------------
+Final Fantasy Legend : Anglais -> Français (Game Boy)
+
+Terminus Traduction ayant commencé à traduire Final Fantasy Legend 2 et 3, 
+il ne restait plus que Final Fantasy Legend à traduire pour que tous les
+Final Fantasy sortis sur Game Boy soient traduit en français. Comme je 
+cherchais un bon rpg à traduire, et que Wild Ham n'a jamais finit sa 
+traduction de Final Fantasy Legend, j'ai donc décidé de le traduire en
+Français pour que toutes les personnes ne savant lire anglais puissent jouer
+à ce très bon rpg sur Game Boy.
+
+Saint Seiya Saint Paradise : Japonais -> Anglais (Game Boy)
+
+J'ai décidé de traduire ce jeu car je suis un vrai fan des Chevaliers du 
+Zodiaque et que ce jeu est pour le moment en japonais. Les jeux vidéo sur
+Les Chevaliers du Zodiaque étant rares, je vais donc le traduire afin que
+tous les fans des Chevaliers du Zodiaque puissent jouer à ce jeu tout en
+pouvant comprendre l'histoire.
+
+Contacts
+--------
+Une remarque, une question ou une correction à apporter à la
+traduction de Yuu Yuu Hakusho 3.
+
+zekiller - zekiller@belgacom.net
+
+Vous avez envie de faire partie d'un projet en cours ou de
+lancer un nouveau projet dans le groupe.
+
+Psxhacker - sstrad@libertysurf.fr
+
+Vous voulez mieux connaître le groupe, télécharger nos derniers
+patchs ou vous renseigner sur un projet.
+
+Site Web - http://sstrad.romhack.net
+
+Si vous voulez contacter un membre en particulier, voici les e-mails et/ou 
+N° ICQ des membres de Sstrad Translations :
+
+Psxhacker : sstrad@libertysurf.fr
+Ben : benrock@libertysurf.fr -> 73749387
+REMslug : remslug@wanadoo.fr -> 54144671
+Crono : crono@rpgtown.com -> 71016568
+Asmodailius : asmodailius@wanadoo.fr  
+Hairbib : flokyb@club-internet.fr 
+Cissou_b7 : cyfirmin@yahoo.com 
+zekiller : zekiller@belgacom.net
+
+Remarques Légales
+-----------------
+Le patch de traduction française de Yuu Yuu Hakusho 3 
+n'est pas officiel et n'est pas supporté par Tomy.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+zekiller

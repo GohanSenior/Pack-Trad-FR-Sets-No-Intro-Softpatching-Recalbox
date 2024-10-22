@@ -1,0 +1,106 @@
+TERMINUS TRADUCTION  présente
+
+GANBARE GOEMON
+----------------------------------------------------------------
+*******************Table des matières******************
+----------------------------------------------------------------
+
+1.    L'HISTOIRE DU JEU
+2.      CONTENU DE L'ARCHIVE ET UTILISATION
+3.    LES PATCHS PUBLIES
+4.      TOUT CE QUI A ETE FAIT
+5.    L'ÉQUIPE DE LA TRADUCTION
+6.      CONTACTS
+7.    REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  L'HISTOIRE DE GANBARE GOEMON
+----------------------------------------------------------------
+
+Franchise très connu au Japon, le premier titre de la série a
+connaître une localisation sera le premier des épisodes de la
+SNES, rebaptisé pour le coup "Legend of the Mystical Ninja" et
+modifiant plusieurs éléments.
+Cette traduction est basée sur la rom japonaise et contient pas
+mal d'élément qui ont été retirés des versions anglaises.
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir:
+GoemonFr.ips  - Le patch IPS de Ganbare Goemon
+GoemonFr(SRAM).ips  - Le patch IPS de Ganbare Goemon remplacant
+les mots de passe par une sauvegarde interne
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+supportant le format IPS (patcheur Terminus exemple).
+Ce patch est à utiliser avec la Rom NO-INTRO
+Ganbare Goemon - Yuki hime Kyuushuutsu emaki (J) (V1.2).smc
+
+----------------------------------------------------------------
+3.  LES PATCHS PUBLIES
+----------------------------------------------------------------
+
+-V2.00
+Retraduction complète à partir de la version anglaise de DDS
+basée sur la rom japonaise
+
+-V1.00
+Traduction complète
+
+----------------------------------------------------------------
+4.  TOUT CE QUI A ETE FAIT
+----------------------------------------------------------------
+
+Script    :   100 %
+Pointeurs :   100 %
+Graphismes:   1000 %
+
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+FlashPV : Hacking, Traduction, Graphismes
+DDS     : Hacking
+Tom     : Traduction originale
+Merci à Mike Deloge d'avoir testé le jeu
+
+----------------------------------------------------------------
+6.  CONTACTS
+----------------------------------------------------------------
+
+Une remarque, une question ou une correction à apporter à la
+traduction de Ganbare Goemon.
+
+FlashPV - FlashPV@aol.com
+
+Vous voulez mieux connaître le groupe, télécharger nos derniers
+patchs ou vous renseigner sur un projet.
+
+Site Web - http://terminus.romhack.net
+
+----------------------------------------------------------------
+7.  REMARQUES LEGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de Ganbare Goemon n'est pas
+officiel et n'est pas supporté par Konami ou Nintendo.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+FlashPV

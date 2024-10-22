@@ -1,0 +1,33 @@
+Megadrive:
+	
+	- "Thunder Force IV (Europe)" nécessite d'avoir la région du system sur US dans Core Option
+
+NES:
+
+	- "SD Gundam Gaiden - Knight Gundam Monogatari (Japan)" ne fonctionne qu'avec les cores Libretro FCEUmm, Libretro Mesen 
+
+	- "Shufflepuck Cafe (Japan)" ne fonctionne qu'avec le core Libretro FCEUmm
+
+	- "Wagyan Land (Japan)" ne fonctionne qu'avec les cores Libretro FCEUmm, Libretro QuickNES
+
+	- "WWF WrestleMania - Steel Cage Challenge (USA)" ne fonctionne qu'avec le core Libretro FCEUmm
+
+GBA:
+
+	- "Wario Land 4 (USA, Europe)" ne fonctionne qu'avec le core Libretro Meteor
+
+GBC:
+
+	- "Revelations - The Demon Slayer (USA) (SGB Enhanced) (GB Compatible)" ne fonctionne qu'avec les cores Libretro Mesen_S, Libretro mGBA, Libretro TGB Dual
+
+GB:
+
+	- "Fist of the North Star (USA)" nécessite d'avoir Core Option/Use Official Bootloader sur OFF pour Libretro Gambatte
+
+	- "Noobow (Japan)" ne fonctionne qu'avec les cores Libretro Mesen_S, Libretro mGBA, Libretro TGB Dual
+
+	- "R-Type (USA, Europe)" ne fonctionne qu'avec les cores Libretro Mesen_S, Libretro mGBA, Libretro TGB Dual
+
+	- "Taiyou no Yuusha - Fighbird GB (Japan)" ne fonctionne qu'avec les cores Libretro Mesen_S, Libretro mGBA, Libretro TGB Dual
+
+	- "Terminator 2 - Judgment Day (USA, Europe)" ne fonctionne qu'avec les cores Libretro Mesen_S, Libretro mGBA, Libretro TGB Dual

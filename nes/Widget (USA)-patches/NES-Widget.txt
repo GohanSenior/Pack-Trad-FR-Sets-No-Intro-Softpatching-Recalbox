@@ -1,0 +1,159 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                                widget
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: widget
+Console		: Nintendo NES
+Développeur	: Graphic Research
+Editeur		: Atlus
+Date		: Novembre 1992
+Genre		: Plates-formes / Action
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 09/10/2013) :
+ \_________________________________________________________________
+
+Est-ce que vous vous souvenez de l'alien couleur de chewing gum
+mâché qui squattait nos écrans cathodiques au début des années 90?
+Ca ne nous rajeunit pas, hein ?
+
+Et bien sachez qu'Atlus a profité de la relative notoriété de
+cet alienoïde pour en faire une adaptation vidéoludique à
+destination de la Nes.
+
+A l'instar de la série, il s'agit d'empêcher quelques super
+méchants des tréfonds de la galaxie et faubourgs venus sur Terre
+pour polluer, animal-napper et piller notre belle planète bleue.
+
+Heureusement, Widget et son fidèle Méga Brain (qui a dû inspirer
+les créateurs de Rayman) sont là pour jouer les empêcheurs
+de polluer en rond.
+
+Le jeu est assez inspiré des Megaman, à la fois dans la conception
+des niveaux et dans l'utilisation des pouvoirs.
+Pouvoirs ? Ben oui, Widget peut se transformer en différentes
+bestioles afin d'avancer dans les niveaux.
+
+Une fois le boss du niveau éliminé, vous obtenez une nouvelle
+transformation qui permettra d'accéder à de nouveaux coins
+de la map.
+
+Attention ! Sur l'écran de choix de niveau, ils semblent présentés
+dans l'ordre, mais il n'en est rien.
+Par exemple; après le niveau 1, il paraît logique de faire
+le niveau 2, nan ? Et bien non ! Il est IMPOSSIBLE à terminer
+sans le pouvoir obtenu dans un autre niveau !
+
+La conception des niveaux est, ainsi que je l'ai dit plus haut,
+assez similaire à celles des Megaman. Certains décors renforcent
+pas mal cette sensation de déjà-vu. Je ne doute pas que vous
+aurez vous aussi cette impression en jouant.
+
+Renforçons encore la comparaison avec le dernier point du jeu,
+je veux parler de la recherche des items...
+
+Widget possède différentes barres de niveaux : une barre de santé,
+de Points de Transformation et de puissance de feu.
+
+Si on veut vraiment être peinard dans les niveaux, il vaut mieux
+avoir un max de PV et de PT (les points de transformation), car
+les ennemis sont assez nombreux, mais surtout les trasformations
+ne sont pas gratuites ! Et il y a tout intérêt à écumer entièrement
+les niveaux pour trouver tous les bonus accroissant les stats.
+
+
+Le jeu est très sympa à jouer, et nettement plus facile que
+le Megaman dont il semble s'inspirer, même si la quête des
+objets accroissant la vie et les PT est parfois lassante.
+
+La conception des niveaux est classique mais ils ne sont pas
+répétitifs. La maniabilité est au top (vaut mieux pour un jeu
+d'action/plates formes), et le personnage répond très bien,
+même si j'aurai apprécié un peu plus de rapidité dans le jeu.
+J'ai pu remarquer quelques ralentissements lorsque trop
+d'ennemis tiraient simultanément, mais j'ignore si
+c'est lié à l'émulateur ou si la version d'origine présente
+les mêmes défauts.
+
+Graphiquement, le jeu est joli, bien lisible, les sprites
+sont gros mais curieusement Widget qui est censé être de
+couleur rose/violacée est ici d'un beau bleu schtroumpf.
+Je me demande bien pourquoi...
+
+En ce qui concerne la traduction, tout a été fait. L'idée de
+ce projet m'est venue alors que je commençais à me lasser
+d'un autre projet. Fouinant un peu du côté de la ludothèque
+de la Nes, je suis tombé dessus et je me suis dit que ça
+serait sympa à faire.
+Je ne m'étais pas trompé, et le jeu était aussi agréable à
+traduire qu'à jouer.
+
+Le seul hic, c'est que je n'ai pas pu tester tous les textes
+d'aide de Mega Brain car ils apparaissent de façon aléatoires
+(en jeu, appuyez sur "Select", puis sélectionnez "Mega brain",
+et "Aide dans la nouvelle fenêtre). Du coup, si vous voyez
+des textes qui ne sont pas correctement alignés, n'hésitez pas
+à prendre des screenshots et à remonter l'info ^^
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Energie infinie          0581           06
+PT infinis				 058B			06
+Niveau des tirs			 0595			03
+
+/!\ : Ne pas mettre plus que 3 pour la valeur des tirs. 
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "widget.ips" est à utiliser sur la rom suivante :
+Nom de la rom   : widget.nes
+Taille de la rom: 262 288 octets
+Rom avec Header ? non
+CRC de la rom   : E7C981A2
+CRC rom patchée : F42F7A7B
+
+Le patch a été créé avec Ips XP 1.11 et a été testé avec les émulateurs suivants :
+  FCe Ultra  [x]
+  FCeu XD SP [x]
+  NesTicle   [ ]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

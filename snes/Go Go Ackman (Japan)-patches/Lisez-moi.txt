@@ -1,0 +1,65 @@
+                             #.                                               
+          ;@@`            :@@@`                                               
+       .@@;;@          `@@+;;@                               @                
+      @';;;+.          @;;;;@,                   ::  :     `@@  `  , @.       
+     @@;;;;@         ,@@;;;;@  :::   @.  #    @@::+@@.` #. @;@  @#@@ @@@@:    
+    @;;;;;;@ @##@    @;;;;;;@ @''@   @@@@:  @+@+,:;;@,@ @@ @;@  #;;@ @;'@ @: :
+   :@;;;;;;@@;;;#`  @;;;;;;;@@;;;+.  @;;#  @';;@ .';@@@@;@ @;@ `+;;@ @;;@:@'@@
+   @;;;;#+;@;;;;@. :';;;;@@#@+;;;;@ +';;+` +;;;@ :;+:;;@;@@@;;+@;;;@ @;;#,+;'.
+  +;;;;@,:@';;;;;@ @;;;;@  +#;;;;;@ @;;;;@@;;;;@ @;'@;;+#;@+;;@@;;;;.@;;;@+;@ 
+  @;;@@@@@@+;;;;;@ @;;@@@@@@@;;;;## @;;';@@;;;@: @;';;;@;;;;;;@@;';;@@;;;@;;@ 
+  @;';;;;;'+;@;;@  @;+;;;;;;+;@;;@  @;'@;@#;'@#  @;;;;@@;;;;';@;;##;@@;@;#;;@ 
+ @@;@;;;;;@;@;;'# @+;@;;;;;@;@@;'@ @;;@@;+';@    @;;;;,@;';;#;+;;@@;++;@;;;+. 
+ @;;@;;;;#@#@;;@  @;;@;;;;;@+@;;@  @;;@@;;@;@ ` .+;;;@ @;@;;@;;';;;;;@;@';;#` 
+.+;;';@;;@;@';+: `#;;+;@;;+;#@;;#  @;;;;;;+;'`@@+;;;;;#@;#@'@;;@;;;;;@;@@;;;' 
+.+;#@+@;;@;@;;@   #;+@+@;;@;#;;#. +;;;;;;;+;;@';@;;@;;@@;;@#@;;@;;;;;@;@@;;+  
+ @;'#'+;'';@;;@   @;;;@+;@@;#;;@  @;;+;;;;;+;;;;#;;@@;;@;;#@@;@;'@@;;';@@;;@  
+ @;;;+;;;@;;;@+   @;;;;;;;@;;;+@  @;;@@@';;@;;;;@;;@@;;@;;@+:@;'+ .';;#@+;;@  
+ @;;;;;;+@;;;@`   ';;;;;;'@;;;#' ;';;@ `+;;#+;;'@;;@:''@+'@ :@;;@  @;;@@+++@  
+  @;;;;@@#;;@'     @;;;;##@;;@'  @'+#@  @;'@+@;#@;;@.@@+@@   @@##  @@@ @+':@  
+  #+;;#@ #@@,      +@;;+@  @@.   @,,@:  @+@  .@ +@@@ # :`;      #  # #        
+   ,@'@,  ;`         @#@.                        `                            
+     :`                `                                     [Version fr 1.0]
+_____________________________________________________________________________
+                                                                     [Équipe]
+ManZ - Hack - (modification de la fonte du jeu en 8*16)
+Bahabulle - Hack - (Extraction et insertion de gfxs)
+Pinkette - Relecture & corrections
+Orugari - Traduction - (première passe)
+Hiei- - Traduction - (seconde passe)
+Lestat - Harmonisation, gfxs, mise en page.
+_____________________________________________________________________________
+                                                                 [Historique]
+Ce patch est le fruit d'une collaboration entre différents membres de la
+scène française de romhack, Bessab avait par le passé traduit ce jeu, mais
+faute de place (et peut-être d'expérience) la fonte du jeu n'avait pas été
+modifiée, et certains passages étaient tronqués faute de place.
+
+Enfin bref, ce jeu a maintenant sa font dédiée (encore que vous pouvez la
+reprendre pour vous faire les autres opus si le coeur vous en dit) et les
+textes sont entièrement remaniés, les graphismes sont francisés aussi.
+
+Il ne me reste plus qu'à vous souhaiter un bon jeu :)
+                                                           [M0nsieurL/Lestat]
+_____________________________________________________________________________
+                                                           [Comment patcher?]
+Le patch IPS doit être appliqué sur la rom de Gogo Ackman (Jap).
+CRC: 26fb2d11
+MD5: 698ec39014f45d1ecea6ecc7d5223664
+SHA-1: ad0c13270e27191af69cb30f5710159422e8e836
+SHA-256: e8a33b6c8e15cf0aa60e9694471a51926fb97ad895d4714384c6abff28a33a1f
+
+Utilisez LunarIps pour appliquer le patch :
+
+http://fusoya.eludevisibility.org/lips/
+
+Une fois la rom patchée, vous devez obtenir:
+CRC: 892f30e4
+MD5: 0bb1c92b669beae2b2442b718059f432
+SHA-1: 93d988c90a4a265d698bef4b2816ac6238a4006f
+SHA-256: 11fb8786a1ad9f0a951b5bed83258807a1c65bac240f3c9775cdf446b9d7ae35
+
+Si vous vous demander comment trouver ces informations :
+
+http://www.nirsoft.net/utils/hash_my_files.html
+

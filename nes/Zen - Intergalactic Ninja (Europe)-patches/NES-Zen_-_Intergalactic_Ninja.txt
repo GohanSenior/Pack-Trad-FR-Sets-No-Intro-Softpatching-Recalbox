@@ -1,0 +1,130 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                       Zen - Intergalactic Ninja
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Zen - Intergalactic Ninja
+Console		: Nintendo NES
+Développeur	: Konami
+Editeur		: Konami
+Date		: Mars 1993
+Genre		: Action
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.1 créé le 19/09/2015) :
+\_________________________________________________________________
+
+Zen est un jeu d'action...
+Voilà...
+Je crois que tout est dit...
+
+Comment ça, c'est maigre ?
+Et si je dis que c'est Konami qui l'a conçu ??
+Mouais, ça change rien, on dirait...
+
+Bref, le jeu n'est pas terrible et ne m'inspire pas franchement.
+On incarne Zen, un éco-guerrier ninja qui a appris à se battre
+sur une planète du fin fond de la galaxie, et ho! pis zut!
+
+Le scénario tient en deux lignes en fait : un vilain alien veut
+utiliser la Terre comme poubelle géante. Mon dieu que voilà
+une trame innovante !!
+Pffff !
+Ha si : on va sauver des gens prisonniers des flammes, raviver
+des plantes vertes...
+
+Bon, ça c'est fait, passons au reste :
+
+La musique et les effets sonores : je crois que je préfère écouter
+la pub Ikea en boucle, c'est dire...
+
+La jouabilité : là encore : pffff ! Le personnage est lourd,
+les ralentissements sont fréquents, et le jeu est assez difficile
+pour qu'on râle de désespoir sur un saut loupé (surtout dans
+le niveau de l'usine toxique). 
+
+Les graphismes : pour un jeu de 1993 sorti de chez Konami, je m'attendais
+à mieux. Bon, c'est de la Nes, mais bof ! Les couleurs sont assez
+moches et les ennemis ne cassent pas des briques.
+
+Bon, vous l'aurez compris, ce jeu m'a un peu déçu. La conception
+des niveaux est sympa, et il n'y a pas deux niveaux identiques,
+mais il y a un je-ne-sais-quoi qui fait qu'on ne s'y attache pas
+spécialement. On y joue, on le finit, on l'oublie...
+
+La traduction s'est faite assez vite, et il ne manque que les
+titres des écrans "Stage select" et "result" de l'écran bonus.
+Contrairement à certains patches sur lesquels j'avais travaillé,
+celui-ci ne m'a pas procuré beaucoup de plaisir.
+
+Ca se sent, non ? Et d'autant plus que je me suis aperçu 10 jours
+plus tard qu'un bug graphique s'était glissé subrepticement
+dans la rom, et il a fallu que je refasse tout depuis zéro,
+et ça m'a bien gavé.
+
+Allez hop! On passe à autre chose...
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]------------------------------------[Adresse]-----[Valeur]---
+Energie infinie                                 0520          80
+Vie de la Terre à 20% lors du combat final      003D          20
+
+/!\ Informations relatives à l'utilisation des codes de triche :
+
+- Désactiver le code de l'énergie infinie à la fin du niveau
+pour éviter un plantage
+- Le code pour empêcher la Terre d'exploser ne doit être activé
+que pour le dernier combat et doit être désactivé à la mort
+du boss.
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Zen - Intergalactic Ninja.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Zen - Intergalactic Ninja (E).nes
+  Taille de la rom: 262 160 octets
+  Rom avec Header ? Oui
+  CRC de la rom   : D9381047
+  CRC rom patchée : 2C6BB64A
+
+Le patch a été créé avec Ips XP 1.11 et a été testé avec les émulateurs suivants :
+  FCeu XD SP [x]		NesTicle   [ ]
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

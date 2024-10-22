@@ -1,0 +1,78 @@
+Wolfburner presente :
+
+			* ALIEN VS PREDATOR *
+					(AvP)
+
+	Version Snes Traduit de L'anglais vers le Francais
+
+
+*** V1.1 ***
+Le 22 Janvier 2013 à 19h30.
+
+Petite histoire : après être retombé sur cette vieille traduction, j'ai eu un quart d'heure nostalgie et l'ai relancée...
+Et la terrible constat... Le jeu est toujours aussi mauvais, et la traduction l'est également.
+J'ai donc décidé de retraduire certains passages, et de corriger quelques fautes 12 ans après la sortie de la première traduction.
+
+Donc au programme de cette 1.1 (outre les corrections syntaxiques):
+-Traduction du menu des options. Et oui ! Il y a un menu des options que personne ne voit jamais (cf. une video youtube d'un test de ce jeu). Pour y accèder il faut appuyer sur bas à l'écran d'accueil du jeu.
+-Traduction du menu caché de selection des niveaux (dans le menu des options : appuyez sur L+R+X+A de la deuxième manette, et sur start de la manette 1).
+
+Je n'ai pas retouché à la traduction de la toute fin du jeu. De toute façon si vous arrivez jusque la c'est que vous êtes déjà suffisamment masochiste pour supporter quelques erreurs de traduction :)
+
+Au fait : en me baladant dans le code j'ai trouvé les traces d'un mode 2j et d'un système de password. Je sais pas ce que le mode 2j aurait pu donner. Le jeu aurait peut être été plus fun.
+
+
+Bon jeu !
+
+Au besoin la boite mail citée plus bas fonctionne toujours.
+
+
+*** V1.0 ***
+-Debut du projet : Samedi 15 Juillet 2000 à 23h00
+-Fin   du projet : Mercredi 19 juillet 2000 à 2h15 du matin
+
+==================================================================
+=Spécificité du jeu :                                            =
+=	Style            : Beat them all                         =
+=       Nombre de niveau : 7 ?                                   =
+=	Support          : Snes                                  =
+=       Année            : 1993                                  =
+=       Editeur          : Activision                            =
+=       Checksum         : BAD ( impossible de trouver une )     =
+=                      (Version anglaise ayant un good checksum) =
+==================================================================
+
+	Ceci est ma premiere traduction de Rom, à force de voir trop de bon jeu existant en emultation et n'etant pas traduit je me suis decidé à mis mettre :)
+	Mais comme il faut marcher avant de courrir j'ai commencé par simple ( tres simple ) en effet le texte de cette rom apparait en Ascii, et les programmeurs ont laissé beaucoup de place entre les phrases, ce qui m'a permis de les allonger sans probleme.
+	
+	Pourquoi AVP ? tout d'abord car je suis un Fan de AVP sur PC, ainsi que d'alien et de predator en general.La premiere fois que j'ai joué a ce jeu je l'ai trouvé bidon, totalement nul a chier...Mais il s'est avéré qu'il s'agissait de la version japonnaise et lorsque j'ai decouvert la version amerciaine quelle ne fut pas ma surprise en voyant les ameliorations que les programmeurs avaient apporté.
+
+	Ce n'est toujours pas un jeu trancendant mais il est tout de même sympa !
+=================================================================
+Traduction effectuée :
+	-Intro
+	-Scenes intermediaires
+	-La Fin et les Credits
+	-"Lives" remplacé par "Vies" dans le jeu
+	-...
+
+Bas je vois pas ce qu'il y a de plus a traduire dedans
+
+Le jeu n'a pas subit de BETA Test donc j'attend vos critiques et corrections
+
+================================================================
+Merci à :
+	Uvatha pour m'avoir aider a traduire quelques expressions obscures.
+	Adeline pour avoir commencé à corriger mes fautes d'ortho ( faut finir :) )
+	Pengui et son Dico
+	Curufea ( pour son aide )
+	L'enfant du Demon pour etre l'enfant du demon
+	Kangooo pour son aide egalement
+	T.R.A.F. pour son formidable guide de la traduction
+
+Me contacter
+	UIN : 20 811 494
+	Email : Wolfburner@wanadoo.fr
+	Site Web : http://www.multitmania.com/wolfburner
+
+Prochains projets : Alien3 & Spike Mac Fang sur Snes

@@ -1,0 +1,83 @@
+¤=============================================¤
+¤                                             ¤
+¤ RETRADUCTION FRANCAISE DE "SKYBLAZER"(SNES) ¤
+¤                                             ¤
+¤=============================================¤
+Version 1.0 (24/01/2014)
+
+
+L'équipe du projet:
+-------------------
+
+Responsable du projet : 4ph
+Traduction du script : Happexamendios, l'éternel amoureux de Barbie.
+Traduction des lieux et des pouvoirs : Lestat.
+ROMhacking : 4ph.
+Décompression et compression de l'écran titre : BahaBulle.
+
+
+1- L'histoire en quelques mots.
+-------------------------------
+
+Vous êtes Sky, le dernier descendant libre.
+Votre mission, si vous l'accepter... Ho, je m'égare...
+est de délivrer la jeune magicienne du doux nom d'Arianna.
+Il vous faudra affronter Ashura dans un combat à mort, afin 
+de mettre un terme à son emprise tyrannique.
+
+
+2- Pourquoi ce patch.
+---------------------
+
+En fait, l'ancien patch sorti en 2000 par Ryusan était incomplet et
+comportait des erreurs. Soit dit en passant, la version anglaise 
+en avait également.
+
+
+3- Ce qui a été fait.
+---------------------
+
+Script: 100%
+Lieux: 100%
+Pouvoirs: 100%
+Graphismes: 100%
+Crédits: 100%
+
+
+4- Comment appliquer le patch:
+------------------------------
+
+Utiliser votre patcheur favori pour l'appliquer.
+Le patch IPS "SKYBLAZER_FRA" s'applique sur la ROM Skyblazer(E).
+Taille de la ROM : 1 048 576 octets.
+Taille de la ROM, après patchage : 1 572 864 octets.
+ 
+ 
+5- Remerciements:
+-----------------
+
+Toutes les personnes qui ont participés à ce projet.
+
+La TRAF et son forum qui m'ont apporté et appris beaucoup de
+choses sur le ROMhacking.
+
+Ma femme, pour sa patience ;)
+
+
+6- Les projets:
+---------------
+
+La traduction française de Xak - The Art of Visual Stage. Traduit
+directement du japonais en français par Spring. Le patch a pris
+un peu de retard, mais je fignole différentes choses. Patience,
+il arrive...
+
+J'ai aussi d'autres projets en cours, mais il est trop tôt pour
+en parler.
+
+Merci d'avoir lu ce Lisez_moi jusqu'au bout.
+
+À très bientôt,
+
+
+4ph.

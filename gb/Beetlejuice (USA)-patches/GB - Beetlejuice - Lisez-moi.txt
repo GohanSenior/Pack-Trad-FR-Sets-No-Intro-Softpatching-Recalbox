@@ -1,0 +1,63 @@
+				Génération IX (http://generation9.kanshima.net)
+
+			 vous présente la traduction de Beetlejuice sur Gameboy
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre : Beetlejuice
+Console : Gameboy
+Développeur : LJN
+Date : 1991
+Genre : Plate-forme
+
+
+\ ETAT DE LA TRADUCTION : Patch Bêta créé le 1er Novembre 2004
+ \___________________________________ 
+
+Des graphismes n'ont pas été traduit comme le "weird world tour" que l'on peut trouver
+au début et à la fin du jeu.
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack : BahaBulle
+Traduction : GreatSkaori
+Bêta-Test : BahaBulle, GreatSkaori, ColibriAlpha
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Le Patch GB - Beetlejuice - Bêta.ips est à appliquer sur la rom Beetlejuice (U).
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher. 
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils 
+peuvent créer une sauvegarde de la rom avant de patcher). 
+Voilà maintenant votre rom avec les modifications apportées par notre traduction. 
+
+
+\ HISTORIQUE DE LA TRADUCTION
+ \____________________________
+
+BahaBulle a eu la bonne idée de sortir des patchs pour Halloween.
+BahaBulle a eu la mauvaise idée d'avoir cette bonne idée le 30 Octobre au milieu
+de l'après-midi.
+Beetlejuice semble un choix tout indiqué pour cette fête d'Halloween.
+Heureusement, le jeu est petit alors on a pu faire ça assez vite, mais on arrive
+quand même avec un jour de retard! :)
+
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum : http://www.bessab.com/viewforum.php?f=12
+Hacking : BahaBulle (bahabulle@hotmail.com)
+Traduction : Greatskaori (greatskaori@yahoo.com)
+Bêta-Test : ColibriAlpha (ColibriAlpha@aol.com)

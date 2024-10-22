@@ -1,0 +1,55 @@
+Last Action Hero (Mega Drive)
+Traduction en Français v1.0 (12/11/2020)
+(C) 2020 Traduction Alucard73
+
+---------------
+Histoire du Jeu
+----------------
+Last Action Hero est inspiré du film du même nom mettat en scène Arnold Schwarzenegger. 
+Vous êtes Jack Slater, un héros de films d'action, qui doit tout faire pour empêcher le 
+cruel Benedict de s'emparer du ticket de cinéma magique, permettant de passer de l'écran 
+à la réalité.
+
+-----------------
+Ce qui a été fait
+-----------------
+Script    : 100 %
+Graphismes: 0 %
+
+--------------------
+Notes et Bugs connus
+--------------------
+Normalement aucun.
+Si vous rencontrer un bug, vous pouvez me contacter sur le Forum de la Traf.
+
+--------------------------
+Instructions pour le patch
+--------------------------
+Au format, vous pouvez utiliser LunarIPS ou Floating IPS.
+Archive utilisée:
+
+Last Action Hero (USA, Europe).md
+
+MD5: 960d31f44cc668d331d2711dd7def19d
+SHA1: 8EFA876894C8BFB0EA457E86173EB5B233861CD0
+CRC32: 15357DDE
+Size: 1048576
+
+-------
+Credits
+-------
+Alucard73 - Hacking, traduction et tests.
+
+-----------------
+REMARQUES LEGALES
+-----------------
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.

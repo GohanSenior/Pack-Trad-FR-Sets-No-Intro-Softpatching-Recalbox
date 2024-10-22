@@ -1,0 +1,31 @@
+
+---- Traduction FR de Hebereke (Ufouria) ----
+
+
+Plateforme : Famicom / NES
+
+
+------------------
+
+Traduction : Blyn
+Hack : Blyn
+
+------------------
+
+Ce qui a été traduit :
+
+- Menus 100%
+- Dialogues 100%
+
+Le script FR conserve le nom des personnages de la version originale.
+
+------------------
+
+Le patch est à appliquer sur la rom Hebereke (J).nes (CRC 2A137974)
+
+Utilisez LunarIPS pour appliquer le patch :
+http://fusoya.eludevisibility.org/lips/
+
+------------------
+
+

@@ -1,0 +1,123 @@
+			Génération IX (http://generation9.kanshima.net) 
+			  vous présente la traduction gélatineuse de
+					CLAYMATES
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre	: Claymates
+Console	: Super Nintendo
+Développeur : Visual concept
+Date	: 1994
+Genre	: Plates-formes
+
+
+\ ETAT DE LA TRADUCTION : Version 1.0 créée le 16/07/2009 
+ \________________________________________________________ 
+
+Voici un jeu que j'avais au début pris pour "Clay fighter", le célèbre jeu de baston où l'on incarne
+des combattants en pâte à modeler. C'est en voyant l'intro que je me suis dit "Tiens ? C'est pas les
+personnages dont j'avais souvenir... Qu'est ce que c'est que ce truc ?"
+
+Une fois la vague histoire dévoilée, je me retrouvais donc nez à nez avec une rom colorée et a priori
+destinée au ch'tits n'enfants bien sages. Quelques niveaux plus tard, mon discours ne fut plus le même,
+mais oscilla du côté "@$~# de ù*$^£ ! RAAAAAH !! Quelle <#&°= !" et autres insanités pour lesquelles
+l'association "Familles de France" me crucifierait sans hésiter.
+
+En effet, sous son habillage élégant et charmeur, se trouve un jeu somme toute assez vicieux !
+Les premiers niveaux sont assez faciles, mais on tombe vite dans l'horreur : des téléporteurs qui
+vous font revenir au début du jeu, des monstres qui se cachent, des interrupteurs à bien activer,
+car si on en oublie un on est niqué ! Bref, ça ferait péter les plombs à une armée de moines
+boudhistes sous Tranxen!!
+
+Je ne parlerai pas du fait que tout cela se fait en temps limité et qu'il n'y a ni password ni
+système de sauvegarde, histoire de ne pas faire fuir le client; mais je traiterai plus du fait
+que le principe du jeu se base sur la capacité du héros (Clayton) à changer de forme presque
+à volonté. Chaque mutation a son intérêt (le chat peut grimper aux troncs d'arbres, la souris
+se faufile dans les petits passages, le poisson peut nager indéfiniment.) Reste l'espèce de
+canard dont je n'ai pas trouvé l'utilité (en même temps, sans notice c'est pas facile, et ma
+Freeboîte ayant grillé, j'ai pas pu chercher sur internet...)
+
+
+Bref, le jeu est assez long et pas mal foutu. Les niveaux sont de plus en plus complexes mais
+les concepteurs ont eu la bonne idée de permettre de gagner facilement pleins de vies (j'ai fini
+le jeu avec 22 vies en stock), mais toujours est il que la savestate est parfois vitale ici.
+Les décors vous feront voyager dans différents pays (le japon, le pacifique et même l'espace!)
+et les musiques sans être transcendantes collent bien au jeu sans être trop envahissantes.
+
+
+J'ai oublié de préciser que ce jeu n'est pas qu'un bête plates-formes à la Mario. En effet, après
+chaque niveau vous libérez 2 droïdes qu'il faut arriver à diriger (en manipulant des éléments
+de décor) vers une hache ou une bombe afin qu'ils puissent vous libérer le chemin vers
+le niveau suivant. A noter que si les robots se sont coincés et ne peuvent plus vous permettre
+de sortir, il faut refaire le niveau...
+
+
+En ce qui concerne la traduction, le jeu ne comporte pas des tonnes de script, mais tout a été
+fait. Il y'a juste le "YES/NO" de l'écran de fin de partie qui n'a pas été trouvé et le "Starring"
+et "Press start!" de l'écran titre. De même, il y'a 2 morceaux de texte dont je n'ai pas pu
+tester la traduction pour la bonne et simple raison que je ne les ai jamais vus à l'écran !!!
+
+Je tiens à prévenir les puristes que je me suis permis quelques jeux de mots aussi douteux
+que lamentables sur les noms des niveaux. La version US ayant fait pas mal de gags en utilisant
+le terme "Clay" (je vous laisse aux bons soins du Harrap's pour la traduction française),
+j'ai donc été parfois soumis à des choix cornéliens pour franciser tout ça. J'espère que
+le résultat sera à la hauteur et vous amusera autant que moi (ce qui n'est pas forcément
+gagné...)
+
+Sur ce, je vous souhaite un bon amusement avec ce jeu qui, je l'espère, vous apportera autant
+de fun que j'en ai eu. Il m'a quand même fallu  1 jour et demi pour terminer les quelques
+niveaux du jeu en trichant comme un sauvage !
+
+
+\ CODES DE TRICHE 
+ \________________
+
+Voici le seul code que j'ai pris la peine de chercher pour ce jeu.
+J'ai pas pris la peine d'en chercher d'autres, j'en avais pas besoin :p
+
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Temps infini		7EF702		55
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack 	  : Happexamendios
+Traduction: Happexamendios
+Bêta-Test : Happexamendios
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Le patch "SNES-Claymates-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Claymates (E)[!].smc
+  Taille de la rom: 1 048 576 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 3A571132
+  CRC rom patchée : EA1EF406
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  BSnes          [ ]		SNes9X 1.51    [x]
+  Snes 9X 1.43   [ ]		Snes 9X 1.53   [ ]
+  Snes 9x Geiger [ ]		Snes GT        [ ]
+  ZSnes          [ ]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+Site Web : http://generation9.kanshima.net 
+Forum : http://www.bessab.com/viewforum.php?f=12 

@@ -1,0 +1,123 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                            Dynamite Headdy
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Dynamite Headdy
+Console		: Master System
+Développeur	: Tec Toy
+Editeur		: SEGA
+Date		: 1994
+Genre		: Plates-formes
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 18/02/2015) :
+ \_________________________________________________________________
+
+Dynamite Headdy est le genre de jeu qu'on pense dédié aux gamins
+en bas âge : des couleurs flashys, un héros avec une bonne tête,
+des premiers niveaux colorés et enfantins...
+
+Erreur fatale !
+
+Sous ses aspects enfantins, ce jeu cache quelques défauts des
+plus rédhibitoires (surtout pour un jeune public) mais nous
+y reviendrons.
+
+Commençons par le début, à savoir l'histoire : Headdy est une
+espèce de marionette dont la tête peut être lancée dans de
+multiples directions à l'instar des poings de Rayman.
+
+Headdy rentre donc chez lui et se rend compte que ses amis ont
+été enlevés par le vil roi démon qui a également transformé
+les habitants en serviteurs.
+
+Notre héros va donc devoir traverser plusieurs niveaux afin de
+ramener la paix dans le village.
+
+Les niveaux sont assez courts et variés pour ne pas créer
+de lassitude, bien que les thèmes soient rebattus à outrance
+(la forêt, une tour à grimper, une ville...)
+
+Afin de mener sa quête à bien, Headdy pourra changer de tête
+afin de bénéficier de nouvelles capacités (tête blindée,
+sauts plus longs, aura d'étincelles... Il y a même un bonnet
+de nuit qui fait roupiller quelques secondes et régénérer
+la jauge de santé.)
+
+Ces aptitudes ne seront pas de trop pour achever le jeu, mais
+il faudra également une sacrée dose de patience, de précision
+et de persévérance.
+
+En effet, ce jeu n'offre en tout et pour tout que 3 vies pour
+être terminé et les vies et les bonus de santé sont extrêmement rares.
+Ca ne poserait guère de soucis s'il y avait un système de
+code ou de continue, mais non ! Pourquoi faire ??
+Résultat, on en est réduit à tenter de tricher comme un gros
+gruïk à grands renforts de Savestates et de codes Action Replay...
+
+Ce problème majeur et le fait que le concept des têtes
+interchangeables ne soit pas plus utilisé gâchent donc
+ce qui aurait pu être une très bonne expérience de jeu,
+car malgré un scénario prétexte cette petite rom mériterait
+largement sa place au soleil.
+
+Quelque chose me dit que les développeurs ont sûrement axé
+leurs efforts sur la version Megadrive aux dépens de
+la Master System et c'est bien dommage...
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Vies infinies          00c013          13
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Dynamite_Headdy.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Dynamite_Headdy.sms
+  Taille de la rom: 524 288 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 7DB5B0FA
+  CRC rom patchée : 84809490
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  Emukon      [x]		Kega Fusion [x]
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

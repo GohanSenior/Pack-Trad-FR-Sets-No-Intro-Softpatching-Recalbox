@@ -1,0 +1,114 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                             Bucky O'Hare
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Bucky O'Hare
+Console		: Nintendo NES
+Développeur	: Konami
+Editeur		: Konami
+Date		: janvier 1992
+Genre		: Plates-formes
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 01/10/2015) :
+\_________________________________________________________________
+
+Je venais de me finir la traduction de "Zen - Intergalactic Ninja
+et je me suis dit qu'après un jeu pareil, il me fallait une petite
+rom pépère, histoire de me remettre du choc du jeu précédent.
+Cruelle erreur...
+
+Attention, le jeu n'est pas une daube, loin de là, mais il est dur.
+La difficulté est progressive, certes, mais les derniers niveaux
+sont assez ardus pour faire perdre patience à une armée de moines
+boudhistes...
+
+L'histoire est simple et met en scène Bucky O'Hare, un lapin
+vert de science-fiction qui a vu le jour dans une série de
+comics, puis sous forme de dessin animé.
+
+Dans ce jeu, Bucky et ses amis sont capturés par les méchants Krapos
+et le lapinou vert fluo va donc parcourir le vaisseau mère ennemi
+afin de les libérer.
+
+Le gameplay repose sur l'utilisation adaptée des-dits personnages,
+car chacun a ses propres capacités. L'un peut détruire la glace,
+l'autre peut grimper au mur, et ainsi de suite...
+
+Le jeu est vraiment sympa, et hormis sa difficulté parfois
+assez rebutante, on passe un bon moment.
+La jouabilité est très bonne et le jeu ne souffre pas trop de
+ralentissements ou de clignotements redhibitoires.
+
+Bref, un bon jeu pour occuper le week end.
+
+La traduction est complète, hormis l'écran annonçant le niveau.
+Etrangement, je n'ai pu trouver que la moitié des noms des niveaux,
+et impossible de savoir où se trouve le reste !!
+Ce qui me rassure, c'est que je ne suis pas le seul, car en testant
+les autres traductions de ce jeu (suédoise, chinoise et russe),
+ben c'était pareil !
+
+Tout le reste est fait, bien qu'il me semble que les textes ne
+coïncident pas toujours avec l'action. Quelque chose me dit que
+les développeurs manquaient de temps ou de place pour mieux
+scénariser les scènes....
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+energie infinie        05a0          20
+vies infinies          004c          02
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Bucky O'Hare.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Bucky O'Hare (U) [!].nes
+  Taille de la rom: 262 160 octets
+  Rom avec Header ? Oui
+  CRC de la rom   : CB0DE10E
+  CRC rom patchée : 854B2C54
+
+Le patch a été créé avec Lunar IPS et a été testé avec les émulateurs suivants :
+  FCeu XD SP [x]		NesTicle   [ ]
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

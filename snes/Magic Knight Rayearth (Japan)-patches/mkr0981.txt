@@ -1,0 +1,31 @@
+_____________________________________________________________________
+4 décembre 2019
+
+Mise à jour flash par Ingo
+- suppresion du besoin de patcher préalablement la rom en anglais
+- suprresion du besoin d'ajouter un header
+- correction du checkum
+
+patch à appliquer sur :
+Magic Knight Rayearth (J).smc
+sans Header
+CRC32 de la rom : EDE4B627
+
+_____________________________________________________________________
+24 Novembre 2000
+
+Traduction de : Magic Knight Rayearth (Snes)
+Du groupe : Arkana
+
+Ce patch doit etre applique sur la version anglaise du jeu.
+
+Dans cette nouvelle version du patch le script de reinsertion a ete
+modifie.De ce fait un bogue qui faisait planter le jeu a ete retire
+mais il arrive que le point final d'un texte soit efface.
+La traduction a ete revue jusqu'a la fontaine d'Eterna.
+Les menus, objets et monstres n'ont pas encore ete traduits.
+
+Hacker principal : Zeograd
+Hacker secondaire : Undine
+Traducteur principal : Undine
+Traducteur secondaire : Ifrit

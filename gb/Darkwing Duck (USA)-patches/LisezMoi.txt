@@ -1,0 +1,69 @@
+Darkwing Duck (Game Boy)
+Traduction en Français v1.02 (07/02/2022)
+
+Ceci est ma deuxième traduction
+
+------------------------
+Genre: plateforme
+------------------------
+Disney's Darkwing Duck est un jeu d'action Plates-Formes en 2D tiré de la sérié 
+télévisée Myster Mask créée par Disney.
+
+------------------------
+CONTENU DE L'ARCHIVE ET UTILISATION
+------------------------
+Normalement, l'archive ZIP doit contenir:
+Darkwing Duck (Fr)V1.02.ips - Le patch IPS de Darkwing Duck
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+comme LumarIPS.
+Ce patch est à utiliser avec la rom
+Darkwing Duck (USA).gb
+131072 bytes
+CRC 32: 238B9646
+SHA256: 122A1D3BD99C87A337F770FBDEF2B7CF8538673DF1595585AF6684D4D4807614
+
+ROM patché:
+Taille: 131072 octets (128 KiB)
+CRC32: 81401EF6
+SHA256: F7C604279372656F7C7442E41E86F76DFF0E52A68DDF4F655474F89D280D8675
+
+--------
+TRADUCTION
+--------
+Yoda07: texte, GFX
+
+V1.01: traduction du gfx HELP--> à l'aide
+mise en forme du texte, suppréssion des abréviations et corrections
+de fautes d'orthographe.
+
+V1.O2: légère correction
+----------------------------------------------------------------
+CONTACTS
+----------------------------------------------------------------
+Une remarque, une question ou une correction à apporter à la
+traduction de Darkwing Duck.
+
+Yoda07 - juin-2010@hotmail.fr
+
+----------------------------------------------------------------
+REMARQUES LEGALES
+----------------------------------------------------------------
+Le patch de traduction française de Darkwing Duck n'est
+pas officiel et n'est pas supporté par Capcom ou Nintendo.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !

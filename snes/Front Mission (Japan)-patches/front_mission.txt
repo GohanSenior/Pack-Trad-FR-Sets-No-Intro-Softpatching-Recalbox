@@ -1,0 +1,15 @@
+
+
+███████╗██████╗░░█████╗░███╗░░██╗████████╗         ███╗░░░███╗██╗░██████╗░██████╗██╗░█████╗░███╗░░██╗
+██╔════╝██╔══██╗██╔══██╗████╗░██║╚══██╔══╝         ████╗░████║██║██╔════╝██╔════╝██║██╔══██╗████╗░██║
+█████╗░░██████╔╝██║░░██║██╔██╗██║░░░██║░░          ██╔████╔██║██║╚█████╗░╚█████╗░██║██║░░██║██╔██╗██║
+██╔══╝░░██╔══██╗██║░░██║██║╚████║░░░██║░░          ██║╚██╔╝██║██║░╚═══██╗░╚═══██╗██║██║░░██║██║╚████║
+██║░░░░░██║░░██║╚█████╔╝██║░╚███║░░░██║░░          ██║░╚═╝░██║██║██████╔╝██████╔╝██║╚█████╔╝██║░╚███║
+╚═╝░░░░░╚═╝░░╚═╝░╚════╝░╚═╝░░╚══╝░░░╚═╝░░          ╚═╝░░░░░╚═╝╚═╝╚═════╝░╚═════╝░╚═╝░╚════╝░╚═╝░░╚══╝
+
+
+Les fans de méca vont être ravis d’apprendre que le très bon Front mission sur Super Nintendo a été complètement traduit en Français.
+
+Ce projet a été mené en partenariat avec Mziab. Mziab a fourni une assistance sans faille tout du long. Un nombre d’heures très conséquentes a été nécessaire pour résoudre pas mal de bugs, surtout des bugs de script, de script mal affiché et parfois même qui pouvait figer le jeu lui-même. Un vrai casse-tête. Mziab a incorporé une très belle font en taille variable qui donne une nouvelle dimension au jeu. Mziab a ajouté les sous-titres dans les cutscenes dans sa version polonaise, ils étaient de base aussi dans la version japonaise. Nous avons donc pu faire la même chose pour la version française du jeu. J’ai traduit tout le script dans son intégralité en conservant les éléments de langages d’origine. Certaines parties avaient été retraduites par Mziab rendant alors le jeu encore meilleur. Les menus ont été traduits avec beaucoup de soin, les armes, objets, armures, etc. tout y est passé.
+
+Bon jeu à tous. La BadCompany. 2023.

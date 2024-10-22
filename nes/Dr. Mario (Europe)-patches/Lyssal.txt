@@ -1,0 +1,44 @@
+Dr. Mario, traduction française réalisée par Lyssal.
+
+Le patch IPS est à appliquer sur le fichier "Dr. Mario (E) [!p].nes" via un outil comme Spi disponible sur Lyssal.fr.
+
+
+Éditeurs utilisés : Olympus et YY-CHR.
+Fichier IPS créé avec Spi.
+
+
+
+
+         II
+        IIII
+       .IIII.                    _                         _
+       IIIIII                   | |                       | |
+ .I    IIIIII    I.             | |    _   _ ___ ___  __ _| |
+ I:I.  IIIIII  .I:I             | |   | | | / __/ __|/ _` | |
+I:IIIIIIIIIIIIIIII:I            | |___| |_| \__ \__ \ (_| | |
+IIIII:IIIIIIII:IIIII            \_____/\__, |___/___/\__,_|_|
+IIIII:IIIIIIII:IIIII           ===========/ |=================
+IIIIII:IIIIII:IIIIII                   |___/
+I:IIIIIIIIIIIIIIII:I
+:IIIIIIIIIIIIIIIIII:
+.IIIIIIIIIIIIIIIIII.           ==== http://www.lyssal.fr/ ====
+ IIIIIIIIIIIIIIIIII
+ I:IIIIIIIIIIIIII:I
+  IIIIIIIIIIIIIIII
+   IIIIIIIIIIIIII              LOGICIELS LIBRES
+    .I:IIIIII:I.               JEUX GRATUITS
+     IIIIIIIIII                EMULATION
+    .IIIIIIIIII.               LINUX
+    IIIIIIIIIIII               ETC
+   .IIIIIIIIIIII.
+   IIIIIIIIIIIIII
+   IIIII:II:IIIII
+  .IIIIIIIIIIIIII.             Lyssal.fr est un recueil de logiciels et de jeux vidéo
+  I:II::IIII::II:I             dont le dénominateur commun est la gratuité.
+  I:  :IIIIII:  :I
+      .IIIIII.
+       IIIIII
+       IIIIII
+       IIIIII
+        IIII
+         II

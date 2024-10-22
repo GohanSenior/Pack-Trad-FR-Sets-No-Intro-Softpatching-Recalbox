@@ -1,0 +1,96 @@
+
+
+				Lex et GreatSkaori
+
+				      présentent :
+
+		En exclusivité pour Génération IX (http://generation9.uhrft.org)
+
+				C a s t l e v a n i a  2
+
+
+
+
+Nom du jeu : Castlevania 2, Simon's Quest.
+Développeur : Konami
+Année de sortie : 1988
+Plate-forme : Nes
+Type : Chasseur de vampire en 2D
+
+
+
+Sommaire
+
+--Carnet de bord du Capitaine
+--Quelle drôle d'idée
+--Versions du patch
+--Bugs Connus
+--Générique de fin
+--En cas de pépin
+
+
+
+-- Carnet de bord du Capitaine : Mercredi 25 Juin 2003
+
+
+
+Vous venez de télécharger le fichier zip de traduction de Castlevania 2 sur nes.
+Ce fichier zip contient 2 fichiers, dont un que vous êtes en train de lire actuellement, malgré
+son titre, vous êtes une personne sage et ça nous plaît!
+
+L'autre fichier, "Simon-bêta.ips" n'est autre que le patch de traduction, à appliquer sur une rom américaine.
+(Castlevania 2 - Simon's Quest (U).nes)
+
+
+
+--Quelle drôle d'idée
+
+Au mois de décembre 2002, metallines est venu me voir et m'a proposé de bosser sur ce jeu. Il
+savait que je l'aimais beaucoup et a voulu me faire plaisir. J'ai traduit le script et ensuite on l'a
+modifié de façon à pouvoir garder des majuscules et des minuscules. Tout marchait très bien, il
+ne restait que peu de choses à faire, et meta a de nouveau eu des problèmes de connexion et
+a disparu.
+Plus tard, son ami kAiNz est arrivé et a voulu finir ce jeu. On a repris le travail, fignolé le tout, mais
+lui aussi a disparu dans les abîmes de l'inconnu...
+Alors il y a quelques jours, après que lex et moi ayons terminés les megamans, je lui ai demandé
+si il voulait bien finir le peu de choses qu'il restait à faire sur le jeu.
+Il a accepté, le patch est prêt!
+
+Je dis à nouveau un énorme merci à meta, kAiNz et Lex :)
+
+
+-- Versions du patch :
+
+-> Version Bêta du 25 Juin 200.
+
+Tout a été fait.
+
+Utilisez le patch "Simon-bêta.ips" sur la rom "Castlevania 2 - Simon's Quest (U).nes"
+
+
+-- Bugs Connus
+
+Aucuns à notre connaissance
+
+
+
+-- Générique de fin
+
+Au hacking : metallines, kAiNz, Lex
+A la trad : GreatSkaori
+Au béta-test : Lex, GreatSkaori
+
+
+
+-- En cas de pépin
+
+On ne sait jamais, y a toujours un truc qui tourne pas rond, alors n'hésitez pas à nous
+contacter via le forum ( http://forum.bessab.net/viewforum.php?f=12 )
+Ou par mail :
+
+Lex :a_riv777@yahoo.fr
+GreatSkaori : GreatSkaori arobase yahoo point com
+
+Le nom de ce fichier texte est (C) Dark Schneider ^__^
+
+http://generation9.uhrft.org

@@ -1,0 +1,119 @@
+01/02/2003
+
+TERMINUS TRADUCTION présente FINAL FANTASY 3 RC1 (NES)
+Traduction française v1.00
+
+----------------------------------------------------------------
+***********************Table des matières***********************
+----------------------------------------------------------------
+
+1.	L'HISTOIRE DE FINAL FANTASY 3
+2.      CONTENU DE L'ARCHIVE ET UTILISATION
+3.      LES PATCHS PUBLIES
+4.	TOUT CE QUI A ETE FAIT
+5.	L'ÉQUIPE DE LA TRADUCTION
+6.      CONTACTS
+7.	REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  L'HISTOIRE DE FINAL FANTASY 3
+----------------------------------------------------------------
+
+Il était une fois, quatre jeunes garçons qui trainaient dans une 
+grotte et qui tombèrent accidentellement dans un trou sur leur 
+chemin . Ils atterrirent avec un bruit sourd...
+Ainsi commence Final Fantasy 3.
+Sorti en 1990 sur Nes, cet opus est le premier de la série à
+rencontrer un grand succès. C'est dans cet épisode que l'on
+voit apparaître pour la première fois des créatures aussi
+insolites qu'attachantes : les chocobos.
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir :
+
+ff3 jap-fr.ips  - Le patch IPS de Final Fantasy 3 version française
+LisezMoi.txt    - Le fichier que vous êtes en train de lire
+
+L'utilisation du Terminus Patcher, qui est disponible sur notre
+site, est recommandée pour utiliser notre patch. Ce Patcheur est
+très rapide du fait de sa programmation en assembleur, et pèse
+6 ridicules kilo-octets !
+
+----------------------------------------------------------------
+3.  LES PATCHS PUBLIES
+----------------------------------------------------------------
+
+1.00 - 26/03/2003
+
+Première version du patch de Final Fantasy 3 en français
+sur NES.
+
+----------------------------------------------------------------
+4.  TOUT CE QUI A ETE FAIT
+----------------------------------------------------------------
+
+Dialogues  : 100%
+Ennemis    : 100%
+Equipement : 100%
+Graphismes : 100%
+Menus      : 100%
+
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+Nanard        : Chef de Projet, Traducteur
+Copernic      : Hacking
+NeoMithrandil : Hacking
+Nemesis       : Hacking, Béta Test
+Palpatine     : Traducteur
+Esper         : Béta testrice
+
+Je tiens à remercier Shock The Dark Mage pour le travail qu'il
+avait réalisé sur la version antérieure à celle ci.
+
+----------------------------------------------------------------
+6.  CONTACTS
+----------------------------------------------------------------
+
+Une remarque, une question ou une correction à apporter à la
+traduction de Final Fantasy 3 :
+
+Nanard  - sergelapeyre@aol.com
+
+Vous voulez mieux connaître le groupe, télécharger nos derniers
+patchs ou vous renseigner sur un projet.
+
+Site Web - http://terminus.romhack.net
+
+----------------------------------------------------------------
+7.  REMARQUES LEGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de Final Fantasy 3 n'est pas 
+officiel et n'est pas supporté par les concepteurs du jeu.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout. 
+J'espère que vous apprécierez la traduction qui vous est ici
+présentée. Dans le cas contraire, n'hésitez pas à nous contacter,
+car la traduction est potentiellement perfectible.
+
+Bon jeu
+
+Nanard

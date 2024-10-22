@@ -1,0 +1,108 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                            Buster Brothers
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Buster Brothers
+Console		: Game Boy
+Développeur	: Hudson Soft
+Editeur		: Hudson Soft
+Date		: Octobre 1993
+Genre		: Arcade
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 23/10/2015) :
+ \_________________________________________________________________
+
+Buster Brothers est un jeu d'arcade pur jus dont le concept
+est plus connu sous le nom de "Pang!".
+
+Votre héros va parcourir le monde afin de débarasser tous les tableaux
+des ballons qui l'envahissent.
+A chaque tir sur un ballon, il se divise en deux et ce jusqu'à
+atteindre la taille minimum. A ce moment là, un tir détruit
+définitivement le ballon.
+
+Le gameplay repose donc sur la bonne utilisation des armes
+disponibles et surtout sur l'esquive et la précision, car il va
+falloir être rapide et efficace pour avancer dans le jeu.
+
+Les graphismes sont lisibles et clairs, et on reconnait bien
+les différents monuments visibles dans le fond du décor.
+
+Le personnage répond bien aux commandes et les musiques sont
+variées sans être fabuleuses. Etonnament le jeu arrive à ramer,
+malgré le peu de sprites affichés à l'écran.
+Cela dit, c'est assez rare...
+
+Autre surprise de taille, en dépit d'un nombre conséquent
+de niveaux, le jeu ne propose pas de système de mot de passe.
+Ce qui peut être rebutant, surtout qu'on peut facilement
+perdre une vie dans le feu de l'action.
+
+J'ai souhaité traduire ce jeu car cela faisait un moment que
+je voulais me faire un "Pang like", et il n'a fallu qu'une petite
+matinée pour franciser cette rom.
+
+La traduction est complète et n'a pas posé de problème particulier
+à part le repointage des noms des niveaux, relativement fastidieux.
+Il me manque le "TIME" de l'écran de jeu que je n'ai pas trouvé.
+Encore un truc codé bizarrement, sûrement...
+
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Vies infinies          0xC05D          09
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Buster Brothers.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Buster Brothers (U).gb
+  Taille de la rom: 131 072 octets
+  Rom avec Header ? Non
+  CRC de la rom   : B4245CA3
+  CRC rom patchée : A735C34
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  BgB    [x]		GBEmul [ ]
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

@@ -1,0 +1,105 @@
+				-Xak: The Art of Visual Stage- Traduction Française.
+
+
+Informations sur le jeu :
+-------------------------  
+Titre original : Xak: The Art of Visual Stage
+Console : Super Famicom. 
+1989/1990 MICRO CABIN co.
+1993 SUNSOFT
+1993 TOKAI ENGINEERING
+
+
+Découvrez ce jeu sorti seulement au Japon traduit dans la langue de 
+Molière.
+
+Histoire du jeu:
+----------------
+A l'origine sorti en 1989 sur micro-ordinateurs japonais, Xak est le 1er
+épisode d'une célèbre série d'action-RPG, très réputée au Japon, à l'image
+des Ys.
+L'histoire, paraît-il passionnante mais qui apparaît comme très
+classique dans ce 1er épisode, raconte comment le fils d'un grand héros
+part en guerre contre un puissant démon qui menace de s'attaquer à Xak,
+un monde d'heroic-fantasy dans lequel évoluent chevaliers et magiciens.
+Vu de dessus, le jeu nous permet de diriger notre héros en temps réel,
+d'attaquer à coup d'épée avec le bouton B, et de gérer son inventaire,
+utiliser des objets ou des magies (plus tard).
+On commence l'aventure dans un petit village et, après une petite "quête"
+(retrouver des lorgnons dans l'église), on reçoit de l'argent pour s'équiper
+et partir explorer le monde.
+On est alors confronté à un labyrinthe parcouru par de multiples monstres
+(blobs et squelettes tout d'abord) à occire.
+Et là accrochez-vous: Xak est un de ces jeux où on galère comme ce n’est pas
+possible tant qu’on n’a pas pris quelques niveaux d'expérience.
+Les monstres sont nombreux et font très mal.
+Mais le plus ennuyeux, c'est le fait qu'il faut être parfaitement aligné
+pour pouvoir les toucher avec son épée, ce qui est loin d'être évident
+sans un solide entraînement.
+Xak est un jeu difficile si on ne prend pas le temps de faire évoluer son
+personnage. 
+
+Equipe du projet:
+-----------------
+Hacking et conception du projet: 
+4ph
+
+Compression du script:
+Bongo'
+
+Traduction du script Japonais vers le Français: 
+Spring.
+
+Correcteur & Béta testeur:
+Musashi
+
+Utilisation du patch:
+---------------------
+Il faut appliquer le patch de traduction sur la version Japonaise du jeu.
+Le nom de la rom originale:  Xak - The Art of Visual Stage (J).smc
+Taille: 1 572 864 octets
+
+Après l'application du patch sur la rom:
+Taille: 1 572 864 octets
+
+Ce qui a été fait:
+------------------
+Le jeu est traduit à 100%
+
+Remarque:
+---------
+Au cours du jeu, il se peut que certaines phrases aient été oubliées. 
+Si vous découvrez un oubli de traduction, vous pouvez m'aider en m'écrivant en MP ou le
+signaler sur le site de la TRAF. 
+N'hésitez pas à me faire part de vos suggestions, me rapporter d'éventuels bogues, des
+fautes de Français, vos remarques ou autres.
+Vous pouvez également laisser vos commentaires sur le forum de discussion.
+
+Remerciement spéciaux à:
+------------------------
+Hiei pour la traduction de quelques textes non traduits.
+Zzoumm et sa Team pour la traduction de quelques textes de dernière minute.
+Au site de la TRAF pour tous ses conseils.
+Bongo's pour son outil de compression pour ce jeu.
+Ultimate-console.Fr  
+Toutes les personnes que j'ai pu oublier.
+
+Spécial dédicace:
+-----------------
+Je dédicace ce jeu a Ti-Dragon, car il avait en projet faire cette traduction.
+A l'époque, il m'avait donné ses notes et la table Japonaise du jeu.
+On t'AIME Ti-Dragon!!!!
+
+-ATTENTION-
+-----------
+Ce patch de traduction ne doit en AUCUN CAS être VENDU! 
+Merci d'avoir lu toutes ces informations.
+
+Version Fr V1.0
+
+4ph le 05.07.2015
+
+Edit du 13.07.2015:
+-------------------
+Version Fr V1.1
+Correction d'une faute dans le menu.

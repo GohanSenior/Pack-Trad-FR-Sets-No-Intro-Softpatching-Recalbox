@@ -1,0 +1,124 @@
+			Génération IX (http://generation9.kanshima.net) 
+		   vous présente la traduction transformiste de Super Morph
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre	: Super Morph
+Console	: Super Nintendo
+Développeur : Millenium Interactive
+Date	: 1993
+Genre	: Plates formes/réflexion
+
+
+\ ETAT DE LA TRADUCTION : Version 1.0 créé le 19/06/2007 
+ \________________________________________________________ 
+
+
+Peu motivé pour le boulot, je cherchais un petit jeu sympatoche pour me
+dérouiller l'émulateur. C'est un peu par hasard que je jettai mon dévolu
+sur Super Morph, un jeu au concept simplissime mais efficace : trouver
+la sortie !
+
+L'histoire est archi connue : un scientifique à la ramasse a conçu
+une machine zarbi qui finir par merdouiller. Le hic est que le héros se
+retrouve dans la machine et celle-ci le transforme en une boule de
+protoplasme visqueux ayant la capacité de changer de forme presque à
+volonté.
+
+Le but est donc de retrouver les engrenages de la machine qui se sont
+retrouvés dissséminés à travers les niveaux afin de la réparer et de
+retrouver forme humaine...
+
+Là où ça se corse (comme disait Napoléon), c'est que pour atteindre
+la sortie il faut travailler un tantinet du neurone. La boule de plasma
+que l'on incarne peut se transformer de 4 façons (gaz, liquide, boule
+de bowling et boule rebondissante). Dans chaque niveau, le nombre des
+transformations est limité et il faut arriver à trouver l'engrenage
+et la sortie sans dépasser le quota de mutations autorisé et avant
+la fin du temps réglementaire.
+
+J'ai bien aimé ce jeu, même si je n'ai pas trouvé grand chose à traduire
+dedans. Il est assez prise de tête pour faire réfléchir quelques temps...
+
+
+\ CODES DE TRICHE 
+ \________________
+
+Voici une fois de plus les codes Action Replay que j'ai dégotté pour ce p'tit jeu :
+
+Attention, l'utilisation de ces codes génère un petit bug graphique en bas à droite
+de l'écran de niveau lorsque l'on utilise les mutations, ainsi que l'affichage
+du nombre 3 dans l'écran de choix de niveau en lieu et place de certains engrenages.
+C'est mineur et ça n'empêche pas de jouer !
+
+A priori, pour chaque état il faut 3 codes sauf pour l'état gazeux pour lequel
+il en faut 4. Je n'ai pas cherché plus loin, mon but était simplement de tester
+la traduction beaucoup plus vite !
+
+---[Effet]-------------[Adresse]-----[Valeur]
+
+Temps infini			7EB060			89 (en décimal, sinon 59 en hexa)
+
+Balle Bondissante infinie
+code 1					7E6ABC			6
+Code 2					7EBD5A			3
+Code 3					7EBD64			3
+
+Boule de bowling infinie
+Code 1					7E6AC0			6
+Code 2					7EBD5C			3
+Code 3					7EBD66			3
+
+Etat liquide infini
+Code 1					7E6AB8			6
+Code 2					7EBD58			3
+Code 3					7EBD62			3
+
+Etat gazeux infini
+Code 1					7E6AB4			6
+Code 2					7EBD56			3
+Code 3					7EBD60			3
+Code 4					7EBD68			3
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack 	  : Happexamendios
+Traduction: Happexamendios
+Bêta-Test : Happexamendios
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "SNES-SuperMorph-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Super Morph (E).smc
+  Taille de la rom: 1 048 576 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 388F6DAA
+  CRC rom patchée : 37652997
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  BSnes          [ ]		SNes9X 1.51    [x]
+  Snes 9X 1.43   [ ]		Snes 9X 1.53   [x]
+  Snes 9x Geiger [ ]		Snes GT        [ ]
+  ZSnes          [ ]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+Site Web : http://generation9.kanshima.net 
+Forum : http://www.bessab.com/viewforum.php?f=12 

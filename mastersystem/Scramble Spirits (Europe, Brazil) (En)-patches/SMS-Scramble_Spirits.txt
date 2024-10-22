@@ -1,0 +1,108 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                           Scramble Spirits
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Scramble Spirits
+Console		: Master System
+Développeur	: SEGA
+Editeur		: SEGA
+Date		: 1989
+Genre		: Shoot'em up
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 25/03/2016) :
+ \_________________________________________________________________
+
+Comme souvent, c'est en lançant une rom au hasard que je suis
+tombé sur "Scramble Spirits", un shoot'em up des plus classiques
+sorti sur Master System.
+
+L'histoire est archie rebattue : après une guerre nucléaire qui
+a laissé l'espèce humaine exsangue, les peuples du monde se sont
+décidés à faire la paix.
+La planète vit dans le calme et la sérénité et soudain une horde
+d'aliens belliqueux apparaît des confins de l'univers pour raser
+ce qui reste du monde.
+
+Comme à chaque fois, c'est à vous qu'il revient de bombarder
+les armées extra-terrestres afin de les renvoyer au fin fond
+de l'espace à grands coups de pieds dans le derche.
+
+
+Le jeu n'est vraiment pas le meilleur de la machine ;
+les graphismes sont plus que moyens et il souffre de clignotements
+intempestifs désagréables.
+
+Pour le reste, c'est dans la moyenne : l'avion ne répond pas
+trop mal et les musiques sont sympas mais sans plus.
+Toutefois le jeu manque de bonus et de ce qui fait l'intérêt
+d'un shoot : les upgrades !
+Moi qui adore couvrir l'écran de p'tites boulettes, j'ai été
+quelque peu déçu ! A part des petits modules de tirs supplémentaires,
+le jeu n'offre pas grand chose d'exceptionnel.
+
+La traduction a été rapide et j'ai passé plus de temps sur
+la retouche du "appuyez sur start" que sur le script en
+lui-même.
+
+Par contre, je n'ai pas trouvé l'écran de décompte
+des points. Tant pis, ça sera pour une prochaine
+version du patch...
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Vies infinies          0x00C1CA         03
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Scramble Spirits.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Scramble Spirits (UE) [!].sms
+  Taille de la rom: 262 144 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 9A8B28EC
+  CRC rom patchée : 3FB297E0
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  Emukon           [ ]		Kega Fusion 3.64 [x]
+
+  
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

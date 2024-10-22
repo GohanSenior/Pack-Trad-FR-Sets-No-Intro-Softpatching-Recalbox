@@ -1,0 +1,86 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                  Twin Eagle - Revenge Joe's Brother
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Twin Eagle - Revenge Joe's Brother
+Console		: Nintendo NES
+Développeur	: Visco
+Editeur		: Romstar
+Date		: 1989
+Genre		: Action
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 23/07/2017) :
+ \_________________________________________________________________
+
+Encore un projet que j'avais complètement oublié depuis plus d'un an...
+Bon, à dire vrai, c'est encore un shoot, et c'est vrai qu'il est quelque peu
+oubliable,celui-ci.
+
+Classique parmi les classiques, il suffit de bouger son hélicoptère et
+de tirer sur tout ce qui bouge afin de venger la mort de votre frère
+tombé en territoire ennemi.
+
+Rien de bien nouveau sous le soleil, mais le jeu est sympa et même
+si les niveaux ne sont pas révolutionnaires, ils sont assez détaillés.
+
+Normalement, tout est traduit; même un truc que je n'ai pas
+vu en jeu (sûrement oublié par les développeurs).
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Vies infinies          0x00A0          03
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Twin Eagle - Revenge Joe's Brother (Fr).ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Twin Eagle - Revenge Joe's Brother (U) [!].nes
+  Taille de la rom: 131 088 octets
+  Rom avec Header ? Non
+  CRC de la rom   : FC2F727D
+  CRC rom patchée : 502F8EE7
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  FCeu XD SP [x]		NesTicle   [ ]
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

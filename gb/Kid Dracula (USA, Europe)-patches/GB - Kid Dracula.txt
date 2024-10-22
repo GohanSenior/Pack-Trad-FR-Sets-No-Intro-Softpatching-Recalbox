@@ -1,0 +1,118 @@
+			Génération IX (http://generation9.kanshima.net) 
+				vous présente la traduction de 
+					Kid Dracula
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre	: Kid Dracula
+Console	: Game Boy
+Développeur : Konami
+Date	: 1993
+Genre	: Plates-formes vampirique
+
+
+\ ETAT DE LA TRADUCTION : patch 1.0 créé le 02/08/2012
+ \_____________________________________________________ 
+
+Voici un petit jeu Game Boy dont la traduction est un peu le fruit du
+hasard, comme on dit. On m'avait proposé de faire la traduction de
+"Kid Dracula" sur nes, et en farfouillant la partie "Game Boy"
+d'un site de roms, je suis tombé sur la version GB.
+
+Ni une ni deux, je dégaine l'émulateur et l'éditeur hexa et en moins
+de temps qu'il n'en faut pour dire avipotuisfojosaklumirublijodsquemadouah
+(c'est une ville de huimofrestajskah du nord, pour les incultes),
+le jeu fut donc traduit...
+
+Ce jeu de plates-formes vous permet d'incarner le fils à Vlad Dracula
+lui-même dans 8 niveaux fort sympas.
+
+En bon gamin trop gâté, vous avez donc des larbins qui vous vénérent,
+des châteaux et surtout des pouvoirs chauve-sourisiens mais dont
+vous avez tout oublié parce que bon, quand on est le fils du big-boss,
+on va pas se faire suer les moustaches à retenir des sorts dont
+vous n'avez pas l'utilité.
+
+Hors donc, il advint que Garamoth, le méchant de service, l'a repris
+(le service) et vous décidez donc de prendre votre plus belle cape
+pour aller lui expliquer le fond de votre pensée...
+
+Votre mémoire défaillante se reformera et vous vous souviendrez 
+au fur et à mesure des niveaux de vos chers pouvoirs allant
+du lancer de bombes à la marche au plafond en passant par la
+chauve-sourimorphose de rigueur...
+
+A noter que l'utilisation des pouvoirs n'est pas toujours des plus
+pratiques : on sélectionne le pouvoir avec "select" et il faut
+rester appuyé sur le bouton "B" jusqu'à clignoter. C'est une fois
+que le personnage scintille qu'on peut relâcher "B" pour activer
+le pouvoir... C'est un coup à prendre !
+
+Le jeu en lui-même est sympa, les graphismes sont gros et bien lisibles,
+et rappelle un peu "Wario Land". Le personnage répond parfaitement et
+la difficulté est bien dosée. Les musiques sont pas mal (pour du GB)
+et variées; bref on sent la patte Konami.
+
+Rajoutons à tout ça un système de code et des minis-jeux, et vous
+obtenez un jeu jeu sans prétention, mais efficace, bref; idéal pour
+les vacances !!
+
+A noter que pour obtenir des pièces, il faut utiliser l'attaque "normale",
+rester enfoncé sur le bouton de tir et relâcher pour shooter du streum.
+Ce n'est qu'à cette condition que vous obtiendrez les sousous requis
+pour les minis-jeux...
+
+La traduction du jeu est complète. Tous les scripts sont traduits
+et testés...
+
+Allez, bonnes vacances; moi, je retourne à la piscine !!
+
+
+\ CODES DE TRICHE 
+ \________________
+
+Voici quelques codes qui pourraient vous aider dans votre quête :
+
+
+---[Effet]---------------[Code]---
+Energie infinie		0103C8C8
+Pièces infinies		0150C6C8
+50 pts au bat-filet	0137A2CC
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack 	  : Happexamendios
+Traduction: Happexamendios
+Bêta-Test : Happexamendios
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Le patch "Kid Dracula.ips" est à utiliser sur la rom suivante :
+Nom de la rom   : Kid Dracula (U)[!].gb
+Taille          : 262 144 octets
+checksum de la rom   : e64a
+checksum rom patchée : cbd3
+
+Le patch a été créé avec uips.exe et a été testé sous les émulateurs suivants :
+VisualBoy Advance 1.7.2 : oui
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher. 
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils 
+peuvent créer une sauvegarde de la rom avant de patcher). 
+Voilà maintenant votre rom avec les modifications apportées par notre traduction. 
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+Site Web : http://generation9.kanshima.net 
+Forum : http://www.bessab.com/viewforum.php?f=12 

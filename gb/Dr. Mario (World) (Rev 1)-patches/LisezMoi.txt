@@ -1,0 +1,60 @@
+Dr. MARIO DX (Game Boy/Game Boy Color)
+Traduction en Français v1.0 (10/07/2024)
+
+
+------------------------
+CONTENU DE L'ARCHIVE ET UTILISATION
+------------------------
+Normalement, l'archive ZIP doit contenir:
+Dr. Mario (FR).bps - Le patch BPS de Dr. MARIO
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+comme Floating.
+Ce patch est à utiliser avec la rom
+Dr. Mario (World) (Rev 1).gb
+Taille: 32768 octets (32 KiB)
+CRC32: F0225DD0
+SHA256: 507939ba5a53506d0ee52abb0eb6749f497c492e8be79eb106010020b50065bd
+
+
+ROM patché:
+Taille: 131072 octets (128 KiB)
+CRC32: 22ECF33B
+SHA256: e948528fba77a1a391e84e2270b9591defed0093a917a7cb7e1218a618f4ca12
+
+
+--------
+TRADUCTION
+--------
+Yoda07: menu, script, gfx: 100%
+patch basé sur le hack colorisé de marc_max, Kensuyjin33 et Da_GPer
+
+----------------------------------------------------------------
+CONTACTS
+----------------------------------------------------------------
+Une remarque, une question ou une correction à apporter à la
+traduction de Dr. MARIO DX.
+
+Yoda07 - juin-2010@hotmail.fr
+
+----------------------------------------------------------------
+REMARQUES LEGALES
+----------------------------------------------------------------
+Le patch de traduction française de Dr. MARIO DX n'est
+pas officiel et n'est pas supporté par Nintendo.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !

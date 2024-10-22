@@ -1,0 +1,170 @@
+            Génération IX (http://generation9.kanshima.net
+               vous présente la traduction dégoulinante
+                             de Boogerman
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Boogerman
+Console		: Super Nintendo
+Développeur	: Interplay
+Editeur		: Interplay
+Date		: Décembre 1995 
+Genre		: Action
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 02/08/2015) :
+\_________________________________________________________________
+
+Amis de la poésie, bonjour !
+
+Le jeu dont nous allons parler en ce jour est typiquement le genre
+de truc régressif que la morale réprouve, que les parents abhorrent,
+et que "Familles de France" veut passer au pilori.
+Je conseille donc aux sensibles, aux adeptes du raffinement et autres
+empêcheurs de se curer le nez en rond de passer leur chemin car
+nous allons plonger dans le crade et le mauvais goût outrancier.
+
+Vous avez posé votre cerveau à côté du bureau ?
+Vous êtes prêt ?
+C'est partiiiiiiiiiiii !!
+Bienvenue dans "Boogerman, une aventure morveuse" !!
+
+Sympa le costume moulant, non ? Ca vous va bien !
+Vous voici donc dans la peau de Boogerman, balayeur de son état.
+Ce héros travaille dans un laboratoire où une expérience consiste à
+envoyer les déchets de la Terre dans la dimension X-Crément.
+(Pour info, l'idée n'est pas si folle, car Danielle Evenou - une comédienne
+un peu space, pour resituer pour les plus jeunes - avait proposé en son temps
+d'envoyer le contenu des décharges dans les trous noirs)
+
+Notre balayeur s'inquiète du bien fondé de l'expérience et mettra
+son nez bien chargé dans l'affaire, ce qui n'est jamais une bonne chose.
+Propulsé dans la dimension X-Crément, il devra user de toutes ses ressources
+pour parcourir les différents niveaux du jeu afin d'empêcher le vil
+Boogermeister d'utiliser la machine à warper les déchets de conquérir la Terre.
+
+En effet, afin de se débarasser des monstres dégueux qui tenteront de
+lui barrer la route, notre héros balancera ses crottes de nez,
+émettra des rots à faire pâlir une lycéenne et flattulera à outrance.
+C'est d'ailleurs tout ce qui fait le "charme" de Boogerman, tout est axé
+sur le côté caca-prout à outrance :
+On entre dans des zones secrètes par des cuvettes de WC, les check points
+de sniveaux sont des cabanes de fond de jardin, on passe par des narines
+géantes pour accéder à d'autres zones du niveau etc, etc.
+
+La réalisation n'est pas mal du tout, même si la Super Nintendo a vu mieux
+côté graphismes. Les niveaux sont colorés et variés et on prend plaisir à
+les parcourir.
+
+La maniabilité est très bonne, bien que j'exécre la gestion des grimpers
+de corde : s'accrocher, grimper ou descendre d'une corde est parfois
+à la limite de l'insupportable (vous comprendrez ce que je veux dire
+quand vous y serez...)
+
+Les musiques sont sympa, sans être fantabuleuses, et les bruitages sont
+pas mal, même si je trouve que les voix digitalisées sont un poil faiblardes.
+
+La difficulté augmente gentiment au fil des niveaux et on ne se lasse pas
+du jeu. Un système de mot de passe est implémenté, ce qui est toujours
+pratique pour éviter de se retaper la vingtaine de niveaux du jeu.
+
+La première traducton de ce jeu date de mai 2015, et après une looooooooooongue
+période d'oubli Bahabulle a repris tout le hack et recodé ses outils,
+ce qui nous permet de vous faire profiter de cette petite perle scatophile
+dont tous les textes et les graphismes ont été traduits en français.
+
+
+\ REMERCIEMENTS :
+ \________________
+ 
+Rid pour avoir trouvé comment traduire le sous titre, ce qui n'était pas chose aisée
+Lyan pour avoir retouché ce fameux sous titre
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Vies infinies ?        0x7E0216         09
+Ventouses infinies     0x7E021A         32
+Crognouses infinies    0x7E0224         20
+Rots infinis           0x7E0226         1E
+
+/!\ Penser à désactiver les cheat codes lors du décompte des points
+à la fin des niveau pour éviter que ça tourne en boucle.
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Bahabulle
+Traduction	: Happexamendios
+Graphismes	: Lyan, Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Boogerman.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Boogerman - A Pick and Flick Adventure (U) [!]
+  Taille de la rom: 3,00 Mo (3 146 240 octets)
+  Rom avec Header ? Non
+  CRC de la rom   : 6B626F9C
+  CRC rom patchée : 5DD5822D
+
+Le patch a été créé avec SmartIPS et a été testé avec les émulateurs suivants :
+  BSnes          [ ]		Higan          [x]
+  SNes9X 1.51    [x]		Snes 9X 1.43   [ ]
+  Snes 9X 1.53   [x]		Snes 9x Geiger [ ]
+  Snes GT        [ ]		ZSnes          [ ]
+
+
+Pour vérifier le CRC32 de la rom, vous pouvez télécharger un outil à cette adresse :
+http://ffulgore.free.fr/site/f-crc/us/download.htm
+  
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12
+
+
+\ REMARQUES LEGALES :
+ \____________________
+
+Génération IX vous propose une traduction non-officielle réalisée à but non lucratif par des amateurs bénévoles.
+Elle n'est en aucun cas supportée par NINTENDO ou Interplay.
+Cette traduction est donc gratuite et ne peut être vendue sous quelque forme que ce soit (vente de fichiers
+sur CD, de cartouches modifiées, de cartouches flash copiées, etc.) : son usage commercial est par
+conséquent strictement interdit.
+
+Vous utilisez ce patch de traduction en dégageant les auteurs de toute responsabilité concernant
+d'éventuels dommages.
+
+© 2008 Génération IX
+Tous droits réservés
+
+SUPER NINTENDO® et BOOGERMAN® sont respectivement les propriétés de NINTENDO® et Interplay®.
+Les mentions légales relatives à NINTENDO se trouvent décrites dans un livret fourni avec chacun de leurs
+produits. Veuillez les lire attentivement.
+
+© 2010 NINTENDO et Interplay®
+Tous droits réservés

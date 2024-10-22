@@ -1,0 +1,61 @@
+				Génération IX (http://generation9.kanshima.net)
+
+		         vous présente la traduction de Generations Lost sur Megadrive
+
+
+\ INFOS SUR LE JEU
+ \_________________
+
+Titre       : GENERATIONS LOST
+Console     : MEGADRIVE (MD ou GENESIS)
+Développeur : PACIFIC SOFTSCAPE
+Date        : 1993
+Genre       : Plates-Formes
+
+
+\ ETAT DE LA TRADUCTION : Patch Final du 26/05/2005
+ \_________________________________________________
+
+Ce qui a été fait :
+- Extraction des scripts : 16,0 ko
+- Insertion des scripts  : 15,9 ko
+
+Ce qui n'est pas fait
+- A priori, rien :D
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE
+ \_______________________________
+
+Hack       : BahaBulle
+Traduction : James West
+Relecture  : GreatSkaori
+Bêta-Test  : BahaBulle / Nab
+
+
+\ COMMENT APPLIQUER LE PATCH
+ \___________________________
+
+Le patch "MD-GenerationsLost-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Generations Lost (JUE) [!].bin
+  Taille de la rom: 1 048 576 octets
+  Rom avec Header ? Non
+  CRC de la rom   : E941
+  CRC rom patchée : 1EAA
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+\ CONTACTS
+ \_________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web   : http://generation9.kanshima.net
+Forum      : http://www.bessab.com/viewforum.php?f=12

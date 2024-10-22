@@ -1,0 +1,49 @@
+Génération IX (http://generation9.kanshima.net)
+
+		      vous présente la traduction de CATRAP sur Game Boy
+
+
+\ INFOS SUR LE JEU
+ \_________________
+
+Titre       : CATRAP
+Console     : Game Boy (GB)
+Développeur : ASMIK
+Date        : 1990
+Genre       : Rpg
+
+
+\ ETAT DE LA TRADUCTION : Patch 1.0 du 30/06/2005
+ \_________________________________________________
+
+Ce qui a été fait : Tout. A la rigueur le titre mais bon je ne suis pas favorable ^^
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE
+ \_______________________________
+
+Hack       : KS151
+Traduction : KS151
+
+
+\ COMMENT APPLIQUER LE PATCH
+ \___________________________
+
+ATTENTION !!! Le patch est à appliquer sur la rom catrap (u) [!].gb
+              La rom doit posséder un header et doit faire 32 768 octets.
+	      Les autres roms (si elles existent) n'ont pas été testées. Il est donc possible que ça ne marche pas.
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher.
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org).
+Il suffit ensuite généralement de sélectionner la rom puis le fichier ips et de valider
+(Certains outils peuvent créer une sauvegarde de la rom avant de patcher).
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+\ CONTACTS
+ \_________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'aurraient pas été cités plus haut.
+Site Web          : http://generation9.kanshima.net
+Forum             : http://www.bessab.com/viewforum.php?f=12

@@ -1,0 +1,117 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                            Demolition Man
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Demolition Man
+Console		: Super Nintendo
+Développeur	: Alexandria
+Editeur		: Acclaim
+Date		: Aout 1995
+Genre		: Action
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 17/11/2015) :
+ \_________________________________________________________________
+
+Haaa, les bons vieux films d'action des années 90 !!
+Bon sang ce que j'adore ça :D
+On pose le cerveau à côté du canapé et on se laisse porter
+par une débauche d'explosions et de petites phrases bien senties.
+
+Passons vite sur le scénario de "Demolition Man" :
+Simon Phoenix, le plus dangereux des psychopathes ; et John Spartan,
+le plus bourrin des flics sont condamnés à l'hibernation.
+L'un pour ses crimes, l'autre pour homicide involontaire lors
+de sa tentative pour arrêter Phoenix.
+
+En 2032, Phoenix s'évade de son cryotube et émerge dans un
+monde où le crime a disparu. Le criminel s'en donne donc à
+coeur joie. Seul moyen de l'arrêter : réveiller Spartan...
+
+Le film est un bon gros délire où Sylvester Stallone et Wesley Snipes
+s'en donnent à coeur joie dans un monde qui a tellement changé
+que le papier toilette n'existe plus.
+Célèbre pour sa publicité outrancière dans toutes les scènes,
+Demolition Man est aussi connu pour ce qui doit être une des
+plus grosses enigmes du cinéma ; je veux bien entendu parler
+de l'utilisation des 3 fichus coquillages...
+Si vous avez vu le film, je veux bien la réponse, sinon jetez
+vous sur ce pur divertissement ^^
+
+La traduction de ce jeu a commencé en 2013, mais le patch final n'a
+vu le jour que 2 ans plus tard. La raison ? Ce foutu texte de
+présentation des personnages à l'écran titre !!
+Cette cochonnerie m'a bloqué longtemps, et à chaque fois que
+je me remettais dessus, je n'arrivais toujours pas à finaliser
+cette animation de texte.
+J'ai fini par laisser tomber... Je sais, c'est mal, mais j'en avais
+assez de voir ce projet traîner sur mon disque dur sans arriver
+à quelque chose de correct. Quand ça veut pas, ça veut pas...
+
+Je vous laisse découvrir le jeu, moi je vais aller me remettre
+le film :D
+
+
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Energie inf            0x7E9F30         7A
+Grenades infinies      0x7E9B32         05
+Grenades infinies 2    0x7E9FBC         04
+Vies infinies          0x7E045C         09
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Demolition man.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Demolition Man (E).smc
+  Taille de la rom: 2 097 152 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 31A1B85A
+  CRC rom patchée : 5AD9EA01
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  BSnes          [ ]		SNes9X 1.51    [x]
+  Snes 9X 1.43   [ ]		Snes 9X 1.53   [x]
+  Snes 9x Geiger [ ]		Snes GT        [ ]
+  ZSnes          [x]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

@@ -1,0 +1,119 @@
+TERMINUS TRADUCTION présente
+
+Vendredi 13
+----------------------------------------------------------------
+*******************Table des matières******************
+----------------------------------------------------------------
+
+1.    L'HISTOIRE DU JEU
+2.    CONTENU DE L'ARCHIVE ET UTILISATION
+3.    LES PATCHS PUBLIES
+4.    TOUT CE QUI A ETE FAIT
+5.    L'ÉQUIPE DE LA TRADUCTION
+6.    CONTACTS
+7.    REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  L'HISTOIRE DE Vendredi 13
+----------------------------------------------------------------
+
+Sorti en 1989 sur NES, Vendredi 13 est un jeu de survie et d'horreur
+basé sur le camp de Crystal Lake, mentionné dans la franchise des
+films du même nom.
+
+Vous contrôlez donc un des six moniteurs du camp à tour de rôle
+dans le but de protéger les enfants du camp et... non, en fait
+protéger les enfants est optionnel.
+Votre seul but, c'est de finir avec un moniteur en vie et au moins
+un enfant en vie... sur 15.
+Donc oui, si vous avez un moniteur en vie et un enfant en vie,
+vous avez gagné, félicitation.
+Tous les autres seront morts, mais bon, pas grave, vous avez gagné !
+
+Les moniteurs du camp, d'une certain façon, ce sont vos "vies",
+et les enfants sont votre "limite de temps". Pour résumer, le camp
+est assez vaste et composé d'une vingtaine de maisons éparpillées
+dans le camp. Lorsque Jason attaquera un Moniteur, vous devrez
+aller l'aider aussi vite que possible, sinon vous perdrez une vie
+sans rien faire! 
+
+Jason dispose de 3 vies. Il a une barre de vie énorme et votre seul
+couteau (voire vos cailloux, au tout début du jeu !) est suicidaire
+si vous envisagez de le vaincre trois fois avec ça. Il y a donc une
+tactique qui consiste à trouver les machettes et les couteaux de jet
+pour pouvoir éviter d'aller au corps à corps contre Jason et le tuer
+presque en toute sécurité.
+
+http://gamereview.over-blog.com
+
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir:
+Vendredi13Fr.ips  - Le patch IPS du jeu
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+(le Patcheur Terminus par exemple).
+Ce patch est à utiliser avec la ROM No-Intro:
+Friday the 13th (USA).nes
+
+----------------------------------------------------------------
+3.  LES PATCHS PUBLIES
+----------------------------------------------------------------
+
+-V1.00
+
+----------------------------------------------------------------
+4.  TOUT CE QUI A ETE FAIT
+----------------------------------------------------------------
+
+Traduction complète 
+Retouches Graphiques
+Ecran Titre
+Changement de police pour coller au jeu.
+
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+Kazan:   Hacking, Traduction, Retouches Graphiques.
+
+----------------------------------------------------------------
+6.  CONTACTS
+----------------------------------------------------------------
+
+Une remarque, une question ou une correction à apporter à la
+traduction du jeu.
+
+Kazan - newkazan@hotmail.fr
+
+Vous voulez mieux connaître le groupe, télécharger nos derniers
+patchs ou vous renseigner sur un projet.
+
+Site Web - http://terminus.romhack.net
+Facebook - https://www.facebook.com/TerminusTrad/
+
+----------------------------------------------------------------
+7.  REMARQUES LEGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de ce jeu n'est pas officiel et
+n'est pas supporté par LJN TOYS, PARAMOUNT et NINTENDO.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !

@@ -1,0 +1,96 @@
+TERMINUS TRADUCTION présente
+
+Back to the Future
+----------------------------------------------------------------
+*******************Table des matières******************
+----------------------------------------------------------------
+
+1.    L'HISTOIRE DU JEU
+2.    CONTENU DE L'ARCHIVE ET UTILISATION
+3.    LES PATCHS PUBLIES
+4.    TOUT CE QUI A ETE FAIT
+5.    L'ÉQUIPE DE LA TRADUCTION
+6.    CONTACTS
+7.    REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  L'HISTOIRE DE Back to the Future
+----------------------------------------------------------------
+
+Dans cet étrange titre, le joueur incarne un Marty McFly extrêmement pressé qui doit récupérer des horloges et traverser des niveaux semés d'embûches. Il doit en effet éviter divers dangers comme des danseuses (?), des quilles de bowling (??), ou encore des vitriers qui font des va-et-vient avec des vitres transparentes (???). Entre ces niveaux au fun on ne peut plus limité, le joueur doit également prendre part à des mini-jeux dans lesquels Marty doit repousser des ennemis en leur envoyant des verres de soda ou "briser le coeur" de sa mère en... récupérant les coeurs qu'elle lui envoie. Ça ne s'invente pas !
+
+Mais encore plus que son gameplay si particulier, ce qui traumatise vraiment dans ce jeu, c'est sa bande son. Cette dernière est en effet composée de versions chiptune véritablement désagréables de The Power of Love et Johnny B. Goode. Ces chansons ont été tellement accélérées qu'il est difficile de les reconnaître. Réussir à gâcher la bande originale de Retour vers le Futur, c'est quand même un exploit qui mérite d'être souligné.
+
+Bob Gale, co-créateur et co-auteur de Retour vers le Futur, n'a jamais caché son dégoût pour ce jeu. Il affirme par ailleurs que LJN a refusé qu'il participe à la création du jeu et que lorsque ce dernier lui a été montré, l'éditeur n'a pas accepté d'apporter les modifications qu'il réclamait. Ce qui ne surprendra certainement pas les joueurs qui ont eu des titres de LJN entre les mains dans les années 90.
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir:
+Back to the Future.ips  - Le patch IPS du jeu
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+Diverses Captures
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+(le Patcheur Terminus par exemple).
+Ce patch est à utiliser avec la US:
+Back to the Future (USA).nes
+
+----------------------------------------------------------------
+3.  LES PATCHS PUBLIES
+----------------------------------------------------------------
+
+-V1.00
+Traduction complète
+
+----------------------------------------------------------------
+4.  TOUT CE QUI A ETE FAIT
+----------------------------------------------------------------
+
+Traduction complete du jeu
+Retouches graphiques
+
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+Kazan : Hacking, Traduction
+
+----------------------------------------------------------------
+6.  CONTACTS
+----------------------------------------------------------------
+
+Une remarque, une question ou une correction à apporter à la
+traduction du jeu.
+
+Kazan - newkazan@hotmail.fr
+
+Vous voulez mieux connaître le groupe, télécharger nos derniers
+patchs ou vous renseigner sur un projet.
+
+Site Web - http://terminus.romhack.net
+
+----------------------------------------------------------------
+7.  REMARQUES LEGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de ce jeu n'est pas officiel
+et n'est pas supporté par Nintendo, BEAM SOFTWARE et LJN. TOYS TD .
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+Kazan

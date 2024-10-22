@@ -1,0 +1,59 @@
+				Génération IX (http://generation9.kanshima.net)
+
+				 vous présente la traduction de Volley Ball
+
+
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre : Volley Ball
+Console : Nintendo
+Développeur : Nintendo
+Date : 1987
+Genre : Sport
+
+
+
+\ ETAT DE LA TRADUCTION : Patch Beta 22/06/05
+ \__________________________________________________
+
+L'ensemble du texte est traduit. Il ne manque plus que le panneau d'affichage ou un 
+vilain PLAY apparaît. 
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack : KS 151
+Traduction : KS 151
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "NES-VolleyBall-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Volleyball (UE) [!].nes
+  Taille de la rom: 40 976 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 27777635
+  CRC rom patchée : E6723ED7
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum : http://www.bessab.com/viewforum.php?f=12

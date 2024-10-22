@@ -1,0 +1,122 @@
+----------------------------------------------------------------
+***********************Table des matières***********************
+----------------------------------------------------------------
+
+1.	INFORMATION SUR LE JEU
+2.      CONTENU DE L'ARCHIVE ET UTILISATION
+3.	TOUT CE QUI A ÉTÉ FAIT
+4.	L'ÉQUIPE DE TRADUCTION
+5.	REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  INFORMATION SUR LE JEU
+----------------------------------------------------------------
+
+Titre       : MarioKart 64
+Console     : Nintendo 64
+Développeur : Nintendo
+Editeur     : Nintendo
+Année       : 1996
+Genre       : Course
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+L'archive ZIP doit contenir :
+
+*Mk64 (Fr) (V1.0) [!].ips --> Le patch de traduction du jeu.
+*MARIOKART64 ---------------> Le pack des textures traduites
+*LisezMoi.txt --------------> Le fichier que vous êtes en train 
+de lire.
+
+
+A/Utilisation du patch
+----------------------
+Vous aurez besoin d'un patcheur:
+   -Lunar IPS entre autres pour windows 
+   -JIPS pour mac, linux et autres OS supportant le Java 
+
+Ce patch est à utiliser avec la rom : 
+	Mario Kart 64 (E) (V1.0) [!].z64
+
+
+B/Utilisation du pack de textures
+---------------------------------
+Ce dernier vous permettra de faire un pacthage "à la volée", 
+comprenez par là que contrairement au fichier ips qui ancrera les
+modifications de manière définitive dans votre rom, les 
+modifications graphiques se mettent par dessus sans pour autant
+les écraser. Enfin, elles ne sont compatibles qu'avec les 
+émulateurs PC fonctionnant sur un système de plugins.
+
+
+Vous pourrez remplacer les textures avec les plugins vidéo
+suivants :
+- Rice Video v6.11 Beta 10 (Rice) ou supérieur
+- Rice Video v6.1.4 (Mudlord) ou supérieur
+
+Créez un dossier "hires_texture" dans le dossier "Plugin" de votre
+émulateur, et placez-y le dossier "MARIOKART64"
+
+Lancer l’émulateur, sélectionner le plugin video « Rice Video », 
+accédez aux réglages du plugin en cliquant sur :
+- "Plugin", puis sur "Paramètres Vidéo" sous 1964
+- "Options", puis sur "Configurer le plugin vidéo" sous Project64
+- "Options", puis sur "paramétrages" video" sous mupen64++
+
+Si ce n’est pas déjà fait décochez la case «Hide Advanced Options».
+Cliquer sur l’onglet « Texture filters » et cocher la case 
+« Load Hi-res texture if available ».
+Ceci aura pour effet de rechercher dans le dossier "hires_texture"
+les textures modifiées.
+Une fois tous ceci fait, lancer l’émulateur et admirer le résultat.
+
+----------------------------------------------------------------
+3.  TOUT CE QUI A ÉTÉ FAIT
+----------------------------------------------------------------
+
+Menu             : 100 % 
+Crédits          : 100 %
+Graphismes	 :  99 %
+
+Soit une traduction globale de 99%
+
+----------------------------------------------------------------
+4.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+Corrigo : textes
+Magnio  : graphismes
+
+Si vous trouvez des erreurs dans le patch ou les textures, merci
+d'envoyer un courriel à : 
+- corrigo21@hotmail.fr pour les soucis textuels
+- magnio69@hotmail.fr pour les soucis graphiques
+
+Avec si possible une capture d'écran du problème.	
+
+
+----------------------------------------------------------------
+5.  REMARQUES LÉGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de MarioKart64 n'est pas 
+officiel et n'est pas supporté par Nintendo.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout, à bientôt et bon jeu!
+
+Corrigo et Magnio.

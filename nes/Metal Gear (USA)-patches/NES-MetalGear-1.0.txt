@@ -1,0 +1,38 @@
+	**********************************************************
+	***************G_E_N_E_R_A_T_I_O_N    I_X*****************
+	**********    http://generation9.kanshima.net/ ***********
+	**********************************************************
+	----------------------------------------------------
+	--Traduction de Metal Gear sur NES--
+	----------------------------------------------------
+==>Fait par Apoc
+                 	~~~~Attention aux problèmes~~~~
+
+Je ne suis pas responsable des dommages pouvant être
+causés par ce patch. Ce patch est GRATUIT.
+Vous ne pouvez le vendre à qui que ce soit. 
+
+==> LES VERSIONS: 
+
+	""""""""""""""""""""""""""""""''''''''''''''''''''''''''''''''''''''''''''''''''''''
+	" VERSION du Patch: v1.00 """ 18H30 24/05/01 ''
+	""""""""""""""""""""""""""""""''''''''''''''''''''''''''''''''''''''''''''''''''''''
+		+Texte         = 100% 
+		+Menu          = 100%
+		+Objets        = 100%
+
+		
+==>Comment appliquer le patch ?
+
+Le patch "NES-MetalGear-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Metal Gear (U) [!].nes
+  Taille de la rom: 131 088 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 817431EC
+  CRC rom patchée : AE62589D		
+
+==>CONTACT:
+
+La traduction a été faite par Apoc (ex-membre de GIX).
+Le patch se trouve sur le site du groupe de traducteurs: GENERATION IX
+< http://generation9.kanshima.net >

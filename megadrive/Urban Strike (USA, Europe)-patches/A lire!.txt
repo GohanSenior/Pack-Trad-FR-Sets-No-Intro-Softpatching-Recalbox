@@ -1,0 +1,58 @@
+Urban Strike (Mega Drive)
+Traduction en Français v1.0 (01/12/2022)
+(C) 2022 Traduction Alucard73
+
+---------------
+Histoire du Jeu
+----------------
+Urban Strike sur Megadrive est un jeu d'action dans lequel le joueur 
+pilote un hélicoptère de combat. Un homme du nom de H.R. Malone a lancé 
+sa propre secte et compte des millions d'adeptes. Il utilise son influence 
+et son argent pour construire une arme capable de détruire le gouvernement 
+en place. Le joueur devra contrôler différents types d'hélicoptères pour 
+contrecarrer les plans de Malone. Certains niveaux disposent aussi de phases 
+de jeu à pied.
+
+-----------------
+Ce qui a été fait
+-----------------
+Script    : 100 %
+Graphismes: 0 %
+
+--------------------
+Notes et Bugs connus
+--------------------
+Normalement aucun.
+Si vous rencontrer un bug, vous pouvez me contacter sur le Forum de la Traf.
+
+--------------------------
+Instructions pour le patch
+--------------------------
+Au format, vous pouvez utiliser LunarIPS ou Floating IPS.
+Archive utilisée:
+
+Urban Strike (USA, Europe).md
+
+MD5: 0f0be2db4084822d5514f8e34a0d1488
+SHA1: 897A8F6A08D6D7D6E5316F8047532B3E4603E705
+CRC32: CF690A75
+Size: 2097152
+
+-------
+Credits
+-------
+Alucard73 - Hacking, traduction et tests.
+
+-----------------
+REMARQUES LEGALES
+-----------------
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.

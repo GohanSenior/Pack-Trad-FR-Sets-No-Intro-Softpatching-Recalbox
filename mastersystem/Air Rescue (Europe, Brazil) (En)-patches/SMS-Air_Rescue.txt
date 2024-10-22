@@ -1,0 +1,106 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                              Air Rescue
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Air Rescue
+Console		: Master System
+Développeur	: Sanritsu
+Editeur		: SEGA
+Date		: 1992
+Genre		: Action
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 05/11/2015) :
+ \_________________________________________________________________
+
+Voici encore un jeu sur lequel je me suis fait gentiment avoir!
+Ayant aimé les jeux à la Choplifter, je me suis dit que "Air Rescue"
+allait être sympa à faire.
+Ouaip... Ben non en fait !
+
+Déjà y'a pas d'histoire! Que dalle, nibe de nibe! Que couic...
+Je me dis que ce n'est pas forcément critique ; après tout
+on sait bien ce qu'il faut faire dans ce genre de jeu :
+piloter son hélico et sauver des gugusses planqués dans
+des coins pas possibles.
+
+Ma déception a atteint son paroxysme après avoir fini les 5
+misérables niveaux sans avoir vraiment vu de texte.
+Bref, j'ai perdu quelques heures de mon temps, mais est-ce que
+ça valait la peine ?
+
+Là encore, la réponse est non !
+Graphiquement, c'est pas trop moche pour une 8 bits, mais
+côté maniabilité c'est une autre paire de pales !
+L'inertie de l'hélico est vraiment galère à gérer et ça gonfle
+assez vite.
+Autre tristesse ; l'arsenal. Lorsqu'on est posé sur la piste
+de décollage, on peut choisir son arme avec un bouton faisant
+apparaître un menu de sélection.
+Ca paraît une bonne idée, mais la moitié des armes disponibles
+ne sert à rien ! On ne se sert quasiment pas des bombes,
+trop chiantes à balancer, et seule la mitrailleuse présente
+une utilité.
+
+On l'aura compris, "Air Rescue" n'est pas une perle, loin de là.
+Le jeu est triste, les 4 ou 5 ennemis par niveau ne suffisent
+pas à faire monter l'adrénaline et le level design ne relève
+pas franchement la sauce.
+
+Allez, on oublie ça et on va chercher un jeu plus marrant...
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+Pas de cheat codes pour ce jeu...
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Air rescue.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Air Rescue (E) [!].sms
+  Taille de la rom: 262 144 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 8B43D21D
+  CRC rom patchée : 22850DAC
+
+Le patch a été créé avec Lunar IPS et a été testé avec les émulateurs suivants :
+  Emukon           [ ]		Kega Fusion 3.64 [x]
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

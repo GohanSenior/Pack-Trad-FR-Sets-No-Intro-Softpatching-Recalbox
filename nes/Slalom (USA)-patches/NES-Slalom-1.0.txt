@@ -1,0 +1,86 @@
+				Génération IX (http://generation9.kanshima.net)
+
+				 vous présente la traduction de Slalom
+
+
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre : Slalom
+Console : Nintendo
+Développeur : Rare
+Date : 1986
+Genre : Ski
+
+
+
+\ ETAT DE LA TRADUCTION : Patch 1.0 le 01/01/2005
+ \__________________________________________________
+
+
+
+Tout a été traduit saut les poteaux d'arrivée et de départ
+qui sont encore "start" et "finish", ce sont des graphismes
+enquiquinants.
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack : Hell
+Traduction : GreatSkaori
+Bêta-Test : Hell, GreatSkaori
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "NES-Slalom-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Slalom (U) [!].nes
+  Taille de la rom: 40 976 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 86670C93
+  CRC rom patchée : A6825194
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ HISTORIQUE DE LA TRADUCTION
+ \____________________________
+
+Après un mois de décembre long, difficile et vil, on a eu la force *han* de
+traduire un tout petit jeu nes pour le début de cette année 2005.
+
+Slalom est un jeu nes très simple, dans lequel vous contrôlez un skieur qui
+doit dévaler des pentes dans une certaine limite de temps. Trois monts sont
+à votre disposition, d'une difficulté croissante et vous aurez une petite
+vingtaine de pistes à descendre en tout, parsemées de skieurs fous et
+de bonhommes de neige et de gamins faisant de la luge en plein milieu d'une
+piste noir (mais que font les parents???)
+
+Anecdote amusante, c'est un jeu de Rare, ah on est loin de Killer Instinct
+et de Donkey Kong Country! :)
+
+
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum : http://www.bessab.com/viewforum.php?f=12
+Hacking : Hell (hell2405@yahoo.fr)
+Traduction : GreatSkaori (greatskaori@yahoo.com)

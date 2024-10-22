@@ -1,0 +1,118 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                               Bad Dudes
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Bad Dudes
+Console		: Nintendo NES
+Développeur	: Data East
+Editeur		: Data East
+Date		: Juillet 1990
+Genre		: Beat'em all
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 18/12/2013) :
+\_________________________________________________________________
+
+Fans des films de ninjas des années 80-90, ce jeu est pour vous !
+Si vous aimez les gugusses en pyjamas qui sautent partout,
+alors jetez vous sur "Bad Dudes", le jeu des mecs qui en ont !
+
+Ce jeu vous permet d'incarner Blade ou Striker, deux dignes
+représentants de l'Amérique reaganienne.
+
+Nos deux héros se voient donc confier la délicate mission de sauver
+non pas la veuve et l'orphelin, mais rien de moins que le
+président of the united states lui-même, enlevé par de vilains
+ninjas.
+
+Les forces armées US étant bien entendu inefficaces contre
+3 guignols armés de nunchakus, ce sont donc nos 2 héros
+qui s'y collent.
+
+Et on va en dézinguer du ninja ! Du gros, du petit, du grand,
+du bleu, du rouge... C'est bien simple, on dirait des héros
+de sentaï ! On va en latter dans les bois, en ville, dans
+des grottes, sur des camions en mouvement....
+
+Bref, tous les clichés du beat'em all sont représentés dans
+cette bourrinade digne d'un Chuck Norris de la grande époque.
+
+
+Le jeu est sympa, mais on ne peut pas dire qu'il innove et
+la maniabilité n'est pas au top. Je trouve les personnages
+lents et patauds, et la gestion des sauts est relativement
+imprécise.
+
+En ce qui concerne l'histoire, bon ben je crois que tout est
+dit. Un président enlevé par des ninjas, 2 héros bien burnés,
+et une fin à faire pleurer d'émotion (Si si ! Croyez moi, ça
+vaut le détour !)
+
+C'est typiquement le genre de jeu sur lequel on va s'éclater
+un moment et oublier peu après, tellement le manque flagrant
+d'originalité va vous sauter aux yeux comme un coup de pied
+au cul, et l'absence de mode 2 joueurs en coop n'aide pas
+à remonter le niveau...
+
+
+La traduction du jeu est complète et n'a pas vraiment posé
+de difficultés, à part quelques bricoles bizarrement foutues
+qui ont été plus longues à modifier que prévu.
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Energie infinie        0X02AB          09
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "BadDudes.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Bad Dudes (U).nes
+  Taille de la rom: 262 160 octets
+  Rom avec Header ? Oui
+  CRC de la rom   : 3C8E79E9
+  CRC rom patchée : 339196F0
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  FCeu XD SP [x]		NesTicle   [ ]
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

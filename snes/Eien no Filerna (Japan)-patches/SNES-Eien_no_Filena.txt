@@ -1,0 +1,200 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                            Eien no Filena
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre       : Eien no Filena
+Console     : Super Nintendo
+Développeur : Tokuma Shoten
+Editeur     : Nintendo
+Date        : 1995
+Genre       : RPG
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.3 créé le 06/01/2019) :
+ \_________________________________________________________________
+
+Eien no filena fait partie de ces jeux qui méritent une traduction, tout simplement !
+
+Voilà, ça c'est dit. C'est court ? Bougez pas, ça risque d'être le Ridmi le plus long
+de tous ceux que j'ai pu écrire.
+
+A la base, l'idée de ce patch date de mars 2009. Ti Dragon avait repéré le patch US
+et il ne fallut que peu de temps avant qu'on prenne contact avec Satsu afin qu'il nous
+fournisse les outils qui avaient été développés exprès pour cette merveille.
+
+GreatSkaori mit le nez dans des scripts japonais, moi dans la partie US, et quelques
+semaines plus tard les premiers tests purent avoir lieu.
+
+Et là ce fut la révélation !
+
+Mon dieu que ce jeu est cool !! Certains diront qu'il n'a pas la classe d'un Final
+Fantasy ou d'un Chrono Trigger. C'est vrai ! Mais je leur répondrai qu'il y a peu
+de jeux du niveau de Chrono Trigger et que j'ai jamais accroché aux Final Fantasy.
+En plus de cela, c'est pas dans ces jeux qu'on verra des lesbiennes combattre
+pour le bien de l'humanité!
+
+Hein ? Oui oui, vous avez bien lu!
+L'histoire raconte le combat de 2 lesbiennes destinées à sauver le monde.
+Ca surprend, non ? Surtout dans un jeu Nintendo...
+
+Rassurez-vous, l'histoire comporte son lot d'aventures, et je n'en ferai pas le résumé
+habituel afin de préserver l'intérêt du jeu, mais on retrouve les clichés du genre :
+princesses, méchants, royaumes, pnj, armes qui font mal et magies dévastatrices.
+
+Rajoutons des gladiateurs et de l'amour, et on obtient un scénario qui, s'il n'est
+pas épique, se savoure comme une bonne série B...
+
+Pour information, il faut une bonne vingtaine d'heures pour achever l'histoire)
+(et en connaissant le jeu ; avec les cheat-codes et la soluce ! )
+
+Les musiques sont sympathiques et les graphismes sont dans la moyenne haute bien
+qu'un peu fades à mon goût. Les personnages sont biens différenciés et chacun a son
+utilité au combat. La gestion des combats se fait au tour par tour, comme dans bon
+nombre de jeux du genre (et pourtant, Dieu sait que je ne suis pas fan de ce genre de truc !
+Je déteste les combats aléatoires tous les deux pas.).
+
+La traduction française s'appuie donc sur le hack de Satsu (patch US v0.98) et
+je ne le remercierai jamais assez pour sa gentillesse et sa disponibilité.
+
+La traduction du script fut longue et fastidieuse (c'est qu'elles sont bavardes
+nos héroïnes), et heureusement que Bahabulle le Grand et son talent étaient là
+pour finaliser toute la partie hacking. Je ne vous dis même pas ce que représente
+le travail qu'il a abattu, c'est tout simplement énôoooorme.
+Que les Dieux lui papouillent les pieds aux huiles essentielles jusqu'à la fin des temps !
+
+PinkTagada, toujours en quête d'un jeu à se mettre sous l'émulateur, prit aussi
+un moment pour tester le jeu et remit un coup de polish sur les textes. Elle en profita
+pour pousser un peu la charrue afin qu'on achève ce jeu et qu'il connaisse enfin
+la popularité qu'il mérite.
+
+Un dernier coup de vernis pour aligner quelques textes, des corrections de bugs et paf!
+voici enfin la dernière version de cette traduction...
+
+Allez, je n'en dis pas plus et je vous laisse découvrir ce bon petit RPG qui n'avait
+jamais quitté le pays du Soleil Levant...
+
+On a mis de looongues années pour en venir à bout, mais ça valait le coup et j'espère
+que vous aurez autant de plaisir avec cette rom que nous en avons eu à la traduire.
+
+
+\ EVOLUTIONS DU PATCH :
+ \______________________
+
+Plusieurs versions du patch ont vu le jour :
+ - V 0.6 (07/11/2015) : Cette version comportait tout le script et les graphismes
+ - V 0.7 (26/11/2015) : Ce patch corrige un bug graphique dû à une balise oubliée dans un script
+ - V 0.8              : Pleins de modifs et j'ai pas pris la peine de tout lister (trop long)
+ - V 0.9              : Bêta test et corrections de scripts par PinkTagada
+ - V 1.0 (23/03/2017) : Traduction des écrans du PDA, d'un truc qui traînait dans le générique de fin 
+ - V 1.1 (06/06/2018) : Corrections d'accents qui s'affichaient en trop ou étaient incorrects
+                        Déplacements et agrandissement de certains textes, correction du menu secret du sound test
+ - V 1.2 (01/12/2018) : Ultime refonte du script, repositionnement de textes et corrections d'objets
+ - V 1.3a (17/12/2018): Corrections de coquilles repérées par Ingo
+ - V 1.3b (06/01/2019): Retouche du "Bienvenue" des vendeurs qui refusait de s'afficher correctement
+
+
+\ CE QUI MANQUE & BUGS CONNUS :
+ \______________________________
+
+Rien à notre connaissance. Mais n'hésitez pas à nous signaler tout problème ou
+fautes d'orthographes afin que nous puissions les corriger.
+
+Ha oui, une chose importante : pensez à sauvergarder souvent et sur plusieurs Savestates,
+on ne sait jamais... La version Japonaise comporte quelques bugs qui peuvent survenir
+de façon très occasionnelle, mais mieux vaut anticiper ^^
+
+Pour rester dans les sauvegardes, évitez de faire une Savestate PENDANT les combats.
+Mieux vaut avant ou après, mais pas pendant... Dans le cas contraire vous pouvez avoir
+des comportements erratiques comme des ennemis invincibles, et c'est plutôt frustrant.
+
+
+\ REMERCIEMENTS :
+ \________________
+
+
+Ti Dragon          : pour avoir repéré cette petite bombe et sa participation
+Bahabulle          : pour tout le travail de romhacking, et Dieu sait que ça lui a pris du temps
+					 (un nombre incalculable de mails est là pour en témoigner :p )
+PinkTagada         : Pour sa relecture attentive et ses corrections
+GreatSkaori        : pour sa tradution de la partie japonaise
+Disciple de Greats : pour avoir participé à la traduction Jap-> FR
+Rid                : pour ses conseils lors de la retouche du graphisme du journal.
+Satsu              : pour sa version US et sa disponibilité. Sans lui et ses outils,
+                     cette traduction n'aurait jamais pu voir le jour
+Ingo               : pour avoir repéré 26 pages de fautes de frappes et d'oublis
+                     d'accents divers et variés (foutues lettres accentuées de ù*^$ç@ !!)
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+Comme d'habitude, voici quelques cheats codes :
+
+7E06AE50	Eau de Seltz infinie
+7E06B950	Adrénaline infinie
+7E06B650	Collyre infini
+7E08AA99	Argent infini (code 1/4)
+7E08AB99	Argent infini (code 2/4)
+7E08AC99	Argent infini (code 3/4)
+7E08AD99	Argent infini (code 4/4)
+7E06BA50	Aubépine infinie
+7E06B050	Eau magique infinie
+7E06B450	Divinae infinie
+7E06F850	Carapaces infinies
+7E06F650	Ecailles infinies
+7E06F550	Dards infinis
+7E06B150	Eau miraculeuse infinie
+7E06AD99	Remèdes infinis
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack       				: Satsu, Bahabulle, Happexamendios
+Traduction 				: GreatSkaori, Happexamendios, PinkTagada
+Graphismes 				: Happexamendios
+Bêta-Test  				: Happexamendios, PinkTagada
+Pointage de coquilles	: Ingo
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Eien no filena.ips" est à utiliser sur la rom suivante :
+  Nom de la rom     : Eien no Filena (J).smc
+  Taille de la rom  : 1 572 865 octets
+  Rom avec Header ? : Non !! SURTOUT PAS DE HEADER !!! C'EST MAAAAL !!!
+  CRC de la rom     : 41E9CD70
+  CRC rom patchée   : 2062E9AE
+
+/!\ Ce patch accroît la taille de la rom (3 145 728 octets).
+C'est normal car le path FR intègre le patch "Filena98.ips" américain de Satsu.
+Le readme du patch US devrait normalement se trouver avec celui-ci, histoire
+d'en savoir un peu plus sur la version américaine.
+
+Le patch a été créé avec WinIPS et a été testé avec les émulateurs suivants :
+  BSnes         [ ]    Snes9X 1.51    [x]
+  Snes9X 1.43   [ ]    Snes9X 1.53    [x]
+  Snes9x Geiger [x]    Snes GT        [ ]
+  ZSnes         [x]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+\ CONTACTS :
+ \___________
+ 
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum  : http://www.bessab.com/viewforum.php?f=12

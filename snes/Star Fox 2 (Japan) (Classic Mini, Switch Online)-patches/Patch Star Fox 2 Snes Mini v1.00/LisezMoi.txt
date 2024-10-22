@@ -1,0 +1,179 @@
+                      STARFOX 2 (VERSION SNES MINI)
+                         Français - par Kogami
+
+          	      Projet débuté le 05/10/2017
+------------------------------------------------------------------
+
+                           Par ~ Chrono Team ~
+
+------------------------------------------------------------------
+***********************Table des matières*************************
+------------------------------------------------------------------
+
+1.	L'HISTOIRE DE STAR FOX 2
+2.	L'HISTORIQUE DE LA TRADUCTION
+3.      CONTENU DE L'ARCHIVE ET UTILISATION
+4.      LES PATCHS PUBLIÉS
+5.	TOUT CE QUI A ÉTÉ FAIT
+6.	L'ÉQUIPE DU PROJET
+7.      CONTACTS
+8.      AUTRES PROJETS
+9.	REMARQUES LÉGALES
+
+------------------------------------------------------------------
+1.  L'HISTOIRE DE STAR FOX 2
+------------------------------------------------------------------
+
+Après sa défaite dans le premier Star Fox, Andorf revient dans 
+le système Lylat et lance une attaque massive contre Corneria 
+en utilisant sa nouvelle flotte de cuirassés et de missiles géants 
+lancés à partir des avants-postes sur plusieurs planètes du système 
+Lylat. Le général Pepper appelle de nouveau l'équipe Star Fox pour 
+obtenir de l'aide. 
+
+Armée de nouveaux Arwings, d'un vaisseau mère et de deux nouvelles 
+recrues (Miyu un lynx et Fay un chien), l'équipe Star Fox doit 
+encore une fois défendre Corneria avant qu'Andorf n'utilise 
+ses force pour anéantir Corneria. 
+
+En cours de route, la team Star Fox doit aussi lutter contre 
+des ennemis, des cuirassés, les membres de l'équipe Star Wolf, 
+et enfin Andorf lui-même.
+
+Star Fox 2 aurait dû être le second jeu vidéo de la série de Nintendo,
+succédant ainsi à StarWing/Star Fox. Il était prévu pour fin 1995 sur 
+Super Nintendo, mais suite à 1 ans 1/2 de retard et face à l'arrivée 
+imminente de la Nintendo 64, le jeu fut finalement annulé. 
+
+A la différence de StarWing/Star Fox, dont le déroulement par niveaux  
+successifs suit des couloirs prédéfinis et imposés au joueur, Star Fox 2 
+laisse une plus grande liberté, tant sur le  déroulement général que sur 
+les phases de jeu en 3D libre.
+
+------------------------------------------------------------------
+2.  L'HISTORIQUE DE LA TRADUCTION
+------------------------------------------------------------------
+
+La Rom du jeu en version final fut proposée par Nintendo dans la
+Super Nintendo - Classic Mini le 29 septembre 2017.
+
+Ayant déjà traduit le jeu en français par le passé dans sa
+version Beta, je souhaitais réutilisé mon travail afin de proposer
+une traduction française pour cette nouvelle version qui se veut
+beaucoup plus complète en corrigeant notament pas mal de bug et
+offrant une expérience plus complète.
+
+Le texte a été compressé via une DTE/MTE graphique optimisée pour faire
+rentrer un maximum de texte, en effet grâce à l'aide de Palpatine j'ai
+pu avoir un script entièrement traduit depuis le Japonais et forcément
+ce script prennait plus de place.
+
+------------------------------------------------------------------
+3.  CONTENU DE L'ARCHIVE ET UTILISATION
+------------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir :
+
+      Star Fox 2 Verion Snes Mini (Fr) v1.00 - Le patch IPS de Star Fox 2
+      LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Si vous utilisez ZSNES, vous pouvez renommer le patch du nom 
+de votre rom (Star Fox 2 (Fr) v1.00.ips si votre rom s'appelle 
+Star Fox 2 (Fr) v1.00.smc), et le patching sera effectué
+automatiquent au lancement de l'émulateur.
+
+Ce patch s'applique sur la Rom japonaise originale du jeu.
+ -Star Fox 2 (Japan) "sans header"
+
+------------------------------------------------------------------
+4.  LES PATCHS PUBLIÉS
+------------------------------------------------------------------
+
+V1.00 - 29/05/2020
+-Patch initial.
+
+Tout est traduit dans le jeu !!!
+
+------------------------------------------------------------------
+5.  TOUT CE QUI A ÉTÉ FAIT
+------------------------------------------------------------------
+
+- Dialogues........ 100 %	
+- Objets........... 100 %
+- Graphismes....... 100 %	
+- Crédits.......... 100 %	
+
+------------------------------------------------------------------
+6.  L'ÉQUIPE DE TRADUCTION 
+------------------------------------------------------------------
+
+Kogami:             Chef de projet.
+                    Traduction des Objets/crédits/Graphismes (GFX)
+                    Relecture du script/adaptation du texte.
+                    Hacking.
+
+Palpatine:          Traduction des dialogues depuis le japonais.
+
+Skeud:              Compilation des outils Décompresseur/Recompresseur (GFX).
+
+Happexamendios:     Relecture du script/adaptation du texte.
+
+Insertion du script:           kogami
+Mise en forme des dialogues:   kogami
+Bêta-testeur:                  Kogami
+
+Remerciement spécial :         Bahabulle
+                               Ti Dragon
+			       ltrmars
+                               
+
+\ REMERCIEMENTS
+ \______________
+
+Je tiens à remercier avant tout, Bahabulle pour son aide
+précieuse sur la localisation des sprites et de ses conseils
+pour le romhacking.
+
+Et bien évidement, je remercie toute la communauté de la traduction
+francophone, les membres de la T.R.A.F, pour leur soutien, leurs
+interventions, leurs encouragements et remerciements...
+		    
+------------------------------------------------------------------
+7.  CONTACTS
+------------------------------------------------------------------
+
+N'hésitez pas à me faire part de vos remarques ou des éventuels bugs 
+et fautes de français.
+
+Mail : kogami@hotmail.fr
+
+------------------------------------------------------------------
+8.  AUTRES PROJETS
+------------------------------------------------------------------
+
+La retraduction du jeu Chrono Trigger depuis la version japonaise
+et Zelda Parallel Worlds.
+
+------------------------------------------------------------------
+9.  REMARQUES LÉGALES
+------------------------------------------------------------------
+
+Le patch de traduction française de Star Fox 2 n'est pas 
+officiel et n'est pas supporté par Nintendo.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une Rom, 
+et que l'archive originale n'est pas modifiée non plus. 
+Ni argent, biens ou services ne peuvent être demandés 
+pour ce patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation 
+ne pourra être tenue responsable pour les dommages 
+occasionnés par son usage.
+
+------------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+ ~Kogami

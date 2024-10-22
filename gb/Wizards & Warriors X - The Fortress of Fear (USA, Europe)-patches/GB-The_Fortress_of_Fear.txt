@@ -1,0 +1,101 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+          Wizards & Warriors Chapter X - The Fortress of Fear
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Wizards & Warriors Chapter X - The Fortress of Fear
+Console		: Game Boy
+Développeur	: Rare
+Editeur		: Acclaim
+Date		: Janvier 1990
+Genre		: Action Plates-formes
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 04/11/2015) :
+ \_________________________________________________________________
+
+Cela faisait longtemps que je voulais me faire l'un de mes tout
+premiers jeux Game Boy et comme j'avais un peu de temps à perdre,
+je me suis penché sur le cas "Fortress of Fear".
+
+Comme souvent dans les jeux de ce genre, il s'agit d'incarner
+un héros en armure rutilante, maniant une épée de 300 kilos afin
+d'aller sauver une ravissante jouvencelle des mains d'un malfaisant local.
+
+L'intérêt de ce jeu n'est pas dans son histoire, on l'aura compris,
+mais surtout dans sa difficulté. S'attirer les faveurs de
+la donzelle se mérite, et il va falloir s'armer de courage
+afin d'arriver au bout du titre.
+En effet, les ennemis sont nombreux et vicieux et les niveaux semés d'embûches.
+
+Qu'il est dur d'être un héros ! Surtout quand les bonus sont
+rares et qu'il n'y a pas de système de code ou de sauvegarde...
+
+Clairement, le jeu marque son âge, mais il a toujours autant
+de charme je trouve, et la musique entraînante immerge dans
+l'ambiance.
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+VIes infinies          0xC321          09
+Clé infinies           0xC343          09
+Energie infinie        0xC322          0B
+
+
+
+/!\ Informations relatives à l'utilisation des codes de triche :
+
+Le code de l'énergie infinie peut faire bugger l'affichage de
+la barre de santé, mais l'essentiel est bien d'être invincible, non?
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Fortress of fear.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Wizards & Warriors Chapter X - The Fortress of Fear (E) [!].gb
+  Taille de la rom: 65 536 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 104EB503
+  CRC rom patchée : 9E7A6BC5
+
+Le patch a été créé avec Lunar IPS et a été testé avec les émulateurs suivants :
+  BgB    [x]		GBEmul [ ]
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

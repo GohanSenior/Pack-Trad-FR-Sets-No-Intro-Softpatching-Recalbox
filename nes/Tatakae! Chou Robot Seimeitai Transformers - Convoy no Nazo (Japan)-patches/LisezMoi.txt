@@ -1,0 +1,99 @@
+TERMINUS TRADUCTION présente 
+
+Transformers - Le Mystere De Prime
+----------------------------------------------------------------
+*******************Table des matières******************
+----------------------------------------------------------------
+
+1.    L'HISTOIRE DU JEU
+2.      CONTENU DE L'ARCHIVE ET UTILISATION
+3.    LES PATCHS PUBLIES
+4.      TOUT CE QUI A ETE FAIT
+5.    L'ÉQUIPE DE LA TRADUCTION
+6.      CONTACTS
+7.    REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  L'HISTOIRE DE Transformers - Le Mystere De Prime
+----------------------------------------------------------------
+
+J’ai toujours pensé que Ghouls'n Ghosts était un des jeux les plus
+difficiles...bah j’ai eu tort.
+
+Transformers l’est beaucoup plus...et finir ce jeu ne relève pas
+simplement du skill mais de l’instinct...alors le finir deux fois
+en récoltant les bonus pour débloquer le deuxième véhicule et une
+autre fin...je conseille fortement d’utiliser le game genie car
+j’ai oublié de dire que l’on a un nombre de vie limité ?
+Avec un nombre de vies illimité, c’est un bon die and retry :^^
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir:
+TransformersFr.ips  - Le patch IPS du jeu
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+(le Patcheur Terminus par exemple).
+Ce patch est à utiliser avec la ROM Jap:
+Tatakae! Chou Robot Seimeitai Transformers - Convoy no Nazo (Japan).nes
+
+----------------------------------------------------------------
+3.  LES PATCHS PUBLIES
+----------------------------------------------------------------
+
+-V1.00
+
+----------------------------------------------------------------
+4.  TOUT CE QUI A ETE FAIT
+----------------------------------------------------------------
+
+Traduction complete du jeu
+
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+Kazan:   Hacking, Traduction
+Basé sur la traduction anglaise de Stardust Crusaders
+
+----------------------------------------------------------------
+6.  CONTACTS
+----------------------------------------------------------------
+
+Une remarque, une question ou une correction à apporter à la
+traduction du jeu.
+
+Kazan - newkazan@hotmail.fr
+
+Vous voulez mieux connaître le groupe, télécharger nos derniers
+patchs ou vous renseigner sur un projet.
+
+Site Web - http://terminus.romhack.net
+
+----------------------------------------------------------------
+7.  REMARQUES LEGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de ce jeu n'est pas officiel et
+n'est pas supporté par Nintendo ou Takara.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+Kazan
+

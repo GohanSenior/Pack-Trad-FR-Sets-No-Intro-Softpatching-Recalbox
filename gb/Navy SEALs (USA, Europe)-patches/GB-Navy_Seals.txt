@@ -1,0 +1,106 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                              Navy Seals
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Navy Seals
+Console		: Game Boy
+Développeur	: Ocean
+Editeur		: Ocean
+Date		: Septembre 1991
+Genre		: Action
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 22/04/2014) :
+\_________________________________________________________________
+
+Petit jeu sans prétention, Navy Seals est l'adaptation vidéoludique
+du film éponyme dont je n'avais jamais entendu parler avant de me
+pencher sur cette rom.
+
+
+Vous incarnez donc un Navy Seal et vous partez lutter contre
+de vilains terroristes enturbannés. Vous aurez donc pour missions
+de libérer des otages, trouver des missiles ou pénétrer dans
+la base ennemie afin d'étrenner vos nouveaux pains de C4.
+
+Dit comme ça, ça a l'air vachement intéressant; mais le jeu n'est
+pas à la hauteur. Pour avoir de l'action, y a de l'action !
+Limite un peu trop même !! Les terroristes vous tombent dessus
+comme la vérole sur le bas clergé et vous n'aurez pas une seule
+seconde de répit, mais c'est tellement répétitif que ça en devient
+limite chiant. Et c'est pas les pièges qui vous attendent tous
+les deux pas qui vont égayer le tableau...
+
+En fait, ce jeu est fortement déconseillé aux hypertendus, aux
+anxieux et aux dépressifs !! Les ennemis sortent de partout,
+vous sautent dessus, déboulent en groupe et sont surtout plus
+rapides que vous...
+
+Il faut noter aussi (et c'est important) que vous ne pouvez pas
+sauter et tirer en même temps ! Il faut donc bien anticiper pour
+avancer dans ce jeu (ou tricher comme une grosse sacoche...)
+
+Une fois qu'on a assimilé le fait qu'on peut mourir tous les deux
+pas, on finit par apprécier le jeu et on prend plaisir à tirer
+du vilain par paquets de douze.
+
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Snipers infinis        0xC3C3          03
+Munitions infinies     0xFFAC          80
+Vies infinies          0xC3C2          09
+Mitrailleuse infinie   0xFFAD          25
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Navy_Seals.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Navy Seals (U) [!].gb
+  Taille de la rom: 131 072 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 296CEACB
+  CRC rom patchée : 667DB6CF
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  GBEmul [ ]	BgB [X]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

@@ -1,0 +1,125 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                            Operation Wolf
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Operation Wolf
+Console		: Nintendo NES
+Développeur	: Taito
+Editeur		: Taito
+Date		: 1989
+Genre		: Action
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 07/11/2015) :
+ \_________________________________________________________________
+
+Il y avait longtemps que je ne m'étais pas fait un p'tit shooter
+au Zapper, et "Operation Wolf" semblait donc le candidat idéal.
+
+L'histoire est classique et tient sur du papier à cigarette :
+Vous êtes un soldat si puissant que John Rambo vous idolâtre
+et vous êtes envoyé par le président lui-même pour aller
+libérer des otages au fin fond d'une jungle remplie d'ennemis
+aussi nombreux que méchants.
+
+Votre mission se décompose en 6 niveaux afin de trouver l'emplacement
+du camp de prisonniers, collecter des chargeurs et finir par
+libérer les otages avant de s'enfuir.
+
+Les niveaux sont d'autant plus longs que chacun comporte
+un certain nombre de véhicules ou de soldats ennemis à éliminer
+avant de passer au suivant.
+
+Les deux derniers niveaux offrent un challenge supplémentaire;
+puisqu'il faut empêcher 5 prisonniers de se faire tuer par
+les soldats d'en face. Plus il y aura de survivants, et plus
+le président sera content. Le jeu propose plusieurs fins en
+fonction du nombre de rescapés et mieux vaut en sauver un max!
+
+Les graphismes sont dans la moyenne, mais la précision du zapper
+n'est pas franchement au top. "Baby boomer" est plus précis
+par exemple, ce qui complique pas mal un jeu déjà quelque peu
+ardu.
+
+Oublions les effets sonores, ils oscillent entre "pathétique"
+et "pitoyable"...
+
+J'avais commencé la traduction de ce jeu dans sa version Européenne,
+mais je me suis vite trouvé confronté à quelques difficultés:
+- impossible de tricher (ce qui est inadmissible ! )
+- des doublons en pagaille (ce qui est une hérésie !! )
+- le zapper ne touchait aucune cible (ce qui est une honte !!! )
+et d'autres bizarreries diverses et variées.
+
+La solution s'est imposée en essayant la version US. Tout allait
+mieux, et beaucoup de bugs de la version Eur étaient corrigés
+(plus de doublons, plus de bugs de visée, et les cheat codes
+marchaient correctement).
+
+Les principales difficultés de la traduction étaient surtout
+liées aux multibles tables utilisées par le jeu.
+Pour un seul écran, il fallait jongler entre 2 ou 3 tables à
+des degrés divers de complétude.
+
+En tout cas, je me suis bien amusé avec ce jeu, et j'espère
+qu'il en sera de même pour vous.
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+Pour une fois, ce sera des codes Game Genie récupérés sur Internet :
+
+AESSLZTL	Energie infinie
+AAVSIIPA	Chargeurs infinis
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Operation Wolf.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Operation Wolf (U) [!].nes
+  Taille de la rom: 262 160 octets
+  Rom avec Header ? Oui
+  CRC de la rom   : 80704705
+  CRC rom patchée : 4D27071
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  FCeu XD SP [x]		NesTicle   [ ]
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

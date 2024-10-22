@@ -1,0 +1,121 @@
+TERMINUS TRADUCTION présente
+
+MIKE TYSON'S PUNCH-OUT!!
+
+----------------------------------------------------------------
+******************Table des matières****************
+----------------------------------------------------------------
+
+1.    L'HISTOIRE DU JEU
+2.      CONTENU DE L'ARCHIVE ET UTILISATION
+3.    LES PATCHS PUBLIES
+4.      TOUT CE QUI A ETE FAIT
+5.    L'ÉQUIPE DE LA TRADUCTION
+6.      CONTACTS
+7.    REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  L'HISTOIRE DE MIKE TYSON'S PUNCH-OUT!!
+----------------------------------------------------------------
+
+Punch-Out est à ma connaissance le seul jeu de boxe existant sur
+ la console 8 bits de Nintendo. Vous incarnez un jeune boxeur 
+faisant son chemin dans le but de devenir champion du monde de
+ boxe. Vous affronterez divers adversaires au cours de 3 
+championnats successifs pour arriver enfin devant le champion 
+toutes catégories : Mike Tyson.
+
+Les combats se déroulent sur 3 rounds de 3 minutes chacun, le 
+boxeur ayant accumulé le plus de points à l'issue du match étant 
+le vainqueur. Une manière plus rapide de gagner est d'envoyer
+ l'adversaire au tapis trois fois de suite dans le même round 
+auquel cas vous gagnez par KO technique. Evidemment, si un 
+combattant est au tapis pendant plus de 10 secondes, il perd 
+le match.
+
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir :
+
+PunchOutFr.ips  - Le patch IPS de Mike Tyson's Punch-Out!!
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+(le Patcheur Terminus par exemple).
+Ce patch est à utiliser avec la rom
+ "Mike Tyson's Punch-Out!! (U) (PRG0).nes"ou 
+bien la rom "Mike Tyson's Punch-Out!! (U) (PRG1).nes"
+
+----------------------------------------------------------------
+3.  LES PATCHS PUBLIES
+----------------------------------------------------------------
+
+-V Finale:
+Le jeu est entièrement traduit
+
+----------------------------------------------------------------
+4.  TOUT CE QUI A ETE FAIT
+----------------------------------------------------------------
+-l'écran d'intro avec la tronche de Mike TYSON
+-l'écran titre
+-le poids des boxeurs est à présent en kg, etleur pays d'origine en fr
+-tous les dialogues entre les boxeurs(ils n'arretent pas de se vanner entre chaque round))
+-maintenant au début du combat, mario nous dis "allez!" au lieu de "fight"
+-la une du journal à la fin du jeu (les graphismes de celui-ci aussi d'ailleurs)
+-get up! devient "boxe!", lorsque mac est au tapis
+-le grand "title bout" avant la finale devient "la finale"
+-les crédits
+-le pays d'origine des boxeurs
+-plein de petits détails...
+
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+-Gilles9999 : Chef de projet
+
+-FlashPV: gros coup de pouce (en particulier le gros 
+"la finale!", le "contre" entre les photos des 2 boxeurs), la
+ traduction de certains pays longs à quaser "espagne" et 
+"pacifique"
+
+----------------------------------------------------------------
+6.  CONTACTS
+----------------------------------------------------------------
+
+Une remarque, une question ou une correction à apporter à la
+traduction de Mike Tyson's Punch-Out!!
+
+Gilles9999 - gilles.delcroix@yahoo.fr
+
+Vous voulez mieux connaître le groupe, télécharger nos derniers
+patchs ou vous renseigner sur un projet.
+
+Site Web - http://terminus.romhack.net
+
+----------------------------------------------------------------
+7.  REMARQUES LEGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de Mike tyson's punch out!!
+n'est pas officielle et n'est pas supportée par Nintendo.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+Gilles9999

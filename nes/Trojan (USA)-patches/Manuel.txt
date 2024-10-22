@@ -1,0 +1,176 @@
+TROJAN (MD)
+
+GAME PAC INSTRUCTIONS
+
+CAPCOM
+
+---
+COMMENT JOUER
+
+NOMS DES COMMANDES ET DE LEURS ATTRIBUTIONS
+
+Croix directionnelle *1 - Bouge TROJAN dans le jeu à un ou deux joueurs.
+Croix directionnelle *1 et 2 - Bouge trojan dans le jeu à jeu ou à deux joueurs alternativement. 
+Croix directionnelle *1 et 2 - Bouge TROJAN dans le jeu à deux joueurs simultanés.(duel)
+
+Bouton A
+	Trojan utilise son bouclier dans 5 directions.
+
+Bouton B
+	Trojan lève son épée dans le combat.
+
+
+4 actions possibles, en effectuant les mouvements suivants
+Trojan ira dans la direction voulue.
+
+GAUCHE - TROJAN va à gauche.
+DROITE - TROJAN va à droite.
+HAUT - TROJAN saute.
+BAS - TROJAN s'accroupit.
+
+---
+
+Vous êtes le mercenaire Trojan, maître en arts martiaux. Armé de ton bouclier
+et de ton épée, vous devrez combattre à travers 7 mondes les sbires d'un cruel roi 
+que vous devrez évidemment éliminé.
+
+Bouton SELECT
+Pressez SELECT afin de mettre l'astérisque (*) sur le type de jeu auquel vous voulez jouer.
+Ce bouton n'a aucun effet pendant le jeu.
+
+Bouton START
+Pressez ce bouton afin de commencer la partie sélectionnée.
+
+Mettre en Pause
+Tapez START n'importe quand dans la partie afin de mettre en pause.
+Le son de la pause va retentir et le jeu sera interrompu.
+
+---
+Indications sur le jeu.
+
+Comment jouer :
+Les ennemis vous attaquent de tous les côtés. Votre but est de détruire
+leur roi. Combattez le roi avec votre bouclier, votre épée et surtout
+les bonus. Quand un 'F' est indiqué, la force de Trojan est multiplé par deux.
+Si vous trouvez un autre 'F', vous obtiendrez de la puissance en plus.
+
+---
+BONUS 
+
+Super-saut
+Le joueur peutr effectuer des super sauts pendant un court instant.
+
+Coeur
+Le joueur retrouve toute son énergie.
+
+Vitesse
+La vitesse de marche s'accroit.
+
+Clef
+Elle ouvre des passages.
+
+Souris
+Attention à la souris, il faut la détruire pour obtenir des points
+supplémentaires.
+
+Sous-sol: Cherchez les ennemis cachés en frappant avec votre épée.
+Allez au sous-sol en passant par un trou où les bonus sont cachés.
+Mais attention, ce sont aussi des arènes dans lesquelles vous
+pouvez mourir.
+
+---
+ENNEMIS
+
+Personnages cachés
+
+3-4 ennemis à chaque niveau
+
+* Comment se répartissent-ils et peuvent tuer le joueur ?
+
+* Ils  apparaissent quand le joueur passe certaines zones, saute 
+à des endroits ou touche un mur.
+
+Les frêres Hachettes (N.D.K* : Faut la méditer celle là)
+Ils apparaissent simultanément pour vous attaquer avec leur
+haches ! La meilleure façon de les tuer est de vous défendre avec
+votre bouclier.
+
+Bras de fer (N.D.K* : encore de l'humour)
+Bras de fer jette son bras en fer, que vous pourrez esquiver 
+avec votre bouclier. Attention car son vras reviendra.
+
+Les Piranhas tueurs
+Les poissons vous attaquent aussi mais ne causent que très peu de dommages.
+Gardez à l'esprit, qu'il est très dur de les tuer.
+
+---
+ENNEMI
+
+Achille
+C'est la tête pensante de vos ennemis. Essayez de le tuer afin 
+de sauver le monde.
+
+La Brute
+La Brute apparaît à tous les niveaux pour vous attaquer avec son marteau !
+
+Le Lanceur
+Il jette des couteaux et des balles magiques lesquelles mettent hors jeu votre
+épée et bouclier.
+
+Tatou
+Il se recroqueville en boule pour se protéger, et se lève pour envoyer du feu.
+Il est impossible de le toucher une fois en boule.
+
+Hélicobombe
+Il utilise une hélice pour voler et jeter des bombres. Battez-le et vous
+obtiendrez des points bonus.
+
+---
+ENNEMI
+
+Le Barbare
+Il sort d'une mare et tire des balles empoisonées sur vous.
+
+Le Bucheron
+Il jette une hache.
+
+Muscle
+Il a une énorme hache contre laquelle il est impossible de se défendre.
+
+Boîte Bonus
+Essayer de la trouver afin de voir ce qu'elle contient.
+
+Trojan
+Il a une épée et un bouclier et combattra comme vous.
+
+---
+ENNEMI
+
+Le Bossu
+Saute très très haut et lance des billes de fer.
+
+L'Archer caché.
+Il sort d'un trou et utilise un arc pour attaquer.
+Vous obtiendrez un bonus si vous le massacrer.
+
+Le plastiqueur fou
+Il jette de la dynamite hors de l'écran. Utilisez votre
+"Super saut" pour le toucher - vous gagnerez des points !
+
+L'Archer Rouge
+Il apparait entre les rochers, tirant avec son arc.
+Utilisez le "super saut" et récollectez des points bonus.
+
+Roi Shriek
+Il sortira des murs et utlisera sa chaine au bout de laquelle
+siège une boule de fer pour vous frapper.
+
+---
+CAPCOM
+
+PREMIER
+WORLD-WIDE
+ARCADE GAME
+DESIGNER
+
+* N.D.K = Note de KS151 :)

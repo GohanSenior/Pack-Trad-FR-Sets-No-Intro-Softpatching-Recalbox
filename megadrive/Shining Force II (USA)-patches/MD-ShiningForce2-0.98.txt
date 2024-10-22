@@ -1,0 +1,305 @@
+				                 GENERATION IX
+                                                       &
+                                               FINAL TRANSLATION
+
+
+			sont fiers de vous présenter la traduction d'un jeu exceptionnel
+
+                                       SHINING FORCE II - THE ANCIENT SEAL
+
+--------------------------------------------------------------------------------------------------------
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre       : SHINING FORCE II - THE ANCIENT SEAL
+Console     : Mega Drive (Genesis)
+Développeur : SONIC TEAM
+Editeur     : SEGA
+Année       : 1993 (Japon), 1994 (US), 1994 (Europe)
+Genre       : Tactical RPG
+
+
+\ ETAT DE LA TRADUCTION : Patch v0.98 du 07/03/2008
+ \___________________________________________________
+
+Tout a été traduit, a priori.
+
+Le patch a été alpha puis bêta testé. Il se peut qu'il reste des coquilles néanmoins : n'hésitez pas à
+nous les signaler le cas échéant.
+
+
+Patch v0.98 du 07/03/2008
+-------------------------
+En réalité, afin que LEMON puisse s'équiper avec une arme, il faut utiliser le dernier émulateur
+Fusion 3.51. L'émulateur utilisé pour les soins du test était Gens 2.12 qui souffre malheureusement
+d'un tout petit bug empêchant LEMON de s'équiper.
+
+Grâce à deux fans, Wiz et BigNailCow, et leur équipe qui travaillent sur un éditeur complet de
+Shining Force II (reprogrammer quasiment tout le jeu), on a pu réintroduire la fonction de recherche
+durant les combats (ce qui était uniquement valable dans la version japonaise au départ, je le 
+rappelle). Vous pourrez donc vous procurer l'ensemble des objets qui étaient inaccessibles. Jes
+avait déjà trouvé la méthode et c'est finalement Wiz et sa bande qui nous ont donné la solution.
+Un grand merci à vous tous !
+
+La prochaine version éventuelle du patch devrait intégrer (si possible) un agrandissement des cadres
+et une petite révision de la traduction du script (grâce à un autre fan, Lord Oddeye).
+
+
+Patch v0.95 du 18/12/2007
+-------------------------
+Il sortira éventuellement un autre patch qui devrait, entre autres choses, rajouter deux fonctions
+majeurs :
+- pouvoir équiper LEMON avec une arme. Ce bug est déjà présent dans les ROMs d'origine ce qui gâche le
+  plaisir car il s'agit de l'un des meilleurs combattants du jeu.
+- faire en sorte que certains coffres puissent être ouverts comme dans la version Jap. Nous savons
+  comment nous y prendre mais cela va demander du temps. Nous ne nous attacherons qu'aux endroits qui
+  possèdent des coffres qui ne peuvent être ouverts après combat (ce qui représente environ 3 cartes).
+  Si le coeur nous en dit, nous ferons toutes les cartes qui en auront besoin. 
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________
+
+ROMhack        : Meradrin, Ti Dragon
+Programmation  : Meradrin
+Assembleur     : Meradrin
+Aide technique : Jes, S.O.R, Wiz
+Graphismes     : Ti Dragon
+Traduction     : Ti Dragon, Jonath Lé Là
+Relecture      : Ti Dragon
+Alpha Test     : Ti Dragon (100%), Jonath Lé Là (50%), PtitCerf (10%)
+Bêta-Test      : Ti Dragon (100%), CattiBri (100%), dandyboh (200% !), mitri (10%)
+
+
+Meradrin, membre de Final Translation, est l'homme fort de ce projet puisque, grâce à lui, nous avons
+pu modifier tout ce que nous voulions dans ce jeu (enfin, presque).
+
+Jonath Lé Là, membre de Final Translation, est l'un des traducteurs et testeurs de ce jeu. Un peu
+difficile à joindre mais toujours enthousiaste !
+
+Jes, membre de BessaB, m'a aidé à réajuster un cadre et à ROMhacker le Cristal/Cristaux (eh oui : ça
+change de nom au pluriel dans la version américaine du jeu : le mot pluriel n'apparaît pas dans la ROM).
+
+S.O.R, membre de Génération IX, m'a aidé à mettre en forme le texte grâce à son Hareng-Tool étant donné
+que Jonath Lé Là et moi-même n'avions pas eu le réflexe d'adopter le même style de mise en forme. De
+plus, la police utilisée par le jeu est de taille variable (type vwf).
+
+Wiz est un fan de la série des Shining et fréquente, bien entendu, le fabuleux shiningforcecentral.com.
+C'est à lui et BigNailCow que l'on doit la solution permettant de réintégrer la fonction de recherche
+durant les combats. Nos deux compères et leur équipe préparent un outil, The Caravan, qui devrait
+permettre d'éditer quasiment tout le jeu.
+
+CattiBri est une ancienne membre de Génération IX, fan devant l'Eternel des Shining Force. Qui d'autre
+qu'elle pouvait mieux tester le jeu ? Et puis, cela rajoute une petite touche féminine à notre équipe !
+
+PtitCerf est le webmaster de Guardiana.net, un petit site sympathique dédié à SEGA. Il a dû nous quitter
+en route à cause de ses études qui lui prenaient du temps.
+
+dandyboh et mitri sont deux membres d'Emu Nova, nostalgiques et amateurs de jeux vidéos, qui ont bien
+voulu tester la toute dernière version bêta du patch.
+
+Enfin, moi, Ti Dragon, membre de Génération IX, suis celui qui a embêté tout le monde afin que ce projet
+se fasse et qu'il soit le plus complet possible. J'ai passé pas mal de temps dessus, étant un véritable
+fan de ce jeu mais je n'ai pas été exempt de petits coups de mou, tout comme mes camarades...
+
+
+\ REMERCIEMENTS
+ \______________
+
+Je tiens tout d'abord à remercier SEGA et SONIC TEAM d'avoir réalisé ce jeu formidable.
+
+Ensuite, je voudrais vivement remercier toute l'équipe pour m'avoir permis d'accomplir l'un de mes rêves
+en rapport avec la traduction de jeux vidéos :
+- Meradrin : sans toi, rien n'aurait été possible. Je ne te remercierai jamais assez, malgré tout ce que
+  tu pourras me dire. Tu es l'un des meilleurs ROMhackeurs de la scène, un touche-à-tout. Rien ne te
+  semble impossible :)
+- Jonath : toujours de bonne humeur, un peu feignant parfois :D Merci de m'avoir rejoint pour cette
+  aventure.
+- Jes : toujours là quand il faut pour filer un coup de main ! Toujours débordé : c'est ça d'être une
+  star :D Merci de supporter mes caprices :P
+- S.O.R : un gros poil dans la main mais un coeur encore plus énorme. Je te dois quelques litres de
+  bière ! Merci pour tout ;)
+- Wiz : merci de t'être intéressé à nous et de nous avoir finalement donné LA solution que tout fan de
+  Shining Force II attendait. Remercie BigNailCow de ma part et bon courage pour votre projet !
+- CattiBri : après avoir terminé le jeu plusieurs fois, je ne me voyais pas faire le bêta test (que j'ai
+  finalement fait en survolant le jeu :D). Tu as répondu présent et m'as permis de terminer ce projet qui
+  me tenait à coeur. T'es la meilleure ! Merci <3
+- dandyboh : merci d'avoir testé le jeu aussi scrupuleusement, ce qui a permis de faire pas mal
+  d'ajustement de problèmes qui étaient passés entre les mailles du filet. Ton aide nous a été plus que
+  précieuse. Un grand bravo !
+- PtitCerf : même si tu n'as pas pu mener ton test jusqu'au bout, merci de nous avoir aidés :)
+- mitri : bien que tu aies eu des difficultés pour tester le jeu, je te remercie pour ta contribution.
+
+
+Enfin, j'aimerais remercier quelques personnes qui n'ont rien à voir avec le projet :
+- Chou : tu ne liras jamais ce fichier, sauf si je t'y oblige. Je n'ai rien à te dire mais je te
+  remercie juste d'exister. Tu comprendras ;)
+- GreatSkaori : mon braza ! Je te souhaite bon courage dans tes futurs projets car je sais que tu en as
+  bavé. Merci de toujours me soutenir :)
+- ToraKami : le traducteur professionnel... toi aussi, tu en as bien bavé pour en arriver là et tu m'as
+  toujours soutenu. Merci ^_^
+- BahaBulle : mon kazin ! Le repreneur de projets perdus ! Tu dois être le ROMhacker Fr le plus actif, à
+  l'heure actuelle ^_^
+- Hell : mon partenaire TRAFien. Que ferais-je sans toi ? Que serait la T.R.A.F sans toi ? Merci pour
+  ton entrain et ta bonne humeur :)
+- Pixel : tu te fais rare, ce qui est dommage. Mais attends que je me tape l'incrust' chez toi !
+- Graou : xie xie ni. wo zhong wen shuo de bu hao ke shi wo hen kuai ni shi yi ge hen hao de peng you !
+- Skaiboy : ta bonne humeur, tes bides en puissance... comme je t'admire :D Toi aussi, tu te fais rare.
+- Happexamendios : ta bonne humeur, tes bides en puissance (mais Skai est plus fort que toi, un peu
+  comme SEGA... tiens, je suis contaminé), ta croisade pour que les daubes aient elles aussi droit à une
+  traduction décente... je t'admire également :D
+- The Jedi : je te remercie pour être qui tu es avec toutes tes qualités, ta sympathie, ta passion pour
+  les jeux vidéos et l'énergie que tu dépenses de manière à ce qu'Emu Nova soit le site qu'il est
+  aujourd'hui. Remercie également toute ton équipe de ma part :)
+- Gideon Zhi : I don't think you will ever read this text file. Nevertheless, you're always there when
+  we need your help. To me, you're one of the best ROMhackers still around. Thanks for all !
+- rveach : you're a bit lazy :P but, undoubtfully, you're quite skilled. I hope we'll eventually finish
+  what we started some time ago. Thanks :)
+- Samda : I don't know wether I should thank you in French or in English... Well, let's try using both
+  languages. I'm done with English right now :D Merci d'être là pour nous aider à traduire des phrases
+  complexes qu'un Américain un peu fou un soir de pleine lune après quelques verres de cognac aurait
+  inventées rien que pour nous embêter, nous, pauvres petits Frenchies.
+- La scène de traduction française : merci pour tout le boulot formidable que vous faites ! Orphis,
+  sors-moi le reste des textes de Tales of Destiny, boudiou :D !
+- The Brazilian translation scene : you're working a lot, you enjoy what you do, you're nice and
+  funny people. What's more, you're one of the most active scene (maybe second behind the US one).
+  Special thanks to Felix AKA Gamer Boy (now that I know you, I'm going to call you Speed Felix :D),
+  Luc (keep up the good work on Final Fantasy VII and Suikoden !) and Sergio (you'll know why ;)).
+
+
+\ CONTENU DU ZIP
+ \_______________
+
+MD-ShiningForceII-v0.98.txt : Fichier d'informations (vous être en train de le lire ;))
+MD-ShiningForceII-v0.98.ips : Patch français de la ROM
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Le patch "MD-ShiningForce2-0.98.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Shining Force II (U) [!].bin
+  Taille de la rom: 2 097 152 octets
+  Rom avec Header ? Non
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher.
+Il en existe plusieurs que vous pourrez trouver sur le site de la T.R.A.F (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la ROM puis le fichier ips et de valider (certains outils 
+peuvent créer une sauvegarde de la ROM avant de patcher). 
+
+Des émulateurs permettent également de patcher directement les ROMs sans les altérer. Pour plus
+d'explications, je vous invite à consulter le site de la TRAF dans la partie "Utiliser un patch IPS".
+
+
+\ HISTOIRE DE LA TRADUCTION
+ \__________________________
+
+Quand j'étais gosse (tiens, ce n'est pas la première fois que je commence ainsi un historique), j'ai
+eu la chance de jouer à ce magnifique Tactical RPG. Il représentait pour moi l'un des fleurons
+des jeux de rôle sur Mega Drive. Lorsque j'y repense aujourd'hui, je trouve qu'il a assez bien
+vieilli. Je lui reprocherai son scénario assez convenu. Cependant, la série des Shining Force (rattachée
+à la série plus vaste des Shining) est l'une des premières à avoir instauré ce type de combat avec
+une autre brillante série, celle des Fire Emblem (côté Nintendo). De plus, contrairement aux autres jeux
+de ce type, à l'époque, il était possible d'évoluer sur une carte à la manière des Final Fantasy (avec
+la possibilité de revenir où l'on voulait à la fin du jeu) alors qu'on avait en général droit à des
+jeux découpés en scénarios où une phase de discussion (expliquant ce qui se passait dans le jeu) était
+suivie par une phase de combat (ce qui est le cas par exemple des Shining Force Gaiden sur Game Gear).
+
+En 2003, année pendant laquelle j'ai commencé à me poser des questions sur une éventuelle traduction du
+jeu, je ne comprenais pas pourquoi il n'en existait pas alors que tous les possesseurs de Mega Drive
+s'accordaient à dire qu'il s'agissait de l'un des meilleurs RPGs de cette plate-forme.
+
+Ayant réussi à mettre le grappin sur Meradrin, je lui ai dit que le jeu devrait être très certainement
+compressé et qu'on ne trouvait pas une once de texte (hormis les menus) ni de police 8x8 dans la ROM.
+Il a pris cette remarque comme un défi et a finalement réussi à extraire les scripts et menus du jeu.
+
+Jonath Lé Là a accepté de m'aider sur la traduction des 300 ko de texte... Hop ! Nous étions partis
+pour l'aventure aux environs de juin 2003.
+
+
+\ REMARQUES SUR LA TRADUCTION
+ \___________________________
+
+Les scripts principaux de ce jeu sont compressés en Huffman. C'est pour cette raison qu'on ne trouve
+absolument rien en clair dans cette ROM (contrairement à une MTE ou une LZSS où des petits bouts de
+texte peuvent être trouvés). C'est d'ailleurs à cette occasion que Meradrin a gentiment accepté de
+m'expliquer les fondements de cette compression appliquée à un cas amusant. Il en est sorti un tutoriel
+très simple que vous pourrez trouver sur le site de la T.R.A.F.
+
+Meradrin a d'ailleurs accepté de modifier plusieurs choses :
+- étendre le nom des classes qui n'avaient que 4 lettre (et déplacer certains cadres) ;
+- étendre la deuxième ligne des objets. 7 lettres, c'était un poil court ;
+- étendre les noms des ennemis ;
+- étendre la taille initiale du script ;
+- ROMhacker l'écran titre afin de faire figure absolument tout ce que je voulais (dont le rajout du
+  sous-titre qui figure dans la version japonaise du jeu) ;
+- ROMhacker la font 8x8 (invisible dans la ROM) ;
+- modifier les accès mémoire de manière à ce que le jeu puisse fonctionner sur la véritable console
+  (oui, vous avez bien lu : avec une cartouche flash de type tototek, il vous est possible de jouer à
+  cette traduction sur votre Mega Drive). Une partie de ces modifications étaient également nécessaires
+  pour éviter un méchant bug empêchant toute sauvegarde SRAM (extension de ROM, quand tu nous
+  tiens...) ;
+
+En lisant la date de début du projet (juin 2003), on serait alors en droit de se demander "Mais pourquoi
+vous a-t-il fallu quatre ans avant de pouvoir traduire quelque 300 ko de texte" ? A cela, j'ai plusieurs
+réponses :
+
+- Meradrin était un peu celui qui a droit de vie et de mort sur ce projet. Il était assez peu joignable
+  d'une part parce que, à l'époque, il était en plein dans ses études (sur la fin : ce qui demande en
+  général pas mal de temps) et que, d'autre part, il habite au Québec, ce qui occasionne un décalage
+  horaire avec ma petite patrie française. Résultat, quand je me levais, il se couchait et quand il
+  arrivait à se connecter en soirée, j'étais celui qui avait sommeil. Cela a bien évidemment ralenti
+  ledit projet.
+- J'ai moi aussi eu un coup de mou dû à ma vie professionnelle d'une part et personnelle d'autre part,
+  surtout entre fin 2003 et début 2005 (quasiment une année à ne presque rien faire sur la traduction).
+  La première version alpha du patch a en fait vu le jour fin 2005 et la première bêta mi-2006.
+- Il a fallu refaire les tout premiers outils afin d'aider les Espagnols et les Brésiliens à créer leur
+  propre traduction du jeu. Il a également fallu suivre leur projet de bout en bout, ce qui n'a pas été
+  une mince affaire.
+- Bien sûr, nous avons eu de très nombreux bugs assez handicapant (d'ordre technique ou esthétique), ce
+  qui ne facilite jamais la tâche des acteurs du projet.
+- Enfin, la phase de test a bien pris pas mal de temps puisque, d'une part, nous avions très peu de
+  temps à y consacrer (et ceux qui connaissent ce jeu savent qu'il est loin d'être court) et, d'autre
+  part, personne n'a bien voulu nous aider, ce qui est dommage (mais aussi un peu de ma faute car nous
+  avons assez peu communiqué sur cette demande). Ce n'est qu'un an plus tard que dandyboh et mitri nous
+  ont rejoints.
+
+Bref, merci de m'avoir lu jusqu'au bout et bon jeu !
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Forum     : http://www.bessab.com/
+Sites Web : Génération IX     - http://generation9.kanshima.net/
+            Final Translation - http://www.finaltranslation.org/
+            BessaB            - http://www.bessab.net/
+            T.R.A.F.          - http://traf.romhack.org/
+e-mail    : tiflamedragon@hotmail.com (Ti Dragon)
+
+
+\ REMARQUES LEGALES
+ \_________________
+
+Génération IX et Final Translation vous proposent une traduction non-officielle réalisée à but non
+lucratif par des amateurs bénévoles. Elle n'est en aucun cas supportée par SEGA ou SONIC TEAM. Cette
+traduction est donc gratuite et ne peut être vendue sous quelque forme que ce soit (vente de fichiers
+sur CD, de cartouches modifiées, de cartouches flash copiées, etc.) : son usage commercial est par
+conséquent strictement interdit.
+
+Vous utilisez ce patch de traduction en dégageant les auteurs de toute responsabilité concernant
+d'éventuels dommages.
+
+© 2003 - 2008 Génération IX et Final Translation
+Tous droits réservés
+
+
+MEGA DRIVE® et SHINING FORCE II® sont les propriétés de SEGA®.
+Les mentions légales relatives à SEGA se trouvent décrites dans un livret fourni avec chacun de leurs
+produits. Veuillez les lire attentivement.
+
+© 1989 - 2008 SEGA
+Tous droits réservés

@@ -1,0 +1,123 @@
+                                                                                                       
+                               ` `             .--.`                                                                 
+               ````  ``    `/osyh:             .mNNNo   :`                                                            
+        .:oyhdmmmmmddmy..`:m+yd-MN`  `         hMMMN.   h/                                                            
+     `.oNMMdydddddhMMMM/` `/oss+MMhdmmmh+`    /MMMMo   -NNd/                                                          
+     odMMMms:`````+mmms`    /:/NMMMMMMMMMd.  `mMMMN`   sMMMM:    -/:                                                  
+     +MMMN+       ````     `s/mMN++odMMMMMh  +NNMMy    mMMMM.   `mMN`                                                 
+     yMMMy                `/+mMMs./``dMMMMM.`mMNMMdo+/+MMMMN` -`sMMMs                  `         ``.                  
+     dMMMs                `sNMMmyhhysmMMMMM-:MMNNMNyyhMMMMMh `-+MMMMN:-. `/syyyso/:/` .ddh/   `   `.-                 
+     +MMMm.     `/yddso.  -NMMmsomNMNMMMMMm`yMMNMmdyshMdMMM+..:NMMdMMy-` yMMMNNNMMMMm+-mMMm` `o::hhyo/`               
+      oNMMmhhyyohMMMMo+``+NMMMMmdhMMMMMMMN:`NMMNM-:.`/MMMMN./+mMMy:hMN-`omMMNoo////mMMyyMMM/ /mhmMMMNo`               
+       -dmNNNMMMMMMMMh+ymMMdyydNMMMMMMMNh-.hMMMMM     MMMMd..hMMd` :MM: :mMMN+`    /syo+MMMs-yMMMMMh:                 
+     . `..+:--/ydsdmMMMMMNy`++-+mMMMh+:.  oMMMMMh     MMMMy:yMMd.  `NMs  dMMm`         oMMMNNMMMMhdyo-`               
+       `+/+- `.ooo.`:+os+-      .yMMMo..  :MMMMMd     MMMyhMMMho/:-NMd `MMMd          yMMMMMmMNMNs:oyh++:`           
+        `./` `  ``               `oNMMd/`  mMMMMh     odNd+MMMmmmmNNMMN`:MMMh      ```.dNMMMdysNMMNoo`o`.:.           
+                  ``               :dMMMdyohhmNMhNMMMNs/mhNMm+.:`..-dMN`:MMMm::::-.mmddMNmdMd` oNmMm+`   `            
+                  `                 `oNMMMMMMMMMMMMMN/ `o-//-       sNm``NMMMMMMMMdMMNMMMm.Nyo++yNMmNy`               
+                                      :omNMMMMMMMMMd:               `.. ./o+++ohmsys/dNMNo:myo/`/hNMMMy               
+                                        `-+ydmNmmy/`                 `:..-.` .+y/`   -:sNdhs+.   :mNNNN:              
+                                             ```                     `/+-` `        `-shh/:.      ```..`              
+                                                                             ``   `/+s/.                              
+						 crhack.romhack.org
+
+
+--------------------------------------------------------------------------------------------------------
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre       : POPULOUS
+Console     : SNES
+Développeur : BULFROG
+Editeur     : IMAGINEER, ELECTRONIC ARTS
+Sortie      : 16 DECEMBRE 1990 (JAPON), SEPTEMBRE 1991 (USA), 1991 (Europe)
+Genre       : STRATEGIE
+
+
+
+\ VERSIONS ET NOUVEAUTES
+ \______________________
+ 
+ 
+Version 1.0a
+------------
+
+Première version publique de la traduction.
+
+
+
+\ COMPATIBILITE
+ \______________
+Ce patch est uniquement applicable sur la version E (Européenne).
+
+
+
+\ ETAT DE LA TRADUCTION
+ \_____________________
+
+Ce qui a été traduit :
+- Le texte principal
+- Les menus
+
+Ce qui n'a pas été traduit :
+- Les graphismes
+
+Si vous constatez un oubli, n'hésitez pas à nous en faire part sur notre forum :)
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________
+
+Inexpugnable
+
+
+
+\ DISTRIBUTION DU PATCH
+ \______________________
+ 
+Cette traduction a été réalisée par une équipe bénévole.
+Celle-ci est distribuée sous forme de patch, téléchargeable depuis notre site (crhack.romhack.org) ou celui de la T.R.A.F. (traf.romhack.org).
+
+Sachez que nous aimerions garder le contrôle de cette distribution.
+Nous invitons donc les éventuels redistributeurs à fournir à vos visiteurs un lien vers notre site ou la page dédiée au projet,
+voir même le lien direct de téléchargement et à tout prix éviter d'héberger vous-même le fichier.
+
+Si nous demandons cela, c'est pour deux bonnes raisons:
+- Obtenir des statistiques proches de la réalité en ce qui concerne le nombre de téléchargements. (C'est une info qui nous tient évidemment à coeur)
+- Suivre correctement les mises à jour. Ces mises à jour représentant elles aussi un travail considérable, nous préférons cesser la distribution des patchs obsolètes.
+
+Notre site n'est pas sujet à liens morts et bénéficie d'une très haute disponibilité, n'ayez donc crainte sur ce point-là.
+
+NB : CE PATCH EST GRATUIT. SI VOUS AVEZ PAYÉ QUOI QUE CE SOIT POUR L'OBTENIR, VOUS VOUS ÊTES FAIT LOURDEMENT AVOIR !
+
+
+ 
+\ CONTACTS
+ \_________
+
+Pour toute faute d'orthographe, bévue, oubli de mot, bug, erreur de style ou de contexte, merci de nous les signaler sur le forum à l'adresse suivante :
+De même, n'hésitez pas à venir nous dire ce que vous pensez de notre travail...
+
+Forums    : http://www.romhack.org/
+Sites Web : Chaos Romhack    - http://crhack.romhack.org/
+            T.R.A.F.         - http://traf.romhack.org/
+
+
+
+\ REMARQUES LEGALES
+ \_________________
+
+Chaos Romhack Traduction vous propose une traduction non officielle réalisée à but non lucratif par des amateurs bénévoles.
+Elle n'est en aucun cas supportée par NINTENDO ou ELECTRONIC ARTS.
+Cette traduction est donc gratuite et ne peut être vendue sous quelque forme que ce soit : son usage commercial est par conséquent strictement interdit.
+Vous utilisez ce patch de traduction en dégageant les auteurs de toute responsabilité concernant d'éventuels dommages.
+© 2011-2012 Chaos Romhack Traduction
+Tous droits réservés
+
+NINTENDO® et POPULOUS® sont la propriété de NINTENDO COMPANY.
+Les mentions légales relatives à NINTENDO COMPANY se trouvent décrites dans un livret fourni avec chacun de leurs produits.
+Veuillez les lire attentivement.
+© 1990 - 1991 NINTENDO
+Tous droits réservés

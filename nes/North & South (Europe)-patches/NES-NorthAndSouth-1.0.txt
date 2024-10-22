@@ -1,0 +1,55 @@
+				Génération IX (http://generation9.kanshima.net)
+
+			   vous présente la traduction de North & South sur Nintendo
+
+
+\ INFOS SUR LE JEU
+ \_________________
+
+Titre       : NORTH & SOUTH
+Console     : Nintendo (NES)
+Développeur : Kemco
+Date        : 1990
+Genre       : Stratégie
+
+
+\ ETAT DE LA TRADUCTION : Patch Final du 18/06/2005
+ \_________________________________________________
+
+Ce qui a été fait :
+- Extraction des scripts : 4,42 ko
+- Insertion des scripts  : 4,41 ko
+- Hack graphique         : Titre, photographer, PLAYER, COM, LEVEL
+
+Ce qui n'est pas fait
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE
+ \_______________________________
+
+Hack       : BahaBulle
+Traduction : BahaBulle
+Relecture  : GreatSkaori
+Bêta-Test  : BahaBulle / GreatSkaori
+
+
+\ COMMENT APPLIQUER LE PATCH
+ \___________________________
+
+ATTENTION!!! Le patch est à appliquer sur la rom : North & South (E) [!].nes
+Les autres roms (si elles existent) n'ont pas été testées. Il est donc possible que ça ne marche pas.
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher.
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org).
+Il suffit ensuite généralement de sélectionner la rom puis le fichier ips et de valider
+(Certains outils peuvent créer une sauvegarde de la rom avant de patcher).
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+\ CONTACTS
+ \_________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'aurraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum    : http://www.bessab.com/viewforum.php?f=12

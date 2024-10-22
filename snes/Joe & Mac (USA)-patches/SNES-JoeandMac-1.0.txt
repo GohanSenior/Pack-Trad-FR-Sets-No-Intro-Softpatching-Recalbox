@@ -1,0 +1,117 @@
+			Génération IX (http://generation9.kanshima.net)
+		  vous présente la traduction néanderthalienne de "Joe & Mac"
+
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre : Joe & Mac
+Console : Super nintendo
+Développeur : Data East
+Date : 1991
+Genre : Plates formes
+
+
+
+\ ETAT DE LA TRADUCTION : Patch 2.0 créé  le 09/06/2006
+ \______________________________________________________
+
+Ce vieux jeu de plates-formes a fait les premières heures de la Snes.
+Connu par tout un chacun, je vais pas relater le maigre scénario (sauver
+des femelles en détresses de vilains néanderthaliens qui puent du bec),
+et m'attarder plutôt sur cette rom en général.
+
+- Le concept ? archi simpliste : un gugusse, des ennemis, des plates formes.
+
+- Les musiques ? mouais bof... Ca reste pas dans les mémoires, et aucune ne m'a
+marqué plus qu'une autre.
+
+- Le gameplay : groovy ! le personnage répond bien, pas de sauts au quart de pixel
+près... et à deux, c'est encore mieux :  en mode coop', on peut monter sur la tête
+de l'autre et atteindre des objets inaccessibles autrement.
+Beaucoup de petits niveaux, certains plus ou moins faciles, un boss en fin de
+circuit et on a sauvé une nénette de plus.
+
+Bref, vous l'aurez compris ; ce jeu n'est pas une merveille, mais il est bien
+rigolo. On y joue une heure ou deux, on le termine et on passe à autre chose...
+
+
+La traduction en elle même n'a pas été très difficile, il y'a assez peu de texte,
+mais ça m'a permis d'assimiler et mettre en oeuvre des techniques sur lesquelles
+je plantais un peu pour cause de manque de neurone.
+
+Jes est ensuite intervenu pour me fournir (en plus de son aide magistrale) deux
+patches qui ont permis de rectifier le jeu et proposer un patch complet.
+
+
+
+\ REMERCIEMENTS
+ \______________
+
+Jes : pour avoir pris la peine de m'expliquer comment trouver et exploiter
+les tiles 16x16, ainsi que sur les recherches relatives en 16 bits.
+
+J'ai appris beaucoup sur ce coup là, et j'ai compris pas mal de mes erreurs
+qui faisaient que je ramais sur certaines trads.
+Encore merci pour ta patience, et pour tes patches qui m'ont permis de modifier
+correctement le "continue? yes/no" et le "record" de l'écran de jeu
+
+
+\CODES DE TRICHE
+ \_______________
+
+Fidèle à mes vieiles habitudes, je traduis rarement un jeu sans chercher les codes
+de triche. Voici ceux que j'ai trouvé sur cette rom (pour une fois, j'ai pas
+cherché sur Gamefaqs :p )
+
+Adresse		Valeur		description
+7E081C		20		Energie infinie
+7E0822		9		Vies infinies
+
+A noter que ces codes sont valables pour une partie en mode solo.
+Je n'ai pas cherché les codes pour un mode deux joueurs, j'ignore
+s'ils fonctionnent...
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack : Jes, Happexamendios
+Traduction : Happexamendios
+Bêta-Test : Happexamendios
+Explications, patience et patches additionnels : Jes
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "SNES-JoeandMac-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Joe & Mac (U) [!].smc
+  Taille de la rom: 1 048 576 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 3A2B6167
+  CRC rom patchée : BF2C3120
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  BSnes          [ ]		SNes9X 1.51    [x]
+  Snes 9X 1.43   [x]		Snes 9X 1.53   [x]
+  Snes 9x Geiger [ ]		Snes GT        [ ]
+  ZSnes          [ ]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+Site Web : http://generation9.kanshima.net 
+Forum : http://www.bessab.com/viewforum.php?f=12 

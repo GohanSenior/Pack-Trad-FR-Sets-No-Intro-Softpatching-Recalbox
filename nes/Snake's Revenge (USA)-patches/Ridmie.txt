@@ -1,0 +1,250 @@
+ ___________________________________________________________________________
+               
+			Traduction de Snake's Revenge
+			     par Cigarette Patch
+ ___________________________________________________________________________
+
+ Petit fichier texte à vocation vaguement humoristique, écrit avec mes pieds
+ plats (aïe je viens d'écraser une ampoule, j'ai plus de lumière *bide*)
+ destiné à dire qu'en substance c'est nous Cigarette Patch qui avons produit
+ cette traduction en français du jeu Snake's Revenge affilié à la célèbre
+ série Metal Gear, et maintenant je pose tout de suite un point car ma 
+ phrase devient trop longue.
+ ___________________________________________________________________________
+ 
+ Patch version 1.00
+
+ Disclaimeur
+ Ingrédients
+ Le Cas Snake's Revenge
+  - Petit flashback
+  - Fin des années 90
+  - Snake's Revenge, un destin à la Karen Cheryl
+ Mot de passe
+ Publicité
+ Remerciements
+ ___________________________________________________________________________
+
+ Disclaimeur
+
+ Si vous vous reconnaissez dans une des affirmations suivantes...
+
+ - Je suis un hardcore fan de la série Metal Gear.
+ - J'ai un poster grandeur nature de Kojima San dans ma chambre.
+ - Je customise ma copine pour la faire ressembler à Mei Ling et/ou
+   j'ai harcelé mon copain pour qu'il adopte la coupe de cheveux trop trop 
+   kawaï de Kojima San.
+ - J'appelle mon téléphone portable le codec.
+ - Je préfère rechercher les fréquences pour contacter mes amis plutôt que
+   d'utiliser le répertoire de mon portable.
+ - J'ai étranglé à plusieurs reprises mon chat quand je m'infiltre tard la
+   nuit chez mes parents après une soirée bien arrosée.
+ - Je ne peux pas m'empêcher de jouer à cache-cache chaque fois qu'une alarme
+   de voiture retentit.
+ - Mon insulte fétiche quand je suis énervé est : "Sam Fisher Price".
+ - Je me cogne et je m'exclame : "Aïe, j'ai une big bosse!".
+ - Je rase les murs, mais je ne me rase pas. (je remercie Maxi-Touff78 alias
+   Sébastien Folin du forum videogaghumour.fr pour ces trois dernières blagues)
+
+ ...et si TF1 vous a retiré tout sens critique, vous n'aimerez certainement 
+ pas Snake's Revenge, le vilain petit canard de la série, conspué des dessous
+ de bras par la horde des jeunes fanatiques complètement otaku de la tête
+ qui pullulent sur l'Internet.
+ ___________________________________________________________________________
+
+ Ingrédients
+
+ Ce zip, garanti sans matières grasses superflues, doit contenir les 
+ fichiers suivants:
+
+ Cigarette Patch - Snake's Revenge (font Remix).ips  
+ Cigarette Patch - Snake's Revenge (font Famicom Mini).ips
+ Ridmie.txt
+
+ Assurez-vous de posséder la rom américaine du jeu, nommée: 
+ Snake's Revenge (U).nes
+
+ Les patchs font planter les versions européennes. Appliquez un des deux 
+ fichiers ips sur la rom américaine grâce aux programmes Arkana Patcher ou 
+ Terminus Patcher disponibles sur le site de la TRAF:
+
+ http://traf.romhack.org
+
+ Ou encore si vous utilisez l'émulateur VirtuaNES, renommez le patch avec le 
+ même nom que la rom (en laissant l'extension .ips), et cochez l'option
+ Auto IPS Patch du menu Tools.
+
+ Attention, cette traduction n'approuve pas la politique de Nicolas Sarkozy.
+ ___________________________________________________________________________
+
+ Le Cas Snake's Revenge (attention c'est long et chiant à lire)
+
+ Snake's Revenge est certes un jeu de la franchise Metal Gear, mais il n'a 
+ pas été produit par Hideo Kojima. Et malheureusement, cela se ressent sur 
+ l'intérêt du jeu.
+
+ Petit flashback:-----------------------------------------------------------
+
+ Nous sommes en 1987, Lorie a alors 7 ans et à la récré elle me demande de 
+ sortir avec elle. Je l'envoie balader car à l'époque j'étais amoureux de
+ Nana Mouskouri. Aujourd'hui je regrette amèrement mon geste (un majeur levé).
+ Au même moment, quelque part au Japon, un homme mal coiffé va révolutionner 
+ le monde du jeu vidéo.
+
+ Shigeru Miyamoto? Non ça ne peut pas être lui, Mario et Zelda c'est de la 
+ merde...
+ 
+ Hideo Kojima, encore plus mal coiffé que Miyamoto, dévoile son Metal Gear 
+ sur MSX. Comme tous les génies il sera incompris, son jeu fera un bide au 
+ Japon.
+ 
+ Un Metal Gear bâtard (sa mère!) sort quelques temps après sur NES. Différent 
+ de l'original et spoilant dès le début l'histoire, celui ci non plus ne 
+ marchera pas au Japon. Mais il sera acclamé aux States et en Europe.
+
+ Kojima entame alors une longue dépression, quitte sa femme et part en
+ pèlerinage au mont Fuji avec son bonsaï, un kimono troué, un peigne, du
+ gel Fructis Style et 200 Yens.
+
+ Konami décide alors de continuer la série sur NES sans le Maître. Cette
+ suite nommé Snake's Revenge sera exclusivement réservée au marché 
+ occidental.
+
+ La légende raconte qu'un jour, Kojima a rencontré un des développeurs de
+ Snake's Revenge dans le métro. Ce programmeur aurait insisté auprès de
+ Kojima pour que le Maître change de perruque, mais surtout qu'il continue 
+ la série et produise un vrai Metal Gear 2. Cette discussion aboutira 
+ au jeu Metal Gear 2 : Solid Snake sur MSX.
+
+ Snake's Revenge quant à lui sort sur NES en 1990 aux Etats-Unis et remporte 
+ un vrai succès, malgré ses défauts, mais il reste néanmoins un bon jeu.
+
+ Fin des années 90:---------------------------------------------------------
+
+ Le monde découvre avec horreur la télé-réalité, et se console sur 
+ ordinateur grâce à l'émulation.
+
+ Et là c'est le drame! Kevin Smith, 15 years old, from NY California grand
+ amateur de boisson Sunny Delight, découvre une rom MSX "Metal Gear 2 : 
+ Solid Snake (J).zip" sur un site d'émulation avec plein de pubs dedans.
+
+ - Whadda fuck? Konami you cheated on us, son of a fucking bitch!
+ s'écrit alors notre jeune ami.
+
+ S'en suit alors une longue campagne de désinformation dont est victime
+ le pauvre Snake's Revenge. Les jeunes, visiblement désabusés et sans
+ repères, pensent à tort que Solid Snake MSX était sorti avant Snake's
+ Revenge et que ce dernier n'était qu'un mauvais produit de substitution.
+ 
+ Et surtout, sacrilège ultime, Kojima chéri n'a rien à voir avec Snake's
+ Revenge! 
+
+ Snake's Revenge, un destin à la Karen Cheryl:------------------------------
+
+ Ou comment un jeu aimé de tous, finit sa carrière comme caissière chez
+ Felix Potin.
+
+ Alors oui, Snake's Revenge combine pas mal de défauts:
+
+ Kojima n'a pas bossé dessus, mais l'équipe qui a produit Snake's Revenge a 
+ sorti un an avant Castlevania 3.
+
+ Snake's Revenge propose par endroits des passages en vue de profil,
+ franchement peu inspirés. La maniabilité est poussive lors de ces scènes,
+ l'infiltration quasi-impossible en vue de profil impose au joueur 
+ l'affrontement. Mais ces passages en vue de profil sont anecdotiques, et 
+ se comptent sur les doigts de la main. 
+ Malheureusement trop de gens se basent dessus pour décrire Snake's Revenge 
+ comme étant un jeu complètement bourrin (c pa Metal Gear c Metal Slug lol!) 
+ ce qui est faux car déclencher une alarme est très souvent fatal. 
+ L'infiltration reste la règle d'or du jeu.
+
+ Snake est vêtu d'un survet' orange fluo, super fashion pour aller infiltrer
+ les méchants. Je l'avoue ce n'est pas crédible, mais Metal Gear 1 NES & MSX
+ l'étaient encore moins. Snake partait à l'assaut d'Outer Heaven armé d'un 
+ paquet de clopes. Et il a raison, la cigarette tue.
+ Une alarme sonnait mais les gardes visiblement en grève au début du jeu 
+ assuraient le service minimum en n'attaquant que sur un seul écran. 
+ Il suffisait de quitter l'écran pour que l'alerte soit levée. Dans Snake's 
+ Revenge, il faut éliminer tous les gardes ou quitter l'étage pour faire 
+ cesser l'alarme.
+
+ L'intrigue est moins travaillée que dans les autres épisodes, mais elle
+ reste correcte pour un jeu de 1990. La traduction originale en anglais
+ est bourrée d'incohérences que nous nous sommes efforcés de corriger. 
+ Ce patch propose une traduction ainsi qu'une correction et une réécriture
+ du script pour le rendre plus compréhensible.
+
+ Certains sites évoquent un certain "Higharolla Kockamamie" qui est 
+ censé être le boss final. Ce nom est une invention d'Ultra Games, la boîte
+ qui a distribué le jeu aux States. La notice de Snake's Revenge, vaguement
+ humoristique (un peu comme ce ridmie d'ailleurs), rédigée par Ultra Games
+ voulait se la jouer "top kikoo lol" en parodiant Ayatollah Khomeni, un 
+ dictateur iranien très moche, l'ennemi public n°1 des Etats Unis de
+ l'époque. Le jeu ne fait aucune référence à ce nom stupide.
+ D'ailleurs quand le jeu fut importé en Europe en 1992, le boss s'appelait
+ "Colonel Vernon CaTaffy", big dédicace au colonel Kadhafi.
+ 
+ Par contre, le boss de fin est méchamment hors sujet avec l'univers du jeu,
+ je vous laisse la joie de le découvrir.
+
+ Mais ces défauts sont heureusement contre balancés par les nombreux points 
+ positifs de cet épisode. La maniabilité est excellente, sauf lors des 
+ passages en vue de profil. L'animation est largement meilleure que celle de 
+ Metal Gear 2 MSX, à moins que ce ne soit l'émulateur BlueMSX qui délire.
+
+ Graphiquement le jeu est moche comme tous les jeux NES, mais moins que 
+ Metal Gear 1. Les environnements sont très variés, on passe d'une jungle à
+ une base, puis d'un bateau à un train. Le jeu lance plein de nouvelles
+ idées, mais on reste sur sa faim car elles ne sont pas assez exploitées.
+
+ La B.O. disponible chez Polygram déchire sa mère.
+
+ En résumé, prenez Snake's Revenge comme un spin-off (hors série) de Metal
+ Gear au même titre que Metal Gear Solid Ghost Babel sur GBC. Si Konami l'a 
+ fait disparaître de la lignée, ce n'est pas a cause de son haleine fétide, 
+ mais parce que les histoires ne peuvent pas coller. Kojima a d'ailleurs 
+ précisé qu'il avait apprécié Snake's Revenge et qu'il avait trouvé fidèle 
+ à l'esprit Metal Gear. Bien sûr, il ne va pas critiquer un jeu Konami mais 
+ son analyse reste raisonnable. 
+
+ Selon moi, Snake's Revenge fait partie des Metal Gear les moins bons, mais
+ il est très loin d'être la daube légendaire tel qu'il est présenté par les 
+ sites spécialisés. Snake's Revenge reste un bon petit jeu qui mérite un 
+ 12/20 sur mon échelle.
+
+ Pour conclure, ce jeu divise la communauté. Jouez quelques heures et faites
+ vous votre propre opinion.
+ ___________________________________________________________________________
+
+ Mot de passe
+
+ Pour vous remercier d'avoir lu jusqu'au bout ce ridmie, la team vous
+ offre ce mot de passe qui vous amène directement dans la base juste après 
+ la jungle.
+
+
+ 			!pph 	6ç-q 	z36b 	àx3d
+			pêw4 	ét!4 	zbgr 	5b
+
+ ___________________________________________________________________________
+
+ Publicité
+
+ Si vous aimez les (vrais) Metal Gear, essayez les traductions de Metal
+ Gear NES et MSX sur le site de nos amis de Génération IX.
+
+ http://generation9.kanshima.net
+ ___________________________________________________________________________
+     
+ Remerciements
+
+ Je tiens à remercier notre consultant spécial ColibriAlpha, qui m'a fait
+ découvrir ce jeu, et qui m'a apporté quelques éclaircissements lors de la
+ correction du scénario.
+
+ Ainsi que mon fidèle binôme GreatSkaori qui a signé cette jolie traduction.
+ ___________________________________________________________________________
+
+ Patch de Traduction de Snake's Revenge Copyright 2005 Cigarette Patch
+ http://cigarette.consolemul.com

@@ -1,0 +1,24 @@
+
+http://generation9.kanshima.net/
+
+Traducteur:
+	KS151 (ks151@msn.com)
+Romhackeur :
+	KS151
+DATE:	
+	03/08/2004 15h37
+Jeu :
+	ABADOX
+
+Caractéristiques du jeu :
+	Nombre de joueurs : 1
+	Style : Shoot Them Up
+	Note : 15/20
+
+Le patch :
+	Version 1.00
+
+Traduction :
+	de l'anglais au français au stade de 100%. A noter que c'est 
+	ma Septième traduction ! Rom traduite : Abadox (U)
+	Dispo sur planetemu.net.

@@ -1,0 +1,84 @@
+__________________________________________________________________________________
+4 décembre 2019
+
+Mise à jour flash par Ingo
+- correction de 3 fautes de frappe
+- correction du checksum
+
+patch à appliquer sur :
+Kid Icarus - Of Myths and Monsters (UE) [!].gb
+CRC32 de la rom : 0C042862
+
+__________________________________________________________________________________
+29 mai 2006
+				Emulation-151 (http://www.emulation-151.com)
+                                                et
+                              Generation IX (http://generation9.kanshima.net)
+
+				 vous présente la traduction de Kid Icarus
+						
+						Patch 54
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre : Kid Icarus
+Console : GB
+Développeur : Nintendo
+Date : 1991
+Genre : Plateforme
+
+
+
+\ ETAT DE LA TRADUCTION : Patch 28/05/06
+ \__________________________________________________
+
+
+Tout est traduit.
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack : KS 151
+Traduction : GreatSkaori et Happexamendios
+Betatest : ColibriAlpha
+
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Le patch "NES - Kid Icarus - E151 G9.ips" est à appliquer sur
+la rom "kid icarus - of myths and monsters (ue) [!].gb" du 29/12/1997.
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher. 
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils 
+peuvent créer une sauvegarde de la rom avant de patcher). 
+Voilà maintenant votre rom avec les modifications apportées par notre traduction. 
+
+Attention un problème est apparu sur la fin du jeu avec l'émulateur VBA. C'est indépendant de la 
+traduction, testé sur HeboWin Fr, le jeu est passé à merveilles.
+
+
+
+\ HISTORIQUE DE LA TRADUCTION
+ \____________________________
+
+Sur la demande de ColibriAlpha, aidé par deux grands traducteurs de la scène : GreatSkaori et 
+Happexamendios. Voilà le résultat 100 % Fr ;)
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://www.emulation-151.com
+	   http://generation9.kanshima.net/
+
+Forum :    http://www.bessab.com/
+           http://www.emulation-151.com/Forum/phpBB2/index.php

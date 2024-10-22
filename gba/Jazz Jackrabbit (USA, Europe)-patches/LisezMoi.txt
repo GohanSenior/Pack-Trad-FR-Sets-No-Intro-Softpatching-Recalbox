@@ -1,0 +1,117 @@
+
+Voici mon 3ème patch de traduction.
+
+----------------------------------------------------------------
+***********************Table des matières***********************
+----------------------------------------------------------------
+
+1.	INFORMATION SUR LE JEU
+2.      CONTENU DE L'ARCHIVE ET UTILISATION
+3.	TOUT CE QUI A ETE FAIT
+4.	PROBLEMES CONNUS
+5.	L'ÉQUIPE DE TRADUCTION
+6.      REMERCIEMENTS
+7.	REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  INFORMATION SUR LE JEU
+----------------------------------------------------------------
+
+Titre       : Jazz JackRabbit
+Console     : Game Boy Advance
+Développeur : Game Titan
+Editeur     : Jaleco
+Année       : 2008
+Genre       : Action
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+L'archive ZIP doit contenir :
+
+JJRfr.IPS  - Le patch français de Jazz JackRabbit
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+(Lunar IPS  par exemple).
+Ce patch est à utiliser avec la rom : Jazz Jackrabbit (U)
+
+
+----------------------------------------------------------------
+3.  TOUT CE QUI A ETE FAIT
+----------------------------------------------------------------
+
+-le mode solo 		: 100%
+-le mode multijoueurs	: 100%
+-les options		: 98%
+-les crédits		: 100%
+
+Soit une traduction globale de 99%.
+
+----------------------------------------------------------------
+4.  PROBLEMES CONNUS
+----------------------------------------------------------------
+Je n'ai pas réussi à décompresser les graphismes du jeu.
+
+Par conséquent, lors du choix de la configuration des contrôles,
+l'assignation des boutons restent en anglais.
+Cela ne pose pas un problème de compréhension majeur pour le jeu
+dans la mesure où le 1er niveau fera office de tutorial, et jazz
+vous expliquera toutes les commandes en français.
+
+Elles sont assez explicites, mais pour l'anglophobe pur, voici
+la traduction  de ce menu :
+
+Carrot grenade : grenade carotte
+Quick weapon select : changement d'arme rapide
+Shoot : tirer
+Jump : sauter
+Weapon menu : inventaire
+In game pause menu : pause durant le jeu
+
+
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+Corrigo : Tout
+
+Si vous trouvez des erreurs dans le patch, merci de m'envoyer un
+courriel à : corrigo21@hotmail.fr avec si possible une capture 
+d'écran du soucis.	
+
+----------------------------------------------------------------
+6.  REMERCIEMENTS
+----------------------------------------------------------------
+
+Je tiens quand même à remercier l'équipe de la traf.
+
+En partculier:
+ -bahabulle 
+ -Ti dragon
+Pour le coup de pouce (sans succès) sur les graphismes.
+
+----------------------------------------------------------------
+7.  REMARQUES LEGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de Jazz Jackrabbit n'est pas
+officiel et n'est pas supporté par Jaleco et/ou Game Titan.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout, à bientôt et bon jeu!
+
+Corrigo

@@ -1,0 +1,106 @@
+TERMINUS TRADUCTION présente
+
+Joy Mech Fight
+----------------------------------------------------------------
+*******************Table des matières******************
+----------------------------------------------------------------
+
+1.    L'HISTOIRE DU JEU
+2.    CONTENU DE L'ARCHIVE ET UTILISATION
+3.    LES PATCHS PUBLIES
+4.    TOUT CE QUI A ETE FAIT
+5.    L'ÉQUIPE DE LA TRADUCTION
+6.    CONTACTS
+7.    REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  L'HISTOIRE DE Joy Mech Fight
+----------------------------------------------------------------
+
+Joy Mecha Fight est un jeu de combat sur NES qui vous met aux
+commandes de mechas stylisés version manga dans le style RAYMAN.
+
+Un scientifique du nom de Ivan Warner a détourné tous les robots
+du Japon dans le but de les contrôler afin de lancer une attaque
+pour dominer le monde. 
+Heureusement le docteur Little Ermin a réussi à sauver un seul et
+unique robot du contrôle de Warner. 
+Grâce à lui, vous devrez affronter 7 robots ennemis pour tenter
+de reprendre le contrôle de chacun. 
+À chaque combat gagné, vous récupérez la puce électronique du
+mecha vaincu, ajoutant ainsi un robot supplémentaire dans votre
+équipe. À vous de venir à bout de plus de 32 mechas pour sauver
+le monde.
+La cartouche propose un mode histoire, une mode 1 contre 1 contre
+un ami ou un ordinateur et un mode spectateur. 
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir:
+JoyMechFightFr.ips  - Le patch IPS du jeu
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+(le Patcheur Terminus par exemple).
+Ce patch est à utiliser avec la ROM JAP:
+Joy Mech Fight (Japan).nes
+
+----------------------------------------------------------------
+3.  LES PATCHS PUBLIES
+----------------------------------------------------------------
+
+-V1.00
+-Traduction complète sauf le message pour les gagnants (WINS etc...)
+
+----------------------------------------------------------------
+4.  TOUT CE QUI A ETE FAIT
+----------------------------------------------------------------
+
+Traduction du jeu
+Retouches graphiques
+
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+Kazan : Hacking, Traduction, Retouches graphiques
+
+----------------------------------------------------------------
+6.  CONTACTS
+----------------------------------------------------------------
+
+Une remarque, une question ou une correction à apporter à la
+traduction du jeu.
+
+Kazan - newkazan@hotmail.fr
+
+Vous voulez mieux connaître le groupe, télécharger nos derniers
+patchs ou vous renseigner sur un projet.
+
+Site Web - http://terminus.romhack.net
+
+----------------------------------------------------------------
+7.  REMARQUES LEGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de ce jeu n'est pas officiel
+et n'est pas supporté par Nintendo.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+Kazan

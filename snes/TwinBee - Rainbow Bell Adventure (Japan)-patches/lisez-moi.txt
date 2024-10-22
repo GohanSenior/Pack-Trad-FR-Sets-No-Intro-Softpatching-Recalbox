@@ -1,0 +1,63 @@
+***** LE PATCH *****
+
+----- Utilisation -----
+Ce patch gratuit et non officiel vous propose de découvrir une alternative française aux dialogues anglais de la cartouche de votre jeu original.
+À appliquer sur le fichier image :
+Twinbee - Rainbow Bell Adventure (J).smc SANS HEADER
+CRC32 de la rom : 91867AF4
+
+Pour voir le CRC32 d'un fichier, vous pouvez installer 7-Zip puis clic droit sur le fichier et CRC SHA > CRC32.
+Pour utiliser le patch, vous pouvez par exemple utiliser Lunar IPS disponible ici :
+https://traf.romhack.org/?p=outils&oid=151
+
+CRC32 de la rom après patch: C6C53425
+Le checksum restera bon après patchage de la rom.
+
+----- Remerciements & Questions -----
+Vous pouvez m'écrire en laissant un message sur ce sujet du forum :
+https://www.romhack.org/viewtopic.php?f=43&t=4225
+
+
+
+***** LE JEU *****
+
+----- Série Twinbee -----
+Twibee est une série qui a connu le succès surtout au Japon avec de nombreux produits dérivés tel l'animation japonaise.
+TwinBee Rainbow Bell Adventures est le jeu traduit ici. Il contient un dialogue où nos héros se remémorent leurs aventures passées dans Detana!! TwinBee... un des six jeux parus avant. Il y en eu bien d'autres après.
+
+----- Les sept cloches arc-en-ciel -----
+un des tons bleu de l'arc-en-ciel a été remplacé pour mieux reconnaître la couleur des cloches à l'écran
+
+-CIEL-  -CLOCHE-  -UTILITÉ-
+violet  violette  bulle de protection absorbant un choc
+indigo  grise     chaussures antidérapantes
+bleu    bleue     tir laser
+vert    verte     chibi offensif par contact direct (x3 max)
+jaune   jaune     absente du jeu  — dans les autres volets de la série, elle augmente le score en donnant des points
+orangé  orange    maillet (Twibee) / fouet (Winbee) / marteau (GwinBee)
+rouge   rose      10 secondes d'invincibilité
+
+
+
+***** LES TRAVAUX ANGLOPHONES *****
+
+----- Traduction japonais/anglais -----
+5 des 6 fins du jeu et 90% du scénario de la version japonaise furent retirés à l'international.
+C'est pourquoi la talentueuse équipe d'Aeon Genesis l'a traduit entièrement depuis le japonais.
+Un grand merci à eux pour leur version traduite depuis le japonais qui m'a permis de produire les textes en français.
+
+
+
+***** LES TRAVAUX FRANCOPHONES *****
+
+----- Textes dans le jeu -----
+Introduction du jeu (prologue et fiches personnages)
+Menus (démarrage, sauvegarde, options)
+Tous les dialogues sur une trentaine de points de la carte du monde
+Six fins du jeu et générique
+
+----- Graphismes -----
+Ecran titre
+Ecran de sauvegarde
+Ecran de choix du joueur
+Quelques graphismes n'ont pu être modifiés à cause d'un format compressé, ce qui porte le total traduit à 98%.

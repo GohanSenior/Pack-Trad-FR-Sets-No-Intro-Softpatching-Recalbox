@@ -1,0 +1,11 @@
+PATCH V1.0
+Merci à FlashPV pour son aide et d'avoir finaliser cette traduction
+Merci à la team suedoise qui a mis a disposition les outils necessaires.
+
+Patch a utiliser sur la ROM 
+Uninvited (U) [!].nes
+
+
+HISTOIRE:
+Uninvited est un Point&click, dans lequel le héros doit trouver son chemin à travers une maison abandonnée.
+Le joueur reprend conscience après avoir eu un accident de voiture. Sa sœur est partie et la voiture commence à prendre feu. Sa seule option est de rentrer dans la maison à la recherche de sa sœur.Résolvez les énigmes, puzzles de logique,... Tout en découvrant les sinistres secrets des anciens habitants de cette maison.

@@ -1,0 +1,26 @@
+Patch IPS du GoodNES de Cowering 
+a utiliser avec la version NES : 
+
+*****************************
+* Immortal, The (U) [!].nes *
+*****************************
+
+Version 0.8 du fichier IPS.
+
+
+traduction.
+--------------
+
+Menus	: 100%
+Objets	: 100%
+Actions	: 100%
+Script	:  99%
+
+Il reste à pouvoir integrer les accents dans le script et éventuellement plusieurs majuscules qui n'existent pas.
+
+
+Merci de me remonter via screenshot (PNG ou JPG) les problemes rencontrés.
+
+b0bba@free.fr
+
+PS: Grand merci à Ti Dragon de la TRAF pour son aide plus que precieuse. (pointeurs, tiles, etc.)

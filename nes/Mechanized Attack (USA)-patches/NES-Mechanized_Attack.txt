@@ -1,0 +1,117 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                           Mechanized Attack
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Mechanized Attack
+Console		: Nintendo NES
+Développeur	: SNK
+Editeur		: SNK
+Date		: 1990
+Genre		: Action
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 07/08/2018) :
+ \_________________________________________________________________
+
+Etant donné qu'il faisait beaucoup trop chaud pour s'atteler à
+un gros projet (et que j'ai une flemme intersidérale en ce moment),
+je me suis penché sur la liste des jeux Nes utilisant le Zapper,
+ce gros bidule en plastique orange et à la visée imprécise...
+
+Comme il reste encore quelques jeux de cette liste qui n'ont pas
+encore eu la chance d'être francisés, j'ai lancé 1D10 et je suis
+tombé sur "Mechanised Attack".
+
+Autant dire que le hasard n'était pas trop avec moi...
+
+Pour l'histoire, il faudra repasser :
+un héros, un minigun, des kilos de munitions, et... c'est tout!
+
+Je suppose que le manuel en dit un peu plus, mais tout ce qui
+nous intéresse est de pulvériser du soldat ennemi à coups de
+grandes rafales de plomb.
+Et autant dire que ça va chauffer, car il y en a de l'ennemi!
+Survivre à ces hordes belliqueuses ne sera pas une partie
+de plaisir. Heureusement que les chargeurs sont plus que
+nombreux (ce qui n'est pas le cas des bonus de vie)
+
+Bon, autant le dire tout de suite ; c'est plutôt moche !
+Si vous jouez comme moi sur un écran plat, ça va piquer
+les n'oeuils ! L'image ne fait que scintiller (effet secondaire
+de la technologie du zapper), mais indépendament de cela
+les décors et les personnages manquent un peu d'inspiration.
+
+On ira de la mer à une base secrète gérée par un espèce de
+cerveau en bocal, et on peut supposer qu'une technologie de
+clonage a été utilisée car les soldats sont tous identiques...
+
+Histoire de varier les plaisirs, le jeu permet de choisir
+ses niveaux. C'est toujours ça de pris, car sinon l'ennui arrive
+aussi vite qu'un tir de missile.
+
+Symptomatique de ce genre de jeu ; le gameplay est répétitif
+et la difficulté assez élevée.
+
+L'avantage est qu'on n'a pas besoin de réfléchir...
+
+La traduction est complète, mais il faut dire qu'il n'y a pas
+des tonnes de textes.
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+Vies infinies :		05F0:09
+					042F:09
+
+Chargeurs infinis : 041f:09
+					05f2:09
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Mechanized Attack (Fr).ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Mechanized Attack (U) [!].nes
+  Taille de la rom: 196 624 octets
+  Rom avec Header ? Non
+  CRC de la rom   : D56644B7
+  CRC rom patchée : F0784FB1
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  FCeu XD SP [x]		NesTicle   [ ]
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

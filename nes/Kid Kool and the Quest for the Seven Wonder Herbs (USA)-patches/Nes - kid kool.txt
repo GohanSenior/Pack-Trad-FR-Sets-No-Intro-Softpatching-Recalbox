@@ -1,0 +1,105 @@
+			Génération IX (http://generation9.kanshima.net) 
+				vous présente la traduction de
+			     Kid kool and the seven wonder herbs
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre	: Kid kool and the seven wonder herbs
+Console	: Nes
+Développeur : Vic Tokai
+Date	: Mars 1990
+Genre	: Plates formes horripilantissime
+
+
+\ ETAT DE LA TRADUCTION : patch 1.0 créé le 24/07/2012 
+ \_____________________________________________________ 
+
+Alors que je venais de terminer les scripts d'un gros jeu pour 4ph,
+j'ai voulu me trouver quelques petites roms faciles pour m'occuper
+entre midi et deux, et surtout pour me changer les idées.
+
+Je suis donc tombé sur Kid Kool et ses 7 plantouilles magiques (plantes
+certainement illégales dont les auteurs ont dû abuser, mais
+j'y reviendrai).
+
+L'histoire de ce jeu de plates-formes est des plus simples :
+le roi est souffrant et le héros doit retrouver 7 plantes
+aux vertus miraculeuses seules capables de sauver le régent.
+
+Comme d'hab', c'est donc à vous qu'incombe cette quête
+fantastique (ça change de la princesse), mais la maladie
+étant aussi foudroyante qu'un vampire se jettant sur
+une jeune vierge, vous n'avez que 3 jours pour récupérer
+les plantes (3 jours en jeu, soit 3 heures temps réel).
+
+3 heures... facile me direz-vous? vous torchez Sonic en 45 minutes,
+vous achevez Mario Lost Levels en 1h12 ?? Ben croyez-moi,
+3 heures ça fait court pour ce jeu !
+
+Car bien que ce petit jeu à l'allure enfantine, aux graphismes
+mignons et bucoliques, aux ennemis charmants et au scénario
+on ne peut plus basique vous laisse à penser que ce sera
+une partie de plaisir, et bien je peux vous dire que
+ce sera tout sauf le cas !
+
+Ce jeu est à se bouffer les macarons avec une sauce poivrée!
+Je n'ai que rarement vu une telle difficulté dans
+un jeu de plates-formes! Même avec les savestates et
+les vies infinies, j'ai mis pas mal de temps à arriver au bout.
+
+L'inertie du personnage est telle qu'il est parfois
+très difficile de compenser un saut raté; les pièges
+sont placés avec tant de sadisme que c'est à se demander
+si les designers n'avaient pas un forfait à dépenser!!
+Les ennemis quant à eux sont peu nombreux mais arrivent
+toujours au moment où c'est le moins judicieux...
+
+Bref, même les jeux tels que Lost Levels ou Ghouls & ghosts
+joués les mains dans le dos sont des promenades de santé 
+en comparaison !!!
+
+A noter que ce jeu possède plusieurs fins différentes
+selon le temps passé...
+
+
+En ce qui concerne la traduction, ben tout a été fait.
+Y a juste la toute première fin (en moins d'une heure,
+je doute qu'il y ait beaucoup de gens à l'avoir vue)
+que je n'ai pu tester. Il aurait fallu que je me repaluche
+le jeu et franchement je n'en avais pas la moindre envie.
+
+Si quelqu'un peut me confirmer que tout est bon,
+ça serait bien gentil ^^
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack 	  : Happexamendios
+Traduction: Happexamendios
+Bêta-Test : Happexamendios
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Le patch "Kid Kool.ips" est à utiliser sur la rom suivante :
+Nom de la rom   : Kid Kool and the Quest for the 7 wonder herbs (u)[!].nes
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher. 
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils 
+peuvent créer une sauvegarde de la rom avant de patcher). 
+Voilà maintenant votre rom avec les modifications apportées par notre traduction. 
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+Site Web : http://generation9.kanshima.net 
+Forum : http://www.bessab.com/viewforum.php?f=12 

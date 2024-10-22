@@ -1,0 +1,127 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                               Catwoman
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Catwoman
+Console		: Game Boy Color
+Développeur	: Kemco
+Editeur		: Kemco
+Date		: Décembre 1999
+Genre		: Action
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 21/10/2015) :
+ \_________________________________________________________________
+
+Je cherchais une petite rom à mettre sous la main, et je suis tombé
+sur "Catwoman" sur Game Boy Color. Ca tombe bien, je venais de me
+refaire la trilogie Batman de Chistopher Nolan et je cassais du malfrat
+sur "Batman: Arkham Origins".
+Ayant encore en tête la vision de Michelle Pfeiffer en tenue de cuir
+dae l'excellent "Batman: le Défi", je me suis dit qu'incarner
+Selina Kyle allait être intéressant.
+
+Erreur fatale...
+
+Le jeu auquel nous avons affaire ici n'a aucun lien avec les films,
+mais reprend le graphisme de la série animée Batman.
+Raté pour l'effet cuir et latex, donc...
+
+L'histoire nous indique que Catwoman est chargée par Talia, la fille
+de Ra's Al Ghul, de chaparder un crâne de cristal.
+Difficile pour Selina de ne pas avoir envie de garder le trésor,
+et après quelques secondes de reflexion, elle décide de l'ajouter
+à sa collection personnelle. Mais elle se fera dérober le crâne
+juste avant de mettre la main dessus.
+
+Comme il n'y a rien de pire qu'une femme en colère, elle va donc
+tout faire pour récupérer son trésor.
+
+Le but du jeu consiste à parcourir 9 niveaux plus ou moins longs
+mais surtout franchement chiants.
+
+Les niveaux sont moches, conçus à la sauvage et on n'en finit plus
+de slalomer dans tous les sens pour trouver la sortie.
+
+Les ennemis sont aussi idiots que rasoirs à éliminer (surtout
+sur les derniers niveaux), et là où il vous faut les frapper
+plusieurs fois de suite ; un seul de leurs tirs vous envoie
+valdinguer à une quinzaine de mètres en arrière.
+
+La jouabilité est assez médiocre ; les coups ne sortent pas
+très vite, les sauts sont assez galères à gérer et il arrive
+qu'on sorte un coup, une manoeuvre d'esquive ou autre au moment
+où on ne le veut pas (généralement lors de sauts précis).
+
+On va passer sur la musique exaspérante et l'ennui engendré par
+le jeu, j'ai assez dit de mal comme ça! Les graphismes sont tout
+à fait moyens, mais les images des scènes sont bien dans le style
+du dessin animé, c'est au moins ça...
+
+Bon, vous l'aurez compris ; le jeu est mauvais mais baste!
+Je ne suis pas du genre à laisser tomber une bouse et il était
+de mon devoir de le traduire.
+
+Tous les scripts sont donc en français et à part l'écran titre
+et celui de continue, tout est traduit, testé et validé.
+Et dire que j'aurais pu utiliser mon après-midi à des choses
+plus constructives...
+
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Energie infinie        0xC907          24
+Beam infini            0xC9BF          09
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Catwoman.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Catwoman (E) [C][!].gbc
+  Taille de la rom: 1 048 577 octets
+  Rom avec Header ? Non
+  CRC de la rom   : F9F75299
+  CRC rom patchée : 4039D4EE
+
+Le patch a été créé avec UIps et a été testé avec les émulateurs suivants :
+  BgB [ ]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

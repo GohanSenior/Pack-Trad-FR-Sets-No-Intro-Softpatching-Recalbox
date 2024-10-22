@@ -1,0 +1,118 @@
+				Génération IX (http://generation9.kanshima.net) 
+			vous présente la traduction futuriste de T2 - The Judgement Day
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre : Terminator 2 - The Judgement Day
+Console : Super nintendo
+Développeur : Bits
+Editeur : LJN Ltd.
+Date de sortie : Novembre 1993
+Genre : action
+
+
+\ ETAT DE LA TRADUCTION : Patch final le 21/mars/2006
+ \____________________________________________________
+
+Ce patch est complet. Tout a été traduit dans ce jeu destiné à comémorer les 6 ans du groupe,
+hormis l'écran titre et les options.
+Le jeu en lui même n'est pas extraordinaire, mais comme il était tiré d'un film, il allait
+conclure le tryptique patchien composé de "Final Otion" et "Universal Soldier"...
+3 jeux tirés de films, trois patches... On ne peut guère rêver mieux, non ?
+
+Il faut savoir également que cette rom n'a pas été choisie tout à fait au hasard. J'avais déjà
+entamé la traduction d'une autre adaptation du film : "T2 : Arcade game", mais bloqué par des gfx
+douteux, j'ai un peu laissé tomber le projet. C'est alors que j'ai vu cette version :
+un jeu d'action 2D un peu plus facile à hacker.
+
+Je me suis donc armé de mon éditeur préféré et attaqua le projet. Ce fut un peu plus long
+que ce que j'avais envisagé de prime abord, et ce pour une grosse raison : l'esthétique !
+
+Cette traduction m'a donc confronté à trois points à solutionner :
+
+1- Le soulignement. Dans la version originale, les briefings et rapports se présentent ainsi :
+
+Objective:			Assessment			Pause mode activated
+-----				-----				-----
+
+Vous avez noté les traits de soulignement ? Ils ne soulignent jamais le terme en complet,
+et moi ça ne me plaisait guère. J'ai donc voulu en faire ça :
+
+Objectif:			Rapport				Mode pause activé
+---------			-------				-----------------
+
+Grosse différence, non ? Le hic est qu'il a fallu jongler avec les termes pour avoir à
+chaque fois un soulignement parfait.
+
+2- La syntaxe. Les phrases sont volontairement dépouillées afin de faire ressortir
+le côté "machine". C'est pas forcément évident à retranscrire quand on a peu de place !
+
+3- Le "curseur". Tous les textes du jeu apparaissent comme sur un ordi, avec un curseur
+en fin de texte. Il a fallu pas mal bidouiller pour que les effacements des textes et
+les positionnements du curseur soient corrects. Comprendre la gestion du curseur
+n'était pas si simple que je l'espérais.
+
+Tout cela a fini par nécessiter pas mal de temps pour que ce soit correct, mais je ne
+suis pas mécontent du résultat. Je trouve que ça valait le coup, pas vous ?
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack : Happexamendios
+Traduction : Happexamendios
+Bêta-Test : Happexamendios
+
+
+\ CODES DE TRICHE
+ \________________
+
+Comme à mon habitude, je vous livre ici les codes Action Replay que j'ai trouvés sur ce jeu.
+A noter que pour une fois, ces codes ne viennent pas d'un quelconque site internet car aucun
+code AR n'a été publié sur ce jeu.
+
+Voici donc en top exclu prime time de la mort qui tue des cheats codes absolument inédits (et
+après avoir pas mal galéré pour les dégotter, je conçois que personne n'ait pris la peine
+de les chercher ! )
+
+A noter que les codes sont indiqués ici pour Snes9X, je n'ai pas testé sous Zsnes, mais
+je suppose que c'est kif kif pareil:
+
+Cheat code	Description			Addresse	Valeur
+7E0095E7	Munitions minigun infinies	7E0095		231
+7E1407C8	Energie infinie			7E1407		200
+7E0DBC5A	Cyberdyne détruit à XX %	7E0DBC		xx
+
+Important : Le dernier code est une expérimentation destinée à tester la trad de certaines
+parties du jeu. L'utiliser n'a pas l'air d'être véritablement efficace !!
+
+
+\ REMERCIEMENTS
+ \______________
+
+Ma puce : pour sa patience vu le temps que j'ai passé sur ce jeu.
+
+Action Replay : pour m'avoir permis de dégotter les codes.
+
+Gamefaqs : pour la soluce qui m'a fait gagner du temps.
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Le patch "T2_Judgement_day.ips" est à utiliser sur la rom "Terminator 2 - Judgment Day (E).smc". 
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher. 
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils 
+peuvent créer une sauvegarde de la rom avant de patcher). 
+Voilà maintenant votre rom avec les modifications apportées par notre traduction. 
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+Site Web : http://generation9.kanshima.net 
+Forum : http://www.bessab.com/viewforum.php?f=12 

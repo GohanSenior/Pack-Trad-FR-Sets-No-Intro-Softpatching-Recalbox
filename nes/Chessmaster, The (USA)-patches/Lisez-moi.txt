@@ -1,0 +1,10 @@
+
+
+The Chessmaster
+
+Machine      : NES
+ROM No-Intro : Chessmaster, The (USA).nes
+Nom interne  : The Chessmaster Version 1.3
+
+ROM hacking  : Loki
+Traduction   : Loki

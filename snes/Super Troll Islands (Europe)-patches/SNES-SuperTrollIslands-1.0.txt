@@ -1,0 +1,130 @@
+			Génération IX (http://generation9.kanshima.net) 
+				vous présente la traduction de
+				    Super Troll Islands
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre	: Super Troll Islands
+Console	: Super Nintendo
+Développeur : Millenium Interactive
+Editeur : ASC Games
+Date	: 1993
+Genre	: Plate-formes
+
+
+\ ETAT DE LA TRADUCTION : Version 1.0 créée le 08/04/08 
+ \______________________________________________________ 
+
+Vous avez toujours eu envie de courir nu dans la forêt ?
+Vous avez toujours eu envie d'exhiber consciencieusement votre virilité ?
+Vous avez toujours eu envie de vous teindre les cheveux en rose, bleu ou vert ?
+Vous avez toujours eu envie de latter du streum à coup de glaces ou de peignes ?
+
+Si vous avez répondu "Oui" à ces 4 questions, alors vous êtes fin prêt à jouer
+avec notre dernière traduction, à savoir "Troll Island".
+
+Cette rom vous permet d'incarner l'un de ces petits trolls aux cheveux flashys 
+et dressés sur la tête avec lesquels s'amusait votre petite soeur il y'a une
+dizaine d'années.
+
+Sûrement destiné à votre frangine et à ses copines de 6 ans, le concept du jeu
+est résolument simplicime : les niveaux ont été embrumés, et les couleurs
+ont disparues ! Au lieu d'appeler le nouvel Omo enrichi en zinc-pyrithium,
+c'est votre pomme qui s'y colle pour repeinturlurer tout ça dans la joie
+et la bonne humeur.
+
+On commence donc par choisir un des infâmes trolls disponibles, et c'est parti
+pour recolorier une cinquantaine de niveaux tout en dézinguant du streum
+à l'aide d'un arsenal varié allant du peigne au gâteau à la crème en passant
+par des oeufs et des grappes de raisins.
+
+Graphiquement, le jeu est plutôt bof-bof, et très en dessous des capacités
+de la Supernes, mais dans l'ensemble ça s'arrange au fur et à mesure. J'avoue
+un faible pour les niveaux dans les châteaux et l'espace, qui, même s'ils
+ne sont pas des merveilles, égaient un peu la rom.
+Les ennemis sont pas trop mal représentés, mais les trolls ont vraiment de
+sales têtes ! Ils sont déjà pas terribles en vrai, mais alors dans le jeu
+c'est pire (j'en ai même les yeux qui piquent !!!)
+
+Au niveau de la maniabilité, je serais moins tempéré dans mes propos; en effet,
+le personnage ne répond pas toujours au moment pile où on le voudrait, et ses
+sauts sont aussi impressionnants qu'imprécis. On a donc vite fait de se
+retrouver empalé sur des pics ou vautré sur un ennemi qui passait par là.
+Le troll est assez rapide dans ses déplacements, et cela n'aide pas toujours
+pour passer certains endroits. Bref, c'est loin d'être au top!
+
+
+La difficulté quant à elle n'est pas trop mal dosée, et les derniers niveaux sont
+même plutôt chiantesques à passer (et même avec le code de triche !), et se
+taper 50 niveaux sans possibilité de sauvegarde ou de mots de passe a de quoi
+s'arracher les cheveux ! C'est quand même limite pour un jeu destiné à
+un jeune public.
+
+Bref, il s'agit encore une fois d'une perle de mauvais goût à l'intérêt plus
+que limité; ce qui nécessitait donc une traduction dans notre belle langue,
+et c'est ce que j'ai fait. J'ai donc pris mon courage à deux mains, ainsi
+que mon éditeur hexa préféré, et Paf! le chat, voilà le patch !!
+
+Certes, le jeu ne comporte pas tant de texte que ça, mais au début du projet,
+je n'en savais foutre rien; et il y'eut quand même un piège. En effet, certains
+textes devaient avoir des lettres à des endroits bien précis pour éviter
+de bugger. Ayant la flemme de faire un hack plus élaboré, j'ai donc rusé
+sur certaines tournures de textes afin d'obtenir un affichage valable.
+
+Voilà voilà...
+Amusez vous bien avec ce jeu, moi je retourne en quête d'une autre daube
+à franciser....
+
+
+\ CODES DE TRICHE 
+ \________________
+
+Comme d'hab', le p'tit code Action Replay qui va bien :
+
+
+---[Effet]-------------[Adresse]-----[Valeur]
+Energie infinie			7E215A		3
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack 	  : Happexamendios
+Traduction: Happexamendios
+Bêta-Test : Happexamendios
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "SNES-SuperTrollIslands-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Super Troll Islands (E) [!].smc
+  Taille de la rom: 524 288 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 943328BA
+  CRC rom patchée : 7F7B71DC
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  BSnes          [ ]		SNes9X 1.51    [x]
+  Snes 9X 1.43   [ ]		Snes 9X 1.53   [x]
+  Snes 9x Geiger [ ]		Snes GT        [ ]
+  ZSnes          [ ]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+Site Web : http://generation9.kanshima.net 
+Forum : http://www.bessab.com/viewforum.php?f=12 

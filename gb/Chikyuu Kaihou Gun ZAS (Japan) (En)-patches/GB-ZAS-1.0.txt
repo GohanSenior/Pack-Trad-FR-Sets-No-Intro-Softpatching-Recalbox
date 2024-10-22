@@ -1,0 +1,55 @@
+Génération IX (http://generation9.kanshima.net)
+
+		      vous présente la traduction de Zas sur Game Boy
+
+
+\ INFOS SUR LE JEU
+ \_________________
+
+Titre       : Zas
+Console     : Game Boy
+Développeur : T & E Soft
+Date        : 1992
+Genre       : Shoot Them Up
+
+
+\ ETAT DE LA TRADUCTION : Patch 1.0 du 14/07/05
+ \_________________________________________________
+
+Ce qui a été fait :
+- Extraction des scripts : 1,2 ko
+- Insertion des scripts  : 1,2 ko
+			 
+Ce qui n'est pas fait:
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE
+ \_______________________________
+
+Hack       : KS151
+Traduction : KS151
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "GB-ZAS-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : ZAS (J).gb
+  Taille de la rom: 131 073 octets
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+\ CONTACTS
+ \_________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'aurraient pas été cités plus haut.
+Site Web          : http://generation9.kanshima.net
+Forum             : http://www.bessab.com/viewforum.php?f=12

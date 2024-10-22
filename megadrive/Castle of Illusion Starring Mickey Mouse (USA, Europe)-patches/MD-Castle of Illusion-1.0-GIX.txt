@@ -1,0 +1,84 @@
+				Génération IX (http://generation9.kanshima.net)
+
+			 vous présente la traduction de Mickey Mouse - Castle of Illusion
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre : Castle of Illusion starring Mickey Mouse
+Console : Sega megadrive
+Développeur : Sega
+Date : 1990
+Genre : Plate-forme
+
+
+\ ETAT DE LA TRADUCTION : Patch bêta le 25/11/2004
+ \_________________________________________________
+
+Les derniers graphismes ont été traduits par FlashPV.
+
+
+\ ETAT DE LA TRADUCTION : Patch bêta le 25/11/2004
+ \_________________________________________________
+
+Il reste des graphismes (compressés) non traduits:
+
+-Ecran titre: "Castle of Illusion starring Mickey Mouse"
+              "Press Start button"
+              "The Walt Disney Company"
+-In Game    :  Panneau "Exit"
+-Inter-Level: "Level Completed"
+-Game Over  : "Game Over 
+               Panneau "Continue" 
+               Panneau "New game"
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack                      : Lex
+Traduction                : GreatSkaori
+Bêta-Test                 : Lex, Colibri Alpha, GreatSkaori
+Coup de pouce super utile : cvoila
+Graphismes                : FlashPV
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Lee patch "MD - Castle of Illusion bêta.ips" est à appliquer
+la rom "Mickey Mouse - Castle of Illusion (U) [!].bin" (et la "bin" uniquement, sinon
+ça foire!!!)
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher. 
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils 
+peuvent créer une sauvegarde de la rom avant de patcher). 
+Voilà maintenant votre rom avec les modifications apportées par notre traduction. 
+
+
+\ HISTORIQUE DE LA TRADUCTION
+ \____________________________
+
+Cette traduction a été réalisée dans le but de figurer dans notre calendrier de l'Avent
+de Noël. Au départ, on pensait ne pas pouvoir le faire, car à part le texte, lex n'arrivait
+pas à mettre la main sur grand-chose. Cvoila, un ami de Pixel a trouvé la phrase d'introduction
+qui avait filé entre les doigts de lex. Puis ce dernier a trouvé le "tries" et le "items" qui
+nous turlupinaient depuis le début. Donc, malgré les graphismes encore non trouvés, nous
+avons décidé que le patch était tout à fait honnête pour une sortie de Noël!
+
+FlashPV de Terminus Traduction a réussi à trouver les derniers graphismes manquant grâce à
+une panoplie d'outils dont il a le secret.
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum : http://www.bessab.com/viewforum.php?f=12
+Hacking : lex (a_riv777@yahoo.fr)
+Traduction : Greatskaori (greatskaori@yahoo.com)
+Bêta-test : Colibri Alpha (ColibriAlpha@aol.com)
+Coup d'pouce : cvoila

@@ -1,0 +1,108 @@
+					Génération IX (http://generation9.kanshima.net) 
+				     fête son sixième anniversaire avec la traduction de:
+					      Castlevania II - Belmont's Revenge
+
+
+\ DISCLAIMEUR
+ \___________
+
+	Attention, CE PATCH DE TRADUCTION S'APPLIQUE SUR LA VERSION COLORISEE de Castlevania II
+incluse dans la compilation Game Boy Color : Konami GB Collection Vol 4.
+
+Cette traduction N'EST PAS FAITE POUR LA VERSION NOIR & BLANC Game Boy.
+	
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+
+Titre       : Castlevania II - Belmont's Revenge
+Console     : GB/GBC
+Développeur : Konami
+Date        : Sortie GB:1991 / Remix GBC:2000
+Genre       : Plates-formes Gothique/Sado Maso
+
+
+\ ETAT DE LA TRADUCTION : version 1.00 créée le 12/04/2006 
+ \________________________________________________________
+
+
+Textes     : 100%
+Graphismes : 100%
+
+
+\ COMMENTAIRES SUR LA TRADUCTION
+ \______________________________
+
+
+	Cette petite cochonne de Dracula qui a été très vilaine ces 15 dernières années demande sa petite fessée
+à Maîtresse Christopher "Lambert" Belmont. Encore un jeu délicieusement violent rempli de fouets, de pieux acérés,
+de cordes, de cuir et autres jouets qui font mal, très mal. Mmmh, que c'est bon d'être vilaine!
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \______________________________ 
+
+
+Traduction        : GreatSkaori :D, Happexamendios :o, Papaiya ;)
+Hack              : Skaiboy :(
+Edition Graphique : Ommnislash 8), Skaiboy T_T
+
+Effets Spéciaux   : Gilbert Montagné
+Coiffure          : Fabien Barthez
+
+
+\ CONTENU DU ZIP
+ \_______________
+
+
+GBC-Castlevania II - Belmont's Revenge 1.00.ips : Patch français de la rom
+GBC-Castlevania II - Belmont's Revenge.txt : Les paroles du prochain rap de Tony Parker
+
+
+\ APPLICATION DU PATCH
+ \____________________ 
+
+Le patch "GBC-Castlevania II - Belmont's Revenge 1.00.ips" est à utiliser sur la rom 
+"Konami GB Collection Vol.4 (E) [C][!].gbc".
+
+TRES IMPORTANT ; Faites un clic droit sur votre rom dézipée et non patchée, puis choisissez
+"propriétés", à côté de "taille", il doit être écrit : 1 Mo (1 048 576 octets). Si vous avez
+ce chiffre, c'est bon, sinon votre rom n'est pas la bonne et il vous en faut une autre!
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher. 
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils 
+peuvent créer une sauvegarde de la rom avant de patcher). 
+Voilà maintenant votre rom avec les modifications apportées par notre traduction. 
+
+
+\ SCENES COUPEES AU MONTAGE
+ \_________________________
+
+
+Entrez le code:
+RIEN - CRISTAL - RIEN - CRISTAL
+pour accèder au mode "Oh oui, insulte moi Maîtresse Boccolini".
+
+Si vous entrez 4 COEURS, vous pourrez acceder à la bande son du jeu absolument envoûtante.
+Après cette expérience transcendante, vous ne sous-estimerez plus jamais le Stereo Sound de la
+Game Boy.
+
+
+\ JOYEUX ANNIVERSAIRE GENERATION IX !!!!!
+ \_______________________________________
+
+
+	A tous mes amis du groupe Génération IX, je vous souhaite un joyeux anniversaire,
+une bonne continuation et plein de bunny girls de toutes les couleurs!
+
+
+\ CONTACTS 
+ \________ 
+
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum : http://www.bessab.com/viewforum.php?f=12 
+GreatSkaori : greatskaori@yahoo.com

@@ -1,0 +1,113 @@
+
+----------------------------------------------------------------
+***********************Table des matières***********************
+----------------------------------------------------------------
+
+1.	INFORMATION SUR LE JEU
+2.      CONTENU DE L'ARCHIVE ET UTILISATION
+3.	TOUT CE QUI A ÉTÉ FAIT
+4.      HISTORIQUE DES VERSIONS
+5.	L'ÉQUIPE DE TRADUCTION
+6.	REMARQUES LÉGALES
+
+----------------------------------------------------------------
+1.  INFORMATION SUR LE JEU
+----------------------------------------------------------------
+
+Titre       : The terminator
+Console     : Megadrive
+Développeur : Probe Software
+Editeur     : Virgin Games
+Année       : 1992
+Genre       : Action
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+L'archive ZIP doit contenir :
+
+TerminatorFR1.1.bps  - Le patch de traduction au format BPS de
+"The Terminator".
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Ce patch est à utiliser avec la rom Terminator, The (u).bin ou
+Terminator, The (U) [!].gen en clair: la version américaine de
+la rom.
+
+Voir ci-après les empreintes numériques pour vour permettre de 
+vérifier que vous avez la bonne ROM :
+-MD5 : de0e4f5e3c45a42959defc1de97a79ff
+-SHA1: 2A1894E7F40B9001961F7BF1C70672351AA525F9
+
+À vérifier ici : https://md5file.com/calculator
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+
+Vous pouvez patcher la rom en ligne via l'adresse suivante:
+https://www.marcrobledo.com/RomPatcher.js/
+
+Vous pouvez aussi le faire sur votre ordinateur :
+Si vous êtes sous Windows ou Linux, je vous conseille l'utilisation
+de Floating IPS (Flips).
+Si vous êtes sous Mac, je vous conseille l'utilisation de MultiPatch
+ par Sappharad.
+
+       |   Windows   |     Mac    | Linux |   Android  |
+--------------------------------------------------------
+  BPS  |    Flips    | MultiPatch | Flips | RomPatcher |
+--------------------------------------------------------
+
+Tous les patcheurs susnommés sont disponibles sur 
+https://www.romhacking.net/
+
+----------------------------------------------------------------
+3.  TOUT CE QUI A ÉTÉ FAIT
+----------------------------------------------------------------
+
+Menu             : 100 % 
+Cinématiques     : 100 %
+Crédits          : 100 % 
+
+----------------------------------------------------------------
+4.  HISTORIQUE DES VERSIONS
+----------------------------------------------------------------
+
+1.0 (11/01/10) : sortie initiale du patch
+1.1 (10/10/19) : traduction du menu debug, ajustements mineures
+et intégration d'une somme de contrôle (checksum) correcte.
+
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+Corrigo : Tout
+
+Si vous trouvez des erreurs dans le patch, je vous saurais gré de
+m'envoyer un courriel à : corrigo@outlook.fr avec si possible une
+capture d'écran du souci.	
+
+----------------------------------------------------------------
+6.  REMARQUES LÉGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de The terminator n'est pas
+officiel et n'est pas supporté par Virgin games et/ou Probe 
+Software.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout, à bientôt et bon jeu!
+
+Corrigo

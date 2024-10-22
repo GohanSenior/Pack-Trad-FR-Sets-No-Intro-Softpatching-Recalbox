@@ -1,0 +1,90 @@
+
+4ph en association avec FlashPV, présente la traduction Française
+de " Super Castlevania - Le chateau de Dracula " (VERSION NON CENSURÉE 1.0)
+basée sur la version Japonaise de "AKUMAJOU DRACULA"
+==========================================================================================================
+
+---------------------ROM Info-------------------------------
+
+Information pour la rom Japonaise:
+================================
+  Nom: AKUMAJOU DRACULA
+  Actual Checksum: 9324
+  Header Checksum: 9324
+  Header Checksum Compliment: 6CDB
+  CRC32:	EDA59A2A
+  ROM Version: 1.0
+  Region: Japan
+
+==========================================================================================================
+
+1.	L'équipe de la traduction.
+====================================
+
+
+   Concepteur du projet : 4ph
+   Romhacking : 4ph
+   Traduction de l'introduction Japonaise en Français : Hiei. 
+   Écran titre et Splash screen : FlashPV
+   Aides et conseils: DarkSamus993
+
+----------------------------------------------------------------
+
+2.  La réalisation.
+----------------------------------------------------------------
+
+  Script     : 100 %
+  Graphismes : 100 % 
+  Titre      : 100 %
+  Crédits    : 100 %
+
+----------------------------------------------------------------
+3.  Contenu de l'archive et utilisation.
+----------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir :
+
+SC_Le château de dracula_FR.ips - Patch de traduction 
+
+Lisez-moi.txt - Le fichier que vous êtes en train de lire
+
+Utilisez un patcheur IPS tel que "IPS XP", "Lunar IPS" ou autre
+pour appliquer le patch.
+
+Ce patch s'applique sur la rom japonaise du jeu,
+nommé "AKUMAJOU DRACULA(J).smc"
+(Taille : 1 048 576 octets, CRC32: EDA59A2A).
+
+----------------------------------------------------------------
+4.  Remerciements spéciaux.
+----------------------------------------------------------------
+
+DarkSamus993 pour son aide et conseils.
+Red Guy pour son éditeur pour ce jeu.
+FlashPV pour la réalisation du superbe écran titre.
+  
+----------------------------------------------------------------
+5.  Remarques légales.
+----------------------------------------------------------------
+
+Le patch de traduction française de " Super Castlevania - Le château de dracula " 
+n'est pas officiel et n'est aucunement supporté par Konami/Nintendo.
+
+CE PATCH EST GRATUIT ET NE PEUT EN AUCUN CAS ETRE VENDU SOUS N'IMPORTE QUELQUE FORME!!!
+
+Il peut être distribué gratuitement tant qu'il n'est pas modifié et que l'archive originale 
+n'est pas modifiée non plus. 
+Aucunes ventes, biens ou services ne peuvent être demandés pour ce patch, dans sa forme originale 
+ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucunes personnes citées dans cette documentation ne 
+pourront êtres responsables de quelques dommages provenant de son usage.
+
+Bon jeu.
+
+Édition du 22.10.2016
+======================
+Patch V1.1
+Correction d'une inversion d'une lette au niveau de l'introduction.
+ 

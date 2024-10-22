@@ -1,0 +1,104 @@
+			Génération IX (http://generation9.kanshima.net) 
+				vous présente la traduction velue de 
+					Werewolf - The last warrior
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre	: WereWolf - The last warrior
+Console	: Nintendo
+Développeur : Data East
+Date	: 1990
+Genre	: Plates-formes action
+
+
+\ ETAT DE LA TRADUCTION : Patch V1.0 créé le 03/09/2013
+ \______________________________________________________ 
+
+
+Arheuuouuu haouuuuu areuuuh ouuuuuuh !
+Heu...
+Oui, je sais... Je voulais simuler le loup hurlant à la lune, mais c'est
+pas forcément facile à retranscrire à l'écrit.
+
+Bref ! Vous l'aurez deviné (enfin j'espère), il est question ici de bestioles
+velues et à la voix tonitruante. Non, je ne parle pas de Demis Roussos, mais
+de nos amis les loups-garous.
+
+Werewolf vous permet d'incarner un digne représentant des lupins dont la fabuleuse
+destinée est de... de.... ben oui, sauver le monde, comme d'hab' !
+Là encore un sinistre scientifique aux tendances mégalo a décidé de conquérir
+le monde. Il envoie donc une armée de sbires semer le chaos et vous êtes le seul
+individu apte à lui faire bouffer ses éprouvettes.
+
+Vous voici donc lancé à la recherche de la base du dr Faryan à travers 11 niveaux
+assez variés bien que classiques (forêt, ville, rivière...). Le design des cartes
+est bien travaillé, et je les trouve plutôt soignées pour de la Nes. Les musiques
+sont pas mal, et la difficulté est assez élevée pour occuper un moment.
+
+Le gros hic de ce jeu est une maniabilité à se dévorer les rognons avec une sauce
+au vin! En effet, quand on est en mode "loup-garou" il est possible de s'accrocher
+aux parois et de sauter d'un mur à l'autre, mais $ù*p^ qu'est-ce que c'est @#{* !!
+J'ai jamais autant utilisé la savestate que pour ce jeu !
+Heureusement que les cheatcodes existent...
+
+Sorti de ça, le jeu est sympa et représente un challenge intéressant. Il n'y a pas
+de mot de passe ou de sauvegarde, mais malgré une certaine difficulté, les bonus
+et les vies s'obtiennent facilement...
+
+Grâce à Bahabulle, la traduction est complète. Il y avait un p'tit binz de pas grand
+chose que j'arrivais pas à bidouiller, et du haut de sa grande magnificience,
+il a bien voulu daigner prendre de son temps pour débugger le bidule.
+Grâces lui soient rendues...
+
+
+Ho, mais c'est la pleine lune dehors ! Bon allez je hreeu greuu grrr houuaurggggg
+
+
+\ CODES DE TRICHE 
+ \________________
+
+Voici une fois de plus les codes Action Replay que j'ai dégotté pour ce p'tit jeu :
+
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Energie infinie J1		00BC			11
+Temps infini			00BF			F1
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack 	  : Happexamendios, Bahabulle
+Traduction: Happexamendios
+Bêta-Test : Happexamendios
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Le patch "Werewolf.ips" est à utiliser sur la rom suivante :
+Nom de la rom   : Werewolf - The Last Warrior (U) [!].nes
+Taille          : 262 160 octets
+Rom avec header : Non
+Crc de la rom   : 333C48A0
+Crc rom patchée : 5067FF3E
+
+Le patch a été créé avec SmartIPS 1.0 et a été testé sous les émulateurs suivants :
+FCeu XD SP 1.07 [x]
+FCe Ultra 0.98  [x]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher. 
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils 
+peuvent créer une sauvegarde de la rom avant de patcher). 
+Voilà maintenant votre rom avec les modifications apportées par notre traduction. 
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+Site Web : http://generation9.kanshima.net 
+Forum : http://www.bessab.com/viewforum.php?f=12 

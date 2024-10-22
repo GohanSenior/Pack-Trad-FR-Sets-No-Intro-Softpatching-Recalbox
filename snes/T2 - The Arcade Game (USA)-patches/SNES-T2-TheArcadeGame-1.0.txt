@@ -1,0 +1,109 @@
+			Génération IX (http://generation9.kanshima.net) 
+			vous présente la traduction Hastalavistienne de
+				Terminator 2 - The arcade game 
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre	: T2 - The Arcade game
+Console	: Super Nintendo
+Développeur : Probe Entertainment Limited
+Date	: 1994
+Genre	: Flinguage à tout va
+
+
+\ ETAT DE LA TRADUCTION : Version 1.0 créée le 19/02/2009 
+ \________________________________________________________ 
+
+Il avait bien dit qu'he'll be backerait le Schwarzy ! Ben voilà, c'est fait ! Et avec une bonne
+adaptation du terriblissime film qui a marqué les années 90 : "Terminator 2 - The judgement day".
+
+Dans ce jeu tiré d'une borne d'arcade où j'avais claqué pas mal de pépettes à l'époque,
+vous avez pour objectif de shooter un max de T800 et autres engins envoyés par Skynet dans
+le but de détuire le reste de l'humanité.
+
+Armez vous donc de votre souris (et tant qu'à faire d'un pote, c'est mieux à 2) et "Feu à volonté" !
+Ici, pas question d'être subtil, de réfléchir pendant des heures à la meilleure façon d'infiltrer
+un laboratoire secret ou de planquer des cadavres pour pas se faire repérer ! La seule chose
+à faire est de poser son cerveau à côté du clavier, et de tirer dans tous les sens !!
+
+Graphiquement, le jeu n'est pas des plus réussis, mais cela retranscrit assez bien l'ambiance
+glauque du film. Les personnages sont pas toujours très bien digitalisés, mais vu qu'ils meurent
+par paquets de 50, on a pas trop le temps de les voir en détail.
+
+L'animation reste fluide, et la jouabilité est au top ! Deux ou trois passages sont un peu ardus,
+et notament le niveau où on doit protéger le pick up des résistants.
+
+La musique ne reste pas dans les mémoires, et est surtout couverte par le bruit des tirs incessants.
+
+Au niveau de la traduction, il y a deux trois bricoles que j'ai pas faites par pure flemme, à savoir
+les accents qui n'ont pas été insérés, l'écran de score et le tableau de bonus qui apparait de temps
+en temps (ça c'est pas par flemme, même Bahabulle n'a pas réussi à en faire quelque chose! )
+
+Au final, ça gêne pas énormément dans ce jeu où le seul intérêt est de défoncer la souris à tirer
+partout ! 
+
+
+Remerciements sincères à Jes et Bahabulle pour l'aide qu'ils ont pu apporter à ce projet qui traînait
+depuis un moment sur mes disques durs...
+
+
+\ CODES DE TRICHE 
+ \________________
+
+Voici une fois de plus les codes Action Replay que j'ai dégotté pour ce p'tit jeu :
+
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Energie infinie J1	7E007F		127
+Energie infinie J2	7E0080		192
+Bombes infinies J1	7E008A		85
+
+A noter que j'avais trouvé un code pour que la voiture du niveau 2 (ou 3, je sais pu)
+qu'on est censé protéger soit indestructible... A priori, il a marché qu'une seule
+fois, donc du coup je ne le communiquerai pas, na ! Y'a un cheat code pour zapper
+les niveaux, z'aurez qu'à aller voir sur Gamefaqs !
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack 	  : Happexamendios
+Traduction: Happexamendios
+Bêta-Test : Happexamendios
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "SNES-T2-TheArcadeGame-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : T2 - The Arcade Game (U).smc
+  Taille de la rom: 1 048 576 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 5DC6B9FE
+  CRC rom patchée : E7669949
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  BSnes          [ ]		SNes9X 1.51    [x]
+  Snes 9X 1.43   [ ]		Snes 9X 1.53   [x]
+  Snes 9x Geiger [ ]		Snes GT        [ ]
+  ZSnes          [ ]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+Site Web : http://generation9.kanshima.net 
+Forum : http://www.bessab.com/viewforum.php?f=12 

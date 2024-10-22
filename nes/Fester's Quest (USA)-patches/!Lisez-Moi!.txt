@@ -1,0 +1,14 @@
+FESTER'S QUEST (THE ADDAMS FAMILY)
+Ce patch traduit le jeu a 90% (Plus ou moins terminé)
+----------------------------------------------------------------------
+Voici ce qui est traduit:
+- Les dialogues
+
+Ce qui reste à faire:
+- Modifier un graphisme... sinon, corriger les phrases non-traduites.
+----------------------------------------------------------------------
+Fichier IPS et traduction par YFO6 TRADUC
+http://yf06traduc.consolemul.com
+----------------------------------------------------------------------
+Pour appliquer ce patch vous aurez besoin du programme Patcheur Arkana
+

@@ -1,0 +1,48 @@
+     ________________________________
+    (                                )
+   (   1943 : La Bataille de Midway   )
+    (________________________________)
+
+
+    +--------------------------------+
+    |    Informations sur le jeu     |
+    +--------------------------------+
+
+Titre original : 1943 : The Battle of Midway
+Console : Nintendo Entertainment System
+Développement : Capcom
+Conception : Yoshiki Okamoto
+Année de sortie : 1988
+
+1943 est un jeu de tir à défilement vertical qui fait suite au jeu 1942 sorti deux/trois an plus tôt.
+Sorti à l'origine sur borne arcade en 1987, il a ensuite été adapté sur Amiga, Amstrad CPC, Atari ST, Commodore 64, Nintendo Entertainment System, PC Engine et ZX Spectrum.
+
+
+    +--------------------------------+
+    |   A propos de la traduction    |
+    +--------------------------------+
+
+Version : 1.0
+Traducteur : Rémi Leclerc
+Site internet : http://www.lyssal.com/
+Page du jeu : http://www.lyssal.com/emulation/nintendo/1943_la_bataille_de_midway/
+Forum du jeu : http://www.lyssal.com/discussion/forum/groupe/?id_forum_groupe=109
+
+Il faut appliquer la traduction sur la version américaine du jeu.
+Le nom du fichier doit donc normalement ressembler à  "1943 - The Battle of Midway (U).nes"
+Vous pouvez télécharger ce fichier sur la page http://www.lyssal.com/emulation/nintendo/1943_la_bataille_de_midway/
+
+Le fichier IPS a été créé avec Spi et vous pouvez appliquer ce fichier sur la version originale du jeu avec ce même logiciel.
+Vous pouvez télécharger Spi sur : http://www.lyssal.com/logitheque/donnees/spi/
+
+Certaines choses ne sont pas traduites :
+- le "GAME OVER", je n'ai pas trouvé comment le traduire
+Si vous découvrez un autre oubli de traduction, n'hésitez pas à m'écrire ou à laisser un message sur le forum
+
+Mon adresse électronique : locelot@lyssal.com
+  pour me faire part de vos suggestions, me rapporter d'éventuels bogues, des fautes de Français, vos remarques ou autres.
+Vous pouvez également laisser vos commentaires sur le forum de discussion du site, sur la page du jeu.
+
+Merci
+
+Locelot.

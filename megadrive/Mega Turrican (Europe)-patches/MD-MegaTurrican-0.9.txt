@@ -1,0 +1,87 @@
+				GENERATION IX (http://generation9.kanshima.net)
+
+				  est fier de vous présenter un jeu de tueur
+                                                MEGA TURRICAN
+
+----------------------------------------------------------------------------------------------------------------
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre       : MEGA TURRICAN
+Console     : Megadrive (MD)
+Développeur : Factor 5.
+Date        : 1994
+Genre       : Shoot'em up / Plate-forme
+
+
+\ ETAT DE LA TRADUCTION : Patch Bêta du : 13/12/2004
+ \___________________________________________________
+
+Il n'y a que l'écran de copyright (compressé) qui n'a pas été traduit.
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Romhack    : Ti Dragon
+Traduction : Ti Dragon
+Bêta-Test  : Ti Dragon
+
+
+\ CONTENU DU ZIP
+ \_______________
+
+MD-MegaTurrican.txt      : Fichier d'informations (vous être en train de le lire ;))
+MD-MegaTurrican-Beta.ips : Patch français de la rom
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+ 
+Le patch "MD-MegaTurrican-0.9.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Mega Turrican (Europe).md
+  Taille de la rom: 1 048 576 octets
+  Rom avec Header ? Non
+
+  
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher.
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils 
+peuvent créer une sauvegarde de la rom avant de patcher). 
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction. 
+
+
+\ HISTOIRE DE LA TRADUCTION
+ \___________________________
+
+Etant petit, j'avais decouvert Turrican 2 sur Atari ST et Amstrad CPC. J'y ai passé de
+nombreuses heures et ai fini par en venir à bout. C'est avec intérêt que j'avais donc
+essayé Turrican 1 et 3 sur Amiga mais j'ai fini par abandonner. Ce n'est que quelques
+années plus tard que j'ai découvert deux versions de Turrican sur Megadrive : Turrican
+et Mega Turrican. Alors que le premier m'a beaucoup amusé, le second m'a mis une claque
+tellement il était... la copie conforme de Turrican 3 sur Amiga : beau et encore plus
+maniable avec des musiques d'une très bonne qualité pour cette console. Si on passe
+l'introduction dont les graphismes sont un peu décalés et les textes anglais un peu mal
+traduits (ce sont des Allemands qui ont réalisé ce jeu), on se retrouve avec un jeu
+bourrin à souhait qui demande adresse, persévérance et nerfs d'acier (encore pire que
+Kid Icarus :D).
+
+Bref, j'ai donc voulu le traduire, ce qui est chose faite. Je remercie Meradrin pour
+m'avoir fourni un debugger Megadrive sans lequel je n'aurais pu trouver certains
+pointeurs qui n'avaient rien à voir avec des pointeurs classiques Megadrive.
+
+Mes outils pour cette traduction sont : Translhextion, Tile Layer Pro, Wordpad et Table,
+le logiciel d'extraction/insertion de Rveach. J'avais aussi le droit de me servir de
+mon cerveau, accessoirement.
+
+J'espère que vous apprecierez cette traduction alors amusez-vous bien !
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Forum    : http://www.bessab.com/viewforum.php?f=12
+Site Web : http://generation9.kanshima.net

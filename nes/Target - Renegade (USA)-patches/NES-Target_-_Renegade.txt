@@ -1,0 +1,95 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                           Target - Renegade
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Target - Renegade
+Console		: Nintendo NES
+Développeur	: Software Creations
+Editeur		: Taito
+Date		: Mars 1990
+Genre		: Beat'em up
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 10/02/2016) :
+ \_________________________________________________________________
+
+J'avais ce jeu dans mon dossier de jeux à tester et bénéficiant d'un peu
+de temps libre au boulot, je me suis penché sur le dossier "Target - Renegade".
+
+Il ne fallut pas longtemps pour achever la traduction de ce
+petit beat'em up de Taito.
+
+L'histoire tient sur un timbre poste : votre frère a été enlevé
+par un certain Mr Big et aussi furieux que Jo-Wilfried Tsonga a
+qui on aurait piqué son Kinder Bueno, vous allez devoir le récupérer.
+
+5 niveaux vous feront sillonner les quartiers de la ville avant
+de montrer à Mr Big qui est le patron.
+
+Bien que le jeu accuse son âge, il garde un certain charme en
+dépit de ses graphismes dépouillés et une maniabilité assez
+archaïque.
+
+Amusant une fois qu'on a compris comment sortir les différents
+coups (je vous laisse chercher ;p ), on prend même plaisir à
+tatanner les différents ennemis.
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+Cheatcodes :
+00DA:40	energie infinie		
+00DB:40	energie infinie
+
+/!\ les codes sont à désactiver lors du décompte des points en fin du niveau
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "NES-Target Renegade.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Target - Renegade (U) [!].nes
+  Taille de la rom: 262 160 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 2EC02E09
+  CRC rom patchée : C7D697B9
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  FCeu XD SP [x]		NesTicle   [ ]
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

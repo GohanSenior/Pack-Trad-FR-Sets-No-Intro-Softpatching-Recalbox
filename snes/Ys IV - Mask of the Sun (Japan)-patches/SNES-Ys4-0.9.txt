@@ -1,0 +1,109 @@
+			   *********************************************
+			   **********G É N É R A T I O N   I X**********
+			   *******http://generation9.kanshima.net*******
+			   *********************************************
+            ---------------------------------------------------
+            --  Traduction de Ys4, Mask of The Sun sur SNES  --
+			---------------------------------------------------
+
+Avertissement contre l'épilepsie !! ... heu non lol ... hum ... :)
+
+Nous ne sommes pas responsables des dommages pouvant être
+causés par ce patch. Ce patch est libre donc il est GRATUIT.
+Vous ne pouvez le vendre à qui que ce soit. 
+
+
+Contenu du txt:
+
+1/ L'histoire du projet
+2/ Versions du patch
+3/ Qu'est ce qui marche pas
+4/ Les courageux
+5/ Remerciements
+6/ Comment appliquer le patch ?
+
+1/ L'histoire du projet :
+
+Ce jeu était à la base en Japonais. Mais la brave équipe d'AGTP l'a rendu
+compréhensible aux anglicistes. Toujours en quète de nouvelles traductions, 
+Speeder Speed en a parlé sur le forum. Je suis ensuite entré en contact avec
+Gideon Zhi de AGTP ( http://agtp.romhack.net ) pour lui demander si nous pouvions 
+nous baser sur le travail de son groupe pour réaliser une traduction française du jeu. 
+Il a évidemment accepté ( si si taisez vous les 2 au fond là bas ! ) et on s'est mis au 
+boulot. Le jeu fut donc hacké une première fois par Elfe Noire de Final 
+Translation ( http://finaltranslation.uhrft.org ) au début de l'été 2001. Le texte entier
+me fut ensuite passé pour la traduction. Mais elle n'a pas débuté tout de suite. Finalement
+et du fait d'un manque de temps, Elfe Noire a arrêté de s'occuper du hack et SOR a
+prit la relève. De fait ce patch est donc désormais 100% Génération_IX.
+
+
+
+2/ Versions du patch :
+
+
+                 	~~~~Attention aux problèmes~~~~
+
+
+""""""""""""""""""""""""""""""
+""" VERSION du Patch: v0.99 """ 13/04/02
+""""""""""""""""""""""""""""""
+
+Le texte a été traduit entièrement mais quelques bugs doivent être présent vu que ce n'est qu'une version
+beta :)
+
+
+3/ Qu'est ce qui marche pas.
+
+Ben heeeuuu à priori rien lol. Le béta test du jeu est en cours. Cela dit n'hésitez pas
+à nous contacter si le jeu se bloque d'une façon ou d'un autre. Si un chien ressemble à un
+cube noir, si on vous fait des propositions indécentes ( ça c'est icq lol ), si y a une 
+énorme faute d'ortographe, ou tout simplement si vous voulez nous féliciter ou bien 
+raler :)
+
+
+4/ Les courageux
+
+A notre droite et au hacking, voici le grand, le fort le malicieux S.O.R ! Grand manitou
+du chiffre bizaroide, c'est lui qui a ramassé tout le texte et qui l'a ensuite réinséré.
+C'est aussi lui qui doit se battre avec le jeu dès qu'il y a un bug. Mais laissons lui
+plutôt la parole ! 
+"Euhm euh oui c'est moi ^^ Euh ouais je remercie Elfe Noire et Cris pour m'avoir aidé sur le hack de ce jeu :)"
+A notre gauche et à la traduction, ben heu moi lol J'ai assuré la traduction du jeu entier, 
+soit 204 kilos de scripts. J'ai pas été super rapide mais j'ai fait ça en 3 après midi
+en fait :) Donc si y a une phrase qui veut rien dire, c'est après moi qu'il faut râler.
+
+
+5/ Remerciements.
+
+Alors, dans mon cas, merci tout dabord à Speeder de m'avoir parlé de ce projet, merci 
+ensuite a AGTP et à Gideon Zhi de nous avoir permit de se baser sur son patch. Merci aussi
+à Elfe Noire de s'être intéréssée au projet un moment. C'est à ce moment là que j'ai 
+fait connaissance avec elle ( gaffe les mecs, elle mord lol )
+Merci aussi au brave Crispisyx pour l'aide qu'il a apporté à SOR, mais SOR saura sans
+doute le remercier mieux que moi. Merci tout particulier à SOR d'avoir reprit le projet 
+et de s'être décarcassé à le hacker pour qu'il marche :)
+Merci enfin à vous d'avoir téléchargé ce patch et de lire ce petit texte. A bientôt !!
+
+La traduction a été effectuée par 
+S-O-R ( s_o_r@ifrance.com ) et GreatSkaori ( GreatSkaori@yahoo.com)
+membres de Génération_IX ( http://generation9.kanshima.net )
+
+
+6/ Comment appliquer le patch ?
+
+Le patch "SNES-Ys4-0.9.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Ys IV - Mask of the Sun (J).smc
+  Taille de la rom: 1 572 864 octets
+  Rom avec Header ? Non
+  CRC de la rom   : CA7B4DB9
+  CRC rom patchée : 66C118C9
+  
+ /!\ Le patch ne semble fonctionner correctement que sous ZSnes 1.43
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.

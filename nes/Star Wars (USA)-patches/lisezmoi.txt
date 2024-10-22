@@ -1,0 +1,2 @@
+Ce patch est a appliqué sur la version US du jeu Star Wars :
+Star Wars (U).nes

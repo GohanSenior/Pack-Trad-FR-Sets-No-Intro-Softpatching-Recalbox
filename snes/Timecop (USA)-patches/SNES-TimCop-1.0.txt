@@ -1,0 +1,115 @@
+			Génération IX (http://generation9.kanshima.net) 
+			vous présente la traduction completement aware
+					de TimeCop
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre	: Time cop
+Console	: Super Nintendo
+Développeur : Cryo
+Date	: 1995
+Genre	: Adaptation nanarde
+
+
+\ ETAT DE LA TRADUCTION : Version 1.0 créée le : 31/01/2008
+ \__________________________________________________________ 
+
+	Faisant encore acte de présence au bureau en ce beau jeudi de janvier, je décidais
+de me faire un p'tit patch, histoire d'occuper le temps. j'avais déjà entamé quelques
+projets plus ou moins amusants, mais bloqué sur des histoires de compression à
+2 roubles 25, j'optai donc pour une nouvelle adaptation de film en jeu vidéo. Grande fut
+ma joie de tomber sur un nouveau jeu avec du Jean Claude Vandame dedans !
+
+	En règle générale, ou du moins lors de la glorieuse époque des machines 16 bits,
+les adaptations de films en jeu sont généralement plus que douteuses ("Cliffhanger" me
+vient immédiatement en tête, suivi de "maman j'ai raté l'avion", et le fabulissime
+"attaque des tomates tueuses". Et bien "Time cop" ne déroge pas à la règle...
+
+	En ce qui concerne l'histoire, disons qu'on a vu mieux ; En 2004, le voyage
+temporel est une réalité, mais un vilain scientifique très très méchant (et fort laid,
+il faut bien le dire ! ) a décidé d'utiliser cette découverte pour revenir dans le passé
+et changer l'histoire pour s'enrichir et tenter de dominer le monde (oui, oui, comme Cortex !)
+Afin de contrecarrer ces plans, une sorte de police temporelle va envoyer le plus beau,
+le plus musclé, le plus intelligent, bref; le plus tout ! dans le temps pour contrecarrer
+les plans du tout méchant pas beau. On se baladera des rues de New York en 2144 au lac de
+Dortmund pendant la seconde guerre via un petit détour par 1929, histoire de latter du
+méchant à grands coup de tatane. N'ayant pas vu le film (houuuu ! la honte !!), je ne serai
+pas en mesure de juger de la concordance entre l'histoire du jeu et le scénario.
+
+	Graphiquement, c'est loin d'être le top du top, même pour un jeu de 1995 !
+Les dessinateurs se sont copieusement servi d'images digitalisées, mais ça a dû foirer
+à la retouche, parce que les couleurs sont aussi fades et ternes que baveuses. Ca pixellise
+gaillardement et on a même parfois du mal à différencier son Vandame de Héros du reste
+du décor. Je passerai allégrement sur les 3 ou 4 ennemis différents du jeu resservi
+ad nauseam (mention spéciale aux punks, ils valent des points ceux-là ! )
+
+	Musicalement, je dirai rien... Je préfère laisser la joie de la découverte !
+
+	Au niveau de la jouabilité, disons que ce n'est pas du terrible. Les ennemis ont
+tendance à être erlativement coriaces (surtout les boss), et avoir les munitions plus
+que limitées n'aide pas vraiment à avancer. Mais bon, avec les p'tits codes Action Replay,
+ça gagne du temps (à noter l'existence d'un mode debug qui permet de choisir son niveau)
+
+	En bref, c'est une bonne petite daube de plus, mais qui peut amuser quelques heures,
+si l'on a pas peur de s'abîmer les yeux sur les graphismes plus que bouseux... Pis bon, y'a
+du Vandame dedans, alors autant en profiter !
+
+
+\ CODES DE TRICHE 
+ \________________
+
+Voici une fois de plus les codes Action Replay que j'ai dégotté pour ce p'tit jeu :
+
+
+---[Effet]-------------[Adresse]-----[Valeur]
+Energie infinie		7E06F3		40
+Tirs infinis		7E06F5		09
+Bombes infinies		7E06F7		09
+Temps infini		7E0638		0F  /!\ : A désactiver AVANT de finir le niveau!
+
+
+Et histoire de faire monter un peu la sauce, voici l'accès au mode debug :
+à l'écran titre, appuyer sur A-B-X-Y-A-B-X-Y-Start 
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack 	  : Happexamendios
+Traduction: Happexamendios
+Bêta-Test : Happexamendios
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "SNES-TimCop-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Timecop (U) [!].smc
+  Taille de la rom: 2 097 152 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 130B0933
+  CRC rom patchée : 5EF4DA3A
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  BSnes          [ ]		SNes9X 1.51    [x]
+  Snes 9X 1.43   [ ]		Snes 9X 1.53   [x]
+  Snes 9x Geiger [ ]		Snes GT        [ ]
+  ZSnes          [ ]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+Site Web : http://generation9.kanshima.net 
+Forum : http://www.bessab.com/viewforum.php?f=12 

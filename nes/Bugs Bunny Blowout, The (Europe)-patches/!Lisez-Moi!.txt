@@ -1,0 +1,13 @@
+BUGS BUNNY BIRTHDAY BLOWOUT - VERSION FRANCAISE
+Ce patch traduit le jeu a 99% (Terminé)
+----------------------------------------------------------------------
+Voici ce qui est traduit:
+- L'histoire du jeu
+- Certains graphismes
+- Les intro et fin de niveaux
+----------------------------------------------------------------------
+Fichier IPS et traduction par YFO6 TRADUC
+http://yf06traduc.consolemul.com
+----------------------------------------------------------------------
+Pour appliquer ce patch vous aurez besoin du programme Patcheur Arkana
+

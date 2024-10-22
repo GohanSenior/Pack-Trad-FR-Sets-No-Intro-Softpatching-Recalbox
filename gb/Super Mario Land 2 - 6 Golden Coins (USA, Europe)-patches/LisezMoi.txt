@@ -1,0 +1,66 @@
+Super Mario Land 2 DX (Game Boy)
+Traduction en Français v1.0 (04/04/2023)
+
+
+------------------------
+Genre: plateforme
+------------------------
+Super Mario Land 2: 6 Golden Coins est un jeu vidéo de plates-formes sorti en 1992 sur 
+Game Boy, développé et édité par Nintendo. C'est le deuxième jeu de la série Super Mario 
+à sortir sur Game Boy après Super Mario Land en 1989 dont il est la suite. Le jeu marque 
+la première apparition du personnage Wario, double maléfique de Mario. 
+
+------------------------
+CONTENU DE L'ARCHIVE ET UTILISATION
+------------------------
+Normalement, l'archive ZIP doit contenir:
+Super_Mario_Land_2_DX_(FR).ips - Le patch IPS de Super Mario Land 2 DX
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+comme LumarIPS.
+Ce patch est à utiliser avec la rom
+Super Mario Land 2 - 6 Golden Coins (USA, Europe).gb
+Taille: 524288 octets (512 KiB)
+CRC32: D5EC24E4
+SHA256: 5450dce1bd0c073964c374b5b5b5729dce8d00f2e807892c34af32b8bce1392e
+
+
+ROM patché:
+Taille: 1048576 octets (1024 KiB)
+CRC32: D579136C
+SHA256: a48ab2933a0b27b902ab4cff3bd9a018f86a3130a46f83c55c49eef6b4929fa3
+
+--------
+TRADUCTION
+--------
+Yoda07: texte, GFX, 100%
+
+----------------------------------------------------------------
+CONTACTS
+----------------------------------------------------------------
+Une remarque, une question ou une correction à apporter à la
+traduction de Super Mario Land 2 DX.
+
+Yoda07 - juin-2010@hotmail.fr
+
+----------------------------------------------------------------
+REMARQUES LEGALES
+----------------------------------------------------------------
+Le patch de traduction française de Super Mario Land 2 DX n'est
+pas officiel et n'est pas supporté par Nintendo.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !

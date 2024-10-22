@@ -1,0 +1,100 @@
+		Génération IX (http://generation9.kanshima.net) 
+			vous présente la traduction de X-Kaliber 2097
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre : X-Kaliber 2097
+Console : Super Nintendo
+Développeur : Activision
+Date : 1994
+Genre : Plates-formes 2D
+
+
+\ ETAT DE LA TRADUCTION : Patch final créé le : 11/mars/2006
+ \___________________________________________________________
+
+Tout a été traduit... Bon, faut dire aussi que c'est pas le jeu ayant des kilos de texte, mais il fut
+amusant à traduire. Même si le script de base est pas des plus original, j'avoue qu'il y'avait des
+tournures de phrases un peu douteuses, et je me suis permis de rajouter une ou deux facéties.
+
+Après avoir fini le script, j'ai voulu insérer les accents. La fonte semblant compressée (et mes
+compétences en ce domaine étant très limitées), Jes a bien voulu accorder un peu de son temps pour
+me dégotter les accents. Grâce à lui, le patch est désormais terminé...
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack : Jes
+Traduction : Happexamendios
+Bêta-Test : Happexamendios
+
+
+
+\ CODES
+ \______
+
+Outils indispensable du traducteur, les cheat codes sont une aide énorme pour arriver au terme
+d'un jeu. X-Kaliber en possède deux, les voici :
+
+1- Invincibilité :
+==================
+A l'écran titre, presser : Gauche, Gauche, Droite, Droite, Bas, Haut, Droite, Haut, Haut, Haut
+Aller dans les options et activer l'option "No damage" ("intuable" en français ;) )
+
+2-Choix du niveau :
+===================
+A l'écran titre, presser Droite, Droite, Gauche, Gauche, Haut, Bas, Gauche, Bas, Bas, Bas
+Presser A pour choisir le niveau
+
+
+\ REMERCIEMENTS
+ \______________
+
+Shyma.X : croisé au détour du tchat, il m'a très gentiment tuyauté sur ce jeu.
+
+Jes : qui a bravé le fouet Greatsien pour me sortir un patch me permettant d'insérer les accents.
+	Merci encore, ça prend tout de suite une autre dimension avec les lettres accentuées !
+
+Moby et Evanescence : pour leurs excellents disques "Hotel" et "Fallen" qui m'ont accompagnés
+	lors de la trad de ce jeu. 
+
+Ma puce : qui a essayé de s'intéresser à la traduction. Bisou mon coeur !
+
+Gamefaqs : pour les cheat codes qui m'ont permis de venir à bout du jeu. Sans l'invincibilité, je crois
+	pas que j'aurais eu le courage de le terminer...
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "SNES-X-Kaliber-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : X-Kaliber 2097 (E).smc
+  Taille de la rom: 1 048 576 octets
+  Rom avec Header ? Non
+  CRC de la rom   : D7E4732F
+  CRC rom patchée : 5C0E212F
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  BSnes          [ ]		SNes9X 1.51    [x]
+  Snes 9X 1.43   [ ]		Snes 9X 1.53   [x]
+  Snes 9x Geiger [ ]		Snes GT        [ ]
+  ZSnes          [ ]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+Site Web : http://generation9.kanshima.net 
+Forum : http://www.bessab.com/viewforum.php?f=12 

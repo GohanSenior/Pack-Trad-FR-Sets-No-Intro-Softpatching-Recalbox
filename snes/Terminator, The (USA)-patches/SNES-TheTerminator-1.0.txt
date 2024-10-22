@@ -1,0 +1,72 @@
+			 Génération IX (http://generation9.kanshima.net) 
+				 vous présente la traduction de  
+					  The Terminator
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre : The Terminator
+Console : Super Nintendo
+Développeur : Mindscape
+Date  : 1993
+Genre : Plates-formes 
+
+
+\ ETAT DE LA TRADUCTION : Patch final créé le : 28/08/2008 
+ \_________________________________________________________
+
+Hasta la vista baby!
+Vous avez aimé le cultissime Terminator ? Ben vous allez haïr "The terminator" sur Supernes !
+Pas beaucoup d'intérêt à ce jeu, hormis le fait de zigouiller du T-800 à la pelle...
+Graphismes sombres à peine dignes d'une 8 bits, animation plus que limite, action aussi
+répétitive que vasse becs... Y'a pas grand chose à en tirer !..
+
+...Sauf pour moi ! En fait, l'idée de traduire ce jeu m'est venue alors que je bossais sur
+d'autres projets en rapport avec le célèbre tas de métal Scharziennien. The terminator a été
+traduit en l'espace de 2 heures, bêta test compris, durant une longue nuit blanche. N'arrivant
+pas à dormir, j'ai entendu l'appel de la Daube et je me suis donc exécuté.
+
+Conclusion : Bêêêêêêêrk ! Déception totale, y'a quasiment rien à traduire !!!
+Mais bon ; fidèle à mes principes, je n'ai pas pu résister au plaisir de vous faire découvrir
+ce jeu oublié des masses laborieuses.
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack : Happexamendios
+Traduction : Happexamendios
+Bêta-Test : Happexamendios
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "SNES-TheTerminator-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Terminator, The (U).smc
+  Taille de la rom: 2 097 152 octets sans le header ; 2 097 664 octets avec le header
+  Rom avec Header ? Non
+  CRC de la rom   : D71E6C3B
+  CRC rom patchée : 6E24DA51
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  BSnes          [ ]		SNes9X 1.51    [ ]
+  Snes 9X 1.43   [x]		Snes 9X 1.53   [x]
+  Snes 9x Geiger [ ]		Snes GT        [ ]
+  ZSnes          [ ]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction. 
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+Site Web : http://generation9.kanshima.net 
+Forum : http://www.bessab.com/viewforum.php?f=12 

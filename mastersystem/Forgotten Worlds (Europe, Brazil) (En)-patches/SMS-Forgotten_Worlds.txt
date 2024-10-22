@@ -1,0 +1,105 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                           Forgotten Worlds
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Forgotten Worlds
+Console		: Master System
+Développeur	: Sanritsu
+Editeur		: SEGA
+Date		: 1991
+Genre		: Shoot'em up
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 06/11/2015) :
+ \_________________________________________________________________
+
+Tiens, on dirait le Duke !
+Si si, regardez bien...
+Ce torse laissant saillir les muscles sous le T-shirt,
+les lunettes noires, les cheveux blonds coupés en brosse...
+N'a t'il pas un air de Duke Nukem, notre héros ?
+
+Remarquez, il faut au moins ça (et du chewing gum) pour aller
+botter le cul des hordes aliennes qui ont décidé de foutre
+le binz dans la galaxie.
+
+La seule différence avec le Duke c'est qu'ici vous volez,
+accompagné d'un petit satellite.
+Le principe est archi connu : 5 niveaux à parcourir en dézinguant
+de l'ennemi belliqueux, des boss à torgnoler et paf!
+Une donzelle sauvée qui vous sera à jamais reconnaissante...
+
+Loin d'un R-Type, le jeu est toutefois sympa sans être le
+manic shooter que tout bon fan recherche.
+L'originalité du titre provient du fait qu'on oriente à loisir
+les tirs : un bouton permet d'orienter vers la gauche, l'autre
+vers la droite. Le reste est une question de précision...
+
+L'autre intérêt vient de l'armurerie où l'on peut acheter de
+quoi améliorer son héros avec l'argent amassé sur les cadavres
+fumants de vos ennemis.
+
+Pour ma part, j'ai bien aimé ce jeu, même s'il n'est pas à la
+hauteur des shooters d'arcade. C'est donc pour cela que je me
+suis penché sur la traduction, ce qui n'a pas nécessité des
+tonnes de réflexion, il faut bien le dire; la principale
+difficulté ayant été d'aligner correctement les textes de la boutique.
+
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Energie infinie        0x00CC8C         8D
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Forgotten Worlds.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Forgotten Worlds (E) [!].sms
+  Taille de la rom: 262 144 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 38C53916
+  CRC rom patchée : FBB6305F
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  Emukon           [ ]		Kega Fusion 3.64 [x]
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

@@ -1,0 +1,66 @@
+------------------------------------------------
+
+Génération IX (http://generation9.kanshima.net) 
+vous présente la traduction de Pacman. 
+
+------------------------------------------------
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre : PACMAN 
+Console : Nes 
+Développeur : Namco
+Date : 1984 - 1993
+Genre : Arcade
+Date Traduction : 6/11/04
+
+
+\ DESCRIPTION
+ \_______________________________ 
+
+Ai-je seulement besoin de le décrire c'est une perle des salles d'arcade
+et des plus vieux d'entre nous. La petite boule jaune est un mythe, une
+référence bref à ne pas manquer ! 
+
+
+\ ETAT DE LA TRADUCTION : Patch Final 
+ \___________________________________ 
+
+Tout a normalement été traduit. 
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack : KS151 
+Traduction : KS151 
+Bêta-Test : ColibriAlpha 
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "NES-Pacman-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Pac-Man (E) [!].nes
+  Taille de la rom: 24 592 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 81210f63
+  CRC rom patchée : 73D4ACFE
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher. 
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils 
+peuvent créer une sauvegarde de la rom avant de patcher). 
+Voilà maintenant votre rom avec les modifications apportées par notre traduction. 
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+
+Forum : http://www.bessab.com/viewforum.php?f=12 
+Hack & Traduction : ks151@msn.com
+Site Web : http://generation9.kanshima.net 

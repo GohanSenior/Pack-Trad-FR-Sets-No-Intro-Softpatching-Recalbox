@@ -1,0 +1,106 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                             Rush'N Attack
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Rush'N Attack
+Console		: Nintendo NES
+Développeur	: Konami
+Editeur		: Konami
+Date		: Avril 1987
+Genre		: Run'n Gun
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 09/04/2014) :
+\_________________________________________________________________
+
+Taaaaïauuuuuuuuuuuuuuut !!!
+Sus à l'ennemi !!
+
+Si vous adorez ces vieux films où le héros dézingue une armée de
+vilains tout pas beaux armé d'un seul couteau, alors je ne peux
+que vous conseiller de jouer à Rush'n Attack où (ainsi que le
+subtil jeu de mot composant le titre l'indique) vous avez pour
+mission de courir à travers les niveaux en zigouillant du russe.
+
+Car oui, le russe est fourbe et menace d'envoyer un gros missile
+sur les gentils américains...
+Scénario fort peu original, mais typique des films bourrins de
+l'époque (qui a dit "Chuck Norris" ?)
+
+C'est donc à vous de parcourir les 6 niveaux du jeu seulement
+armé de votre couteau. Sûrement par restriction de budget...
+
+Il va falloir avancer prudement car si vous êtes seul,
+les ennemis eux sont très très beaucoup tout plein !
+Et ils sautent, courrent, vous tirent dessus et vous attirent
+sur des mines. Bref, il va falloir être aussi précis qu'un
+chirurgien, aussi rapide qu'un sprinteur et aussi agile
+qu'un puma.
+
+Le jeu vaut le coup d'être essayé, mais il n'est pas recommandé
+aux rageux, aux impatients et aux manchots...
+
+La traduction du jeu s'est faite un peu par hasard. Je testais
+quelques roms Nes et celle-ci m'a amusé et je me suis dit que
+ça valait bien son patch, même s'il n'y a pas des tonnes de
+textes; il faut bien l'avouer...
+Mais bon, ça m'a occupé une matinée :p
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Energie infinine       0X0022          04
+Munitions infinies     0X051C          09
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "RushNAttack.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Rush'n Attack (U) [!].nes
+  Taille de la rom: 131 088 octets
+  Rom avec Header ? Non
+  CRC de la rom   : DE25B90F
+  CRC rom patchée : 43935758
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  FCeu XD SP [x]		NesTicle   [ ]
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

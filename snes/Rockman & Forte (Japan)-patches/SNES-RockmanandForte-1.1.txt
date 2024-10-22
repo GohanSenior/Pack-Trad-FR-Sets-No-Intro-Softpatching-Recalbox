@@ -1,0 +1,170 @@
+____________________________________________________________________________________________________________________________
+
+                  GENERATION IX
+         http://generation9.kanshima.net
+
+-------------------------------------------------
+                   PRESENTENT
+
+                       LA
+              TRADUCTION FRANCAISE
+                       DE
+                 ROCKMAN & FORTE
+____________________________________________________________________________________________________________________________
+
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ INFORMATIONS SUR LE JEU
+_________________________
+
+Titre       : Rockman & Forte (Megaman & Bass)
+Console     : Super Nintendo
+Développeur : Capcom
+Date        : 1998 (Japon)
+Genre       : Action / Plates-formes
+
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ EQUIPE DE TRADUCTION
+______________________
+
+Hack        : Gideon Zhi
+              BahaBulle
+Traduction  : GreatSkaori
+              Happexamendios
+Relecture   : GreatSkaori
+              Happexamendios
+Graphismes  : Happexamendios
+Bêta-Test   : Happexamendios
+
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ HISTOIRE DU PROJET
+____________________
+
+Sorti en 1998 sur SNES et uniquement au Japon, ce jeu a souvent été considéré comme le 9ème épisode
+de la série Mega Man (à ne pas confondre avec Mega Man X, Zero et autres séries parallèles).
+La future sortie sur les services de téléchargement de la Wii, de la 360 et de la PS3 met donc
+fin à cette rumeur puisqu'il porte bel et bien le nom "Mega man 9".
+Mais revenons-en à nos moutons mécaniques. Dans cet épisode, il est possible de jouer au choix, soit Mega Man,
+soit Bass, pour aller dégommer des robots, un vilain nommé King et défaire une nouvelle fois les plans démoniaque
+du docteur Wily et de ses sourcils narquois.
+Gideon Zhi (encore lui !) a réalisé une traduction complète du jeu, du japonais vers l'anglais il y a quelques temps.
+Contrairement aux autres épisodes de la série, ce jeu comporte beaucoup de textes ! Il y a en tout 100 CDs disséminés
+dans les divers niveaux du jeu, et chacun de ces CDs débloque une fiche disponible ensuite dans une sorte d'encyclopédie
+des divers protagonistes des épisodes de la série, révélant des détails sur leur arsenal, la raison de leur constructon,
+mais aussi leurs goûts et pas mal d'anecdotes assez amusantes. Les gars de Capcom se sont bien lâchés et on s'est
+bien amusés à tout traduire nous aussi.
+On a au départ choisi ce jeu dans l'espoir de le sortir pour Noël 2007, mais ça n'a pas été possible. On a donc décidé
+de prendre notre temps pour faire les choses bien.
+J'ai pour ma part pu traduire une bonne moitié du script directement
+depuis le japonais, ce qui fut un grand moment :D
+Happex a pris en charge l'autre moitié du script depuis l'anglais et les divers graphismes à modifier.
+
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ HISTORIQUE DE LA TRADUCTION
+_____________________________
+
+Patch 1.1 : 15/04/2010
+   Correction d'un bug lorsqu'on veut effacer la base de données des CD
+
+Patch 1.0 : 11/08/2008
+   Le jeu à été intégralement traduit en français.
+   Une grande partie du hack à été réalisé par Gideon Zhi pour la version US ce qui nous as facilité le travail :p
+   - Passage des pointeurs en 24 bits permettant de déplacer les scripts n'importe où dans la rom
+   - Suppression des lignes vides dans les bulles de textes permettant d'afficher plus de lignes
+   - Bypassing de certains graphismes compressés permettant de les insérer sans les recompresser
+
+   De notre côté, BahaBulle a réalisé quelques modifications pour faciliter la traduction française :
+   - Changement de la font
+   - Ajouts des accents
+   - Agrandissement du cadre des fiches des robots
+   - Modification du titre (Megaman & Bass) apparaissant après la sélection du personnage qui faisait
+     défaut dans la version US
+
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+COMMENT APPLIQUER LE PATCH ?
+____________________________
+
+Le patch "SNES-RockmanandForte-1.1.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Rockman & Forte (J) [!].smc
+  Taille de la rom: 4 194 304 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 5047E0D4
+  CRC rom patchée : 94C56B51
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  BSnes          [ ]		SNes9X 1.51    [x]
+  Snes 9X 1.43   [ ]		Snes 9X 1.53   [x]
+  Snes 9x Geiger [ ]		Snes GT        [ ]
+  ZSnes          [ ]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ COMMENT APPLIQUER LE PATCH
+____________________________
+
+Pour vérifier le CRC32 de la rom, vous pouvez télécharger un outil : http://ffulgore.free.fr/site/f-crc/us/download.htm
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher.
+Il en existe plusieurs que vous pourrez trouver sur le site de la T.R.A.F (http://traf.romhack.org).
+Il suffit ensuite de sélectionner la ROM puis le fichier ips et de valider (certains outils
+peuvent créer une sauvegarde de la ROM avant de patcher).
+
+Des émulateurs permettent également de patcher directement les ROMs sans les altérer. Pour plus
+d'explications, je vous invite à consulter le site de la TRAF dans la partie "Utiliser un patch IPS".
+
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ REMERCIEMENTS
+_______________
+
+Nous remercions bien évidemment :
+- Capcom pour ce super jeu,
+- Gideon Zhi pour le patch de traduction anglais,
+- et une auto-congratulations de notre part parce que nous le valons bien :D
+
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ CONTACTS
+__________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'aurraient pas été cités plus haut.
+Site  : http://generation9.kanshima.net/
+Forum : http://www.bessab.com/viewforum.php?f=12
+
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ REMARQUES LEGALES
+___________________
+
+Génération IX vous propose une traduction non-officielle réalisée à but non lucratif par des amateurs bénévoles.
+Elle n'est en aucun cas supportée par NINTENDO ou Capcom.
+Cette traduction est donc gratuite et ne peut être vendue sous quelque forme que ce soit (vente de fichiers
+sur CD, de cartouches modifiées, de cartouches flash copiées, etc.) : son usage commercial est par
+conséquent strictement interdit.
+
+Vous utilisez ce patch de traduction en dégageant les auteurs de toute responsabilité concernant
+d'éventuels dommages.
+
+© 2008 Génération IX
+Tous droits réservés
+
+SUPER NINTENDO® et ROCKMAN AND FORTE® sont respectivement les propriétés de NINTENDO® et Capcom®.
+Les mentions légales relatives à NINTENDO se trouvent décrites dans un livret fourni avec chacun de leurs
+produits. Veuillez les lire attentivement.
+
+© 2007 NINTENDO et Capcom®
+Tous droits réservés

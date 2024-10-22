@@ -1,0 +1,158 @@
+----------------------------------------------------------------
+***********************Table des matières***********************
+----------------------------------------------------------------
+
+1.	INFORMATION SUR LE JEU
+2.      CONTENU DE L'ARCHIVE ET UTILISATION
+3.	TOUT CE QUI A ÉTÉ FAIT
+4.	PROBLÈMES CONNUS
+5.	HISTORIQUE DES VERSIONS
+6	L'ÉQUIPE DE LA TRADUCTION
+7.	REMERCIEMENTS
+8.	REMARQUES LÉGALES
+
+----------------------------------------------------------------
+1.  INFORMATION SUR LE JEU
+----------------------------------------------------------------
+
+Titre       : Toy Story
+Console     : Mega Drive
+Développeur : Traveller's Tales
+Editeur     : Disney Interactive
+Année       : 1995
+Genre       : Plates-formes
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+L'archive ZIP doit contenir :
+
+*Toy Story (FR-US).bps -----------------> Le patch de traduction
+du jeu au format bps pour la version américaine du jeu.
+*Toy Story (FR-PAL).bps -----------------> Le patch de traduction
+du jeu au format bps pour la version américaine du jeu.
+*LisezMoi.txt ----------------> Le fichier que vous êtes en train
+de lire.
+
+
+Le patch est à utiliser en fonction de la version que vous
+souhaitez utiliser :
+* la version US est à 30 images par seconde, mais sans mot de passe.
+* la version PAL intègre un système de mots de passe tous les
+4 niveaux, vous gratifie d'un continu d'emblée, mais est limitée
+à 25 images par seconde.
+
+Voir ci-après les empreintes numériques pour vour permettre 
+de vérifier que vous avez la bonne ROM
+
+Version US :
+MD5 : 23dc9770c2044a05c7351cf83a139d74
+SHA-1 : 49be571cd943fd594949c318a0bdbe6263fdd512
+
+Version PAL :
+MD5 : 5992b6171bcbb7d7210b8a67db22f1cd
+SHA-1 : 6e7bb9b191389973922a5ab9978205bb9d2664cc
+
+Vous pouvez patcher la rom et/ou vérifier l'empreinte numérique
+en ligne via l'adresse suivante:
+https://www.marcrobledo.com/RomPatcher.js/
+
+Vous pouvez aussi le faire sur votre ordinateur :
+Si vous êtes sous Windows ou Linux
+Pour le patch au format bps, je vous conseille l'utilisation de
+ Floating IPS (Flips).
+Pour le patch au format xdelta, je vous conseille l'utilisation de
+Delta Patcher pour Windows et YADP de Nhoya pour linux
+ 
+Si vous êtes sous Mac, et quel que soit le format du patch,
+je vous conseille l'utilisation de MultiPatch par Sappharad.
+
+
+       |   Windows   |     Mac    | Linux |   Android  |
+--------------------------------------------------------
+  BPS  |    Flips    | MultiPatch | Flips | RomPatcher |
+--------------------------------------------------------
+
+Tous les patcheurs susnommés sont disponibles sur 
+https://www.romhacking.net/
+
+----------------------------------------------------------------
+3.  TOUT CE QUI A ÉTÉ FAIT
+----------------------------------------------------------------
+
+*Les textes des cinématiques qui illustrent l'histoire entre les
+niveaux.
+*Les instructions avant de commencer le niveau.
+*La section des mots de passe (version PAL uniquement).
+
+----------------------------------------------------------------
+4.  PROBLÈMES CONNUS
+----------------------------------------------------------------
+A/"S" supplémentaire dans la séquence bonus
+Un "s" apparait en trop quand vous jouez à la séquence bonus et
+que vous obtenez plus d'un bonus de vie.
+
+B/Graphismes non modifiés
+Je n'ai pas réussi à décompresser les graphismes du jeu.
+
+Par conséquent, lors du choix de la configuration des contrôles,
+l'assignation des boutons restent en anglais dans le menu
+"option".
+Cela ne pose pas un problème de compréhension majeur pour le jeu
+dans la mesure où seuls 2 touches sont utilisés dans le jeu: une
+pour le saut et une pour la corde vocale de Woody qui fait office
+de fouet.
+
+Voici la traduction dans ce menu :
+*Jump : saut
+*Whip : fouet
+
+----------------------------------------------------------------
+5.  HISTORIQUE DES VERSIONS
+----------------------------------------------------------------
+
+1.0 (08/10/23) : sortie initiale du patch
+
+----------------------------------------------------------------
+6.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+Corrigo : Tout
+
+Si vous trouvez des erreurs dans le patch, merci de m'envoyer un
+courriel à :  corrigo@outlook.fr  avec si possible une capture 
+d'écran du souci. 
+
+----------------------------------------------------------------
+7.  REMERCIEMENTS
+----------------------------------------------------------------
+
+Je tiens à remercier kitchen34 et anata pour avoir pris le
+temps de regarder comment traduire les graphismes, même si
+l'essai ne s'est pas révélé concluant à cause des compressions.
+
+
+----------------------------------------------------------------
+8.  REMARQUES LÉGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de Toy Story n'est pas officiel
+et n'est pas supporté ni par Traveller's Tales, ni par SEGA.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec la rom, et
+que l'archive originale n'est pas modifiée non plus. Ni argent,
+biens ou services ne peuvent être demandés pour ce patch, dans
+sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucunes personnes citées dans cette documentation ne 
+pourra être responsable de n'importe quels dommages provenant
+deson usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout, à bientôt et bon jeu!
+
+Corrigo.

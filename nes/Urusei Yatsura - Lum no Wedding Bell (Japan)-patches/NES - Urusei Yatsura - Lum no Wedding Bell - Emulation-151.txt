@@ -1,0 +1,55 @@
+				Emulation-151 (http://www.emulation-151.com)
+                                              
+			 vous présente la traduction de Urusei Yatsura - Lum no Wedding Bell.
+						
+						Patch 69
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre : Urusei Yatsura - Lum no Wedding Bell.
+Console : Nes.
+Développeur : Jaleco.
+Date : 1986.
+Genre : Plateforme.
+
+
+
+\ ETAT DE LA TRADUCTION : Patch 30/07/07
+ \__________________________________________________
+
+
+Tout est traduit.
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack : KS 151.
+Traduction : KS151.
+Betatest : KS151.
+
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Le patch "NES - Urusei Yatsura - Lum no Wedding Bell - Emulation-151.ips" est à appliquer sur
+la rom "Urusei Yatsura - Lum no Wedding Bell (J).NES" du 19/05/2005.
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher. 
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils 
+peuvent créer une sauvegarde de la rom avant de patcher). 
+Voilà maintenant votre rom avec les modifications apportées par notre traduction. 
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://www.emulation-151.com
+Forum :   http://www.emulation-151.com/Forum/phpBB2/index.php

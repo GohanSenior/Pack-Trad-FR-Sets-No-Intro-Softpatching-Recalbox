@@ -1,0 +1,63 @@
+				Emulation-151 (http://www.emulation-151.com)
+
+				 vous présente la traduction de Top Gun
+
+						Patch 51.
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre : Top Gun
+Console : Nintendo
+Développeur : Konami
+Date : 1987
+Genre : Shoot
+
+
+
+\ ETAT DE LA TRADUCTION : Patch 19/05/2005
+ \__________________________________________________
+
+
+Tout est traduit. Au niveau graphismes, il manque les informations du cockpit, tel que la vitesse et
+ l'altitude. Par contre j'ai réussi au détour de la compression à faire apparaître missile :).
+Autre petit soucis. Par manque de place il manque un point à la fin de la première phrase de la Mission 1 :).
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack : KS 151
+Traduction : KS 151
+Betatest : ColibriAlpha
+
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Le patch "NES - Top Gun - Emulation-151.ips" est à appliquer sur
+la rom "Top Gun (E) [!].nes"
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher. 
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils 
+peuvent créer une sauvegarde de la rom avant de patcher). 
+Voilà maintenant votre rom avec les modifications apportées par notre traduction. 
+
+
+
+\ HISTORIQUE DE LA TRADUCTION
+ \____________________________
+
+Suite à la demande pressante d'un certain Colibri Alpha et bien
+voilà la traduction qu'il attendait en espérant que cela fasse plaisir à bien d'autres !
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum : http://www.bessab.com/viewforum.php?f=12

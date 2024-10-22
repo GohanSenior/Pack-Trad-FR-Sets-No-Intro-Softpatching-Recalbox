@@ -1,0 +1,80 @@
+                   Emulation-151 (http://www.emulation-151.com) & la T.R.A.F.
+                                              
+                        vous présente la traduction de Insector X
+						
+                                        Patch 78
+
+
+										
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre : Insector X.
+Console : Nes.
+Développeur : Taito.
+Date : 1989
+Genre : Shoot Them Up.
+
+
+
+\ ETAT DE LA TRADUCTION : Patch v1.1 du 19/01/2014
+ \__________________________________________________
+
+Un jeune homme intrépide (tompouce23) ayant décidé de tester tous les patchs de la T.R.A.F. m'a
+fait remarquer qu'Insector X possédait des bugs d'affichage (textes affichés en japonais). Après
+vérification, il s'était avéré que KS avait réalisé son patch à partir d'une ROM déjà modifiée
+par ses soins qui contenait la nouvelle police de caractères minuscules. Résultat : ces lettres
+n'étaient pas prises en compte dans le patch, d'où le bug mentionné.
+
+KS151 ayant disparu et son site n'existant plus, j'ai donc simplement réinséré les minuscules,
+pensant que cela résoudrait le problème.
+
+Mais, après avoir regardé la ROM de plus près et testé le jeu du début à la fin, je me suis
+rendu compte que le script de fin (le plus gros morceau) était resté en japonais et que deux ou
+trois babioles n'étaient pas traduites (comme certains des codes cachés). Plus des aspects
+esthétiques qui ne me plaisaient pas trop.
+
+Bref, cela a pris plus de temps que prévu mais je pense avoir réussi à traduire ce qui manquait
+(y compris le 1 up - cf. plus bas :D). Et les pointeurs sont assez sympas, peu classiques dans
+leur présentation ;)
+
+N'empêche... plus de 6 ans pour que l'on nous remonte le problème...
+
+-------------------------
+Patch v1.0 du 14/09/2007
+-------------------------
+Tout est traduit sauf le 1 Up ^^.
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack : KS151, Ti Dragon
+Traduction : KS151, Ti Dragon
+Graphismes : Ti Dragon
+Bêta-test : Ti Dragon
+
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Le patch "NES - Insector X - Fr.ips" est à appliquer sur la ROM "Insector X (Japan).nes" de
+No-Intro (CRC32 7DAB812D).
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher. 
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils 
+peuvent créer une sauvegarde de la rom avant de patcher). 
+
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français ou
+même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://www.emulation-151.com (disparu)
+Forum :    http://www.emulation-151.com/Forum/phpBB2/index.php (disparu)
+T.R.A.F. : http://traf.romhack.org/

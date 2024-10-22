@@ -1,0 +1,69 @@
+ ______________________________________________________________________________________________
+/                                                                                              \
+| _/_/_/_/  _/_/_/_/  _/    _/  _/_/_/_/  _/_/_/_/  _/_/_/_/  _/_/_/_/  _/  _/_/_/_/  _/    _/ |
+| _/        _/        _/_/  _/  _/        _/    _/  _/    _/     _/     _/  _/    _/  _/_/  _/ |
+| _/  _/_/  _/_/_/    _/ _/ _/  _/_/_/    _/_/_/_/  _/_/_/_/     _/     _/  _/    _/  _/ _/ _/ |
+| _/    _/  _/        _/  _/_/  _/        _/  _/    _/    _/     _/     _/  _/    _/  _/  _/_/ |
+| _/_/_/_/  _/_/_/_/  _/    _/  _/_/_/_/  _/   _/   _/    _/     _/     _/  _/_/_/_/  _/    _/ |
+\________________                                                             _________________/
+                 \                                                           /
+                  \                   _/_/_/_/  _/    _/                    /
+                   \                     _/      _/  _/                    /
+                    \                    _/        _/                     /
+                     \                   _/      _/  _/                  /
+                      \               _/_/_/_/  _/    _/                /
+                       \       http://generation9.kanshima.net         /
+                        \                                             /
+                         \                 PRESENTE                  /
+                          \        LA TRADUCTION FRANCAISE          /
+                           \                  DE                   /
+                            \                                     /
+                             \            COOL WORLD             /
+                              \_________________________________/
+
+
+
+\ INFOS SUR LE JEU
+ \_________________
+
+Titre       : COOL WORLD
+Console     : Nintendo (NES)
+Développeur : Ocean
+Date        : 1992
+Genre       : Plates-Formes
+
+
+\ ETAT DE LA TRADUCTION : Patch Bêta
+ \___________________________________
+
+Tout a normalement été traduit.
+A un moment, il y a le mot NOID. Ni mon dictionnaire ni des anglais savaient ce que c'était, j'en
+ai déduit que c'était un nom. Si jamais il s'avère que ce n'est pas ça, mailez-moi ou laissez
+un message sur le forum ;)
+Les noms des niveaux ont été traduits sans les avoir vus donc ils peuvent ne pas être appropriés
+alors n'hésitez pas à nous prévenir.
+Merci.
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE
+ \_______________________________
+
+Hack & Traduction : BahaBulle
+
+
+\ COMMENT APPLIQUER LE PATCH
+ \___________________________
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher.
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org).
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+\ CONTACTS
+ \_________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Forum             : http://www.bessab.com/viewforum.php?f=12
+Hack & Traduction : dragonbahamuth23@hotmail.com

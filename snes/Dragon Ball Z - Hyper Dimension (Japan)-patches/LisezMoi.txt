@@ -1,0 +1,151 @@
+                     DRAGON BALL Z HYPER DIMENSION
+                         Français - par Kogami
+
+          	      Projet débuté le 06/11/2010
+------------------------------------------------------------------
+
+                           Par ~ Chrono Team ~
+
+------------------------------------------------------------------
+***********************Table des matières*************************
+------------------------------------------------------------------
+
+1.	L'HISTOIRE DE DRAGON BALL Z HYPER DIMENSION
+2.      CONTENU DE L'ARCHIVE ET UTILISATION
+3.      LES PATCHS PUBLIÉS
+4.	TOUT CE QUI A ÉTÉ FAIT
+5.	L'ÉQUIPE DU PROJET
+6.      CONTACTS
+7.      AUTRES PROJETS
+8.	REMARQUES LÉGALES
+
+------------------------------------------------------------------
+1.  L'HISTOIRE DE DRAGON BALL Z HYPER DIMENSION
+------------------------------------------------------------------
+
+Dragon Ball Z Hyper Dimension est le dernier volet 
+de la série des Dragon Ball Z sortie sur Super Nintendo.
+Avec ce dernier épisode, le gameplay a fortement 
+changé. Désormais, les combats sont plus traditionnels 
+et se rapprochent plus d’un clone de Street Fighter II. 
+Les programmeurs ont abandonné le système d’écran 
+splitté permettant aux joueurs de s’éloigner de 
+plusieurs écrans. Les graphismes sont superbes, 
+d’un style différent des autres épisodes mais très 
+détaillés et joliment colorés. Les musiques sont du 
+même acabit qu’auparavant et la jouabilité est excellente.
+
+------------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+------------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir:
+
+Dragon Ball Z - Hyper Dimension (Fr) v1.03.ips   - Le patch IPS de DRAGON BALL Z HYPER DIMENSION
+LisezMoi.txt                                     - Le fichier que vous êtes en train de lire
+
+Si vous utilisez ZSNES, vous pouvez renommer le patch du nom 
+de votre rom (exemple, DBZHD.ips si votre rom s'appelle DBZHD.smc), 
+et le patching sera automatique avec les dernières versions de 
+cet émulateur en le lançant.
+
+Ce patch s'applique sur la Rom japonaise originale du jeu.
+ -Dragon Ball Z - Hyper Dimension (J) [!] "sans header"
+
+------------------------------------------------------------------
+3.  LES PATCHS PUBLIÉS
+------------------------------------------------------------------
+
+V1.03 - 31/10/12
+-Correction d'un bug mineur sur l'Ending.
+
+V1.02 - 29/05/12
+-Correction de quelques fautes d'orthographes + Ending Fixé.
+
+V1.01 - 02/10/2011
+-Correction de quelques fautes d'orthographes + Ending Fixé.
+
+V1.00 - 24/04/2011
+-Tout est traduit dans le jeu.
+
+------------------------------------------------------------------
+4.  TOUT CE QUI A ÉTÉ FAIT
+------------------------------------------------------------------
+
+- Mode Histoire........ 100 %	
+- Mode Versus.......... 100 %	
+- Options.............. 100 %	
+- Crédits.............. 100 %
+
+
+------------------------------------------------------------------
+5.  L'ÉQUIPE DE TRADUCTION 
+------------------------------------------------------------------
+
+RedComet:       Basé sur la Rom (US) (http://archive.rpgclassics.com/subsites/twit/)
+
+Kogami:         Chef de projet/ROMhacking/Traduction des GFX/Relecteur
+Bahabulle:      Aide en ROMhacking
+
+Gokuda:         Traducteur japonais
+
+Mardhor:        Traducteur
+Flakdo:         Relecteur
+mike_deloge:    Correcteur
+
+kogami:         Insertion du script
+kogami:         Mise en forme des dialogues
+
+Kogami:         Bêta-testeur
+Flakdo:         Bêta-testeur
+
+
+\ REMERCIEMENTS
+ \______________
+
+Remerciement spécial au grand "Bahabulle" ^^
+pour ses nombreux coups de main sur le projet.
+
+Et bien évidement, je remercie toute la communauté de la traduction
+francophone, les membres de la T.R.A.F, pour leur soutien, leurs
+interventions, leurs encouragements et remerciements...
+		    
+------------------------------------------------------------------
+6.  CONTACTS
+------------------------------------------------------------------
+
+N'hésitez pas à me faire part de vos remarques ou des éventuels bugs 
+et fautes de français.
+
+Mail : kogami@hotmail.fr
+
+------------------------------------------------------------------
+7.  AUTRES PROJETS
+------------------------------------------------------------------
+
+La retraduction du jeu Chrono Trigger depuis le retraduction du
+japonais => anglais par la team Chrono Compendium.
+
+------------------------------------------------------------------
+8.  REMARQUES LÉGALES
+------------------------------------------------------------------
+
+Le patch de traduction française de DRAGON BALL Z HYPER DIMENSION 
+n'est pas officiel et n'est pas supporté par Bandai et Nintendo.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une Rom, 
+et que l'archive originale n'est pas modifiée non plus. 
+Ni argent, biens ou services ne peuvent être demandés 
+pour ce patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation 
+ne pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+------------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+ ~Kogami

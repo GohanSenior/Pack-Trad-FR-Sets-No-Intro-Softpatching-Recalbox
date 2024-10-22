@@ -1,0 +1,50 @@
+
+http://generation9.kanshima.net/
+
+Traducteur:
+	KS151 (ks151@msn.com)
+Romhackeur :
+	KS151
+Date :	
+	05/08/2004 23h28
+Jeu :
+	PENGUIN KUN WARS
+
+Caractéristiques du jeu :
+	Nombre de joueurs : 2
+	Style : Action
+	Note : 11/20
+
+Le patch :
+	Version 1.00
+
+Traduction :
+	de l'anglais au français au stade de 100%. A noter que c'est 
+	ma dixième traduction !
+
+Comment appliquer le patch ?
+Le patch "NES-PenguinKunWars-1.0.ips" est à utiliser sur la rom patchée en anglais et corrigée.
+Pour ce faire, commencez par appliquer le patch US disponible ici : http://www.romhacking.net/translations/201/
+  Nom de la rom   : Penguin-kun Wars (J).nes
+  Taille de la rom: 40 976 octets
+
+Une fois cela fait, téléchargez le patch permettant à certains émulateurs de faire fonctionner correctement la rom.
+Le patch est disponible ici : http://www.romhacking.net/translations/1195/
+
+Vous pourrez ensuite appliquer le patch français sur la rom précédement corrigée.
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+Contacts :
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12
+	

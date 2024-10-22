@@ -1,0 +1,14 @@
+KICKLE CUBICLE
+Ce patch traduit le jeu a 99,5% (Terminé)
+----------------------------------------------------------------------
+Voici ce qui est traduit:
+- Les dialogues
+
+Ce qui reste des 0,5 %:
+- Vérifier si il n'y a aucun bug dans les dialogues !
+----------------------------------------------------------------------
+Fichier IPS et traduction par YFO6 TRADUC
+http://yf06traduc.consolemul.com
+----------------------------------------------------------------------
+Pour appliquer ce patch vous aurez besoin du programme Patcheur Arkana
+

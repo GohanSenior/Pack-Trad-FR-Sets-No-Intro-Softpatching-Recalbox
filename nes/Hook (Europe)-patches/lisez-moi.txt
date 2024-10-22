@@ -1,0 +1,15 @@
+Traduction de HOOK sur NES version 0.9
+
+
+Ce patch est a appliquer avec la version européenne 
+de la rom (il est sorti X version de la rom)
+
+
+
+Ce qui reste a faire : 
+traduire les noms des niveaux et l'ecran titre.
+
+
+
+
+Alb_a_tort

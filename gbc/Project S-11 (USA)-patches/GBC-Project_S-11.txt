@@ -1,0 +1,109 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                             Project S-11
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Project S-11
+Console		: Game Boy Color
+Développeur	: Paragon 5
+Editeur		: Sunsoft
+Date		: 14 décembre 2000
+Genre		: Shoot'em up
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 12/11/2015) :
+ \_________________________________________________________________
+
+Boum! Boum! Tiouuuu tiouuuu...
+Oui, traduirece shooter m'a laissé quelques séquelles, et alors?
+Toujours est-il que ce n'était pas une mince affaire...
+
+Zappons l'histoire : vous êtes le seul apte à piloter un vaisseau
+top secret (le "Projet S-11") et vous devrez rallier une base
+cachée pour y déposer des documents confidentiels avant de
+partir dans l'espace pour zigouiller une race alienne.
+
+Techniquement, le jeu n'est pas trop moche pour une portable.
+Il y a même des effets de distortion sympas...
+Les musiques collent bien au jeu, mais les graphismes sont
+un peu fades à mon goût.
+
+Le jeu comporte 8 missions assez longues entrecoupées de boss
+de mi-niveau. Un système de mot de passe a été intégré, évitant
+de devoir se retaper tout le jeu à chaque fois, ce qui est
+une bonne idée, avouons-le.
+
+La traduction a été beaucoup plus longue que prévue. Pas par
+la masse de texte présente, mais plus par l'obligation de
+respecter des tailles de mots sous peine d'avoir de jolis
+bugs graphiques.
+
+Quelques graphismes ont été retouchés, mais la refonte de
+l'écran titre et des options a été une prise de tête absolue
+pour des résultats mitigés. Du coup, j'ai laissé tel quel
+(à part un "start" changé en "jouer"), mais les autres mots
+buggaient dès que je les modifiais.
+Comme dirait PinkTagada : "c'est à se poignarder le cul avec
+une saucisse bouillie", et je ne voulais pas perdre mes
+derniers neurones sur un truc pareil.
+
+Le principal, c'est bien d'avoir l'histoire en français, non?
+
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Vies infinies          0xC1DA          04
+Bombes infinies        0xC1D8          08
+Invincibilité          0xC1DB          74
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Project S-11.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Project S-11 (U) [C][!].gbc
+  Taille de la rom: 524 288 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 20CEE2E8
+  CRC rom patchée : EAABE1F9
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  BgB [x]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

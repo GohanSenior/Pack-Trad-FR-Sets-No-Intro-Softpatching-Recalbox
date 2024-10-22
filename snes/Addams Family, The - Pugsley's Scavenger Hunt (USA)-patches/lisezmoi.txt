@@ -1,0 +1,62 @@
+___________________________________________________
+4 décembre 2019
+
+Mise à jour flash par Ingo
+- correction d'un petit bogue d'affichage dans les options
+- "by" changé en "de" dans les crédits de fin
+- correction du checksum
+
+patch à appliquer sur :
+Addams Family, The - Pugsley's Scavenger Hunt (U).smc
+sans Header
+CRC32 de la rom : 153A00A7
+
+___________________________________________________
+11 juin 2004
+
+===================================================
+-  Traduction de 'Addams Family 2' sur Super Nes  -
+=            - Traduction de sweetgarf -          =
+-                                                 -
+=           - Commentaires de Ti Dragon -         =
+- Génération IX : http://generation9.kanshima.net -
+===================================================
+
+--------------------------------------------------------------------
+
+Bonjour à tous,
+
+Il était une fois une mère qui voulait faire plaisir à ses enfants.
+Elle décida donc de traduire Addams Family 2 pour Super Nes*. Elle
+vint donc demander de l'aide sur le forum de traduction BessaB qui
+regroupe de nombreux groupes de traductions ainsi que des
+passionnés (http://forum.bessab.net). Elle ne tarda pas à trouver
+ce qu'elle cherchait grâce au concours de nombreux preux chevaliers
+(dont votre serviteur).
+
+Finalement, à force d'acharnement, elle finit par réussir sa
+traduction et, même si son romhack est simple, je suis certain que
+ses enfants furent enchantés par le cadeau que leur avait fait 
+leur maman québécoise.
+
+Malheureusement, elle déserta le forum et nous n'avons plus jamais
+eu de nouvelles**, à notre grand désarroi. Fort heureusement, nous
+savons qu'elle vit quelque part tranquillement avec ses enfants et
+qu'elle doit encore les couvrir de cadeaux.
+
+Merci Sweetgarf de nous avoir offert ce patch.
+
+Ti Dragon
+
+--------------------------------------------------------------------
+
+Notes :
+-------
+
+* A l'époque, un patch existait mais ne se trouvait nulle part sur
+les sites d'émulation. Ce patch est celui de Digital Dream que l'on
+a retrouvé récemment et dont la traduction se situe aux alentours
+de 1998
+
+** Bien qu'ayant son adresse e-mail, je ne la divulguerai pas ici,
+veuillez bien comprendre pourquoi

@@ -1,0 +1,109 @@
+SEGA MASTER SYSTEM FRANCE présente
+
+PHANTASY STAR
+----------------------------------------------------------------
+*******************Table des matières******************
+----------------------------------------------------------------
+
+1.    L'HISTOIRE DU JEU
+2.    CONTENU DE L'ARCHIVE ET UTILISATION
+3.    LES PATCHS PUBLIES
+4.    TOUT CE QUI A ETE FAIT
+5.    L'ÉQUIPE DE LA TRADUCTION
+6.    CONTACTS
+7.    REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  L'HISTOIRE DE PHANTASY STAR
+----------------------------------------------------------------
+
+L'histoire se déroule en l'an spatial 342 sur la planète Palma,
+un des 3 planètes du système solaire d'Algol. Le dirigeant Lassic,
+autrefois bon et généreux, est devenu un véritable tyrant.
+Un groupe de résistant ne tarde pas à se mettre en place pour
+tenter de détrôner Lassic. Vous incarnez Alisa, une jeune fille
+dont le frère a été tué par les soldats de Lassic. Votre quête
+est de libérer votre planète. Mais il s'avère que Lassic n'était
+qu'un pantin contrôlé par une force encore plus terrifiante et
+que c'est le système solaire d'Algol en entier qui est menacé.
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+L'archive ZIP doit contenir :
+PhantasyStar_FR_SMSFrance_v102.ips  - Le patch IPS
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+(le Patcheur Terminus par exemple).
+Ce patch est à utiliser avec la rom "Phantasy Star (Japan).sms"
+
+Le basculement en mode FM (ou PSG) ce fait à l'écran titre du jeu
+en appuyant sur la touche "PAUSE" de votre émulateur.
+
+----------------------------------------------------------------
+3.  LES PATCHS PUBLIES
+----------------------------------------------------------------
+
+-V Finale (1.02) (checksum corrigé pour passer sur le vrai hard)
++ modification des espace virgules & points.
+----------------------------------------------------------------
+4.  TOUT CE QUI A ETE FAIT
+----------------------------------------------------------------
+
+Graphismes:    100 %
+Script    :    100 %
+
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+Wil76 : Trad
+Ichigobankai : Trad / ASM / Check / Gfx
+Vingazole : Trad / Check
+Berial Mut 743 : Trad / Check
+
+Merci à SMSpower pour leur énorme travail (Trad JAP > ENG),
+Merci à Révo, Francklin29 et à tous les membres de Master System 
+France pour leur soutien & aide ;)
+
+Conjointement à la sortie de ce patch, un manuel (32p), un guide
+contenant les plans des donjons et un bestiaire (44p) et une carte
+ont été fabriqués en une série limitée de 20 exemplaires.
+
+----------------------------------------------------------------
+6.  CONTACTS
+----------------------------------------------------------------
+
+Une remarque, une question ou une correction à apporter à la
+traduction :
+
+Ichigobankai - fab.marcel79@gmail.com
+
+http://www.mastersystem-france.com
+
+----------------------------------------------------------------
+7.  REMARQUES LEGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de Phantasy Star n'est pas officiel
+et n'est pas supporté par Sega.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+Ichigo
+

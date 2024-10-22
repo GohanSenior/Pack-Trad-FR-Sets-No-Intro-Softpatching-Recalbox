@@ -1,0 +1,17 @@
+Lagoon version Française 1.0.
+Coordinateur et hacking du projet de 4ph.
+
+Remerciements à:
+Happexamendios (Traducteur)
+Bahabulle (Extraction Font)
+Musashi (Correcteur et Beta-testeur)
+M.Sieur Citron (Beta-testeur) 
+Itmars (Beta-testeur)
+
+Utilisation du patch:
+Le patch est à appliquer sur la rom Lagoon (E).smc
+Lagoon (E).smc: Taille de la rom à patcher: 1,00 Mo (1 048 576 octects)
+
+Taille de la rom après le patchage: 2,00 Mo (2 097 152 octects)
+
+A bientôt.  

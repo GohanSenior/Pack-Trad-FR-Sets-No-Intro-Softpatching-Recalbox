@@ -1,0 +1,112 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                      Itchy & Scratchy - The game
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Itchy & Scratchy - The game
+Console		: Super Nintendo
+Développeur	: Bits Studio
+Editeur		: Acclaim
+Date		: Mars 1995
+Genre		: Action
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 27/11/2013) :
+ \_________________________________________________________________
+
+Depuis le temps que la famille Simpson a envahi nos écrans de télé,
+vous connaissez certainement "Itchy & Scratchy", leur dessin
+animé préféré. En voici une adaptation pour la Snes...
+
+Ici, pas de réflexion profonde, pas de scénario gnangnan à l'eau
+de rose où on sait que le héros va finir par tomber amoureux
+de son amie d'enfance ou autre Arlequinerie du même acabit.
+
+Dans "Itchy & Scratchy", il s'agit uniquement de faire subir
+au chat les supplices les plus infâmes, les tortures les plus
+perverses, les douleurs les plus exrêmes. Bref, lui faire manger
+le plus de gnons possibles !
+
+Ce jeu a dû être conçu par des pervers pour des pervers !
+Tout est permis : os, bombes, lave, maillet... Tout est bon
+pour écraser, découper, brûler, eviscérer Scratchy au travers
+de niveaux colorés et variés (ère préhistorique, époque
+médiévale, océan....)
+
+Voilà une bonne grosse bourrinade comme on les aime ! Ca détend
+bien entre 2 parties de jeux plus cérébraux comme "Barbie branche
+son téléphone".
+
+N'hésitez pas à laisser libre cours à vos pulsions sadiques
+avec ce jeu. La traduction est complète grâce à Bahabulle qui
+a trouvé comment corriger un bug d'affichage.
+
+Etrangement, ce jeu contient nettement plus de textes que ce
+que l'on peut voir. Lorsque j'ai commencé à lui ouvrir
+les entrailles, j'ai pu relever de nombreux dialogues entre
+Lisa et Bart en relation avec leur dessin animé fétiche mais
+à aucun moment ces scènes ne sont visibles.
+
+J'ai vérifié dans la rom US et c'est la même chose, donc
+je suppose que les cinématiques ont dû être zappées avant
+la sortie du jeu pour une raison inconnue...
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+energie inf ?          0x7e022b         50
+Os infinis             0x7e023c         09
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Bahabulle, Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Itchy_&_Scratchy.ips" est à utiliser sur la rom suivante :
+Nom de la rom   : Itchy & Scratchy Game, The (E).smc
+Taille de la rom: 1 048 576 octets
+Rom avec Header ? Non
+CRC de la rom   : C402347A
+CRC rom patchée : C2246D0C
+
+Le patch a été créé avec Ips XP 1.11 et a été testé avec les émulateurs suivants :
+  BSnes          [ ]		  SNes9X 1.51    [ ]
+  Snes 9X 1.43   [ ]		  Snes 9X 1.53   [x]
+  Snes 9x Geiger [ ]		  Snes GT        [ ]
+  ZSnes          [x]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

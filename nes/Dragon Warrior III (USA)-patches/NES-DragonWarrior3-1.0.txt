@@ -1,0 +1,127 @@
+http://generation9.kanshima.net/
+
+Dragon Warrior 3 (Dragon Quest 3) : traduction française
+Version Finale 1.0
+
+
+
+Sur quelle ROM appliquer le patch ?
+-----------------------------------
+
+Il faut au préalable avoir une ROM 
+américaine Dragon Warrior 3 saine
+
+exemple : Dragon Warrior 3 (U).nes
+
+
+
+Quelques mots sur Dragon Warrior 3
+----------------------------------
+
+A l'heure ou j'écris ces lignes il y peu de patchs 
+français pour les Dragon Warrior/Dragon Quest :(
+
+Il semble ainsi intéressant de travailler sur ces jeux 
+et rendre accessible au public français cette série 
+culte au Japon qui fut la source d'inspiration de
+bon nombres de RPGs consoles.
+
+Ce 3ème épisode, une préquelle des deux précédents 
+volets, est très réputé sur le net : il semble qu'il 
+s'agisse de l'épisode le plus vendu après le 7. 
+Il a fait l'objet de deux remakes: un sur SNES (en 1996) 
+et un sur GBColor.
+
+Il est à noter qu'il est étonnant que cette série ne 
+soit pas plus mise en avant en france: Akira Toriyama, 
+responsable du design général, est en effet plus que 
+connu chez nous grâce à sa série DragonBall. 
+Cela aurait dû inciter les éditeurs à sortir des 
+versions françaises des Dragon Quest.
+
+
+
+Historique du projet
+--------------------
+
+Le projet avait déjà été commencé il y deux ans par 
+Speeder-Speed(hack) et GreatSkaori(traduction). Lorsque 
+je suis arrivé sur la scène il semblait que ce projet 
+était au point mort et que Speeder-Speed n'avait plus 
+de temps à lui consacrer. Seule une version proposant
+environ 10% du texte traduit était sortie. 
+
+GreatSkaori, désirant finir enfin sa traduction, m'a 
+alors proposé de refaire équipe après une première 
+collaboration réussie. Ce qui tombait bien car je 
+cherchais un nouveau projet. 
+
+Le hack est donc reparti de zéro et le patch a 
+ainsi put être terminé.
+
+
+*NB de GreatSkaori:
+En effet, ce projet a été lancé par Speeder il y a de ça un
+petit moment. C'est lui qui a voulu que ces jeux soient
+traduits. Et comme il faisait beaucoup de projets en
+même temps, ceux-là n'ont jamais beaucoup avancé.
+Ensuite il est parti et grâce à Lex, et presque deux ans
+après on a un patch tout neuf!
+
+ 
+Ce qui est fait
+---------------
+
+-version Finale 1.0
+version finale du script
+corrections de divers bugs d'affichages
+corrections du nom de certains objets
+modifications mineures de la font
+amélioration de l'affichage de la fin
+
+-version Beta 
+Tout est fait sauf le nom des monstres 
+et le générique de fin
+
+
+
+Bugs Connus
+-----------
+
+-bug de dépassement du cadre des combats dans certains 
+cas. Ce bug existait déjà dans la version US !!! :D
+
+-pas d'autres bugs rencontrés
+
+
+
+Ont travaillé sur ce projet ?
+-----------------------------
+ 
+GreatSkaori = traduction
+Lex = romhacking à partir du patch de SpeederSpeed
+      traduction additionnelle
+
+
+
+Remerciements
+-------------
+
+GreatSkaori - pour son soutien et sa bonne humeur :D
+Génération IX - pour m'avoir laisser reprendre
+                un de leurs projets
+
+
+
+Contact
+-------
+
+remarques, bugs, fautes, etc. - a_riv777@yahoo.fr
+
+ou 
+
+sur le forum de Generation IX - http://www.bessab.com/viewforum.php?f=12
+
+******************************************************
+Lex 06-03-2003
+http://generation9.kanshima.net/

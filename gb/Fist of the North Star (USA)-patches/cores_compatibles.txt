@@ -1,0 +1,11 @@
+Ce patch ne fonctionne pas avec tout les cores.
+
+cores compatibles:
+
+	- Libretro TGB Dual
+
+	- Libretro mGBA
+
+	- Libretro Mesen_S
+
+	- Libretro Gambatte (nécessite d' avoir "use official bootloader" sur "off")

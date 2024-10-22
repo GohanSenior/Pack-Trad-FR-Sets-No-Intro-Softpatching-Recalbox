@@ -1,0 +1,44 @@
+LE FAMEUX FICHIER LISEZ MOI DE ZANAC
+--------------------------------------------------------------------------------------------------------------------
+I Introduction
+
+Oh toi, noble joueur ayant téléchargé ce (moins) noble patch.
+Tu as fait une bonne action! ^^
+N'écoute pas la raison qui te dit que Zanac, on s'en tape de l'histoire!
+Courage! Le jeu est dur, en vaut peut être plus la peine mais est marrant! 
+---------------------------------------------------------------------------------------------------------------------
+II Zanac, c'est quoi?
+
+C'est un shmup de Compile (c'est l'éditeur Compile, c'est pas une compile, vous suivez?) 
+Un vieux shmup bien sadique dont l'originalité est le nombre assez impressionnant d'armes secondaires. (pour l'époque)
+Toutes les armes secondaires sont numérotés de 0 à 7 (euh, je crois)
+Si vous prenez deux fois le même numéros, l'arme obtient son rendement maximum.
+Je vous conseille le double 5, c'est avec ça que j'ai eu la chance de finir le jeu sans trop de difficulté.
+(Avec sauvegardes auto, faut pas pousser... >> )
+Et bien sûr, le jeu est abominablement dur, vous voilà prévenu! 
+---------------------------------------------------------------------------------------------------------------------
+III Mais que fait ce patch?
+
+-Modification de la font pour qu'il puisse afficher tout l'alphabet.
+-Traduction du menu, de l'écran titre et des crédits.
+-Remplacement des graphismes GAME OVER, TIME et AREA par PARTIE TERMINEE, TEMPS et MONDE.
+-Rajout d'un petit texte "Traduit par Haganeren" dans les crédits à la place d'un texte qui n'apparaissait pas dans le jeu "See You Again to Guardic"
+---------------------------------------------------------------------------------------------------------------------
+IV Mais comment appliquer le patch?
+
+Des logiciels tels que LunarIps ou TerminusPatcher permette de patcher facilement cette rom ou une autre.
+Ces logiciels sont facilement trouvable sur http://traf.romhack.org/
+Attention, le patch est prévu pour une version US du jeu. Allez savoir ce qu'il va se passer pour une version Japonaise...
+---------------------------------------------------------------------------------------------------------------------
+V Un grand merci à 
+
+-Bahabulle, pour m'avoir, entre bien autre chose fait des outils qui m'a permis de décompresser la font du jeu.
+Le vainqueur des bouillis de pixels, c'est bien lui.
+-Jes, pour m'avoir sortis d'un mauvais pas lors du menu et qui m'a appris que tout n'est pas que pointeurs dans le monde du Romhacking.
+-Ti Dragon pour ses nombreux conseils avisés.
+-Minh et KS151 que je connais moins, mais qui savent écrire des tutoriels!
+-Et de manière général, à toute la TRAF qui a su bercer mon enfance avec ses traductions ce qui m'a attiré là-bas!
+---------------------------------------------------------------------------------------------------------------------
+VI Contactez moi
+
+Si il y a un quelconque problème avec ce patch, contactez moi sur Drevdami@tele2.fr

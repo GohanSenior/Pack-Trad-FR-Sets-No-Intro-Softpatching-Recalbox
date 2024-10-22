@@ -1,0 +1,114 @@
+			Génération IX (http://generation9.kanshima.net) 
+				vous présente la traduction de
+				  Robocop Versus Terminator
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre	: Robocop Versus the Terminator
+Console	: Super Nintendo
+Développeur : Interplay
+Date	: 24/08/1995
+Genre	: plates-formes/beat'em all
+
+
+\ ETAT DE LA TRADUCTION : Version 1.0 créée le : 06/02/2008
+ \__________________________________________________________ 
+
+Ne sachant pas quoi faire de mon temps libre (pardon, de bureau :p ), je partis une fois de plus
+en quête d'une daube bien baveuse à me mettre sous la dent. Au hasard d'un site de rom, je suis
+tombé sur "Robocop Vs Terminator" et grande fut ma stupéfaction de voir un jeu mélangeant ces
+deux célèbres machines de guerre.
+
+M'attendant à une belle honte vidéoludique, je m'empressais de tester ça, et pire : de le traduire!
+Mon entrain retomba à la vitesse d'un soufflé : le jeu est loin d'être aussi mauvais que ce que
+j'espérais... En effet, les robots (robocop comme les terminators) bénéficient d'une très bonne
+représentation graphique. Robocop bouge bien et les sauts et tirs se font assez précisément.
+
+Mais heureusement pour moi, le jeu est loin d'être parfait ! Les décors de fond sont beaucoup
+trop sombres... Même s'ils sont bien travaillés, le fait est que les designers ont abusé du noir
+et du violet, et c'est bien dommage car la Supernes est capable de bien mieux ! Sans pour autant
+sortir des couleurs bien flashy à la Super mario World, un peu moins de sombritude aurait été
+supportable. D'accord, d'aucuns me diront que les univers de Robocop et de Terminator sont assez
+glauques, mais quand même !!
+
+Bref, bien qu'on ne fasse que zigouiller du terminator tout au long de niveaux plus ou moins
+tordus et sans grande originalité, le jeu est somme toute assez sympa, hormis une histoire
+étrange où Skynet serait le fruit d'un croisement entre Robocop et un toaster-laser.
+
+Je n'en dirais pas plus pour ne pas déflorer le scénario, mais pour ma part ça m'a quelque
+peu troublé... Que vient foutre Robocop dans cette histoire ?
+Surtout que si on regarde bien les dates des événements des films, on peut constater quelques
+incohérences temporelles (je vous laisse chercher)...
+
+La traduction quant à elle a été relativement vite faite. Bien qu'il y'ait pas mal de textes,
+il y'avait suffisament de place pour arriver à faire quelque chose de convenable. Le plus long
+ayant été de calibrer les textes affichés dans les bulles des cinématiques tout en essayant
+de garder une cohérence avec l'histoire (dont Robocop lui-même dira qu'elle est "confuse").
+
+Le jeu a également subi quelques modifications lors de la francisation au niveau des armes.
+Le "pistol" d'origine s'est vu transformé en "Auto9" qui est le vrai nom de l'arme de
+notre lave-vaisselle pensant, et les "rocket" et "seeker" ont été renommés avec des appellations
+plus balistiques ("exocet" ou "MM j'sais pu quoi")...
+
+Je ne parlerai évidement pas de la honte suprême que je me suis tapée sur le forum privé de GIX
+en appellant au secours pour dégotter ces foutus noms d'armes. Bahabulle m'a rapidement sorti
+les textes en question, et dans le même temps j'avais compris pourquoi je ne les avais pas vus
+plus tôt (une vague histoire de recherche relative en 16 bits mal exploitée)...
+
+
+\ CODES DE TRICHE 
+ \________________
+
+Voici une fois de plus le code Action Replay que j'ai dégotté pour ce p'tit jeu :
+
+
+---[Effet]-------------[Adresse]-----[Valeur]
+Energie infinie		7E10C5		10
+
+/!\ : ce code génére de petits bugs surprenants lors des cinématiques ! J'ai passé un moment à
+chercher pendant que je traduisais le jeu pourquoi j'avais des trucs aussi laids, alors qu'en
+fait il suffit de désactiver ce cheat code pour les visualiser correctement.
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack 	  : Happexamendios
+Traduction: Happexamendios
+Bêta-Test : Happexamendios
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "SNES-RobocopVsTerminator-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Robocop Versus The Terminator (E).smc
+  Taille de la rom: 1 048 576 octets
+  Rom avec Header ? Non
+  CRC de la rom   : BEEBEF08
+  CRC rom patchée : B2732B7D
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  BSnes          [ ]		SNes9X 1.51    [x]
+  Snes 9X 1.43   [ ]		Snes 9X 1.53   [x]
+  Snes 9x Geiger [ ]		Snes GT        [ ]
+  ZSnes          [ ]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+Site Web : http://generation9.kanshima.net 
+Forum : http://www.bessab.com/viewforum.php?f=12 

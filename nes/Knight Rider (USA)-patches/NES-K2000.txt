@@ -1,0 +1,146 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                             Knight Rider
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Knight Rider (K2000 sous nos contrées)
+Console		: Nintendo NES
+Développeur	: Pack-in-Video
+Editeur		: Acclaim
+Date		: Décembre 1989
+Genre		: Action
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 30/06/2014) :
+\_________________________________________________________________
+
+Hasard du calendrier, je me suis lancé sur la traduction de
+cette rom peu avant la diffusion d'une nouvelle série dédiée
+au chevalier solitaire dans un monde dangereux !
+Le chevalier et sa monture ! Un héros des temps modernes, dernier
+recours des innocents, des sans-espoir, victimes d'un monde cruel
+et impitoyable ! 
+
+Si vous n'avez jamais entendu ça, alors passez votre chemin, mais
+si comme moi vous avez aimé les vieilles séries des années 80
+genre "Shérif, fais-moi peur", "Agence tous risques" et surtout
+"K2000", alors je vous propose de revenir presque 30 ans en arrière.
+
+*fiouuuu wizzzz waaarp bzouuuu* (bruit d'un warp temporel)
+Nous voici donc en 1989 et ce jeu nes vous propose d'incarner
+Michael Knight et sa célèbre Pontiac Firebird qui parle...
+
+Qu'est-ce que cette voiture me faisait tripper à l'époque ^^
+J'adorais sa ligne et le chenillard rouge. Certes, ça fait kitsch
+maintenant, mais n'oublions pas que la série date de 1982 et
+c'était pas ringard à l'époque !!
+
+Bref, vous voici donc au volant d'une des voitures les plus
+célèbres de la télé et vous devrez parcourir l'Amérique afin
+de sauver non pas la veuve et l'orphelin, mais carrément
+le moooonde !!
+
+Tout de suite ça en impose ! Pour se faire, Devon, le grand
+manitou de la Fondation vous briefera avant chaque mission.
+Il y a un paquet de niveaux à parcourir, mais grosso modo le
+principe sera toujours le même : à la façon d'un Out-Run vous
+devrez sillonner les routes en évitant les véhicules des gentils
+civils mais surtout balancer tout ce que vous avez de haine
+et de roquettes sur les véhicules ennemis.
+
+Bien entendu, comme vous pilotez Kitt, vous êtes chargés de gadgets
+aussi utiles que des lasers, des roquettes et surtout le turbo
+boost qui vous permet de sauter assez haut.
+
+Le tracé des routes n'est pas des plus originaux, mais les décors
+changeants évitent la monotonie.
+
+Le jeu est assez long et le scénario aurait pu faire un bon script
+d'épisode (attaques de bâtiments de la fondation, vol de matériel
+ultra secret, enlèvement... tous les poncifs du genre sont  présents !)
+
+On pourra bien entendu améliorer Kitt et un système bienvenu
+de mot de passe évite de s'abîmer les yeux sur les pistes en
+4 couleurs...
+
+Personnellement, j'ai bien aimé le jeu et la difficulté n'est
+pas des plus rédhibitoires. Sans être marquant, il est plaisant,
+et c'est déjà pas si mal !
+
+La traduction est complète, et seuls les affichages "Out of gas",
+"out of time" et "out of shield" n'ont pas été traduits par
+manque de place pour la tilemap.
+De même il y a un léger défaut sur l'écran de sélection des
+armes. Suite à la retouche graphique des noms des améliorations,
+je n'ai pas réussi à aggrandir la taille du curseur de sélection.
+Du coup, il se superpose à certains mots, mais c'est pas des
+plus critiques...
+
+"Un homme seul, un chevalier solitaire, un héros des temps modernes,
+Michael Knight, roule vers de nouvelles aventures !"
+
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Fuel infini            0x04A7          90
+Bouclier infini        0x002B          0C
+Lasers infinis         0x051A          17
+
+
+
+/!\ Informations relatives à l'utilisation des codes de triche :
+
+Désactiver le code des lasers infinis à la fin du niveau pour
+éviter des bugs.
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "K2000.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : KNIGHTRD.NES
+  Taille de la rom: 262 160 octets
+  Rom avec Header ? Non
+  CRC de la rom   : D5B7C768
+  CRC rom patchée : 7190E049
+
+Le patch a été créé avec Flips 1.12 et a été testé avec les émulateurs suivants :
+  FCeu XD SP [x]		NesTicle   [ ]
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

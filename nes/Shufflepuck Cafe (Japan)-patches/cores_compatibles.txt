@@ -1,0 +1,5 @@
+Ce patch n'accepte pas tout les cores.
+
+Core compatible:
+
+- Libretro FCEUmm

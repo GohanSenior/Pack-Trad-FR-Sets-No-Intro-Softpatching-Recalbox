@@ -1,0 +1,66 @@
+	Génération IX (http://generation9.kanshima.net) 
+	vous présente la traduction de Halloweenesque de 
+			Ghostbusters
+
+
+\ INFOS SUR LE JEU 
+\_________________ 
+
+Titre : Ghostbusters
+Console : Nes
+Développeur : Bits Studio
+Date : 1986
+Genre : Action toute pourrie en 4 couleurs
+
+
+\ ETAT DE LA TRADUCTION : Version 1.0 créée le : 18/10/2005 
+ \_________________________________________________________
+
+Bouh qu'il est laid ce jeu !
+Mais il me fallait un bon projet pour Halloween, et Ti Dragon avait proposé les Ghostbusters. Voilà donc
+le premier sur Nes, et par là même mon premier patch pour cette machine.
+Cela dit, ce jeu est laid, mou, à la jouabilité douteuse (surtout dans le passage des escaliers), et
+les effets sonores sont loin d'être audibles (j'ai carrément coupé le son de l'émulateur!)
+Bref, une bonne daube de plus à mon actif!!
+
+
+\ REMERCIEMENTS ET SALUTATIONS :
+ \______________________________
+
+-ma chère et tendre pour sa patience!
+-Ti pour cette idée de génie ! Si tu as d'autres idées de bouses dans ce genre, je prends!
+-Gamefaqs.com pour la soluce sans qui j'en serais encore à comprendre comment jouer à cette horreur...
+-Sirenia et Nightwish pour leurs albums qui ont tourné en boucle le temps de la trad
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack : Happexamendios
+Traduction : Happexamendios
+Bêta-Test : Happexamendios
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Le patch "NES-Ghosbusters-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Ghostbusters (U) [!].nes
+  Taille de la rom: 65 552 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 6A154B68
+  CRC rom patchée : A5D3DF1A
+  
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher. 
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils 
+peuvent créer une sauvegarde de la rom avant de patcher). 
+Voilà maintenant votre rom avec les modifications apportées par notre traduction. 
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+Site Web : http://generation9.kanshima.net 
+Forum : http://www.bessab.com/viewforum.php?f=12 

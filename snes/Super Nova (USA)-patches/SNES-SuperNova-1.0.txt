@@ -1,0 +1,90 @@
+			Génération IX (http://generation9.kanshima.net) 
+			   vous présente la traduction de SUPER NOVA
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre : Super Nova
+Console : Super Nintendo
+Développeur : Taito Corporation
+Date : 1993
+Genre : Shoot'em up
+
+
+\ ETAT DE LA TRADUCTION : Version 2.0 créée le 22/02/2007 
+ \________________________________________________________ 
+
+Ce petit shoot apparement également connu sous le nom de Darius Force (dixit GameFaqs, j'ai
+pas encore pris la peine de vérifier) n'a pas grande prétention hormis celle de passer un
+bon moment à défoncer de l'alien sans trop réfléchir. Cela dit, le jeu est relativement long,
+et la savestate est de rigueur pour bien avancer.
+
+En ce qui concerne la traduction, y'a pas des kilos de textes (normal pour un shoot ! c'est
+pas du Secret of Mana ou du Final Fantasy), mais je me suis trouvé confronté à un problème
+de Tilemap sur lequel Jes (loué soit son infini savoir !) a bien voulu passer un peu de
+son temps pour m'expliquer. Il en a également profité pour sortir un p'tit patch destiné
+à claquer quelques éléments que je n'arrivais pas à trouver. Encore merci pour ton aide !!
+
+Les adeptes de la version originale auront très certainement remarqué une "légère" variance
+dans les noms des boss. En effet, lors du bêta test, je n'ai pu que déprimer devant les
+affligeants patronymes dont ils ont été affublés. Je me suis donc permis de les renommer
+pour les noms un peu plus "couillus"; à savoir ceux des Grands Anciens du célèbre Mythe
+de Cthulu. "Azathoth" pète quand même un peu plus que "Escargot spiralé", non ?
+
+Enfin bref ! Ce patch est avant tout destiné aux 7 ans de Génération IX; donc Champagne
+et filles à volonté !! Ce soir, c'est open bar !! Tous à la rincette, on sort le gâteau
+et les bougies...
+
+
+
+\ CODES DE TRICHE
+ \________________
+
+Fidèle à mon habitude, je me suis mis en quête de codes Action Replay...
+
+Adresse		Valeur		    Effet
+7E0111		  9		Vies infinies
+7E0131		  2		Invulnérabilité
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack : Jes, Happexamendios
+Traduction : Happexamendios
+Bêta-Test : Happexamendios
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "SNES-SuperNova-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Super Nova (U).smc
+  Taille de la rom: 2 116 873 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 460DEF25
+  CRC rom patchée : 233345B3
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  BSnes          [ ]		SNes9X 1.51    [x]
+  Snes 9X 1.43   [x]		Snes 9X 1.53   [x]
+  Snes 9x Geiger [ ]		Snes GT        [ ]
+  ZSnes          [ ]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+Site Web : http://generation9.kanshima.net 
+Forum : http://www.bessab.com/viewforum.php?f=12 
+Hack : fredchev@tele2.fr

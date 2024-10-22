@@ -1,0 +1,124 @@
+24/08/2002
+
+TERMINUS TRADUCTION présente
+
+RUDORA NO HIHOU : LE TRESOR SECRET DES RUDRAS FR RC1
+
+----------------------------------------------------------------
+***********************Table des matières***********************
+----------------------------------------------------------------
+
+1.	L'HISTOIRE DE RUDORA NO HIHOU
+2.	L'HISTORIQUE DE LA TRADUCTION
+3.      LES PATCHS PUBLIES
+4.	TOUT CE QUI A ETE FAIT
+5.	L'ÉQUIPE DE TERMINUS TRADUCTION
+6.      CONTACTS
+
+----------------------------------------------------------------
+1.  L'HISTOIRE DE RUDORA NO HIHOU
+----------------------------------------------------------------
+
+La race Humaine s'éteindra dans 16 jours, et seules quatre
+personnes ont le pouvoir d'empêcher cela. Rudora no Hihou est
+une formidable quête placée sous le signe de l'écologie et de
+la recherche du créateur. Elle est agrémentée de graphismes très
+détaillés et de musiques comme on n'en trouve que dans les
+Squaresoft. Comme si cela n'était pas suffisant, on retrouve
+aussi un gameplay original sous forme de mini-scénarios ainsi
+que le système de magie le plus élaboré à ce jour ! Encore une
+fois, c'est donc un excellent RPG que nous avons manqué du fait
+de sa sortie uniquement au Japon. Mais toute faute peut être
+réparée, et vous allez maintenant pouvoir profiter de ce jeu
+en langue française.
+
+
+----------------------------------------------------------------
+2.  L'HISTORIQUE DE LA TRADUCTION
+----------------------------------------------------------------
+
+Après Bahamut Lagoon, Rudora no Hihou est le deuxième grand jeu
+que le groupe traduit à partir du japonais, avant même tout
+projet anglais. C'est une nouvelle fois un défi formidable
+puisqu'une traduction japonaise nécessite bien plus de travail
+qu'une traduction anglaise, pour des raisons typographiques et
+alphabétiques notamment. C'est d'ailleurs là que se situe le
+principal problème en ce qui concerne le système de magie :
+formé à partir de mots japonais et interprétant celles-ci par
+leur nom, il est nécessaire de le reprogrammer entièrement pour
+obtenir des résultats vraiment professionnels. Pour une
+prochaine version éventuellement, cette RC1 ne nécessitant tout
+de même aucune connaissance du japonais.
+
+----------------------------------------------------------------
+3.  LES PATCHS PUBLIES
+----------------------------------------------------------------
+
+- 30/06/2002 : RC1
+  La première version publique du patch.
+
+----------------------------------------------------------------
+4.  TOUT CE QUI A ETE FAIT
+----------------------------------------------------------------
+
+Intro        : 100 %
+Script       : 100 %
+Objets       : 100 %
+Menus        : 100 %
+Monstres     : 100 %
+Crédits      : 100 %
+Image de Fin : 100 %
+Magies       :  50 %
+
+Cette version est une RC1 traduisant tout ce qui est nécessaire
+pour profiter pleinement de ce jeu.
+Comme les personnages de ce jeu sont souvent nommés d'après des
+divinités ou autres références mythologiques, le traducteur a
+aussi écrit un petit guide de ces noms que vous trouverez dans
+le fichier 'Mythologie Rudra.txt'.
+
+Les Magies n'ont pas été réellement traduites, mais une solution
+intermédiaire a été mise en place pour qu'elles deviennent
+utilisables par tous.
+
+Enfin, il y a un bug connu avec le menu de combat dont l'un des
+caractères pose parfois quelques problèmes d'affichage.
+Cette erreur sera réparée pour la sortie de la RC2.
+
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE TERMINUS TRADUCTION
+----------------------------------------------------------------
+
+   Neo Mithrandil : Chef de Projet
+		    Hack
+		    Programmation ASM
+                    Design et Edition graphique
+                    Correction du Script
+
+   Bahamut        : Traduction du Script
+		    Aide au hack
+		    Design graphique additionnel
+
+   Copernic       : Programmation des Outils
+
+
+Merci à JantjeB qui a créé les fonts utilisées par le système
+de Magie (dont la très belle font en 3D).
+
+Et remerciement aux bêta-testeurs de ce patch : Bobcat, Nemesis,
+Size Fac et Skoras.
+
+
+----------------------------------------------------------------
+6.  CONTACTS
+----------------------------------------------------------------
+
+Une remarque, une question ou une correction à apporter à la
+traduction de Rudora no Hihou.
+
+Neo Mithrandil  - neo.mithrandil@laposte.net
+
+Vous voulez mieux connaître le groupe, télécharger nos derniers
+patchs ou vous renseigner sur un projet.
+
+Terminus - http://terminus.romhack.net

@@ -1,0 +1,59 @@
+/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+|                                   Génération IX                                    |
+|                         (http://generation9.kanshima.net)                          |
+|                                                                                    |
+|      vous présente la traduction de Chronicles of the Radia war sur Nintendo       |
+\____________________________________________________________________________________/
+
+
+\ INFOS SUR LE JEU 
+ \____________________________________________________________________________________
+
+Titre       : Chronicles of the Radia War (Radia Senki)
+Console     : Nintendo (NES)
+Développeur : TECMO
+Date        : 1991
+Genre       : RPG
+
+
+\ ETAT DE LA TRADUCTION : Patch Final du 02/07/2007
+ \____________________________________________________________________________________
+
+Ce qui a été fait :
+- Extraction des scripts : 70.1 ko
+- Insertion des scripts  : 67.6 ko
+- Insertion des accents
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \____________________________________________________________________________________
+
+Hack        : BahaBulle/rveach
+ASM         : rveach
+Traduction  : GreatSkaori
+Bêta-Test   : BahaBulle
+Modif Titre : Ti Dragon
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \____________________________________________________________________________________
+
+Le Patch NES-Radia-Final-GIX.ips est à appliquer sur la rom Radia Senki - Reimei Hen (J).nes
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil
+pour patcher. 
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF
+(http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider
+(Certains outils peuvent créer une sauvegarde de la rom avant de patcher). 
+Voilà maintenant votre rom avec les modifications apportées par notre traduction. 
+
+
+\ CONTACTS 
+ \____________________________________________________________________________________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de
+français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum    : http://www.bessab.com/viewforum.php?f=12

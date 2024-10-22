@@ -1,0 +1,109 @@
+________________________________________________________________________
+10 novembre 2019
+                        ---------------------
+                              - Ingo -
+                        ---------------------
+
+                              présente
+ 
+                          (une mise à jour)
+                       (du magnifique travail)
+                         (du Noble Bahamut)
+
+
+Traduction Française version 2.2
+
+v2.2	traduction de l'introduction et des 3 fins du jeu
+v2.1	correction des dépassements de cadres et de quelques expressions
+v2.0	correction de quelques dizaines de fautes de frappe
+
+à appliquer sur Demon's Crest (U) [!].smc
+sans Header
+CRC32 de la ROM : E8236AD2
+
+________________________________________________________________________
+29 janvier 2000
+                        ---------------------
+                        -TeRMiNuS TRaDuCTioN-
+                        ---------------------
+
+                              présente
+ 
+                           (Demon  Crest)
+
+        ---------------------------------------------------------
+        DDD  DDDD D     D DDDD D  D     DDDD DDDD DDDD DDDD DDDDD
+        D  D D    DD   DD D  D DD D     D    D  D D    D      D
+        D  D DD   D D D D D  D DDDD     D    DDD  DD   DDDD   D
+        D  D D    D  D  D D  D D DD     D    D  D D       D   D
+        DDD  DDDD D     D DDDD D  D     DDDD D  D DDDD DDDD   D
+        ---------------------------------------------------------
+
+
+Traduction Française version 1.00
+
+    -----Le Noble Bahamut: Rom-Hacker, Traducteur, graphiques----
+
+Dédicacé à tout les membres de TeRMiNuS TRaDuCTioN présents et à
+venir car j'adore ce groupe et j'y resterai encore longtemps pour
+défendre la langue française...
+
+-----------------------------
+      Quel est ce jeu ?
+-----------------------------
+
+Demon Crest est un jeu de plateforme-aventure(mi-RPG) fonctionnant avec
+la Super Nintendo et réalisé par Capcom en 1994. La traduction de ce
+jeu n'est pas une traduction officiel de Capcom mais une traduction
+non-officielle et non commerciale.
+
+-----------------------------
+  De quoi avez-vous besoin?
+-----------------------------
+
+La ROM de Demon Crest(facilement trouvable sur le Web).
+Le patch fourni avec ce fichier Lisez-moi.
+Un programme pouvant patcher le patch IPS.(non utile si vous avez Znes)
+Et un émulateur(Zsnes recommandé).
+
+Remarque: Pour appliquer le patch avec Znes, il suffit de renommer
+le patch ips par le nom de la rom.[exemple: Si votre ROM se nomme
+Demoncre.swc, et que le patch se nomme Demon.ips ... alors vous
+renommez le patch ips: Demoncre.ips ! Vous les mettez dans le même
+dossier et Zsnes s'occupe du reste...simple et efficace).
+
+--------------------------------------
+    Projet de TeRMiNuS TRaDuCTioN
+--------------------------------------
+
+         Seiken Densetsu III
+           Romancing Saga 3
+       Final Fantasy II Legend
+      Final Fantasy III Legend
+           Final Fantasy IV
+            Chrono Trigger
+               Megaman X
+               Megaman 7
+                Arcana
+
+--------------------------------------
+          Le Noble Bahamut
+--------------------------------------
+
+Et bien, c'est moi!!! Si vous avez un problème avec le jeu, une
+question sur le jeu, un projet à présenter, ou tout autres choses,
+alors veuillez contacter:
+
+              noble_bahamut@hotmail.com
+                         ou
+       lucb@dsuper.net(le fondateur du groupe)
+
+Mon site:
+http://www.multimania.com/noblebahamut/Bahamutsquare/index1.htm
+
+TeRMiNuS TRaDuCTioN:
+http://www.geocities.com/TimesSquare/zone/5905/
+
+PS: Messages pour ceux distribuant le patch :
+J'aimerai que ce patch, qui est la possession de TeRMiNuS TRaDuCTioN,
+soit toujours fourni avec ce fichier "Lisez-moi". Merci!!!

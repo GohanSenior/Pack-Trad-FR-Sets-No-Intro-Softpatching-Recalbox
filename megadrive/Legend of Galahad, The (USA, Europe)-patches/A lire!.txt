@@ -1,0 +1,61 @@
+Legend of Galahad (Mega Drive)
+Traduction en Français v1.01 (12/12/2021)
+(C) 2020 Traduction Alucard73
+
+---------------
+Histoire du Jeu
+----------------
+Galahad est un jeu de plates-formes/action se déroulant dans un univers fantastique. 
+Le héros peut sauter, marcher et bien sûr attaquer. Il lui faut pourfendre les nombreux ennemis 
+qui croisent sa route pour tenter de récupérer la Princesse Lucanna, enlevée par Thanatos. 
+Plusieurs bonus peuvent être ramassés dans les niveaux pour être ensuite échangés contre de 
+meilleures attaques ou défenses.
+
+-----------------------------------------------------------
+Patch 1.01
+-----------------------------------------------------------
+Divers corrections du texte
+
+-----------------
+Ce qui a été fait
+-----------------
+Script    : 100 %
+Graphismes: 99 % (manque EXIT)
+
+--------------------
+Notes et Bugs connus
+--------------------
+Normalement aucun.
+Si vous rencontrer un bug, vous pouvez me contacter sur le Forum de la Traf.
+
+--------------------------
+Instructions pour le patch
+--------------------------
+Au format, vous pouvez utiliser LunarIPS ou Floating IPS.
+Archive utilisée:
+
+Legend of Galahad, The ~ Galahad (USA, Europe).md
+
+MD5: 536e5a1ffb50d33632a9978b35db5df6
+SHA1: 3368AF01DA1F3F9E0EA7C80783170AEB08F5C24D
+CRC32: 679557BC
+Size: 1048576
+
+-------
+Credits
+-------
+Alucard73 - Hacking, traduction et tests.
+
+-----------------
+REMARQUES LEGALES
+-----------------
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.

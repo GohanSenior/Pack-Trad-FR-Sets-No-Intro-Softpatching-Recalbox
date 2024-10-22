@@ -1,0 +1,143 @@
+				                 GENERATION IX
+                                                       &
+                                                    BESSAB
+
+
+			sont fiers de vous présenter la traduction d'un jeu... comique ?
+
+                                       CAPTAIN AMERICA AND THE AVENGERS
+
+--------------------------------------------------------------------------------------------------------
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre       : CAPTAIN AMERICA AND THE AVENGERS
+Console     : Nintendo Entertainement System
+Développeur : Marvel Entertainment Group
+Editeur     : Nintendo
+Année       : 1991
+Genre       : Plateformes/action
+
+
+\ ETAT DE LA TRADUCTION : Patch v1.00 du 09/03/2008
+ \___________________________________________________
+
+Tout a été traduit, a priori.
+
+Le patch a été bêta testé. Il se peut qu'il reste des coquilles néanmoins : n'hésitez pas à nous les
+signaler le cas échéant.
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________
+
+ROMhacking     : BahaBulle
+Programmation  : Jes
+Assembleur     : Jes
+Graphismes     : Ti Dragon
+Traduction     : Ti Dragon
+Relecture      : Ti Dragon, BahaBulle
+Bêta-Test      : Ti Dragon, BahaBulle
+
+
+Un grand merci à Jes pour avoir étendu la ROM, ce qui nous a permis de faire rentrer tout ce qu'on
+voulait du script principal. Il est évidemment drôle de constater qu'il a fait cela pour seulement
+6 ko de script mais Jes est ainsi : quand on lui dit "trouve de la place", il étend la ROM et fait
+joujou avec le système de pointage :D
+
+
+\ CONTENU DU ZIP
+ \_______________
+
+NES-CaptainAmerica-1.00.txt : Fichier d'informations (vous être en train de le lire ;))
+NES-CaptainAmerica-1.00.ips : Patch français de la ROM
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Le patch NES-CaptainAmerica-1.00.ips est à utiliser sur la ROM issue du GoodNES de Cowering :
+"Captain America and The Avengers (U) [!].nes".
+
+Il n'a pas été testé sur d'autres ROMs, donc il est possible qu'il y ait des problèmes si vous
+utilisez une autre ROM que celle recommandée ici.
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher.
+Il en existe plusieurs que vous pourrez trouver sur le site de la T.R.A.F (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la ROM puis le fichier ips et de valider (certains outils 
+peuvent créer une sauvegarde de la ROM avant de patcher). 
+
+Des émulateurs permettent également de patcher directement les ROMs sans les altérer. Pour plus
+d'explications, je vous invite à consulter le site de la TRAF dans la partie "Utiliser un patch IPS".
+
+
+\ HISTOIRE DE LA TRADUCTION
+ \__________________________
+
+Quand j'étais gosse (je commence trop souvent mes souvenirs de cette manière...), j'aimais beaucoup
+les héros aux super pouvoirs, en particuliers ceux issus des Comics américains (Superman, les X-Men,
+Spiderman, etc.). A l'époque, je n'avais pas encore de 16 bits et je trouvais ce jeu particulièrement
+réussi : les graphismes étaient jolis, je pouvais incarner deux personnages qui offraient tous les
+deux des possibilités de jeu assez sympas et les personnages répondaient bien. De plus, je me suis bien
+amusé en mode "combat" dans lequel on peut s'affronter l'un contre l'autre (je n'avais pas encore
+goûté la joie de Street Fighter II sur Super NES).
+
+Anecdote amusante, j'ai joué à ce jeu sur une NES pirate coréenne (il me semble qu'elle était de cette
+nationalité) du nom de Game Genius.
+
+Début 2007, je m'étais dit qu'il serait bon que je puisse traduire ce jeu qui m'a occupé tant d'heures,
+même si, aujourd'hui, je reconnais qu'il avait de nombreuses faiblesses (musiques moyennes et
+répétitives, scénario assez convenu, difficulté plutôt élevée - je ne l'ai jamais fini à l'époque :D,
+niveaux assez répétitifs). J'avais réussi à trouver pas mal de choses mais les pointeurs assez bizarres
+m'ont tout de suite fait penser à Jes qui m'a sorti un programme d'insertion en un tour de main (tout en
+étandant la ROM pour la taille du script).
+
+Comme je n'avais pas envie de m'embêter pour le reste, j'ai demandé à BahaBulle d'achever le hack. Grand
+bien m'en a pris tellement il restait de choses sournoises à extraire. Je me suis occupé de la partie
+graphique qui n'a pas non plus été de tout repos. A noter que l'utilisation des traductions officielles
+françaises des héros issus du groupe des "Avengers" s'est arrêtée à "Capitaine America" et les "Vengeurs"
+puisque je trouvais que "Oeil de Faucon", par exemple, était particulièrement ringard :D.
+
+Bref, j'espère que vous vous amuserez (bien que je doute du succès de cette traduction ;)).
+
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Forum     : http://www.bessab.com/
+Sites Web : Génération IX     - http://generation9.kanshima.net/
+            BessaB            - http://www.bessab.net/
+            T.R.A.F.          - http://traf.romhack.org/
+e-mail    : tiflamedragon@hotmail.com (Ti Dragon)
+
+
+\ REMARQUES LEGALES
+ \_________________
+
+Génération IX et Final Translation vous proposent une traduction non-officielle réalisée à but non
+lucratif par des amateurs bénévoles. Elle n'est en aucun cas supportée par Nintendo ou Marvel
+Entertainment Group. Cette traduction est donc gratuite et ne peut être vendue sous quelque forme
+que ce soit (vente de fichiers sur CD, de cartouches modifiées, de cartouches flash copiées, etc.) :
+son usage commercial est par conséquent strictement interdit.
+
+Vous utilisez ce patch de traduction en dégageant les auteurs de toute responsabilité concernant
+d'éventuels dommages.
+
+© 2008 Génération IX et BessaB
+Tous droits réservés
+
+
+NES® est la propriété de Nintendo®
+Captain America and the Avengers® est la propriété de Marvel Entertainment Group®.
+Les mentions légales relatives à Nintendo et Marvel Entertainment Group se trouvent décrites dans un
+livret fourni avec chacun de leurs produits. Veuillez les lire attentivement.
+
+© 1985 - 2008 Nintendo
+Tous droits réservés
+
+© 1991 - 2008 Marvel Entertainment Group
+Tous droits réservés

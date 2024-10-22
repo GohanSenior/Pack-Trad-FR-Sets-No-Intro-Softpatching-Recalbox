@@ -1,0 +1,110 @@
+
+				Baha et GreatSkaori
+				      présentent :
+
+		En exclusivité pour Génération IX (http://generation9.uhrft.org)
+				La Croisade Megaman!
+
+
+
+- Saison 1 - Episode 6 - Plate-forme : Nes
+
+
+Nom du jeu : Megaman
+Développeur : Capcom
+Année de sortie : 1993
+Plate-forme : Nes
+Type : Plate-forme
+
+
+Sommaire
+
+--Carnet de bord du Capitaine
+--Quelle drôle d'idée
+--Versions du patch
+--Bugs Connus
+--Générique de fin
+--En cas de pépin
+
+
+-- Carnet de bord du Capitaine : Vendredi 20 Juin 2003 à 21h35
+
+
+
+Vous venez de télécharger le fichier zip de traduction de Megaman 6 sur Nes.
+Ce fichier zip contient 3 fichiers, dont un que vous êtes en train de lire actuellement, malgré
+son titre, vous êtes un personne sage et ça nous plaît!
+
+Les deux autres fichiers sont des patchs ips, un "normal" et un "boss".
+Dans la version "boss" , les noms des boss ont en fait été traduits. Alors que dans la version
+"normale", ils conservent leur patronymes en "man".
+A vous de voir à quelle version vous préférez jouer.
+
+
+
+--Quelle drôle d'idée
+
+Je me souviens quand j'ai eu ma nes, quand j'avais même pas 10 ans, je recevais le magasine Club Nintendo,
+une vraie relique aujourd'hui quand on y pense. Et dans l'un d'entre eux, il était question de Kid Icarus
+et de ce fameux megaman, petit bonhomme bleu qui a différentes armes pour dégommer les vilains
+robots. Il y avait de chouettes dessins et j'avais vraiment envie d'y jouer! Puis, j'ai acheté le premier
+peu de temps après et j'ai adoré! Ensuite est venu le 2, puis le 3, le 4 et le 5. Il n'y a que le sixième
+auquel je n'ai pas joué sur ma nes d'origine. J'ai pu le découvrir bien plus tard, grâce à l'émulation.
+
+Aujourd'hui, j'aime toujours autant casser du cyborg en leur tirant dessus des bulles de savon!
+Alors, même si il n'y a que très peu de texte, ça a été un plaisir de travailler sur ce jeux-là.
+Peut-être moins pour les hackeurs, qui ont réellement dû se casser la tête pour moi, mais ça vaut le coup,
+quand on voit le résultat. Alors merci à eux :)
+
+Voici donc notre croisade pour traduire megaman en français! Aujourd'hui, c'est 12 patchs d'un coup
+pour 6 jeux différents! Alors bon jeu, et rendez-vous pour la saison 2 de la croisade!
+
+
+
+-- Versions du patch :
+
+- Version Bêta 2.
+Le BEAT a été trouvé par rveach (membre du groupe anglais "Rosetta Stone"
+( http://rosetta.shacknet.nu/?s=news ), puis traduit par Baha.
+Tout a donc été fait :)
+(Utilisez une rom américaine, le hack a en effet été fait depuis une version us du jeu)
+
+- Version Bêta.
+Il manque le BEAT sur l'écran des boss et sur l'écran de sélection des armes.
+
+
+-- Comment appliquer le patch ?
+
+Le patch "NES-Megaman6-0.91.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Megaman VI (U) [!].nes
+  Taille de la rom: 524 304 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 988798A8
+  CRC rom patchée : 12C030AE
+
+
+-- Bugs Connus
+
+Aucun à notre connaissance
+
+
+
+-- Générique de fin
+
+Au hacking : Baha et rveach (un grand merci à lui pour le BEAT)
+A la trad : GreatSkaori
+Assistant trads foireuses : Dark Schneider (Merci à lui d'avoir trouvé le nom très approprié de ce fichier texte.)
+Au béta-test : Baha et GreatSkaori.
+
+
+
+-- En cas de pépin
+
+On ne sait jamais, y a toujours un truc qui tourne pas rond, alors n'hésitez pas à nous
+contacter via le forum ( http://forum.bessab.net/viewforum.php?f=12 )
+Ou par mail :
+
+Baha : DragonBahamuth23@hotmail.com
+GreatSkaori : GreatSkaori arobase yahoo point com
+
+http://generation9.uhrft.org

@@ -1,0 +1,152 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                          The Guardian Legend
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: The Guardian Legend
+Console		: Nintendo NES
+Développeur	: Compile
+Editeur		: Broderbund
+Date		: Avril 1989
+Genre		: Action-aventures mâtiné de shoot'em up
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 04/12/2013) :
+ \_________________________________________________________________
+
+Attention carton !
+Guardian Legend est une petite perle comme on n'en voit pas
+souvent.
+
+Si vous aimez les jeux d'action, jetez-vous sans hésiter sur
+cette petite pépite.
+
+Dans ce jeu, vous incarnez non pas un héros viril avec supplément
+de testostérone, mais Alyssa, une jeune androïde ayant la faculté
+de se transformer en vaisseau spatial.
+
+Alyssa est envoyée sur Anju, un vaisseau monde qui se dirige
+bien trop rapidement sur la terre, et elle doit faire tout
+ce qui est en son pouvoir pour éviter la collision.
+
+Une fois que vous aurez mis pied sur la planète, vous aurez
+pour objectif de trouver et détruire 10 verrous qui empêchent
+le système d'auto-destruction d'être activé.
+
+Chaque verrou a besoin d'une clé ou d'une activation bien
+spécifique pour être ouvert, et il vous reviendra de parcourir
+la vaisseau monde en long en large et en travers pour tous
+les ouvrir.
+
+Heureusement pour vous, le dernier habitant d'Anju a laissé
+des messages dans l'ordinateur central afin de vous guider
+dans votre quête.
+
+Mais errer dans les couloirs du vaisseau monde n'est pas
+une promenade de santé. Les aliens pullulent et leur violence
+n'a d'égal que leur nombre...
+
+Je ne vais pas en dévoiler plus que nécessaire, mais sachez
+que ce jeu combine des phases d'exploration en vue de dessus
+et des niveaux façon shoot'em up qui s'activent dès qu'on
+entre dans un des "corridors" menant au gardien de la clé
+nécessaire pour aller à l'étape suivante...
+
+Le jeu n'est pas trop linéaire et on prend plaisir à chercher
+les nombreux bonus et améliorations indispensables pour avancer.
+Les graphismes sont sympas et même si certaines zones font
+un peu mornes, le découpage du vaisseau monde en différentes
+zones (forêt, cavernes, désert...) rompent la monotonie.
+
+J'avoue m'être bien amusé à diriger Alyssa durant sa longue
+quête et le petit goût d'aventure à la Zelda ne m'a pas laissé
+indifférent...
+
+
+Je voudrais tirer mon chapeau au développeur qui a conçu le système
+de mot de passe. Mais quelle idée de pondre des codes aussi
+alambiqués ? Je ne crois pas en avoir vu d'aussi longs dans
+un jeu... Vive la Savestate, croyez moi !
+
+A côté de ça, le jeu contient de bonnes idées.
+Il permet notamment de tester le code qu'on aurait pu écrire
+et vérifier qu'il n'y ait pas d'erreur; vous savez tout
+le temps où vous vous situez sur la carte grâce à l'affichage
+de votre position en coordonnées X-Y et les armes sont variées.
+
+Le jeu est intégralement traduit et heureusement qu'une soluce
+existe, ça m'a été d'une grande aide pour localiser et vérifier
+les textes.
+
+Petite note : Dans l'écran d'inventaire, contrairement aux autres,
+une arme spéciale affiche "EE" juste à côté de son symbole.
+Il ne s'agit pas d'un bug, mais du compteur de munitions spécifique
+à cette arme. Le "EE" signifie "Enemy Eraser", soit "Eradicateur
+d'Ennemi" en bon français.
+
+Comment ça, je me suis pas foulé ? D'quoi j'me mêle, d'abord ?
+En tout cas, cette arme est vraiment dévastatrice...
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Energie infinie        0048          34
+Energie infinie 2      0049          34
+Tirs infinis           003E          FF
+Tirs infinis 2         004c          Ff
+
+
+/!\ Informations relatives à l'utilisation des codes de triche :
+
+Désactiver le tir infini 2 devant le 6ème Verrou pour éviter
+qu'il ne reste fermé ad vitam eternam. 
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Guardian Legend, The (U).ips" est à utiliser sur la rom suivante :
+Nom de la rom   : Guardian Legend, The (U).nes
+Taille de la rom: 131 088 octets
+Rom avec Header ? Oui
+CRC de la rom   : C94AC75F
+CRC rom patchée : 5964A525
+
+Le patch a été créé avec Ips XP 1.11 et a été testé avec les émulateurs suivants :
+  FCeu XD SP [x]
+  NesTicle   [ ]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

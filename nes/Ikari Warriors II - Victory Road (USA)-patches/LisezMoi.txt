@@ -1,0 +1,128 @@
+TERMINUS TRADUCTION présente
+
+Ikari Warriors 2 - La Route De La Victoire
+----------------------------------------------------------------
+*******************Table des matières******************
+----------------------------------------------------------------
+
+1.    L'HISTOIRE DU JEU
+2.      CONTENU DE L'ARCHIVE ET UTILISATION
+3.    LES PATCHS PUBLIES
+4.      TOUT CE QUI A ETE FAIT
+5.    L'ÉQUIPE DE LA TRADUCTION
+6.      CONTACTS
+7.    REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  L'HISTOIRE DE Ikari Warriors 2 - La Route De La Victoire
+----------------------------------------------------------------
+
+Quand vous allez lire le déscriptif, vous allez vous demander
+pourquoi avoir perdu du temps à traduire ce jeu...tout simplement
+car le 1er et le 3eme ont été traduits par  le passé...et comme
+je veux que mon set NES soit full FR...voilà :)
+
+SNK décida de porter son jeu d’arcade nommé Ikari Warrior sur la
+console phare du moment : la NES.
+Ce qu’on ne sait pas forcément, c’est qu’ils ont osé sortir une
+suite : Ikari Warriors 2 – Victory Road. 
+
+Tout d’abord, le scénario est tout bonnement extraordinaire même
+s’il suit directement celui de Ikari Warriors 1.
+Paul et Vince viennent de sauver leur colonel.
+Alors qu’ils reviennent en avion, un accident surgit, l’avion
+tombe en flamme et c’est la warp zone.
+A vous d’affronter Zang Zip qui détient la terre en esclavage
+sur des planètes extra-terrestre !
+
+Graphiquement, ce jeu est inégal : il alterne entre le laid, le
+mauvais goût, et le néant. Certains écrans sont vides. Il y a le
+héros, le sol, et rien d’autre.
+Le jeu est d’une fluidité absente. L’écran tilte de haut en bas.
+Chaque niveau et menu mettent 2 secondes à se charger.
+Ca surprend tellement sur NES qu’on croit que le jeu a buggé.
+
+Le jeu est extrêmement incontrôlable, difficile, intolérant et
+vous ne possédez qu’une seule vie, sans continue.
+
+Outre les défauts de réalisation, le plus gros problème des Ikari
+Warriors sur Nes vient de leur maniabilité catastrophique.
+On passe son temps à se tourner pour aligner les ennemis, à deux
+à l’heure. A l’origine, le jeu était sur arcade et possédait un
+stick très particulier : un pouvait faire tourner la boule du
+stick pour orienter le personnage. Cela permettait de se déplacer
+dans un sens mais de tirer dans un autre. Ceci a bien évidemment
+disparu sur Nes, provoquant le désastre que l’on connait.
+
+http://www.jenesuis.net/tests/nintendo-nes/403-ikari-warriors-2
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir:
+IkariWarriors2Fr.ips  - Le patch IPS du jeu
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+(le Patcheur Terminus par exemple).
+Ce patch est à utiliser avec la ROM No-Intro:
+Ikari Warriors II - Victory Road (USA).nes
+
+----------------------------------------------------------------
+3.  LES PATCHS PUBLIES
+----------------------------------------------------------------
+
+- V1.00
+
+
+----------------------------------------------------------------
+4.  TOUT CE QUI A ETE FAIT
+----------------------------------------------------------------
+
+Traduction du jeu
+
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+Kazan:   Hacking, Traduction
+
+----------------------------------------------------------------
+6.  CONTACTS
+----------------------------------------------------------------
+
+Une remarque, une question ou une correction à apporter à la
+traduction du jeu.
+
+Kazan - newkazan@hotmail.fr
+
+Vous voulez mieux connaître le groupe, télécharger nos derniers
+patchs ou vous renseigner sur un projet.
+
+Site Web - http://terminus.romhack.net
+Facebook - https://www.facebook.com/TerminusTrad/
+
+----------------------------------------------------------------
+7.  REMARQUES LEGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de ce jeu n'est pas officiel et
+n'est pas supporté par Snk et Nintendo.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+Kazan

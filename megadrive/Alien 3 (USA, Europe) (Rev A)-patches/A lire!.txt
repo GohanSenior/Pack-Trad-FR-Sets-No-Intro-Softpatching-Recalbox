@@ -1,0 +1,57 @@
+Alien 3 (Mega Drive)
+Traduction en Français v1.0 (12/11/2020)
+(C) 2020 Traduction Alucard73
+
+---------------
+Histoire du Jeu
+----------------
+Alien 3 vous plonge directement après la fin du film "Aliens". 
+Ellen Ripley, personnage principal de la saga, est en sommeil cryogénique 
+à bord du Sulaco. Un alien s'est infiltré à bord, décimant l'équipage et 
+provoquant le crash du vaisseau sur la planète Fiorina 161. 
+Aidez Ripley à survivre et sauvez les prisonniers des griffes des aliens 
+en attendant que les secours arrivent.
+
+-----------------
+Ce qui a été fait
+-----------------
+Script    : 100 %
+Graphismes: 0 %
+
+--------------------
+Notes et Bugs connus
+--------------------
+Normalement aucun.
+Si vous rencontrer un bug, vous pouvez me contacter sur le Forum de la Traf.
+
+--------------------------
+Instructions pour le patch
+--------------------------
+Au format, vous pouvez utiliser LunarIPS ou Floating IPS.
+Archive utilisée:
+
+Alien 3 (USA, Europe) (Rev A).md
+
+MD5: 793b92cd4a66921db6ca4f582a690db5
+SHA1: 26959752D0683298146C2A89599FA598D009651B
+CRC32: B327FD1B
+Size: 524288
+
+-------
+Credits
+-------
+Alucard73 - Hacking, traduction et tests.
+
+-----------------
+REMARQUES LEGALES
+-----------------
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.

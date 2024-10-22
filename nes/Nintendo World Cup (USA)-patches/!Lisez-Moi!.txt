@@ -1,0 +1,16 @@
+NINTENDO WORLD CUP - VERSION FRANCAISE
+Ce patch traduit le jeu a 99% (Terminé)
+----------------------------------------------------------------------
+Voici ce qui est traduit:
+- Les écrans: Titre, Choix (Terrains, Adversaires...), Stratégies et Mi-temps. 
+- Ajout de "pointeurs" dans le menu de "Choix du terrain" dans le mode "Match Contre"
+(cause: bugs de "pointeurs" qui double les lettres. Si modification = Un gros bug !)
+
+Remarque: En traduisant le "Oui" ou "Non" de "Changer Position ?", le "Oui" se 
+fait remplacer par un "Yes" qui ne me plaît pas... Peut-être qu'a la prochaine
+version du patch, cela sera corrigé !
+----------------------------------------------------------------------
+Fichier IPS et traduction par YFO6 TRADUC
+http://yf06traduc.consolemul.com
+----------------------------------------------------------------------
+Pour appliquer ce patch vous aurez besoin du programme Patcheur Arkana

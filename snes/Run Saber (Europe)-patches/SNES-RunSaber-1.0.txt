@@ -1,0 +1,111 @@
+				Génération IX (http://generation9.kanshima.net)
+
+		      vous présente la traduction de Run Saber sur Super Nintendo
+
+
+\ INFOS SUR LE JEU
+ \_________________
+
+Titre       : RUN SABER
+Console     : Super Nintendo (SNES)
+Développeur : Argonaut Software
+Date        : 1992
+Genre       : Réflexion
+
+
+\ ETAT DE LA TRADUCTION : Patch 1.0 du 29/06/2005
+ \_________________________________________________
+
+Ce qui a été fait :
+- Menu et Jeu : tout est traduit.
+			 
+Ce qui n'est pas fait
+- Hack graphique : Avec des warning sur certains panneaux et le THE END que je n'ai pas trouvé.
+- Fin : Avec le mot Staff introuvable :(
+
+\ EQUIPE DE TRADUCTION FRANCAISE
+ \_______________________________
+
+Hack       : BahaBulle
+Traduction : Happexamendios
+Relecture  : Fiquetpa
+Bêta-Test  : BahaBulle
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "SNES-RunSaber-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Run Saber (E) [!].smc 
+  Taille de la rom: 1 048 576 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 2820F702
+  CRC rom patchée : B54F11E0
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  BSnes          [ ]		SNes9X 1.51    [x]
+  Snes 9X 1.43   [x]		Snes 9X 1.53   [x]
+  Snes 9x Geiger [ ]		Snes GT        [ ]
+  ZSnes          [ ]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+\ DIVERS
+ \_________
+
+_ Pour changer la couleur de votre perso n'hésitez pas à faire Pause puis Select.
+
+_ Les codes Action Replay :
+
+0CBBE201     Start with no continues 
+0CBBE202     Start with 1 continue 
+0CBBE206     Start with 5 continues 
+0CBBE20A     Start with 9 continues 
+0CD95800     Start with no super bombs 
+0CD95801     Start with 1 super bomb 
+0CD95805     Start with 5 super bombs 
+0CD95809     Start with 9 super bombs 
+0CD97201     Start with 1 health
+0CEAC901     Level select and 9 lives selectable on the option menu
+809A4B6B     Almost invincible--both players 
+809A53AD     Almost invincible--player 1 
+809A6BAD     Almost invincible--player 2 
+80D56600     Infinite lives--player 1 
+80D58600     Infinite lives--player 2 
+85FC6A00     Bomb power-ups give no super bombs 
+85FC6A02     Bomb power-ups give 2 super bombs 
+9FF43CAD     Infinite continues
+9FFB1000     Infinite super bombs--player 2 
+9FFB2700     Infinite super bombs--player 1
+
+0CD97204
+0CE95904     Start with 4 health
+
+0CD97205
+0CE95905     Start with 5 health
+
+0CD97208
+0CE95908     Start with 8 health
+
+108D5660
+108D5700
+108D5887     Infinite lives--player 1
+
+13FFB270
+13FFB300
+13FFB4FC     Infinite super bombs--player 1
+
+
+\ CONTACTS
+ \_________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'aurraient pas été cités plus haut.
+Site Web          : http://generation9.kanshima.net
+Forum             : http://www.bessab.com/viewforum.php?f=12

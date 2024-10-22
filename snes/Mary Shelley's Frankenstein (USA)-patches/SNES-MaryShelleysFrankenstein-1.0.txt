@@ -1,0 +1,137 @@
+			Génération IX (http://generation9.kanshima.net) 
+				vous présente la traduction de 
+				  Mary Shelley's Frankenstein
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre	: Mary Shelley's Frankenstein
+Console	: Super Nintendo
+Développeur : Bits Corporation
+Date	: 1994
+Genre	: Plates-formes
+
+
+\ ETAT DE LA TRADUCTION : Version 1.0 créée le 11/04/2008 
+ \________________________________________________________ 
+
+IL EEEST VIIIVAAAANT !!!
+Tout le monde a entendu parler au moins une fois dans sa vie de la monstrueuse
+créature du Docteur Frankenstein, mais tout le monde ne sait pas que
+le personnage créé par Mary Shelley est aux antipodes de l'abominable bipède
+régulièrement utilisé dans de vieux films en noir et blanc à des fins de
+destruction de l'humanité.
+
+A force de voir des nanards moisis enrichis en savants fous, on a quelque peu
+tendance à occulter un élément majeur de l'histoire, à savoir que le Doc Frankenstein
+était un être éploré dont le seul but était de ramener sa douce et tendre à la vie,
+et que sa créature avait plus d'humanité et de coeur que n'importe qui...
+
+Bref, on a beau être gentil comme un Toupoutou et doux comme un Bisounours, si on
+a une sale gueule, ça facilite pas l'existence, et c'est bien la morale de ce
+chef d'oeuvre littéraire. Franchement, lisez-le; c'est vraiment une merveille.
+
+En ce qui concerne le jeu, on incarne la célèbre créature tout au long de son
+périple pour retrouver son créateur. On part donc d'Ingelstadt sous les coups
+des habitants pour traverser des marais fumants, des forêts, et finir sur
+l'Alexander Nevsky, navire brise-glace en voyage au large de l'Antarctique.
+
+Bien évidement, incarner un monstre signifie s'exposer à de cruelles désillusions.
+Hormis le fait qu'on ait pas aimé, on a aussi une fâcheuse propension à attirer
+les chiens, les balles, les couteaux, et tout un tas d'autres objets aussi coupants
+que contondants.
+
+Histoire de compliquer ce qui aurait pu passer pour un banal jeu de plates-formes
+comme il en existe des milliers, les développeurs ont inséré un système de conception
+d'objets. Il est possible (et même obligatoire pour avancer) de trouver et d'assembler
+divers éléments. Par exemple, pour faire fondre de la glace obstruant un passage, il
+faut trouver un téléscope, des verres de lunettes, et maîtriser l'optique pour en
+faire une sorte de grosse loupe qui concentrera la lumière et fera disparaître
+le glaçon. De même en assemblant des planches, de la corde et en lisant un bouquin
+de construction navale, on saura faire un radeau pour traverser une grande étendue
+d'eau. Il sera aussi possible de fabriquer un palan, un briquet, j'en passe et des
+meilleures...
+
+L'interactivité ne s'arrête pas là car le jeu est truffé d'éléments à activer (manivelles,
+manettes, cordes, etc.) ou à pousser (caisses, chariot de foin, glaçons, troncs
+d'arbres...). Bref, du côté du gameplay, ce jeu fourmille de bonnes idées,
+seulement le gros souci est que la jouabilité n'est pas à la hauteur du concept.
+Le personnage saute de façon imprécise, les ennemis sont par moments bien galère
+à zigouiller et on ne trouve pas toujours facilement les éléments à utiliser.
+
+Pour le reste, le jeu est somme toute assez moyen. Les graphismes sont ternes,
+répétitifs, et sans grande recherche. Passons sur les cinématiques qui,
+si elles ont le mérite de coller à la trame du livre, n'en sont pas moins aussi
+hideuses que le héros de l'histoire...
+
+L'animation du personnage est correcte ; on ressent bien la difficulté à se
+déplacer du monstre ; mais les ennemis n'ont pas bénéficié du même travail.
+Généralement, les adversaires ne se déplacent pas et se contentent de
+vous tirer dessus sans conviction.
+
+La difficulté du jeu est assez mal dosée et les niveaux sont tellement mal
+foutus qu'il est compliqué d'aller au bout. On passe notre temps à errer dans
+l'espoir de trouver THE passage qui permettra de finir le niveau.
+
+En conclusion, Frankenstein est un jeu ardu, malaisé à jouer mais bourré
+de bonnes idées malheureusement insuffisament exploitées. Il aurait mérité
+un peu plus d'application, une simplification des niveaux et une jouabilité
+améliorée. Dommage!..
+
+
+
+
+\ CODES DE TRICHE 
+ \________________
+
+Voici une fois de plus les codes Action Replay que j'ai dégotté pour ce p'tit jeu :
+
+
+---[Effet]-------------[Adresse]-----[Valeur]
+Energie infinie		7E2070		20
+Energie infinie		7E2043		20
+
+/!\ A noter que le code de triche peut altérer l'affichage du jeu de façon
+très significative!! J'ai passé un moment à revérifier tout mon hack à
+cause de bugs générés par l'activation du cheat code...
+Ne l'activez que lors des phases de jeu, sinon ce sera pas tip-top !!!
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack 	  : Happexamendios
+Traduction: Happexamendios
+Bêta-Test : Happexamendios
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "SNES-MaryShelleysFrankenstein-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Mary Shelley's Frankenstein (U).smc
+  Taille de la rom: 2 097 152 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 91415D1E
+  CRC rom patchée : A4C3B939
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  BSnes          [ ]		SNes9X 1.51    [x]
+  Snes 9X 1.43   [ ]		Snes 9X 1.53   [x]
+  Snes 9x Geiger [ ]		Snes GT        [ ]
+  ZSnes          [ ]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+Site Web : http://generation9.kanshima.net 
+Forum : http://www.bessab.com/viewforum.php?f=12 

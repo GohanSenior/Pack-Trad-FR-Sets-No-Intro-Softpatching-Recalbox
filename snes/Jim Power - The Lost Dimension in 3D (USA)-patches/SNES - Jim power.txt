@@ -1,0 +1,115 @@
+			Génération IX (http://generation9.kanshima.net) 
+				vous présente la traduction de 
+			     Jim power - the lost dimension in 3D
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre	: Jim power - the lost dimension in 3D
+Console	: Super Nintendo
+Développeur : Loriciel
+Editeur	: Electro Brain
+Date	: Décembre 1993
+Genre	: Plates-formes 2D inbouffable
+
+
+\ ETAT DE LA TRADUCTION : Patch 1.0 créé le 18/12/2011 
+ \_____________________________________________________ 
+
+Si vous connaissez la bédé Kid Paddle, vous avez sûrement lu les aventures du petit barbare, le héros de jeu
+qui meurt régulièrement dans d'atroces souffrances (le personnage a même sa propre bédé nommée à juste titre
+"game over"). Bref, le petit barbare ne peut pas faire un pas sans être écartelé, déchiqueté, atomisé,
+broyé, pulvérisé, découpé et j'en passe et des meilleures. Ben dans Jim power c'est exactement ce qui
+arrivera au joueur qui tentera d'avancer dans ce jeu. Ici, sans Action Replay point de salut !
+Il est impossible d'avancer dans ce jeu sans se faire empaler par des pics, brûler par de l'acide, trucider
+par des mutants et ce tous les 3 pas. A se demander si le jeu a été testé !! Sans compter que le nombre de
+vies dispos est inversement proportionnel au nombre de pièges de chaque niveau. Et si j'ajoute à cela
+que le temps est limité pour arriver à la fin du niveau........
+
+Histoire de simplifier le travail, les développeurs se sont arrangés pour ne pas mettre de système de
+code ou de sauvegardes. Une sainte horreur !! Finir ce jeu sans tricher est une véritable gageure !
+A priori il y aurait des cheats codes, mais vu la complexité du dit cheat, j'ai même pas pris
+la peine d'essayer :\
+
+
+Oublions la réelle difficulté de ce jeu et voyons ce qu'il propose...
+Personnellement, ce jeu me fait penser à la grande époque de l'Amiga et de ses jeux à 50 scrollings multiphasés
+en optimode trans-3D. Hein ? je dis n'importe quoi ? Pas grave, je suis sûr que personne ne lit
+ce que je dis (si je puis l'écrire)...
+
+Bref, pour être en accord avec le terme de 3D du titre, les p'tits gars de Loriciel ont collé du
+scrolling parallaxe multi-niveau à outrance dans les phases en 2D et du mode 7 à gogo dans les niveaux
+en vue de dessus.
+
+
+Les passages en 2D sont ultra colorés (trop peut-être), et on en prend plein la vue pour peu qu'on ait
+le temps de profiter du décor, mais les phases en mode 7 sont ternes et on ne voit pas grand-chose.
+C'est moche, on ne sait pas ce que représentent les éléments du décor et on s'ennuie vite...
+
+La jouabilité est pas trop mauvaise pour les passages en 2D mais merdiquissimale lors des niveaux
+en mode 7 où il faut utiliser les gâchettes L et R pour faire tourner le décor tout en dirigeant
+le gugusse. Mention spéciale pour les pics situés sur les murs qu'on ne voit pas toujours.
+
+
+En ce qui concerne le scénario, ben on en sait pas grand chose. On se retrouve catapulté dans un
+univers infesté de pièges et de streums sans raison particulière (Sauver le monde ? Libérer une princesse ??
+Trouver un artefact permettant de soumettre les femmes ???) et à la limite on a pas le temps de
+s'en soucier, la difficulté rédhibitoire de ce jeu le faisant vite ranger dans un fond de placard...
+
+
+Pour ce qui est de la traduction, elle est quasiment complète. Il manque l'écran titre et les graphismes de
+l'écran d'option.
+
+
+
+
+\ CODES DE TRICHE 
+ \________________
+
+Voici une fois de plus les codes Action Replay que j'ai dégotté pour ce p'tit jeu :
+
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Smart bombes infinies	7E0041		09
+Vies infinies		7E003F		09
+Clés infinies		7E003D		09
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack 	  : Happexamendios
+Traduction: Happexamendios
+Bêta-Test : Happexamendios
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Le patch "Jim power.ips"  est à utiliser sur la rom suivante :
+Nom de la rom   : Jim Power - The Lost Dimension in 3D (U) [!].smc
+Taille          : 1 048 576 octets
+Rom avec header : Non
+Crc de la rom   : C469F8F0
+Crc rom patchée : CCF5D7B1
+
+Le patch a été créé avec SmartIPS et a été testé sous les émulateurs suivants :
+Snes9X 1.53 : OK	ZsnesW : Ok
+Bsnes 0.60  : OK	SnesGT : Ok
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher. 
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils 
+peuvent créer une sauvegarde de la rom avant de patcher). 
+Voilà maintenant votre rom avec les modifications apportées par notre traduction. 
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+Site Web : http://generation9.kanshima.net 
+Forum : http://www.bessab.com/viewforum.php?f=12 

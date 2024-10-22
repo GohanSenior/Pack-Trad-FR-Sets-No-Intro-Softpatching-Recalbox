@@ -1,0 +1,1625 @@
+/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+|                                          Génération IX                                              |
+|                                (http://generation9.kanshima.net)                                    |
+|                                                                                                     |
+|                        vous présente la solution de Musashi sur Nintendo                            |
+\_____________________________________________________________________________________________________/
+
+
+SOMMAIRE
+
+Les mots entre [] sont une référence rapide si vous chercher un endroit précis.
+Recherchez le mot avec ses crochets pour arriver directement dessus.
+
+I.      Historique                  [HISTO]
+II.     Conseils                    [CONSEIL]
+III.    Cheminement                 [CHEMIN]
+   III.1.  Le Village d'Arima       [ARIMA]
+   III.2.  Le Village d'Inagi       [INAGI]
+   III.3.  Le Village d'Hirafuku    [HIRAFUKU]
+   III.4.  La Grotte du Tanuki      [TANUKI]
+   III.5.  La Maison de Shoya       [SHOYA]
+   III.6.  Le Village de Suwa       [SUWA]
+   III.7.  Le Village d'Atago       [ATAGO]
+   III.8.  Bar                      [BAR]
+   III.9.  Mont Ina                 [INA]
+   III.10. La Tour d'Uzuki          [UZUKI]
+   III.11. Le Village de Mihama     [MIHAMA]
+   III.12. Le Village d'Hinoki      [HINOKI]
+   III.13. La Tour Suigetsu         [SUIGETSU]
+   III.14. Le Village d'Ukyo        [UKYO]
+   III.15. Grotte de la Fleur       [FLEUR]
+   III.16. Le Village de Uzushio    [UZUSHIO]
+   III.17. La Tour Mutsuki          [MUTSUKI]
+   III.18. Grotte de Feu            [FEU]
+   III.19. Le Village de Yagyuu     [YAGYUU]
+   III.20. Le Village de Matsuba    [MATSUBA]
+   III.21. Grotte de l'Esprit       [ESPRIT]
+   III.22. Tour Yougetsu            [YOUGETSU]
+   III.23. Derniers Préparatifs     [PREPARE]
+   III.24. Grotte vers l'Ile Ganryu [GANRYU]
+   III.25. Le Village de Tatsuno    [TATSUNO]
+   III.26. Château de Kojiro        [KOJIRO]
+IV.     Objets                      [OBJETS]
+V.      Equipements                 [EQUIPEMENTS]
+VI.     Sorts                       [SORTS]
+VII.    Bestiaire                   [BESTIAIRE]
+VIII.   Niveaux                     [NIVEAUX]
+IX.     Contacts                    [CONTACTS]
+
+_______________________________________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+I. HISTORIQUE
+
+05/02/2007 - Première version
+Voici la première version de la solution de Musashi.
+JEU         :  95% - Manque sûrement quelques trucs mais le principal est fait
+OBJETS      :  97% - Manque l'utilité de 2 objets
+EQUIPEMENTS : 100%
+SORTS       :  87% - Manque la description de quelques sorts
+BESTIAIRE   :  83% - Manque les PV de beaucoup d'ennemis
+NIVEAUX     : ???% - Aucune idée du nombre de niveau possible
+
+
+II. CONSEILS
+
+Si vous ne voulez pas suivre cette soluce, je vous conseille de notez l'emplacement des différents lieux
+dont on vous parle et de parcourir la carte entière pour trouver tous les lieux.
+
+Dans les villages, parlez à tout le monde pour savoir quoi faire ou où trouver les prochaines étapes.
+
+Un voyant se trouve dans certains villages. Dépensez un peu de ryo pour qu'il vous donne des indices
+sur des choses à faire.
+
+Les objets courants et les équipements peuvent être vendus à 60% de leur prix d'achat.
+
+Quand on meurt, on retourne au dernier temple avec une perte d'argent (50%).
+Les PV et PM sont regénérés à fond lorsque l'on passe au niveau suivant.
+
+Augmentez souvent votre expérience car la difficulté des combats s'accrue rapidement.
+
+
+III. Cheminement
+
+Le parcourt que je vais vous signaler est le plus rapide pour ce qui est de l'enchainement
+des lieux. C'est à dire que je ne vais pas vous faire aller à un endroit juste pour connaître
+le nom du prochain village, je vous y emmène directement.
+
+___________________________
+III.1. Le Village d'Arima - [ARIMA]
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ _______________________________________________
+/             ARIMA - 6 ryo la nuit             \
+|                                               |
+| ---- Equipements ---- | ------ Objets ------- |
+| Arme   Bambou      50 | PiedTau            25 |
+| Armure Bois        70 | Herbe              15 |
+|                       | Champi             50 |
+|                       | APoison             8 |
+| ------------- Ennemis alentours ------------- |
+| Cône                  | Epi                   |
+\_______________________________________________/
+
+Le jeu débute dans le village d'Arima.
+La première chose à faire est de parler à votre Oncle (l'homme en haut dans la maison où vous vous
+trouvez) afin qu'il vous donne 200 ryo.
+
+Allez dépenser cet argent au magasin d'équipements et achetez une arme et une armure.
+Vous pouvez ensuite acheter quelques Herbe au magasin d'objets.
+N'oubliez surtout pas d'équiper votre nouvel équipement.
+
+Ensuite, allez parler à l'ancier dans la maison en bas à droite. Il vous demandera de trouver
+le Tanuki avant d'aller plus loin.
+
+Une fois que vous êtes prêt, quittez le village.
+
+Dirigez-vous vers le nord-est pour atteindre le village d'Inagi.
+
+___________________________
+III.2. Le Village d'Inagi - [INAGI]
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ _______________________________________________
+/             INAGI - 6 ryo la nuit             \
+|                                               |
+| ---- Equipements ---- | ------ Objets ------- |
+| Arme   Bambou      50 | Herbe              15 |
+| Arme   Odachi     200 | Plume              80 |
+| Armure Chance     400 | Champi             50 |
+| Gant   Erable     150 |                       |
+| ------------- Ennemis alentours ------------- |
+| Cône                  | Epi                   |
+| Bambou                | Lutin                 |
+\_______________________________________________/
+
+Une fois que vous avez parlé à tout le monde pour savoir que le Tanuki a été enlevé et si vous
+avez assez d'argent, vous pouvez améliorer votre équipement.
+
+Quittez ensuite le village.
+
+Pour rejoindre Hirafuku, dirigez-vous vers le nord-ouest, traversez le pont, le village se trouve
+un tout petit peu plus au sud-ouest.
+
+______________________________
+III.3. Le Village d'Hirafuku - [HIRAFUKU]
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ _______________________________________________
+/                   HIRAFUKU                    \
+|                                               |
+| ------------------ Objets ------------------- |
+| Objet PiedTau      25 | Herbe              15 |
+| Objet Plume        80 | Champi             50 |
+| Objet APoison       8 |                       |
+| ------------- Ennemis alentours ------------- |
+| Cône                  | Epi                   |
+| Bambou                | Lutin                 |
+| Oni                   | Epéiste               |
+\_______________________________________________/
+
+Parlez à tout le monde et surtout à l'homme en bas à gauche qui vous parle de l'utilité d'une Flûte.
+Notez bien comment elle fonctionne.
+
+Acheter quelque APoison, vous en aurez besoin et quittez le village.
+
+Dirigez-vous vers le nord. Prenez le chemin entre les marais, vous ferez un minimum de pas
+dans les marais empoisonné puis allez vers l'ouest pour trouver la grotte.
+
+____________________________
+III.4. La Grotte du Tanuki - [TANUKI]
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ _______________________________________________
+/     GROTTE DU TANUKI - Niveau 5 conseillé     \
+|                                               |
+| ------------ Ennemis rencontrés ------------- |
+| Démon                 | Oni                   |
+| Epéiste               |                       |
+| -------------- Rez de Chaussée -------------- |
+| P01-Entrée/Sortie     | L06-200 ryo           |
+| P10-PiedTau           | E13-Herbe             |
+| B02-Flûte             | M15-Démon (Boss)      |
+| O15-Tanuki            |                       |
+\_______________________________________________/
+
+            Rez de Chaussée
+      A B C D E F G H I J K L M N O P 
+    _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+   |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+01 |_|     |_|    _ _   _ _  |_|     |_|
+02 |_|     |_|  _|_|_| |_|_|         |_|
+03 |_|_   _|_| |_|_|_| |_|_|_ _      |_|
+04 |_|_| |_|_| |_|_|_| |_|_|_|_|     |_|
+05 |_|_| |_|_| |_|_|_|  _  |_|_|_ _  |_|
+06 |_|_| |_|  _ _ _ _  |_|   |_|_|_| |_|
+07 |_|  _|_| |_|_|_|_|_|_|   |_|_|_|_|_|
+08 |_| |_|_| |_|_|_|_|_|_|  _  |_|_|_|_|
+09 |_| |_|_|  _ _ _  |_|_| |_| |_|_|_|_|
+10 |_|    _ _|_|_|_| |_|_| |_|_      |_|
+11 |_|_  |_|_|_|_|_|  _ _ _|_|_|_ _ _|_|
+12 |_|_| |_|_|       |_|_|_|_|_|_|_|_|_|
+13 |_|_| |_|_|_ _ _  |_|_|_|_|_|_|_|_|_|
+14 |_|   |_|_|_|_|_| |_|_|     |_|   |_|
+15 |_|   |_|_|_|_|_|  _ _       _    |_|
+16 |_|_ _ _ _ _ _ _ _|_|_|_ _ _|_|_ _|_|
+   |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+
+Cette grotte n'est pas bien compliquée, prenez tous les objets dans les pots, surtout celui dans
+le coin nord-ouest puis allez à l'opposé, dans le coin sud-est et affrontez le démon.
+Le Tanuki vous apprend qu'un démon possède la clé de la grille et qu'il est partit vers Hirafuku.
+
+Quittez la grotte et retournez au village de Hirafuku
+
+Si vous parlez de nouveau à tout le monde, vous apprendrez que des monstres sont venus et
+qu'ils cherchaient un chaudron. Quittez ensuite le village.
+
+Si vous n'avez pas acheté tous les équipements à Inagi, vous devriez maitenant avoir assez d'argent
+pour le faire donc retournez-y, sinon, dirigez-vous vers le village d'Arima.
+
+Arrivé à Arima, allez vers l'ouest, traversez le pont, contournez le marais et entrez
+dans la maison.
+
+___________________________
+III.5. La Maison de Shoya - [SHOYA]
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ _______________________________________________
+/     MAISON DE SHOYA - Niveau 5 conseillé      \
+|                                               |
+| -------------- Objets trouvés --------------- |
+| Herbe                 | Clé Lapis             |
+| ------------ Ennemis rencontrés ------------- |
+| Démon                 |                       |
+\_______________________________________________/
+
+Rien de bien compliqué ici. Shoya vous apprend que des Démons sont dans sa maison et vous demande
+de les éliminer.
+
+Suivez le chemin à l'intérieur et affrontez tous les démons qui s'y trouvent.
+Après avoir vaincu le dernier démon, prenez la clé Lapis qui se trouve dans le pot où se trouvait
+le démon.
+Reparlez à Shoya pour qu'il vous remercie et qu'il vous donne une Herbe.
+
+Retournez maintenant à la Grotte du Tanuki.
+
+Utilisez la Clé Lapis pour ouvrir la grille. Parlez au Tanuki et il vous propose son aide.
+Vous pouvez refuser mais vous n'irez pas plus loin dans le jeu donc...
+
+Sortez de la grotte et retournez à Arima.
+
+Allez parler à l'ancien et il vous dira en quoi le Tanuki peut vous aider (voir [NIVEAUX]).
+Dormez si besoin puis quittez le village.
+
+Si vous voulez connaître l'utilité de la Flûte, traversez le marais juste en-dessous et allez
+sur l'espèce de porte rouge au sud, il s'agit d'une porte Torii. Utilisez la Flûte dessus et vous
+regagnerez vos PV.
+
+En partant d'Arima, allez à l'ouest puis au sud avant le pont. Suivez le chemin et entrez dans la
+grotte. Parlez à l'homme qui vous laissera passer seulement si vous avez le Tanuki avec vous.
+
+Traversez la grotte et vous vous retrouvez sur un autre continent. Continuez vers le sud-est pour
+trouver le village de Suwa.
+
+___________________________
+III.6. Le Village de Suwa - [SUWA]
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ _______________________________________________
+/             SUWA - 10 ryo la nuit             \
+|                                               |
+| ---- Equipements ---- | ------ Objets ------- |
+| Arme   Odachi     200 | PiedTau            25 |
+| Armure Chance     400 | Herbe              15 |
+| Armure Vent      1000 | Plume              80 |
+| Gant   Erable     150 | Ailes              60 |
+|                       | APoison             8 |
+| ------------- Ennemis alentours ------------- |
+| Buisson               | EpouVert              |
+| Usagi                 |                       |
+\_______________________________________________/
+
+Ici, pas grand chose de spécial à faire à part améliorer son équipements et peut-être monter un peu
+de niveau.
+
+Une fois que vous êtes prêts, dirigez-vous vers l'ouest puis le sud pour arriver au village d'Atago.
+
+___________________________
+III.7. Le Village d'Atago - [ATAGO]
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ _______________________________________________
+/            ATAGO - 20 ryo la nuit             \
+|                                               |
+| ---- Equipements ---- | ------ Objets ------- |
+| Arme   Odachi     200 | PiedTau            25 |
+| Arme   Soleil     700 | Herbe              15 |
+| Armure Chance     400 | Plume              80 |
+| Casque Biwa      1200 | Champi             50 |
+| Botte  Nuit       260 | APoison             8 |
+| ------------- Ennemis alentours ------------- |
+| EpouVert              | OgreR                 |
+| PierHom               | Usagi                 |
+\_______________________________________________/
+
+Ici encore, vous pouvez améliorer votre équipement et d'apprendre qu'il vous faut la Clé Agate
+pour ouvrir la Tour Uzuki et que le Happa permet d'augmenter la magie du Tanuki.
+
+Quittez le village et revenez vers Suwa. Un fois arrivé, descendez vers le sud pour
+atteindre le Dojo de Nikaido.
+
+Rien de spécial à faire ici donc continuez votre chemin en allant vers le sud puis vers l'ouest
+pour trouver un bar.
+
+____________
+III.8. Bar - [BAR]
+¯¯¯¯¯¯¯¯¯¯¯¯
+ _______________________________________________
+/                      BAR                      \
+|                                               |
+| ------------------ Objets ------------------- |
+| Sake               50                         |
+| ------------- Ennemis alentours ------------- |
+| EpouVert              | OgreR                 |
+| PierHom               | Usagi                 |
+\_______________________________________________/
+
+Ici, vous pourrez acheter du Sake qu'il faudra ensuite donner à l'homme de droite pour récupérer
+la Clé Agate.
+Shinosuke, le fils de Nikaido se trouve dans la pièce à droite mais il ne dit pas grand chose
+pour le moment.
+
+Retournez à Suwa restaurer votre magie si besoin sinon retournez vers le Dojo.
+Continuez légèrement vers l'est puis vers le sud. Traversez les montagnes et vous devriez
+arriver au Mont Ina.
+
+_________________
+III.9. Mont Ina - [INA]
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ _______________________________________________
+/        MONT INA - Niveau 11 conseillé         \
+|                                               |
+| ------------ Ennemis rencontrés ------------- |
+| Kappa                 | VisOni                |
+| EpiFou                |                       |
+| -------------- Rez de Chaussée -------------- |
+| H08-Entrée/Sortie     | O08-APoison           |
+| O16-Escalier vers O32 | I13-Plume             |
+| G15-PiedTau           | A16-Escalier vers A32 |
+| G01-Herbe             | P02-Escalier vers P18 |
+| B01-Escalier vers B17 | C06-Escalier vers C22 |
+| --------------- 1er sous-sol ---------------- |
+| O32-Escalier vers O16 | O28-Happa             |
+| A32-Escalier vers A16 | P18-Escalier vers P02 |
+| H30-1000 ryo          | F32-PiedTau           |
+| B17-Escalier vers B01 | C22-Escalier vers C06 |
+| H22-Sorcière (Boss)   | H22-Charme            |
+\_______________________________________________/
+
+            Rez de Chaussée                                 1er sous-sol
+      A B C D E F G H I J K L M N O P              A B C D E F G H I J K L M N O P  
+    _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _          _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+   |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|        |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+01 |_|   |_|    _ _|_|_|_|    _ _ _  |_|     17 |_|_|   |_|_|_|_|  _ _     _ _    |_|
+02 |_|   |_|   |_|_|_|    _ _|_|_|_|_|_|     18 |_|_|_ _ _ _  |_| |_|_|   |_|_|_ _|_|
+03 |_|  _|_|_  |_|_|_|   |_|_|_|_|_|_|_|     19 |_|_|_|_|_|_|_ _ _|_|_|   |_|_|_|_|_|
+04 |_| |_|_|_|    _ _ _  |_|_|  _  |_|_|     20 |_|_|_|_|_|_|_|_|_|_|_   _    |_|_|_|
+05 |_| |_|_|_|_ _|_|_|_|_ _ _  |_|_  |_|     21 |_|  _  |_|_|_|_|_|_|_| |_|_ _ _  |_|
+06 |_|_ _ _|_|_|_|_|_|_|_|_|_| |_|_| |_|     22 |_| |_|_|_|_|_|     |_| |_|_|_|_| |_|
+07 |_|_|_|_|_|_|_|     |_|_|_| |_|_| |_|     23 |_| |_|_|_|_|_|     |_| |_|_|_|_| |_|
+08 |_|_|_|_|    _       _   _ _|_|_ _|_|     24 |_| |_|_|  _ _ _ _ _|_| |_|_|_|   |_|
+09 |_|      _ _|_|_ _ _|_| |_|_|_|_|_|_|     25 |_|_ _ _ _|_|_|_|_|_|_|    _ _ _ _|_|
+10 |_|  _  |_|_|_|_|_|_|_| |_|_| |_|_|_|     26 |_|_|_|_|_|_|_|_|_|_|  _  |_|_|_|_|_|
+11 |_| |_| |_|_| |_|_|_|  _   _   _  |_|     27 |_|_|_|_|_|      _ _ _|_| |_|_|_|_|_|
+12 |_| |_|_ _   _ _|_|   |_| |_|_|_| |_|     28 |_|  _  |_|  _ _|_|_|_|_| |_|     |_|
+13 |_| |_|_|_| |_|_|_|_ _|_| |_|_|_| |_|     29 |_| |_| |_| |_|_|_|_|_|_| |_|     |_|
+14 |_| |_|_|_| |_|_|_|_|_|_| |_|_|_| |_|     30 |_| |_| |_| |_|_|   |_|_| |_|     |_|
+15 |_| |_|     |_|   |_|_|_|   |_|   |_|     31 |_| |_| |_|   |_|   |_|_| |_|     |_|
+16 |_|_|_|_ _ _|_|_ _ _ _ _ _ _|_|_ _|_|     32 |_|_ _ _|_|_ _|_|_ _ _ _ _|_|_ _ _|_|
+   |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|        |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+
+Récupérez le contenu des pots si vous en avez besoin (et si vous avez de la place). Prenez
+ensuite l'escalier en bas à droite et prenez le Happa dans le pot de la pièce. Il augmente
+le niveau du Tanuki et lui permet ainsi d'utiliser le Sort Miroir.
+Remontez et prenez l'escalier en haut à droite. Prenez les objets dont vous avez besoin puis
+prenez l'escalier en haut à gauche pour remontez. Prenez l'escalier suivant et suivez le chemin,
+vous arrivez devant la Sorcière. Parlez-lui et affrontez-la.
+Elle possède plus de 100 PV donc accrochez-vous.
+
+Une fois vaincue, prenez le Charme contenu dans le pot et quittez cet endroit pour retournez au
+Bar tout à l'ouest.
+
+Allez auprès de Shinosuke et utilisez le Charme sur lui, cela brisera la malédiction.
+
+Quittez le Bar et retournez au Dojo pour entendre les remerciements de Nikaido.
+
+Retournez à Suwa pour y dormir et refaire le plein d'objets.
+
+Ensuite prenez la direction du nord-est, passez le pont et continuez vers le nord-est puis vers
+l'ouest, là se trouve la tour d'Uzuki. C'est le moment d'y entrer.
+
+_________________________
+III.10. La Tour d'Uzuki - [UZUKI]
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ _______________________________________________
+/       TOUR UZUKI - Niveau 11 conseillé        \
+|                                               |
+| ------------ Ennemis rencontrés ------------- |
+| OgreR                 | Usagi                 |
+| VisOni                |                       |
+| -------------- Rez de Chaussée -------------- |
+| J09-Herbe             | G09-Démon             |
+| G10-Escalier vers G27 | K01-Escalier vers K18 |
+| ----------------- 1er étage ----------------- |
+| G27-Escalier vers G10 | B34-APoison           |
+| M33-Arme Odachi       | R31-Herbe             |
+| G18-150 ryo           | A19-Escalier vers A36 |
+| K18-Escalier vers K01 | R20-Homme             |
+| ---------------- 2ème étage ----------------- |
+| A36-Escalier vers A19 | E42-80 ryo            |
+| F41-Ailes             | L47-Plume             |
+| K35-Herbe             | Q36-Tigrai  (Boss)    |
+| Q36-Parchemin Feu     |                       |
+\_______________________________________________/
+
+                  Rez de Chaussée                                         1er étage                  
+      A B C D E F G H I J K L M N O P Q R S T              A B C D E F G H I J K L M N O P Q R S T  
+    _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _          _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+   |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|        |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+01 |_|             |_|_|   |_|_|             |_|     18 |_|         |_|   |_|       |_|  _     _  |_|
+02 |_|    _ _ _    |_|_|   |_|_|    _ _ _    |_|     19 |_|_ _ _ _  |_|_  |_|_ _    |_| |_|   |_| |_|
+03 |_|   |_|_|_|                   |_|_|_|   |_|     20 |_|_|_|_|_| |_|_| |_|_|_|   |_|_|_|_ _|_|_|_|
+04 |_|   |_|_|_|_ _ _ _ _ _ _ _ _ _|_|_|_|   |_|     21 |_|_|_|_|_| |_|_| |_|_|_|   |_|_|_|_|_|_|_|_|
+05 |_|   |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|   |_|     22 |_|_|_|_|_| |_|_| |_|_|_|   |_|_|_|_|_|_|_|_|
+06 |_|         |_|_|_|_|_|_|_|_|_|_|         |_|     23 |_|_|_|_|_| |_|_|_ _  |_|   |_|_|_|_|_|_|_|_|
+07 |_|_ _ _    |_|_|_|_|_|_|_|_|_|_|    _ _ _|_|     24 |_|_|_|_|_| |_|_|_|_| |_|                 |_|
+08 |_|_|_|_|   |_|  _         _  |_|   |_|_|_|_|     25 |_|_|_|_|_| |_|_|_|_| |_|_ _ _ _ _ _ _ _ _|_|
+09 |_|_|_|_|   |_| |_|       |_| |_|   |_|_|_|_|     26 |_|_|_|_|_| |_|_|_|_| |_|_|_|_|_|_|_|_|_|_|_|
+10 |_|_|_|_|   |_|_|_|_     _|_|_|_|   |_|_|_|_|     27 |_|                   |_|_|_|_|_|_|_|_|_|_|_|
+11 |_|         |_|_|_|_|   |_|_|_|_|         |_|     28 |_|    _ _ _ _     _  |_|_|_|_|_|_|_|_|_|_|_|
+12 |_|    _ _ _|_|_|_|_|   |_|_|_|_|_ _ _    |_|     29 |_|   |_|_|_|_|   |_|                     |_|
+13 |_|   |_|_|_|_|_|_|_|   |_|_|_|_|_|_|_|   |_|     30 |_|   |_|_|_|_|   |_|  _     _     _      |_|
+14 |_|   |_|_|_|                   |_|_|_|   |_|     31 |_|   |_|_|_|_|   |_| |_|   |_|   |_|     |_|
+15 |_|   |_|_|_|    _ _     _ _    |_|_|_|   |_|     32 |_|               |_| |_|   |_|   |_|     |_|
+16 |_|             |_|_|   |_|_|             |_|     33 |_|               |_|                     |_|
+17 |_|_ _ _ _ _ _ _|_|_|   |_|_|_ _ _ _ _ _ _|_|     34 |_|_ _ _ _ _ _ _ _|_|_ _ _ _ _ _ _ _ _ _ _|_|
+   |_|_|_|_|_|_|_|_|_|_|   |_|_|_|_|_|_|_|_|_|_|        |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+
+                    2ème étage                  
+      A B C D E F G H I J K L M N O P Q R S T  
+    _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+   |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+35 |_|               |_|         |_|         |_|
+36 |_|               |_|_ _      |_|         |_|
+37 |_|      _ _ _ _  |_|_|_|     |_|_ _ _ _  |_|
+38 |_|     |_|_|_|_| |_|_|_|     |_|_|_|_|_| |_|
+39 |_|     |_|_|_|_| |_|_|_|     |_|_|_|_|_| |_|
+40 |_|     |_|_|_|_|     |_|     |_|_|_|_|_| |_|
+41 |_|     |_|   |_|     |_|                 |_|
+42 |_|     |_|   |_|_    |_|_ _ _ _ _ _ _ _  |_|
+43 |_|     |_|   |_|_|   |_|_|_|_|_|_|_|_|_| |_|
+44 |_|     |_|   |_|_|   |_|_|_|_|_|_|_|_|_| |_|
+45 |_|     |_|   |_|_|   |_|_|_|_|_|_|_|_|_| |_|
+46 |_|     |_|_ _ _ _    |_|                 |_|
+47 |_|     |_|_|_|_|_|   |_|_ _ _     _ _ _ _|_|
+48 |_|     |_|_|_|_|_|   |_|_|_|_|   |_|_|_|_|_|
+49 |_|     |_|_|_|_|_|   |_|_|_|_|   |_|_|_|_|_|
+50 |_|                   |_|_|_|_|   |_|_|_|_|_|
+51 |_|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _|_|
+52 |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+
+Utilisez la clé Agate pour ouvir la porte.
+Pas la peine de prendre l'escalier tout en haut, car il vous amène devant une porte fermée à clé et
+un homme vous dit qu'il vous faut la Clé Jade.
+Avancez tout droit, prenez l'Herbe dans le pot et affrontez le Démon. Prenez ensuite les escaliers.
+Ici, prenez les objets dont vous avez besoin puis l'escalier en haut à gauche.
+A ce 2ème étage, l'objet le plus important se trouve en haut à droite gardé par un Tigrai, le
+Parchemin de Feu. Prenez-le puis quittez la tour.
+
+Retournez à Suwa vous soignez si besoin puis retournez vers le Dojo. De là, prenez la direction du
+nord-est en contournant le marais pour arriver chez le constructeur de pont qui vous annonce que
+le pont est terminé.
+
+______________________________
+III.11. Le Village de Mihama - [MIHAMA]
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ _______________________________________________
+/            MIHAMA - 27 ryo la nuit            \
+|                                               |
+| ---- Equipements ---- | ------ Objets ------- |
+| Arme   Odachi     200 | PiedTau            25 |
+| Arme   Soleil     700 | Herbe              15 |
+| Armure Vent      1000 | Plume              80 |
+| Casque Biwa      1200 | Champi             50 |
+|                       | APoison             8 |
+|                       | Navire           5000 |
+| ------------- Ennemis alentours ------------- |
+| EpiFou                | Kappa                 |
+| DragonB               | OgreR                 |
+\_______________________________________________/
+
+Vous pourrez acheter un Navire ici, qui vous permettra de voyager par la mer. Mais il faut d'abord
+retrouver l'Idole qui a été volée.
+
+Quittez le village et dirigez-vous vers Hinoki au nord-est.
+
+_____________________________
+III.12. Le Village d'Hinoki - [HINOKI]
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ _______________________________________________
+/            HINOKI - 30 ryo la nuit            \
+|                                               |
+| ---- Equipements ---- | ------ Objets ------- |
+| Arme   Soleil     700 | Herbe              15 |
+| Armure Seiun     2500 | Plume              80 |
+| Gant   Cloche     300 | Ailes              60 |
+| Botte  Nuit       260 | APoison             8 |
+| ------------- Ennemis alentours ------------- |
+| EpiFou                | Kappa                 |
+| OgreR                 | DragonB               |
+| Taureau               | Corbeau               |
+\_______________________________________________/
+
+Parlez principalement à la fille en bas à gauche. Il s'agit de la Princesse Kimo. Elle s'enfuit
+après.
+Améliorez votre équipements et quittez le village.
+
+Dirigez-vous vers le sud. Quand vous aurez atteint la côte, prenez légèrement à l'est puis continuez
+vers le sud. Puis de nouveau à l'est jusqu'à arriver au Temple.
+
+Parlez à l'homme près de l'entrée et vous apprendrez qu'il a perdu une Amulette. Puis juste avant
+de sortir, allez à droite pour parler à un autre homme. Il vous dira qu'il a perdu un Inro sur
+le Mont Karakasa.
+
+Le Mont Karakasa est juste d'un labyrinthe dans les montagnes à l'est du Temple.
+
+Une fois à l'entrée, prenez le chemin du bas. Une fois arrivé de l'autre côté, prenez l'extérieur
+des montagnes à droite et suivez le chemin. Vous devriez finir par arriver au centre.
+Faites chercher le Tanuki sur la porte Torii te vous trouverez l'Inro.
+
+Faites le chemin inverse et retournez au Temple.
+
+Rendez le Inro à son propriétaire. En échange, il vous donne le Sable qui permet,
+en se mettant sur une porte Torii près de l'eau, de faire un pont.
+
+Vous vous rappelez l'homme inaccessible à Arima ? Et bien si vous y retournez maintenant,
+vous pourrez construire un pont pour y accéder.
+Vous pouvez également retournez à l'est de Suwa et au nord d'Hinoki, il y a des pots sur
+de petites îles où vous trouverez 2000 ryo chacun en utilisant le Sable.
+
+Une fois prêt, revenez à Mihama.
+
+Utilisez le Sable sur la porte Torii à gauche dans le village et fouillez le pot. Vous y trouverez
+l'Amulette du vieil homme. Pas la peine d'aller le voir, il ne vous dira rien de spécial.
+
+Retournez plutôt à Hinoki.
+
+Allez à la maison où vous avez vu la Princesse et utilisez l'Amulette sur la porte pour briser
+le sceau et entrez. Placez-vous sur le coussin le plus à gauche et faites chercher le Tanuki et
+vous trouverez la ToileA.
+
+Il est maintenant temps de partir pour la tour Suigetsu qui se trouve au nord-est d'ici. Attention
+vous devrez traverser un marais pour y accéder.
+
+__________________________
+III.13. La Tour Suigetsu - [SUIGETSU]
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ _______________________________________________
+/      TOUR SUIGETSU - Niveau 17 conseillé      \
+|                                               |
+| ------------ Ennemis rencontrés ------------- |
+| AigleG                | Traqueur              |
+| Naga                  | Kitsune               |
+| -------------- Rez de Chaussée -------------- |
+| R09-Escalier vers R26 | C09-Escalier vers C26 |
+| ----------------- 1er étage ----------------- |
+| R26-Escalier vers R09 | B32-Escalier vers B48 |
+| I26-Escalier vers I42 | L27-Escalier vers L43 |
+| C26-Escalier vers C09 | S19-Escalier vers S35 |
+| ---------------- 2ème étage ----------------- |
+| B48-Escalier vers B32 | I42-Escalier vers I26 |
+| B36-Escalier vers B52 | S44-Escalier vers S60 |
+| Q48-Escalier vers Q64 | L43-Escalier vers L27 |
+| S35-Escalier vers S19 | S37-Escalier vers S53 |
+| ---------------- 3ème étage ----------------- |
+| B52-Escalier vers B36 | D55-Ailes             |
+| S60-Escalier vers S44 | T58-Arme Soleil       |
+| Q64-Escalier vers Q48 | B61-420 ryo           |
+| B64-Herbe             | E64-600 ryo           |
+| S53-Escalier vers S37 | J52-Kimo (Boss)       |
+| J52-Idole             |                       |
+\_______________________________________________/
+
+                  Rez de Chaussée                                         1er étage                  
+      A B C D E F G H I J K L M N O P Q R S T              A B C D E F G H I J K L M N O P Q R S T 
+    _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _          _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+   |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|        |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+01 |_|                                       |_|     18 |_|               |_|_|_|_|               |_|
+02 |_|          _ _ _ _     _ _ _ _          |_|     19 |_|               |_|_|_|_|               |_|
+03 |_|         |_|_|_|_|   |_|_|_|_|         |_|     20 |_|               |_|_|_|_|               |_|
+04 |_|  _ _ _  |_|_|_|_|   |_|_|_|_|  _ _ _  |_|     21 |_|    _ _ _                   _ _ _ _ _ _|_|
+05 |_| |_|_|_| |_|_|_|_|   |_|_|_|_| |_|_|_| |_|     22 |_|   |_|_|_|_ _ _ _ _        |_|_|_|_|_|_|_|
+06 |_| |_|_|_| |_|_|_|_|   |_|_|_|_| |_|_|_| |_|     23 |_|   |_|_|_|_|_|_|_|_|       |_|_|_|_|_|_|_|
+07 |_| |_|_|_| |_|               |_| |_|_|_| |_|     24 |_|   |_|_|_|_|_|_|_|_|       |_|_|_|_|_|_|_|
+08 |_| |_|_|_| |_|               |_| |_|_|_| |_|     25 |_|         |_|_|_|_|_|_     _|_|         |_|
+09 |_| |_| |_| |_|_ _ _     _ _ _|_| |_| |_| |_|     26 |_|         |_|_|   |_|_|   |_|_|         |_|
+10 |_| |_| |_| |_|_|_|_|   |_|_|_|_| |_| |_| |_|     27 |_|_ _ _ _ _|_|_|   |_|_|_ _|_|_|_ _ _    |_|
+11 |_| |_| |_| |_|_|_|_|   |_|_|_|_| |_| |_| |_|     28 |_|_|_|_|_|_|_|       |_|_|_|_|_|_|_|_|   |_|
+12 |_| |_| |_| |_|_|_|_|   |_|_|_|_| |_| |_| |_|     29 |_|_|_|_|_|_|_|       |_|_|_|_|_|_|_|_|   |_|
+13 |_| |_| |_| |_|               |_| |_| |_| |_|     30 |_|_|_|_|_|_|_|       |_|_|_|_|_|_|_|_|   |_|
+14 |_| |_| |_| |_|               |_| |_| |_| |_|     31 |_|                                       |_|
+15 |_|         |_|               |_|         |_|     32 |_|                _ _ _ _                |_|
+16 |_|_ _ _ _ _|_|               |_|_ _ _ _ _|_|     33 |_|_ _ _ _ _ _ _ _|_|_|_|_|_ _ _ _ _ _ _ _|_|
+17 |_|_|_|_|_|_|_|               |_|_|_|_|_|_|_|        |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+
+                    2ème étage                                           3ème étage                  
+      A B C D E F G H I J K L M N O P Q R S T              A B C D E F G H I J K L M N O P Q R S T 
+    _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _          _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+   |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|        |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+34 |_|            _ _         _ _    |_|     |_|     50 |_|         |_|               |_|  _      |_|
+35 |_|           |_|_|       |_|_|   |_|     |_|     51 |_|         |_|               |_| |_|     |_|
+36 |_|           |_|_|_ _ _  |_|_|   |_|     |_|     52 |_|         |_|               |_| |_|     |_|
+37 |_|           |_|_|_|_|_| |_|_|   |_|     |_|     53 |_|         |_|               |_| |_|     |_|
+38 |_|           |_|_|_|_|_| |_|_|   |_|_ _ _|_|     54 |_|         |_|               |_| |_|_ _ _|_|
+39 |_|           |_|_|_|_|_| |_|_|   |_|_|_|_|_|     55 |_|         |_|               |_| |_|_|_|_|_|
+40 |_|           |_|           |_|   |_|_|_|_|_|     56 |_|_ _ _ _ _|_|_ _ _     _ _ _|_| |_|_|_|_|_|
+41 |_|_ _ _ _    |_|           |_|   |_|_|_|_|_|     57 |_|_|_|_|_|_|_|_|_|_|   |_|_|_|_| |_|_|_|_|_|
+42 |_|_|_|_|_|   |_|           |_|           |_|     58 |_|_|_|_|_|_|_|_|_|_|   |_|_|_|_| |_|     |_|
+43 |_|_|_|_|_|   |_|_   _ _ _ _|_|           |_|     59 |_|_|_|_|_|_|_|_|_|_|   |_|_|_|_| |_|     |_|
+44 |_|_|_|_|_|   |_|_| |_|_|_|_|_|           |_|     60 |_|            _  |_|_ _ _ _ _ _ _|_|_ _ _|_|
+45 |_|     |_|   |_|_| |_|_|_|_|_|           |_|     61 |_|           |_| |_|_|_|_|_|_|_|_|_|_|_|_|_|
+46 |_|     |_|   |_|_| |_|_|_|_|_|           |_|     62 |_|           |_| |_|_|_|_|_|_|_|_|_|_|_|_|_|
+47 |_|     |_|   |_|_|       |_|_|           |_|     63 |_|           |_| |_|_|_|_|_|_|_|_|_|_|_|_|_|
+48 |_|     |_|   |_|_|       |_|_|           |_|     64 |_|           |_|                         |_|
+49 |_|_ _ _|_|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _|_|     65 |_|_ _ _ _ _ _|_|_ _ _ _ _ _ _ _ _ _ _ _ _|_|
+   |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|        |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+
+Commencez par parler avec la Princesse et montrez-lui la ToileA. Elle s'enfuit et s'enferme dans la
+tour. Utilisez l'Amulette pour l'ouvrir.
+Il n'y aucun objet important ici donc prenez ceux dont vous avez besoin. Voici le chemin
+le plus rapide pour arriver à Kimo.
+Prendre l'escalier de gauche puis celui tout à droite. Un seul escalier vous est disponible
+donc prenez-le, suivez le chemin et vous voilà devant Kimo.
+Parlez-lui puis tuez-la pour récupérer l'Idole.
+
+Quitter ensuite la Tour et retournez à Mihama.
+
+Aller voir l'ancien et parlez-lui pour lui rendre l'Idole. En échange, il vous donne
+le parchemin Eau.
+Allez maintenant dans le magasin d'objet et achetez un bateau (si ce n'est pas déjà fait)
+car maintenant, vous pouvez voyager sur la mer. Youpi !!!
+
+Avant de continuer l'aventure, partez vers le sud-est en bateau et contournez le continent pour vous
+retrouver au Temple. Il y a une petite île juste en-dessous avec un pot et un Happa qui montera
+le Tanuki au niveau 2.
+
+Repartez ensuite dans l'autre sens et allez au sud-est du Mont Karakasa. Dès que vous rencontrez
+la terre, suivez la côte vers le nord et vous devriez aperçevoir un village.
+Entrez-y.
+
+___________________________
+III.14. Le Village d'Ukyo - [UKYO]
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ _______________________________________________
+/             Ukyo - 50 ryo la nuit             \
+|                                               |
+| ---- Equipements ---- | ------ Objets ------- |
+| Arme   Soleil     700 | PiedTau            25 |
+| Arme   Mikado    2000 | Herbe              15 |
+| Armure Seiun     2500 | Plume              80 |
+| Armure Grand     6000 | Champi             50 |
+| Casque Biwa      1200 | APoison             8 |
+| Casque Daruma    3000 |                       |
+| Botte  Nuit       260 |                       |
+| ------------- Ennemis alentours ------------- |
+| AigleG                | BambouV               |
+| Onibi                 |                       |
+\_______________________________________________/
+
+Augmenter votre équipement avant de partir à la recherche d'un médicament pour la Princesse des
+Sirènes.
+
+Vous pouvez ici augementer votre expérience mais surtout votre argent car il va vous falloir
+20000 ryo.
+
+Dirigez-vous maintenant vers le sud-ouest et vous trouverez une grotte.
+
+____________________________
+III.15. Grotte de la Fleur - [FLEUR]
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ _______________________________________________
+/   GROTTE DE LA FLEUR - Niveau 19 conseillé    \
+|                                               |
+| ------------ Ennemis rencontrés ------------- |
+| BambouV               | TêteOni               |
+| DragonR               |                       |
+| -------------- Rez de Chaussée -------------- |
+| I08-Entrée/Sortie     | P02-Escalier vers P19 |
+| P08-Escalier vers P25 | P15-Escalier vers P32 |
+| B15-Escalier vers B32 | B08-Escalier vers B25 |
+| B02-Escalier vers B19 |                       |
+| --------------- 1er sous-sol ---------------- |
+| P19-Escalier vers P02 | P25-Escalier vers P08 |
+| P32-Escalier vers P15 | B32-Escalier vers B15 |
+| B25-Escalier vers B08 | B19-Escalier vers B02 |
+| H21-Fleur             |                       |
+\_______________________________________________/
+
+            Rez de Chaussée                                  1er sous-sol
+      A B C D E F G H I J K L M N O P Q            A B C D E F G H I J K L M N O P Q
+    _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _                _ _ _ _                       
+   |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|   17      _ _|       |_ _       _ _ _ _ _   
+01 |_|               |_|               |_|   18    _|    _ _        |_   _|         |  
+02 |_|      _ _      |_|    _ _ _      |_|   19   |    _|   |         | |           |  
+03 |_|_ _ _|_|_|_    |_|   |_|_|_|_ _ _|_|   20   |_ _|     |         | |        _ _|  
+04 |_|_|_|_|_|_|_|_ _   _ _|_|_|_|_|_|_|_|   21             |_        | |_     _|      
+05 |_|_|_|_|   |_|_|_| |_|_|_|   |_|_|_|_|   22      _ _      |_     _|   |_ _|        
+06 |_|      _ _  |_|_| |_|_|  _ _      |_|   23    _|   |_ _ _  |_ _|        _ _ _     
+07 |_|     |_|_| |_|     |_| |_|_|     |_|   24   |           |_ _       _ _|_    |_   
+08 |_|     |_|_|  _       _  |_|_|     |_|   25   |              _|    _|   |_|     |  
+09 |_|     |_|_| |_|_   _|_| |_|_|     |_|   26   |_           _|     |     |_|     |  
+10 |_|_ _ _     _|_|_| |_|_|_     _ _ _|_|   27     |_ _ _ _ _|       |_         _ _|  
+11 |_|_|_|_|_ _|_|_|_| |_|_|_|_ _|_|_|_|_|   28                         |_ _ _ _|      
+12 |_|_|_|_|_|_|_|    _    |_|_|_|_|_|_|_|   29      _ _ _ _ _ _       _ _             
+13 |_|_|_|_|_|_|_|   |_|   |_|_|_|_|_|_|_|   30    _|      _    |_   _|   |  _ _ _     
+14 |_|     |_|_|_|   |_|   |_|_|_|     |_|   31   |       |_|  _ _| |     |_|     |_   
+15 |_|               |_|               |_|   32   |       |_|_|     |              _|   
+16 |_|_ _ _ _ _ _ _ _|_|_ _ _ _ _ _ _ _|_|   33   |_ _ _ _ _|       |_ _ _ _ _ _ _|     
+   |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|                                             
+
+Il n'y a pas grand chose à récupérer ici donc prenez l'escalier en haut à gauche et faites
+fouiller le Tanuki au milieu des fleurs pour en récupérer une.
+
+Sortez de la grotte et revenez à Ukyo, dirigez-vous ensuite vers le nord-est. Après le marais, vous
+arriverez à une auberge.
+
+A l'intérieur, parlez à l'homme de gauche et achetez-lui la Sphère du Dragon pour 10000 ryo.
+
+Quittez ensuite l'auberge et dirigez-vous vers l'ouest en contournant les montagnes par le nord
+et vous trouverez une maison.
+L'homme à l'intérieur vous demande une Fleur pour faire une Pillule.
+Donnez-lui ce qu'il veut plus 10000 ryo et vous aurez une jolie Pillule.
+
+Retournez ensuite à Ukyo
+
+Parler avec la tortue et dites-lui que vous avez le remède, elle vous emmènera dans le palais
+de la Princesse. Parlez à toutes les filles, l'une d'elle vous donnera l'armure Flamme.
+Parlez à la Princesse et donnez-lui la Pillule, elle vous remerciera en vous offrant le Coffre
+de l'Ogre.
+
+Retournez ensuite au village.
+
+Allez dans la maison en bas à gauche et parlez à l'homme, il vous donnera un Peigne.
+Allez dans la maison en bas à droite et donnez le Peigne à la fille. Elle vous remerciera plus
+tard.
+
+Quittez maintenant le village et reprenez le bateau. Naviguez vers l'ouest jusqu'à être sous le Mont
+Karakasa puis allez vers le sud jusqu'aux tourbillons, entrez dedans et utilisez la Sphère
+rapidement sinon vous mourrez. Elle va vous permettre de naviguer dans les tourbillons sans
+problèmes.
+
+Continuez vers le sud et vous verrez une petite île où il y a un village. Entrez-y.
+
+_______________________________
+III.16. Le Village de Uzushio - [UZUSHIO]
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ _______________________________________________
+/           Uzushio - 70 ryo la nuit            \
+|                                               |
+| ---- Equipements ---- | ------ Objets ------- |
+| Arme   Soleil     700 | Herbe              15 |
+| Arme   Mikado    2000 | Plume              80 |
+| Gant   Bleu      3000 | Ailes              60 |
+| Botte  Nuit       260 | Sphère          10000 |
+| Botte  Oiseau     800 |                       |
+| ------------- Ennemis alentours ------------- |
+| AigleG                | BambouV               |
+| Onibi                 |                       |
+\_______________________________________________/
+
+Améliorez votre équipement et quittez le village puis allez à la tour juste à gauche du village.
+
+_________________________
+III.17. La Tour Mutsuki - [MUTSUKI]
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ _______________________________________________
+/      TOUR MUTSUKI  - Niveau 22 conseillé      \
+|                                               |
+| ------------ Ennemis rencontrés ------------- |
+| NeuNoeil              | DragonR               |
+| TêteOni               | Karaku                |
+| -------------- Rez de Chaussée -------------- |
+| D04-Escalier vers D21 | D15-Escalier vers D32 |
+| Q15-Escalier vers Q32 | Q04-Escalier vers Q21 |
+| I09-Escalier vers I26 | L10-Sukato (Boss)     |
+| L10-Arme Masamu       |                       |
+| ----------------- 1er étage ----------------- |
+| D21-Escalier vers D04 | B20-Ailes             |
+| D32-Escalier vers D15 | M33-Herbe             |
+| Q32-Escalier vers Q15 | T34-Escalier vers T51 |
+| O28-Escalier vers O45 | T20-3000 ryo          |
+| H20-Escalier vers H37 | Q21-Escalier vers Q04 |
+| A34-Escalier vers A51 | F25-Escalier vers F42 |
+| L27-Escalier vers L44 | I26-Escalier vers I09 |
+| ---------------- 2ème étage ----------------- |
+| T50-Escalier vers T34 | O44-Escalier vers O28 |
+| I48-Escalier vers I73 | T36-Escalier vers T61 |
+| M37-Herbe             | H36-Escalier vers H20 |
+| A50-Escalier vers A34 | F41-Escalier vers F25 |
+| B37-Escalier vers B62 | I42-Escalier vers I67 |
+| L43-Escalier vers L27 |                       |
+| ---------------- 3ème étage ----------------- |
+| I64-Escalier vers I49 | B65-Happa             |
+| S65-Armure Seiun      | R58-2000 ryo          |
+| S58-Herbe             | T52-Escalier vers T37 |
+| B53-Escalier vers B38 | I58-Escalier vers I43 |
+\_______________________________________________/
+
+                  Rez de Chaussée                                         1er étage                  
+      A B C D E F G H I J K L M N O P Q R S T              A B C D E F G H I J K L M N O P Q R S T  
+    _ _ _ _ _ _ _ _ _         _ _ _ _ _ _ _ _ _          _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+01 |_|_|_|_|_|_|_|_|_|       |_|_|_|_|_|_|_|_|_|        |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+02 |_|                                       |_|     19 |_|         |_|                     |_|   |_|
+03 |_|        _ _ _ _ _ _ _ _ _ _ _ _        |_|     20 |_|         |_|                     |_|   |_|
+04 |_|      _|_|_|_|_|_|_|_|_|_|_|_|_|_      |_|     21 |_|_ _ _ _ _|_|_ _ _ _ _ _ _ _      |_|   |_|
+05 |_|     |_|_|_|_|_|_|_|_|_|_|_|_|_|_|     |_|     22 |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|     |_|   |_|
+06 |_|     |_|_|_|_|_|_|_|_|_|_|_|_|_|_|     |_|     23 |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_ _ _|_|   |_|
+07 |_|     |_|_|_|_|_|_|_|_|_|_|_|_|_|_|     |_|     24 |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|   |_|
+08         |_|_|_|               |_|_|_|             25 |_|           |_|_|_|_|_|_|_|_|_|_|_|_|   |_|
+09         |_|_|_|               |_|_|_|             26 |_|    _ _ _ _|_|_|       |_|_|_|_|_|_|   |_|
+10         |_|_|_|               |_|_|_|             27 |_|   |_|_|_|_|_|_|_ _ _ _|_|_|           |_|
+11  _      |_|_|_|_ _ _ _ _ _ _ _|_|_|_|      _      28 |_|   |_|_|_|_|_|_|_|_|_|_|_|_|_ _ _ _ _ _|_|
+12 |_|     |_|_|_|_|_|_|_|_|_|_|_|_|_|_|     |_|     29 |_|   |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+13 |_|     |_|_|_|_|_|_|_|_|_|_|_|_|_|_|     |_|     30 |_|   |_|     |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+14 |_|     |_|_|_|_|_|_|_|_|_|_|_|_|_|_|     |_|     31 |_|   |_|     |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+15 |_|       |_|_|_|_|_|_|_|_|_|_|_|_|       |_|     32 |_|   |_|                     |_|         |_|
+16 |_|                                       |_|     33 |_|   |_|                     |_|         |_|
+17 |_|_ _ _ _ _ _ _ _         _ _ _ _ _ _ _ _|_|     34 |_|_ _|_|_ _ _ _ _ _ _ _ _ _ _|_|_ _ _ _ _|_|
+18 |_|_|_|_|_|_|_|_|_|       |_|_|_|_|_|_|_|_|_|        |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+
+                    2ème étage                                           3ème étage                  
+      A B C D E F G H I J K L M N O P Q R S T              A B C D E F G H I J K L M N O P Q R S T  
+    _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _          _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+   |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|        |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+35 |_|           |_|  _                      |_|     51 |_|                   |_|                 |_|
+36 |_|           |_|_|_|                     |_|     52 |_|        _ _ _      |_|    _ _ _        |_|
+37 |_|           |_|_|_|                     |_|     53 |_|       |_|_|_|     |_|   |_|_|_|       |_|
+38 |_|           |_|_|_|_ _ _ _ _ _ _ _ _ _ _|_|     54 |_|_ _ _ _|_|_|_|     |_|   |_|_|_|       |_|
+39 |_|           |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|     55 |_|_|_|_|_|_|_|_|     |_|   |_|_|_|       |_|
+40 |_|           |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|     56 |_|_|_|_|_|_|_|_|     |_|   |_|_|_|       |_|
+41 |_|           |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|     57 |_|_|_|_|_|_|_|_|     |_|   |_|_|_|       |_|
+42 |_|           |_|_|       |_|_|           |_|     58 |_|           |_|     |_|     |_|         |_|
+43 |_|_ _ _ _ _ _|_|_|_ _ _ _|_|_|           |_|     59 |_|           |_|_ _ _|_|     |_|_ _ _ _ _|_|
+44 |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|           |_|     60 |_|      _    |_|_|_|_|_|     |_|_|_|_|_|_|_|
+45 |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|           |_|     61 |_|     |_|   |_|_|_|_|_|     |_|_|_|_|_|_|_|
+46 |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|           |_|     62 |_|     |_|   |_|_|_|_|_|     |_|_|_|_|_|_|_|
+47 |_|                     |_|_|_|           |_|     63 |_|     |_|                  _ _ _        |_|
+48 |_|                     |_|_|_|           |_|     64 |_|     |_|                 |_|_|_|       |_|
+49 |_|                     |_|_|_|           |_|     65 |_|     |_|                 |_|_|_|       |_|
+50 |_|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _|_|     66 |_|_ _ _|_|_ _ _ _ _ _ _ _ _|_|_|_|_ _ _ _|_|
+   |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|        |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+
+Dans cette tour, se trouve un nouvel Happa pour le Tanuki ainsi qu'une très bonne épée.
+Pour récupérer le Happa, prenez l'escalier en bas à droite, prenez ensuite le seul escalier,
+puis allez sur la gauche et prenez l'escalier qui monte. Le Happa se trouve dans la pot à gauche.
+Ensuite, reprenez l'escalier par lequel vous venez d'arriver, puis l'escalier à gauche. Suivez
+ensuite les escaliers et le seul chemin qu'il y a et vous arriverez tout en bas de la tour avec
+un pot en son centre. Dès que vous vous placerez sur le pot, le Boss vous attaquera.
+Terrassez-le et vous pourrez récupérer l'arme Masamune dans le pot.
+
+Retournez à Uzushio faire le plein de vie et de magie puis retournez vers Ukyo.
+
+Avant d'aller plus loin, assurez-vous d'avoir l'armure Flamme.
+
+Les prochains ennemis que vous allez rencontrer sur la mer font beaucoup de dégâts,
+donc n'hésitez pas à augmenter votre niveau si nécessaire.
+
+Continuez vers le nord en longeant la côte. Au bout d'un moment, vous devriez aperçevoir
+une porte Torii (où vous pourrez utiliser le Sable pour récupérer un PiedTau), allez au nord
+de la porte et continuez vers l'est et vous arriverez près d'une grotte. Entrez-y.
+
+_______________________
+III.18. Grotte de Feu - [FEU]
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ _______________________________________________
+/      GROTTE DE FEU - Niveau 22 conseillé      \
+|                                               |
+| ------------ Ennemis rencontrés ------------- |
+| Kenken                | Foudri                |
+| NeuNoeil              |                       |
+| -------------- Rez de Chaussée -------------- |
+| P15-Entrée/Sortie     | I11-Armure Vent       |
+| P02-Arme Mikado       | L02-Herbe             |
+| A13-Sphère            | B02-Entrée/Sortie     |
+\_______________________________________________/
+
+                  Rez de Chaussée
+      A B C D E F G H I J K L M N O P Q   
+    _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+   |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+01 |_|   |_|_|_   _ _|_|_|     |_|_|   |_|
+02 |_|     |_|_| |_|_|_|_|  _ _|_|_|   |_|
+03 |_|  _ _|_|_| |_|_|     |_|_|    _ _|_|
+04 |_| |_|_|    _ _   _ _  |_|_|   |_|_|_|
+05 |_| |_|_|_  |_|_| |_|_|    _ _  |_|_|_|
+06 |_|   |_|_| |_|_| |_|_|   |_|_|     |_|
+07 |_|   |_|_|_ _       _ _  |_|_|_ _  |_|
+08 |_|  _ _  |_|_|_ _  |_|_|     |_|_| |_|
+09 |_| |_|_| |_|_|_|_| |_|_|_ _  |_|_| |_|
+10 |_|_|_|_|  _ _|_|_|     |_|_|      _|_|
+11 |_|_|     |_|_|_ _      |_|_|  _ _|_|_|
+12 |_|_|_ _  |_|_|_|_|  _ _      |_|_|_|_|
+13 |_| |_|_|_ _  |_|_| |_|_|_ _  |_|_| |_|
+14 |_| |_|_|_|_|    _ _|_|_|_|_|       |_|
+15 |_|     |_|_|   |_|_|   |_|_|       |_|
+16 |_|_ _ _ _ _ _ _|_|_|_ _ _ _ _ _ _ _|_|
+   |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+
+Tout simple ici, prenez les objets si besoin puis l'escalier en haut à droite. Vous voilà sur
+un autre continent.
+
+Continuez vers le nord et vous devriez atteindre un village.
+
+______________________________
+III.19. Le Village de Yagyuu - [YAGYUU]
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ _______________________________________________
+/            Yagyuu - 60 ryo la nuit            \
+|                                               |
+| ---- Equipements ---- | ------ Objets ------- |
+| Arme   Odachi     200 | PiedTau            25 |
+| Arme   Mikado    2000 | Herbe              15 |
+| Armure Grand     6000 | Plume              80 |
+| Casque Daruma    3000 | Champi             50 |
+| Botte  Oiseau     800 | APoison             8 |
+| ------------- Ennemis alentours ------------- |
+| Tueur                 | Shinaru               |
+\_______________________________________________/
+
+Parlez surtout à la vieille femme dans la maison. Si vous avez donné le Peigne à la fille à Ukyo,
+elle vous donne le parchemin Terre.
+
+Quittez le village et dirigez-vous vers le nord, pour rejoindre le Dojo de Sekishuusai.
+
+Parlez à tout le monde et repartez car le Maître n'est pas là.
+
+Repartez un peu vers le sud et prenez le pont à l'ouest puis reprenez la direction du nord
+jusqu'au prochain village.
+
+_______________________________
+III.20. Le Village de Matsuba - [MATSUBA]
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ _______________________________________________
+/           Matsuba - 80 ryo la nuit            \
+|                                               |
+| ---- Equipements ---- | ------ Objets ------- |
+| Armure Seiun     2500 | PiedTau            25 |
+| Armure Grand     6000 | Herbe              15 |
+| Casque Daruma    3000 | Plume              80 |
+| Casque Manji     7000 | Ailes              60 |
+| Botte  Vol       5000 | Sphère          10000 |
+|                       | APoison             8 |
+| ------------- Ennemis alentours ------------- |
+| Tueur                 | OgreV                 |
+| LanceP                | EpouRoug              |
+\_______________________________________________/
+
+Améliorer votre équipement et quittez la ville.
+
+Deux choix s'offrent à vous pour continuer.
+Si vous n'avez pas encore atteint le niveau 24, retournez prendre votre bateau et faites le tour
+du continent pour arriver au nord de Matsuba.
+Si vous êtes niveau 24 (ou plus), vous pouvez utiliser le sort Télépor pour retourner à Matsuba et
+votre bateau sera téléporté en même temps que vous. Suivez la rivière vers l'est puis le nord.
+
+Accostez sur la partie au nord du Dojo. Continuez vers le nord et vous aperçevrez une grotte.
+Suivez le chemin pour y accéder.
+
+____________________________
+III.21. Grotte de l'Esprit - [ESPRIT]
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ _______________________________________________
+/   GROTTE DE L'ESPRIT - Niveau 24 conseillé    \
+|                                               |
+| ------------ Ennemis rencontrés ------------- |
+| BambouR               | OgreV                 |
+| LanceP                |                       |
+| -------------- Rez de Chaussée -------------- |
+| Q17-Entrée/Sortie     | L13-Happa             |
+| D13-Armure Grand      | L06-PiedTau           |
+| D06-1500 ryo          | A01-Esprit            |
+\_______________________________________________/
+
+                  Rez de Chaussée
+      A B C D E F G H I J K L M N O P Q   
+    _   _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+01 |_| |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+02 |_| |_|  _ _ _ _  |_|  _ _ _ _ _ _  |_|
+03 |_| |_| |_|_|_|_| |_| |_|_|_|_|_|_| |_|
+04 |_| |_| |_|_|_|_| |_| |_|_|_|_|_|_| |_|
+05 |_| |_|     |_|_| |_|           |_| |_|
+06 |_| |_|_ _ _|_|_| |_|_ _ _ _ _ _|_| |_|
+07 |_| |_|_|_|_|_|_| |_|_|_|_|_|_|_|_| |_|
+08 |_| |_|_|_|_|_|_| |_|_|_|_|_|_|_|_| |_|
+09 |_|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  |_|
+10 |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_| |_|
+11 |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_| |_|
+12 |_|  _      |_|_|  _          |_|_| |_|
+13 |_| |_|     |_|_| |_|         |_|_| |_|
+14 |_| |_|_ _ _|_|_| |_|_ _ _ _ _|_|_| |_|
+15 |_| |_|_|_|_|_|_| |_|_|_|_|_|_|_|_| |_|
+16 |_| |_|_|_|_|_|_| |_|_|_|_|_|_|_|   |_|
+17 |_|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _|_|
+   |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+
+Prenez les objets dont vous avez besoin et surtout le plus près de l'escalier car c'est un Happa
+qui montera d'un niveau le Tanuki. Allez ensuite tout en haut à gauche et vous verrez une flamme.
+Parlez-lui et vous apprenez qu'il s'agit en fait de Sekishuusai et il vous dit que son épée
+a été volée par Okiku, une de ses femmes.
+Pas de temps à perdre, quittez la grotte et retournez au Dojo.
+
+Parlez à Okiku et elle vous attaque. Tuez-la et vous récupérerez l'arme Raiten.
+
+Avant d'aller plus loin, je vous conseille d'augmenter votre niveau d'expérience car les monstres
+vont être assez costauds. Pour vous donner une idée, au niveau 25, ils vous feront environ
+30 points de dégâts à chaque coup et les Boss sont pire.
+
+Pour vous aider dans vos combats et si vous avez beaucoup mais alors beaucoup d'argent,
+vous pouvez retourner à Arima puis prendre le bateau et dirigez-vous vers le sud puis vers l'ouest.
+Vous devriez trouver une petite île avec un carré de sable entouré d'arbres morts
+(ou de cactus, selon votre choix ;)). Allez sur le sable et vous arriverez à un magasin qui vous
+vend des Mandala pour 20000 ryo (ouch). Ces Mandala vous redonne des PM ce qui peut s'avérer très
+utile.
+
+Le chemin le plus court pour aller à la tour suivante, est de revenir à Uzushio avec le sort de
+téléportation. Prenez le bateau et dirigez-vous vers le sud.
+
+Vous devriez aperçevoir la tour. Accostez où vous pouvez (sur la gauche de l'île) et utiliser
+le Sable sur la porte Torii pour rejoindre la tour.
+
+_______________________
+III.22. Tour Yougetsu - [YOUGETSU]
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ _______________________________________________
+/      TOUR YOUGETSU - Niveau 30 conseillé      \
+|                                               |
+| ------------ Ennemis rencontrés ------------- |
+| Yuki                  | Spectre               |
+| Tenkai                | Namhage               |
+| Raijin                | Colérik               |
+| Karaku                |                       |
+| -------------- Rez de Chaussée -------------- |
+| J12-Spectre           | J12-Clé Jade          |
+| K09-Spectre           | L10-Escalier vers M27 |
+| G10-Escalier vers H45 | C14-Escalier vers D50 |
+| B03-Escalier vers C21 | Q14-Escalier vers R32 |
+| P03-Escalier vers Q39 |                       |
+| --------------- 1er sous-sol ---------------- |
+| M27-Escalier vers L10 | C21-Escalier vers B03 |
+| R21-Ailes             | R32-Escalier vers Q14 |
+| ----------------- 1er étage ----------------- |
+| H45-Escalier vers G10 | E44-Botte Oiseau      |
+| S51-Armure Grand      | K51-Escalier vers K67 |
+| D50-Escalier vers C14 | Q39-Escalier vers B09 |
+| T38-Escalier vers T54 |                       |
+| ---------------- 2ème étage ----------------- |
+| K67-Escalier vers K51 | I59-Ailes             |
+| L59-Genbu (Boss)      | L59-Parchemin Vent    |
+| T54-Escalier vers T38 | Q62-Happa             |
+| T68-Escalier vers T84 | D62-Plume             |
+| A68-Escalier vers A84 |                       |
+| ---------------- 3ème étage ----------------- |
+| T84-Escalier vers T68 | O73-Cristal           |
+| A84-Escalier vers A68 | E73-DragonS (Boss)    |
+| E73-Arme Murama       |                       |
+\_______________________________________________/
+
+                   Rez de Chaussée                                         1er sous-sol               
+        A B C D E F G H I J K L M N O P Q R                A B C D E F G H I J K L M N O P Q R S T  
+      _ _ _ _ _ _ _             _ _ _ _ _ _ _            _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+01   |_|_|_|_|_|_|_|           |_|_|_|_|_|_|_|          |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+02   |_|       |_|_|_ _     _ _|_|_|       |_|       19 |_|         |_|_|           |_|_|         |_|
+03   |_|       |_|_|_|_|   |_|_|_|_|       |_|       20 |_|         |_|_|           |_|_|         |_|
+04   |_|  _    |_|_|_|_|   |_|_|_|_|    _  |_|       21 |_|  _   _  |_|_|           |_|_|  _   _  |_|
+05   |_| |_|   |_|_|_|_|   |_|_|_|_|   |_| |_|       22 |_| |_| |_| |_|_|_ _     _ _|_|_| |_| |_| |_|
+06   |_| |_|   |_|_|_|_|   |_|_|_|_|   |_| |_|       23 |_| |_| |_| |_|_|_|_|   |_|_|_|_| |_| |_| |_|
+07   |_| |_|   |_|_|_|_|   |_|_|_|_|   |_| |_|       24 |_| |_| |_| |_|_|_|_|   |_|_|_|_| |_| |_| |_|
+08   |_|       |_|               |_|       |_|       25 |_|         |_|_|_|_|   |_|_|_|_|         |_|
+09   |_|  _    |_|               |_|    _  |_|       26 |_|  _   _  |_|_|_|_|   |_|_|_|_|  _   _  |_|
+10   |_| |_|   |_|               |_|   |_| |_|       27 |_| |_| |_| |_|_|           |_|_| |_| |_| |_|
+11   |_| |_|   |_|               |_|   |_| |_|       28 |_| |_| |_| |_|_|           |_|_| |_| |_| |_|
+12   |_| |_|   |_|_ _ _     _ _ _|_|   |_| |_|       29 |_| |_| |_| |_|_|_ _ _ _ _ _|_|_| |_| |_| |_|
+13   |_|       |_|_|_|_|   |_|_|_|_|       |_|       30 |_|         |_|_|_|_|_|_|_|_|_|_|         |_|
+14   |_|       |_|_|_|_|   |_|_|_|_|       |_|       31 |_|  _   _  |_|_|_|_|_|_|_|_|_|_|  _   _  |_|
+15   |_|_ _ _ _|_|_|_|_|   |_|_|_|_|_ _ _ _|_|       32 |_| |_| |_| |_|_|_|_|_|_|_|_|_|_| |_| |_| |_|
+16   |_|_|_|_|_|_|_|           |_|_|_|_|_|_|_|       33 |_| |_| |_| |_|_|_|_|_|_|_|_|_|_| |_| |_| |_|
+17   |_|_|_|_|_|_|_|           |_|_|_|_|_|_|_|       34 |_| |_| |_|                       |_| |_| |_|
+18   |_|_|_|_|_|_|_|           |_|_|_|_|_|_|_|       35 |_|                                       |_|
+                                                     36 |_|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _|_|
+                                                        |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+
+                    1er étage                                            2ème étage                  
+      A B C D E F G H I J K L M N O P Q R S T              A B C D E F G H I J K L M N O P Q R S T  
+    _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _          _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+   |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|        |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+37 |_|                           |_|_|       |_|     53 |_|                                       |_|
+38 |_|    _ _ _ _ _ _ _ _ _ _    |_|_|       |_|     54 |_|            _ _ _ _ _ _ _ _            |_|
+39 |_|   |_|_|_|_|_|_|_|_|_|_|   |_|_|       |_|     55 |_|  _ _ _ _  |_|_|_|_|_|_|_|_|  _ _ _ _  |_|
+40 |_|   |_|_|_|_|_|_|_|_|_|_|   |_|_|_ _ _ _|_|     56 |_| |_|_|_|_| |_|_|_|_|_|_|_|_| |_|_|_|_| |_|
+41 |_|   |_|_|_|_|_|_|_|_|_|_|   |_|_|_|_|_|_|_|     57 |_| |_|_|_|_| |_|_|_|_|_|_|_|_| |_|_|_|_| |_|
+42 |_|   |_|_|_|_|_|_|_|_|_|_|   |_|_|_|_|_|_|_|     58 |_| |_|_|_|_| |_|           |_| |_|_|_|_| |_|
+43 |_|   |_|_|_|_|_|_|_|_|_|_|   |_|_|_|_|_|_|_|     59 |_| |_|_|_|_| |_|           |_| |_|_|_|_| |_|
+44 |_|   |_|_|                   |_|_|_|_|_|_|_|     60 |_| |_|_|_|_| |_|           |_| |_|_|_|_| |_|
+45 |_|   |_|_|_ _ _ _ _ _ _ _     _ _ _ _    |_|     61 |_|       |_| |_|_ _     _ _|_| |_|       |_|
+46 |_|   |_|_|_|_|_|_|_|_|_|_|   |_|_|_|_|   |_|     62 |_|  _ _ _|_| |_|_|_|   |_|_|_| |_|_ _ _  |_|
+47 |_|   |_|_|_|_|_|_|_|_|_|_|   |_|_|_|_|   |_|     63 |_| |_|_|_|_| |_|_|_|   |_|_|_| |_|_|_|_| |_|
+48 |_|   |_|_|_|_|_|_|_|_|_|_|   |_|_|_|_|   |_|     64 |_| |_|_|_|_| |_|_|_|   |_|_|_| |_|_|_|_| |_|
+49 |_|   |_|_|_|_|_|_|_|_|_|_|   |_|_|_|_|   |_|     65 |_| |_|_|_|_| |_|           |_| |_|_|_|_| |_|
+50 |_|             |_|_|         |_|_|       |_|     66 |_| |_|       |_|           |_|       |_| |_|
+51 |_|             |_|_|         |_|_|       |_|     67 |_| |_|       |_|           |_|       |_| |_|
+52 |_|_ _ _ _ _ _ _|_|_|_ _ _ _ _|_|_|_ _ _ _|_|     68 |_|_|_|_ _ _ _|_|_ _ _ _ _ _|_|_ _ _ _|_|_|_|
+   |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|        |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+
+                    3ème étage                  
+      A B C D E F G H I J K L M N O P Q R S T   
+    _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+   |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+69 |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+70 |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+71 |_|_|_|             |_|_|               |_|_|
+72 |_|_|_|             |_|_|               |_|_|
+73 |_|_|_|             |_|_|               |_|_|
+74 |_|_|_|             |_|_|               |_|_|
+75 |_|_|_|_ _     _ _ _|_|_|_ _ _     _ _ _|_|_|
+76 |_|_|_|_|_|   |_|_|_|_|_|_|_|_|   |_|_|_|_|_|
+77 |_|_|_|_|_|   |_|_|_|_|_|_|_|_|   |_|_|_|_|_|
+78 |_|_|_|_|_|   |_|_|_|_|_|_|_|_|   |_|_|_|_|_|
+79 |_|_|_|_|_|   |_|_|_|_|_|_|_|_|   |_|_|_|_|_|
+80 |_|_|               |_|_|               |_|_|
+81 |_|_|               |_|_|               |_|_|
+82 |_|_|               |_|_|               |_|_|
+83 |_|_|  _ _ _ _ _ _ _|_|_|_ _ _ _ _ _ _  |_|_|
+84 |_|_ _|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_ _|_|
+   |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+
+Commencez par éliminer le premier Spectre, prenez la Clé Jade dans le pot, et tuez le deuxième
+Spectre si ça vous fait plaisir.
+Prenez l'escalier de droite et libérer les prisonniers. Remontez et prenez l'autre escalier.
+Prenez les objets dont vous avez besoin puis prenez l'escalier juste en-dessous de celui par
+lequel vous venez d'arriver. Ouvrez la grille avec la Clé et prenez les objets. ATTENTION !!
+Il y a un Boss, Genbu, sur le pot de droite. Fouillez ensuite le pot et vous trouverez 
+le Parchemin Vent.
+
+Repartez par l'escalier puis allez prendre l'escalier qui est tout à gauche. Vous vous
+retrouvez sur le côté gauche du rez de chaussée. Prenez l'escalier en haut.
+
+Continuez à suivre le chemin, prenez l'objet en haut à droite si besoin puis l'escalier
+en bas à droite. Vous êtes maintenant sur le côté droit du rez de chaussée.
+Prenez les seuls escaliers possibles, puis les suivants.
+
+Commencez par descendre et prenez le Happa dans le pot puis l'escalier plus bas.
+Ouvrez la grille et prenez le Crystal dans le pot. Revenez à l'étage inférieur et faites le même
+parcours mais à droite.
+
+Ouvrez la grille et préparez-vous pour un nouveau Boss encore plus fort que Genbu.
+Récupérez la Muramasa et quittez cette tour.
+
+______________________________
+III.23. Derniers préparatifs - [PREPARE]
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Retournez à Suwa avec votre sort de téléportation puis allez à la tour Uzuki au nord-est.
+Une fois dans la tour, prenez l'escalier qui est tout en haut et ouvrez la grille avec la Clé Jade.
+Parlez à l'homme et il ouvrira le Coffre de l'Ogre qui contient la Lueur du Matin.
+
+Allez maintenant à Yagyuu et récupérer votre bateau au sud, en passant par la grotte.
+Direction le sud-est où vous devriez trouver une petite île avec une grotte. Entrez-y, suivez
+le seul chemin et utilisez le cristal au centre du carré rouge et Houou vous donnera l'Armure
+Kujaku.
+
+Retournez maintenant près de la Tour Yougetsu en passant par Uzushio. Une fois près de la tour,
+naviguez vers l'ouest, vous arriverez à une petite île avec une auberge (100 ryo la nuit).
+Il n'y a rien à faire ici, à part avoir quelques informations et dormir, donc repartez.
+
+Naviguez vers le sud et entrez dans les tourbillons. Utilisez la Lueur du Matin, ce qui vous
+amènera à une île cachée.
+
+Entrez dans la grotte.
+
+__________________________________
+III.24. Grotte vers l'Ile Ganryu - [GANRYU]
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ _______________________________________________
+/   GROTTE             - Niveau 30 conseillé    \
+|                                               |
+| ------------ Ennemis rencontrés ------------- |
+| Raijin                | Namhage               |
+| Yuki                  | Colérik               |
+| Hakkaku               |                       |
+| -------------- Rez de Chaussée -------------- |
+| B09-Entrée            | J13-Herbe             |
+| P10-Happa             | A03-Plume             |
+| P02-Sortie            |                       |
+\_______________________________________________/
+
+                Rez de Chaussée
+      A B C D E F G H I J K L M N O P Q R 
+    _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+   |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+01 |_|_|    _ _ _ _ _  |_|_|_|_|_|     |_|_|
+02 |_|     |_|_|_|_|_| |_|  _ _ _       _|_|
+03 |_|_ _  |_|_|_|_|_| |_| |_|_|_|_ _ _|_|_|
+04 |_|_|_|_ _    |_|_|_ _ _|_|_|_|_|_|_|_|_|
+05 |_|_|_|_|_|   |_|_|_|_|_|_|    _ _  |_|_|
+06 |_|_|_|_|_|_ _ _ _ _ _ _ _ _ _|_|_|   |_|
+07 |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|   |_|
+08 |_|_|_|_|_|_|  _ _   _ _ _ _  |_|    _|_|
+09 |_|     |_|_| |_|_|_|_|_|_|_|_ _    |_|_|
+10 |_|_   _|_|_| |_|_|_|_|_|_|_|_|_|_ _|_|_|
+11 |_|_| |_|_|_|_  |_|_|_|_|_|_|_|_|_|_|_|_|
+12 |_|_| |_|_|_|_|_ _ _          |_|_|_|_|_|
+13 |_|_| |_|_|_|_|_|_|_|_ _ _ _ _ _    |_|_|
+14 |_|_| |_|_|_|_|_|_|_|_|_|_|_|_|_|   |_|_|
+15 |_|_|_  |_|_|_|_|_|_|_|_|_|_|_|_|  _|_|_|
+16 |_|_|_|_ _ _ _ _ _ _ _ _ _ _ _ _ _|_|_|_|
+   |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+
+Grotte ultra simple, question chemin, donc suivez-le jusqu'au bout en prenant les objets
+au passage.
+
+Une fois dehors, continuez votre chemin vers l'est et vous devriez arriver à un village.
+
+_______________________________
+III.25. Le Village de Tatsuno - [TATSUNO]
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ _______________________________________________
+/                    Tatsuno                    \
+|                                               |
+| ------------- Ennemis alentours ------------- |
+| Ranmaru               | AcidOwl               |
+| Spectre               | Totaren               |
+\_______________________________________________/
+
+Parlez à l'homme en bas à gauche qu'il vous dise où récupérer le dernier Parchemin.
+Allez parler à l'ancien dans la maison du milieu pour apprendre qu'il a perdu le Parchemin dans
+sa maison. Placez-vous juste en-dessous le tableau à gauche, descendez d'un carreau et faites
+fouiller le Tanuki.
+
+Retournez parler à l'homme en bas à gauche.
+
+Assurez-vous d'avoir les 3 épées légendaires, Raiten, Masamune et Muramase et les 5 parchemins.
+
+Retournez à Matsuba puis prenez votre bateau, remontez la rivière vers le nord et accostez
+au même endroit que la dernière fois que vous êtes passés par là. Mais au lieu d'aller vers la
+grotte, allez vers l'ouest, vous devriez aperçevoir un arbre. Placez-vous dessus
+et faites chercher le Tanuki. Vous perdrez les 3 épées mais recevrez en échange l'arme la plus
+puissante du jeu.
+
+Maintenant que vous avez les meilleurs équipements, il est de temps de monter de niveau.
+Parce que vous allez en avoir besoin.
+Si vous êtes au niveau 30, Kojiro fait des attaques d'environ 40 PV mais il abuse des
+sorts ForPlus et DéfMini donc vous vous retrouvez à subir des attaques de 70 PV et
+pour en rajouter, il bénéficie souvent de 2 attaques d'affilées.
+Prévoyez 1 ou 2 Mandala pour récupérer des PM.
+
+Pour vous aider à battre les Boss de fin, je vous conseille de faire en sorte qu'il vous manque
+moins de 255 points d'expérience pour passer au niveau suivant avant d'affronter Kojiro (aidez-vous
+du tableau à la fin de la soluce).
+Comme cela, vous récupérerez tous vos PV et PM avant d'affronter le dernier Boss.
+
+Lorsque vous pensez être prêt, retourner à Tatsuno puis aller vers l'ouest. Il y a un passage
+invisible entre les montagnes. Une fois de l'autre côté, vous arriverez au Château de Kojiro.
+
+Carte des montagnes grises à l'ouest de Tatsuno.
+               _
+             _|_|_
+            |_|_|_|  _
+              |_|_|_|_|_
+             _|_|_|_|_|_|_
+            |_|_|_|_|_|_|_|_
+            |_|_|_|_|_|_|_|_|  _
+            |_|_|_|_|_|_|_|_|_|_|_
+              |_|_|_|_|_|_|_|_|_|_|
+             _|_|_|_|_|_|_|_|_|_|_|  _
+            |_|_|_|_|_|_|_|_|_|_|_ _|_|_
+            |_|_|_|_|_|_|     |_|_|_|_|_|_
+           _  |_|_|_|_   lac   _|_|_|_|_|_|  _
+         _|_| |_|_|_|_|  lac _|_|_|_|_|_|  _|_|
+        |_|_| |_|_|_|_|_ _ _|_|_|_|_|_|_| |_|_|_
+     _ _|_|_| |_|_|_|_|_|_|_|_|_|_|  _ _ _|_|_|_|_
+    |_|_|_|_|_ _ _ _ _ _  |_|_|_|_| |_|_|_|_|_|_|_|_
+   _|_|_|_|_|_|_|_|_|_|_| |_|_|_|_|_ _ _ _  |_|_|_|_|
+ _|_|_|_| |_|_|_|_|_|_|_|_  |_| |_|_|_|_|_| |_|_|_|_|
+|_|         |_|_|_|_|_|_|_|___  |_|_|_|_|_| |_|_|_|
+     ___    |_|_|_|  _/       \_   _ _ _ _ _|_|_|
+\___/   \___________/           \_  |_|_|_|_|_|
+                                  \_____|_|
+
+___________________________
+III.26. Château de Kojiro - [KOJIRO]
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ _______________________________________________
+/    CHATEAU DE KOJIRO - Niveau 35 conseillé    \
+|                                               |
+| ------------ Ennemis rencontrés ------------- |
+| Akakage               | AcidOwl               |
+| Raou                  |                       |
+|                       |                       |
+| -------------- Rez de Chaussée -------------- |
+| E06-Escalier vers E22 | E02-Escalier vers E18 |
+| N06-Escalier vers O05 | N02-Escalier vers N18 |
+| K02-Escalier vers K18 | H02-Escalier vers H18 |
+| H06-Escalier vers H22 | K06-Escalier vers K22 |
+| ----------------- 1er étage ----------------- |
+| E22-Escalier vers E06 | E25-Herbe             |
+| E18-Escalier vers E02 | E31-Escalier vers F47 |
+| N05-Escalier vers N06 | I31-Escalier vers I47 |
+| N18-Escalier vers N02 | K18-Escalier vers K02 |
+| H18-Escalier vers H02 | H22-Escalier vers H06 |
+| K22-Escalier vers K06 | K28-Escalier vers K44 |
+| ---------------- 2ème étage ----------------- |
+| F47-Escalier vers E31 | F44-Champi            |
+| E40-Casque Manji      | B35-Gant Bleu         |
+| I47-Escalier vers I31 | Q42-Ailes             |
+| R35-Botte Vol         | K44-Escalier vers K28 |
+| H35-Herbe             | L34-Escalier vers E58 |
+| ---------------- 3ème étage ----------------- |
+| E58-Escalier vers L34 | E51-Kojiro (Boss)     |
+| E51-DemonKo (Boss)    |                       |
+\_______________________________________________/
+
+                   Rez de Chaussée                                       1er étage                  
+        A B C D E F G H I J K L M N O P Q R S              A B C D E F G H I J K L M N O P Q R S
+    _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _          _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+   |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|        |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+01 |_|    _      |_|           |_|      _    |_|     18 |_|  _ _ _ _|_|_| |_|_|   |_|_ _ _ _ _  |_|
+02 |_|  _|_|_ _ _|_|_ _ _ _ _ _|_|_ _ _|_|_  |_|     19 |_| |_|_|_|_|_|_| |_|_|   |_|_|_|_|_|_| |_|
+03 |_| |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_| |_|     20 |_| |_|_|_|_|_|_| |_|_|_ _ _ _ _ _ _ _  |_|
+04 |_| |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_| |_|     21 |_| |_|_|_|_|_|_| |_|_|_|_|_|_|_|_|_|_| |_|
+05 |_| |_|_|       |_|       |_|       |_|_| |_|     22 |_| |_|_|   |_|_|_|_|_| |_|_|   |_|_|_| |_|
+06 |_|   |_|       |_|       |_|       |_|   |_|     23 |_| |_|_|   |_|_|_|_|_| |_|_|_  |_|_|_| |_|
+07 |_|   |_|      _|_|_ _ _ _|_|_      |_|   |_|     24 |_| |_|_|     |_|_|_|_| |_|_|_| |_|_|_| |_|
+08 |_|   |_|     |_|_|_|_|_|_|_|_|     |_|   |_|     25 |_| |_|_|     |_|_|_|_| |_|_|_| |_|_|_| |_|
+09 |_|   |_|     |_|_|_|_|_|_|_|_|     |_|   |_|     26 |_| |_|_|_ _ _|_|_|_|_| |_|_|_| |_|_|_| |_|
+10 |_|   |_|    _  |_|       |_|  _    |_|   |_|     27 |_| |_|_|_|_|_|_|_|_|_| |_|_|_| |_|_|_|_|_|
+11 |_|  _|_|_ _|_|_             _|_|_ _|_|_  |_|     28 |_| |_|_|_|_|_|_|_|_|_|_|_|_|_| |_|_|_|_|_|
+12 |_| |_|_|_|_|_|_|           |_|_|_|_|_|_| |_|     29 |_| |_|_|_|_|_|_|_|_|_|_|_|_|_|  _ _    |_|
+13 |_| |_|_|_|_|_|_|_ _     _ _|_|_|_|_|_|_| |_|     30 |_| |_|_|     |_|      _ _ _ _ _|_|_|   |_|
+14 |_| |_|_|_|_|_|_|_|_|   |_|_|_|_|_|_|_|_| |_|     31 |_| |_|_|     |_|     |_|_|_|_|_|_|_|   |_|
+15 |_|   |_|   |_|  _         _  |_|   |_|   |_|     32 |_| |_|_|     |_|     |_|_|_|_|_|_|_|   |_|
+16 |_|_ _ _ _ _ _ _|_|_     _|_|_ _ _ _ _ _ _|_|     33 |_|_ _ _ _ _ _|_|_ _ _ _ _ _ _ _ _ _ _ _|_|
+17 |_|_|_|_|_|_|_|_|_|_|   |_|_|_|_|_|_|_|_|_|_|        |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+
+                    2ème étage                             3ème étage                  
+      A B C D E F G H I J K L M N O P Q R S            A B C D E F G H I
+    _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _                _ _ _ 
+   |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|             _|_|_|_|_
+34 |_|     |_|_|_|_|   |_|_|   |_|_|_|     |_|           _|_|_|_|_|_|_
+35 |_|     |_|_|_|_|   |_|_|   |_|_|_|     |_|         _|_|_|_|_|_|_|_|_
+36 |_|  _ _|_|_|_|_|   |_|_|   |_|_|_|_ _  |_|     50 |_|_|_|_| |_|_|_|_|
+37 |_| |_|_|_|_|_|_|   |_|_|   |_|_|_|_|_| |_|     51 |_|_|_|     |_|_|_|
+38 |_| |_|_|_|_|_|_|_ _ _   _ _|_|_|_|_|_| |_|     52 |_|_|         |_|_|
+39 |_| |_|_|_|_|_|_|_|_|_| |_|_|_|_|_|_|_| |_|     53 |_|_|         |_|_|
+40 |_| |_|_|_|   |_|_|_|_| |_|_|_|_|_|_|_| |_|     54 |_|_|         |_|_|
+41 |_| |_|_|_|  _|_|_|_|_| |_|_|_|_|       |_|     55 |_|_|_       _|_|_|
+42 |_|  _ _ _  |_|_|_|_|_| |_|_|_|_|_ _ _  |_|     56 |_|_|_|_   _|_|_|_|
+43 |_| |_|_|_|   |_|_|_|     |_|_|_|_|_|_| |_|     57   |_|_|_| |_|_|_|
+44 |_| |_|_|_|_ _|_|_|_|     |_|_|_|_|_|_| |_|     58     |_|_|_|_|_|
+45 |_| |_|_|_|_|_|_|_|_|_ _ _|_|_|_|_|_|_| |_|              |_|_|_|
+46 |_| |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_| |_|        
+47 |_|           |_|_|     |_|_|_|_|_|     |_|        
+48 |_|           |_|_|     |_|_|_|_|_|     |_|        
+49 |_|_ _ _ _ _ _|_|_|_ _ _ _ _ _ _ _ _ _ _|_|        
+   |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|        
+
+Si vous avez acheté les équipements au fur et à mesure, vous ne devriez pas avoir besoin de
+récupérer ceux dans le Château. Le chemin le plus direct pour rejoindre Kojiro est de prendre
+l'escalier tout en haut à droite et de suivre le seul chemin possible.
+
+Affrontez Kojiro. Une fois que vous l'avez battu, partez vers le bas pour quitter la pièce et
+DemonKo vous attaquera.
+Il attaque principalement avec la magie mais il est plus simple que Kojiro.
+
+Et n'oubliez pas de prier que votre Tanuki vous aide comme il faut :D
+
+A la fin de ce terrible combat, vous vous retrouverez à Tatsuno.
+Allez dans la maison en bas à gauche et parlez à la fille. Il s'agit Otsu qui n'en pouvait plus
+de vous attendre.
+Parlez ensuite à l'homme et il vous demandera de diriger le pays.
+
+Vient ensuite les crédits de fin...
+
+
+IV. OBJETS - [OBJETS]
+ -----------------------------------------------------------------------------------------------------
+|   NOM   | ACHAT | VENTE | DESCRIPTION                                                               |
+ -----------------------------------------------------------------------------------------------------
+| Agate   |     - |     - | Clé pour ouvrir les portes des Uzuki et Yougetsu                          |
+| Ailes   |    60 |    36 | Permet de quitter un donjon                                               |
+| Amulett |     - |     - | A donner à un homme dans le Temple de prières                             |
+| APoison |     8 |     5 | Soigne de l'empoisonnement                                                |
+| Champi  |    50 |    30 |                                                                           |
+| Charme  |     - |     - | A utiliser sur Shinosuke dans le bar pour ôter la malédiction             |
+| CoffrO  |     - |     - | Contient la Lueur du Matin, a donner à un homme dans la tour Uzuki        |
+| Cristal |     - |     - | A utiliser dans un Temple pour récupérer la meilleure armure              |
+| Eau     |     - |     - | Parchemin de l'Eau                                                        |
+| Feu     |     - |     - | Parchemin du Feu                                                          |
+| Fleur   |     - |     - | A donner au Pharmacien pour créer une Pillule                             |
+| Flûte   |     - |  3000 | Redonne des PV si joué aux portes Torii                                   |
+| Happa   |     - |     - | Augmente le niveau du Tanuki                                              |
+| Herbe   |    15 |     9 | Redonne des PV                                                            |
+| Idole   |     - |     - | A donner à l'ancien de Mihama                                             |
+| Inro    |     - |     - | A donner à un homme dans le Temple de prières                             |
+| Jade    |     - |     - | Clé pour libérer un homme dans la Tour Uzuki                              |
+| Lapis   |     - |     - | Clé pour libérer le Tanuki dans la grotte                                 |
+| LueurM  |     - |     - | Permet de trouver une île invisible                                       |
+| Mandala | 20000 |  5000 | Redonne des PM (utilisable plusieurs fois)                                |
+| Navire  |  5000 |     - | Permet de se déplacer sur la mer                                          |
+| Peigne  |     - |     - | A donner à une fille dans le village d'Ukyo                               |
+| PiedTau |    25 |    15 |                                                                           |
+| Pillule | 10000 |     - | A donner à la Princesse des Sirènes                                       |
+| Plume   |    80 |    48 | Permet de retourner au dernier village                                    |
+| Sable   |     - |     - | Permet de créer des ponts. A utiliser sur une porte Torii                 |
+| Sake    |    50 |    30 | A donner à un homme au bar en échange de la clé Agate                     |
+| Sphère  | 10000 |  6000 | Permet de nivaiguer sur les tourbillons                                   |
+| Terre   |     - |     - | Parchemin de la Terre                                                     |
+| ToileA  |     - |     - | A donner à la Princesse Kimo dans la Tour Suigetsu                        |
+| Vent    |     - |     - | Parchemin du Vent                                                         |
+| Vide    |     - |     - | Parchemin du vide                                                         |
+ -----------------------------------------------------------------------------------------------------
+
+
+V. EQUIPEMENTS - [EQUIPEMENTS]
+ -----------------------------------------------------------------------------------------------------
+|   NOM   | ACHAT | VENTE |  ATTRIBUT   | TYPE                                                        |
+ -----------------------------------------------------------------------------------------------------
+| Bambou  |    50 |    15 | Attaque + 2 | Arme                                                        |
+| Odachi  |   200 |   120 | Attaque + 4 | Arme                                                        |
+| Soleil  |   700 |   420 | Attaque +10 | Arme                                                        |
+| Mikado  |  2000 |  1200 | Attaque +19 | Arme                                                        |
+| Murasa  |       | 10000 | Attaque +24 | Arme                                                        |
+| Masamu  |     - |     - | Attaque +28 | Arme                                                        |
+| Raiten  |     - |     - | Attaque +33 | Arme                                                        |
+| Murama  |     - |     - | Attaque +40 | Arme                                                        |
+| RameCh  |     - |     - | Attaque +50 | Arme                                                        |
+| Bois    |    70 |    42 | Défense + 2 | Armure                                                      |
+| Chance  |   400 |   240 | Défense + 4 | Armure                                                      |
+| Vent    |  1000 |   600 | Défense +10 | Armure                                                      |
+| Seiun   |  2500 |  1500 | Défense +16 | Armure                                                      |
+| Grand   |  6000 |  3600 | Défense +24 | Armure                                                      |
+| Flamme  |     - | 20000 | Défense +29 | Armure                                                      |
+| Kujaku  |     - |     - | Défense +39 | Armure                                                      |
+| Erable  |   150 |    90 | Défense + 1 | Gant                                                        |
+| Cloche  |   300 |   180 | Défense + 3 | Gant                                                        |
+| Bleu    |  3000 |  1800 | Défense + 6 | Gant                                                        |
+| Biwa    |  1200 |   720 | Défense + 1 | Casque                                                      |
+| Daruma  |  3000 |  1800 | Défense + 2 | Casque                                                      |
+| Manji   |  7000 |  4200 | Défense + 4 | Casque                                                      |
+| Nuit    |   260 |   156 | Magie   + 5 | Botte                                                       |
+| Oiseau  |   800 |   480 | Magie   +15 | Botte                                                       |
+| Vol     |  5000 |  3000 | Magie   +30 | Botte                                                       |
+ -----------------------------------------------------------------------------------------------------
+
+
+VI. SORTS - [SORTS]
+ -----------------------------------------------------------------------------------------------------
+|   NOM   | COUT | DESCRIPTION                                                                        |
+ -----------------------------------------------------------------------------------------------------
+| AgPlus  |      | Augmente l'Agilité du personnage                                                   |
+| Assomer |      | Immobilise l'ennemi                                                                |
+| DéfMini |    3 | Diminue la Défense de l'ennemi                                                     |
+| DéfPlus |      | Augmente la Défense du personnage                                                  |
+| Eclair  |    5 | Attaque l'ennemi avec la magie de froudre                                          |
+| Eclair2 |      | Attaque l'ennemi avec la magie de foudre                                           |
+| Eclat   |      | Attaque l'ennemi avec une explosion                                                |
+| Feu     |    5 | Attaque l'ennemi avec une boule de feu                                             |
+| Folie   |      | Rend fou l'ennemi et lui faire n'importe quoi                                      |
+| ForPlus |      | Augmente l'attaque                                                                 |
+| Glace   |    5 | Attaque l'ennemi avec la magie de Glace                                            |
+| HuileSo |      |                                                                                    |
+| Ikana   |      |                                                                                    |
+| MagPlus |      | Augmente la Magie du personnage                                                    |
+| Mandala | Objet| Redonne des PM                                                                     |
+| Masamu  | Arme | Augmente la Défense lorsqu'elle est utilisée                                       |
+| Miroir  |      | Crée une illusion qui gène l'ennemi                                                |
+| Murama  | Arme | Augmente l'Attaque lorsqu'elle est utilisée                                        |
+| Murasa  | Arme | Tue direct un ennemi en échange de 80 PV                                           |
+| Mufle   |    4 | Endort l'ennemi                                                                    |
+| NuageP  |      | Entoure l'ennemi d'un nuage de poison                                              |
+| Poison  |      | Empoisonne l'ennemi                                                                |
+| Protège |      | Augmente la défense du personnage                                                  |
+| Purif   |    4 | Soigne du poison                                                                   |
+| Raiten  | Arme | Augmente la Magie lorsqu'elle est utilisée                                         |
+| Silence |    3 | Empêche l'ennemi d'utiliser sa magie                                               |
+| Soin    |    4 | Redonne quelques PV                                                                |
+| Souffle |      |                                                                                    |
+| Sushipe |      |                                                                                    |
+| Télépor |    8 | Permet de se déplacer dans un village déjà visité                                  |
+| Vent.H  |      | Entoure l'ennemi d'huile (Attention si l'ennemi utilise Feu après)                 |
+ -----------------------------------------------------------------------------------------------------
+
+
+VII. BESTIAIRE - [BESTIAIRE]
+Les PV des monstres sont approximatifs car il n'est pas facile de les déterminer surtout quand ils
+utilisent le sort Soin.
+ -----------------------------------------------------------------------------------------------------
+|   NOM    |   PV   | EXP | RYO | Objets  | Magies                                                    |
+ -----------------------------------------------------------------------------------------------------
+| Cône     |      5 |   1 |   3 |         |                                                           |
+| Epi      |      6 |   1 |   5 |         |                                                           |
+| Lutin    |      8 |   2 |   7 | Herbe   |                                                           |
+| Bambou   |     12 |   2 |   9 | Bambou  | Mufle                                                     |
+| Epéiste  |     15 |   3 |  15 | APoison | Eclair                                                    |
+| Oni      |     12 |   2 |  14 |         | Poison                                                    |
+| Démon    |     15 |   4 |  13 | Herbe   | ForPlus, Assomer, Soin, DéfMini                           |
+| Buisson  |     18 |   4 |  25 | Bois    | Poison                                                    |
+| Usagi    | 21~ 26 |   4 |  23 |         | Vent.H, Silence, Eclat                                    |
+| VisOni   |     33 |   5 |  33 | APoison | Poison                                                    |
+| EpouVert | 17~ 19 |   3 |  20 | Herbe   | Assomer                                                   |
+| OgreR    |     26 |   4 |  30 |         | NuageP, Mufle, Soin                                       |
+| PierHom  |     37 |   4 |  51 |         |                                                           |
+| DragonB  |   ~ 27 |   4 |  53 | PiedTau | Glace, ForPlus                                            |
+| Kappa    | 32~ 34 |   5 |  27 | Herbe   | Soin, Glace                                               |
+| EpiFou   |     30 |   5 |  31 |         | Mufle                                                     |
+| Sorcière |   ~168 |  70 | 200 |         | Folie, Feu, Soin                                          |
+| Tigrai   |   ~113 | 100 | 200 |         | AgPlus                                                    |
+| Corbeau  | 39~ 43 |   6 |  53 |         | ForPlus, Eclair                                           |
+| Taureau  |     39 |   6 |  46 | Herbe   | DéfPlus                                                   |
+| Kitsune  | 48~ 61 |   7 |  40 |         | Eclat, Vent.H                                             |
+| Naga     | 51~ 54 |   8 |  62 |         | Feu, Silence                                              |
+| Traqueur | 41~ 52 |   9 |  51 |         |                                                           |
+| AigleG   |     59 |  12 | 100 | Plume   | AgPlus, NuageP, Soin, Silence                             |
+| Kimo     |   ~129 | 150 | 200 |         | Mufle, Poison, Soin                                       |
+| Crabi    |     52 |  12 |  84 | Cloche  | DéfMini                                                   |
+| Saurai   |     54 |  11 |  98 | Herbe   | DéfPlus                                                   |
+| Poulpi   |     44 |  11 |  78 | Herbe   | Mufle                                                     |
+| BambouV  |     66 |  14 |  50 | Odachi  | Folie, Mufle                                              |
+| FlammeR  | 54~ 60 |  13 |  53 |         | Feu                                                       |
+| Garando  | 48~ 50 |  16 |  70 |         |                                                           |
+| Karaku   | 58~ 72 |  16 | 106 | Murasa  | ForPlus, AgPlus                                           |
+| TêteOni  | 67~ 72 |  18 |  42 |         | Vent.H, Feu                                               |
+| DragonR  | 77~ 89 |  18 |  68 |         | Feu                                                       |
+| HibouFou |125~136 |  30 | 122 |         | Poison                                                    |
+| NeuNoeil | 91~ 94 |  19 |  50 |         | Soin                                                      |
+| Suzato   |134~157 | 130 | 230 |         | AgPlus, Feu                                               |
+| Crabou   |    102 |  42 | 124 |         | DéfMini                                                   |
+| Poulpa   | 97~103 |  32 | 119 |         | Mufle, Soin                                               |
+| MaroKai  | 99~104 |  33 | 135 |         | DéfPlus                                                   |
+| EpouRoug |     95 |  24 |  67 | Herbe   | Assomer                                                   |
+| FlammeB  |   ~ 99 |  21 |  72 |         | Eclair, Feu                                               |
+| Tueur    |    101 |  20 |  80 | APoison | Silence, Eclair                                           |
+| BambouR  |     94 |  27 |  98 | Oiseau  | Folie, Glace                                              |
+| LanceP   |105~107 |  42 |  81 | Ailes   |                                                           |
+| OgreV    |102~108 |  28 |  77 | APoison | Glace                                                     |
+| Okiku    |167~173 | 200 | 230 |         | Vent.H, Assomer, Feu, Soin                                |
+| Malin    |132~138 |  37 | 141 | Herbe   | DéfPlus                                                   |
+| Tenkai   |117~141 |  56 | 132 | Soleil  | Soin                                                      |
+| Yuki     |116~132 |  42 | 143 |         | Glace, Silence                                            |
+| Spectre  |120~143 |  33 | 136 |         | DéfPlus, Assomer, ForPlus, DéfMini, AgPlus                |
+| Hakkaku  |      5 | 250 |   1 |         | Vent.H, Feu                                               |
+| Namhage  |124~154 |  59 |  52 |         |                                                           |
+| Raijin   |276~303 |  52 | 128 |         | Eclair, Soin                                              |
+| Colérik  |123~153 |  51 |  87 |         | Mufle, Silence                                            |
+| Genbu    |334~344 | 230 | 240 |         | NuageP, Soin                                              |
+| DragonS  |425~461 | 250 | 250 |         | DéfPlus, Eclair, Soin                                     |
+| AcidOwl  |146~158 |  54 | 158 |         | Eclair                                                    |
+| Ranmaru  |152~180 |  55 | 126 |         | Eclat, Eclair, Silence                                    |
+| Totaren  |139~168 |  54 | 170 |         | Vent.H                                                    |
+| Raou     |172~200 |  60 | 207 |         | NuageP, Folie, Soin                                       |
+| Shigami  |153~178 |  59 | 167 |         | Silence, NuageP, Glace                                    |
+| Akakage  |146~176 |  57 | 191 |         |                                                           |
+| Kojiro   |467~485 | 255 | 255 |         | AgPlus, DéfMini, ForPlus, Soin                            |
+| DemonKo  |242~282 | 255 | 255 |         | Mufle, Folie, Glace, Eclat, Eclair, NuageP, DéfMini, Soin |
+ -----------------------------------------------------------------------------------------------------
+
+
+VIII. NIVEAUX - [NIVEAUX]
+
+Héros
+L'Attaque et la Défense augmente en fonction de la Force.
+La Magie augmente en fonction de l'Agilité.
+ -----------------------------------------------------------------------------------------------------
+| NIVEAU | EXP REQUIS | PV  | PM  | FORCE | AGILITE | ATTAQUE | DEFENSE | MAGIE | MAGIE APPRISE       |
+ -----------------------------------------------------------------------------------------------------
+|      2 |        7   | + 6 | + 0 |  +  1 |    +  1 |    +  1 |    +  1 |   + 1 |                     |
+|      3 |       28   | + 2 | + 0 |  +  3 |    +  1 |    +  3 |    +  3 |   + 1 |                     |
+|      4 |       64   | + 6 | + 8 |  +  1 |    +  2 |    +  1 |    +  1 |   + 2 | Soin                |
+|      5 |      120   | + 4 | + 8 |  +  2 |    +  2 |    +  2 |    +  2 |   + 2 |                     |
+|      6 |      184   | + 3 | + 8 |  +  4 |    +  1 |    +  4 |    +  4 |   + 1 |                     |
+|      7 |      252   | + 2 | + 5 |  +  2 |    +  5 |    +  2 |    +  2 |   + 5 | Eclair              |
+|      8 |      334   | + 5 | + 5 |  +  3 |    +  3 |    +  3 |    +  3 |   + 3 |                     |
+|      9 |      430   | + 4 | + 6 |  +  8 |    +  1 |    +  8 |    +  8 |   + 1 | DéfMini             |
+|     10 |      546   | + 3 | + 5 |  +  2 |    +  8 |    +  2 |    +  2 |   + 8 |                     |
+|     11 |      679   | + 4 | + 5 |  +  7 |    +  4 |    +  7 |    +  7 |   + 4 | Feu                 |
+|     12 |      847   | + 4 | + 5 |  +  7 |    +  5 |    +  7 |    +  7 |   + 5 |                     |
+|     13 |     1044   | + 7 | + 3 |  +  3 |    +  7 |    +  3 |    +  3 |   + 7 | Silence             |
+|     14 |     1300   | + 7 | + 3 |  +  8 |    +  6 |    +  8 |    +  8 |   + 6 |                     |
+|     15 |     1598   | + 7 | + 4 |  +  7 |    +  8 |    +  7 |    +  7 |   + 8 | Purif               |
+|     16 |     1981   | + 5 | + 3 |  +  3 |    +  6 |    +  3 |    +  3 |   + 6 |                     |
+|     17 |     2428   | + 8 | + 4 |  +  1 |    +  7 |    +  1 |    +  1 |   + 7 |                     |
+|     18 |     3003   | +13 | + 4 |  + 11 |    +  5 |    + 11 |    + 11 |   + 5 | Mufle               |
+|     19 |     3610   | +14 | + 3 |  +  2 |    +  2 |    +  2 |    +  2 |   + 2 |                     |
+|     20 |     4283   | + 7 | + 4 |  +  4 |    +  2 |    +  4 |    +  4 |   + 2 |                     |
+|     21 |     5016   | +10 | + 4 |  +  3 |    +  2 |    +  3 |    +  3 |   + 2 | Glace               |
+|     22 |     5879   | + 8 | + 3 |  +  2 |    +  2 |    +  2 |    +  2 |   + 2 |                     |
+|     23 |     6810   | + 6 | + 3 |  +  2 |    +  1 |    +  2 |    +  2 |   + 1 |                     |
+|     24 |     7877   | + 5 | + 4 |  +  3 |    +  4 |    +  3 |    +  3 |   + 4 | Télépor             |
+|     25 |     9035   | + 3 | + 6 |  +  9 |    +  2 |    +  9 |    +  9 |   + 2 |                     |
+|     26 |    10375   | + 6 | + 3 |  +  4 |    +  4 |    +  4 |    +  4 |   + 4 |                     |
+|     27 |    11825   | + 8 | + 3 |  +  7 |    +  2 |    +  7 |    +  7 |   + 2 |                     |
+|     28 |    13498   | + 5 | + 3 |  +  5 |    +  7 |    +  5 |    +  7 |   + 7 |                     |
+|     29 |    15310   | + 5 | + 4 |  +  4 |    +  5 |    +  4 |    +  4 |   + 5 |                     |
+|     30 |    17402   | + 8 | + 3 |  +  5 |    +  9 |    +  5 |    +  5 |   + 9 |                     |
+|     31 |    19668   | + 5 | + 4 |  +  5 |    +  8 |    +  5 |    +  5 |   + 8 |                     |
+|     32 |    22282   |     |     |       |         |         |         |       |                     |
+|        |            |     |     |       |         |         |         |       |                     |
+ -----------------------------------------------------------------------------------------------------
+
+Tanuki
+- Attaque parfois
+- Permet de trouver plus facilement des objets
+- Peut vous guérir de quelques statuts comme Endormi, Folie
+Niv 1 : Peut lancer le sort Miroir
+Niv 2 : Peut faire peur aux ennemis pour les faire fuir
+Niv 3 : Peut lancer le sort Protège
+Niv 4 : Peut lancer le sort MagPlus
+Niv 5 : Peut lancer le sort ForPlus
+Niv 6 : Peut lancer le sort Soin
+
+
+IX. CONTACTS - [CONTACTS]
+Pour toute question ou tout commentaire sur la solution de Musashi, vous pouvez laisser un message
+sur le forum du groupe : http://www.bessab.com/viewforum.php?f=12

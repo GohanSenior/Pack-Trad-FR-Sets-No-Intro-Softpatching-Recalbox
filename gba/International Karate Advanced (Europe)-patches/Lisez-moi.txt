@@ -1,0 +1,125 @@
+|_______________________________________________________________|
+|                      __       __                              |
+|    ____  ____  _____/ / ___  / /_                             |
+|   / __ \/ __ \/ ___/ /_/ _ \/ __/                             |
+|  / /_/ / /_/ / /__/   /  __/ /_                               |
+| / ____/\____/\___/_/\/\___/\__/                               |
+|/_/                                                            |
+|   __                 __           __  _                       |
+|  / /__________  ____/ /_  _______/ /_(_)___  ____             |
+| / __/ ___/ __ \/ __  / / / / ___/ __/ / __ \/ __ \            |
+|/ /_/ /  / /_/ / /_/ / /_/ / /__/ /_/ / /_/ / / / /            |
+|\__/_/   \_____\____/\____/\___/\__/_/\____/_/ /_/             |
+|                                                               |
+|                                                               |
+|___________[ TRADUCTION DE JEUX VIDEO EN FRANCAIS ]____________|
+|_______________________________________________________________|
+|                                                               |
+| ISMAIL ( Traduction/hack ) / Lestat ( Correction hack )       |
+|                                                               |
+|                                                               |
+|_[ PRESENTENT ]________________________________________________|
+|_______________________________________________________________|
+|                                                               |
+|            TRADUCTION DE INTERNATIONAL KARATE ADVANCED        |
+|                        Editeur: Studio 3                      |
+|                    Console: Game Boy Advance                  |
+|                 Traduction réalisée par: ISMAIL               |
+|                                                               |
+|_[ Introduction (un peu d'histoire ça vous tente ?) ]__________|
+|_______________________________________________________________|
+|                                                               |
+| International Karate est une compétition regroupant tout les  |
+| Karatéka du monde. Elle a été adapté sur PC en 1986 avec des  |
+| graphisme de l'époque avant même la sortie des Street         |
+| Fighters, Mortal kombat et autres... Certains disent que les  |
+| créateurs de Capcom s'étaient inspirés de ce jeu.             |
+| Puis, en 2000, il fut sorti sur GBC sous le nom de            |
+| International Karate 2000 avec des graphismes bien soignés    |
+| avec de belles couleurs et un système de combat assez réussi. |
+| Enfin il sorti sur notre chère GBA avec des graphismes encore |
+| plus beau, un système de combat encore plus proche du réel,   |
+| mais comme toujours, Studio 3 a oublié qu'il y avait des      |
+| joueurs francophone... mais cette petite erreur vient         |
+| d'être réparée (enfin je l'espère).                           |
+|                                                               |
+|                                                               |
+|_[ Historique ]________________________________________________|
+|_______________________________________________________________|
+|                                                               |
+| - Traduction débutée le Jeudi 29/06/2006.                     |
+| - Quelques heures d'apprentissage sur l'Art du Karaté.        |
+| - Traduction et Bêta Test terminé le Jeudi 15/07/2006.        |
+| - Cette traduction doit être appliquée sur la rom EUR ayant   |
+|   pour CRC: D33A14AF                                          |
+|                                                               |
+|                                                               |
+|_[ Avancements ]_______________________________________________|
+|_______________________________________________________________|
+|                                                               |
+| Normalement tout a été fait :                                 |
+|                                                               |
+| (textes insérés, graphismes modifiés).                        |
+|                                                               |
+|                                                               |
+|-[ Contact ]___________________________________________________|
+|_______________________________________________________________|
+|                                                               |
+| Si vous trouvez une erreur, faute, textes non traduits        |
+| ou juste faire vos remarques et suggestions,                  |
+| contactez moi a: ismail8991@hotmail.com ou                    |
+| laissez un message sur www.bessab.com                         |
+|                                                               |
+|                                                               |
+|_[ INFORMATIONS LÉGALES ]______________________________________|
+|_______________________________________________________________|
+|                                                               |
+| Cette traduction n'est pas officielle, en conséquences,       |
+| les auteurs de cette dernière ne sauraient être tenus         |
+| responsable de pertes de quelques nature que ce soit.         |
+| ( pertes de données, de temps, d'argent, de petite copine,    |
+| etc...).                                                      |
+|                                                               |
+| La traduction suivante est gratuite!                          |
+|                                                               |
+| Cette dernière ne peut faire l'objet d'aucune transaction     |
+| financière de quelles que nature que ce soit.                 |
+|                                                               |
+| EN UTILISANT CETTE TRADUCTION LES TERMES DE CET ACCORD SONT   |
+| TACIQUES!                                                     |
+|                                                               |
+| (Grosso modo, si vous n'avez rien compris à ce qui s'est dit  |
+| ci-dessus, ne vennez pas pleurer chez nous si votre chat se   |
+| suicide après que vous ayez joué à International Karate       |
+| Advanced. Et il vous est formellement interdit de vendre      |
+| cette traduction.)                                            |
+|                                                               |
+|                                                               |
+|_[ Mot de la fin ]_____________________________________________|
+|_______________________________________________________________|
+|                                                               |
+| Note de ISMAIL :                                              |
+|                                                               |
+| Voila pour ma première traduction complète sur la console     |
+| fantastique qu'est la GBA.                                    |
+| Sur ce, merci d'avoir lu jusqu'ici et bon jeu.                |
+|                                                               |
+|                                                               |
+| - Mon record personnel atteint une traduction en une semaine. |
+|                                                               |
+|                                                               |
+|                                                               |
+| Note de Lestat :                                              |
+|                                                               |
+| Merci à ISMAIL pour sa contribution!                          |
+|                                                               |
+| Et n'oubliez pas qu'un enfant DOIT aussi jouer dehors !       |
+|   ...mais pas sans surveillance...                            |
+|                                                               |
+|   (Oui je me mèle de ce qui ne me regarde pas et alors :D ?)  |
+|                                                               |
+|                        Bon jeu à tous et à toutes!            |
+|                                                               |
+|                                                               |
+|_______________________________________________________________|
+|_______________________________________________________________|

@@ -1,0 +1,148 @@
+				                 GENERATION IX
+
+			 est fier de vous présenter la traduction d'un p'tit jeu sympa
+
+                                YS II - ANCIENT YS VANISHED : THE FINAL CHAPTER
+
+--------------------------------------------------------------------------------------------------------
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre       : YS II - ANCIENT YS VANISHED : THE FINAL CHAPTER
+Console     : NES
+Développeur : Nihon Falcom
+Editeur     : Victor Interactive Software (Victor Music Industries)
+Année       : 1990
+Genre       : Action RPG
+
+Notez que ce jeu est la suite directe du premier opus. Si vous n'y avez pas joué, nous vous recommandons
+vivement de vous jeter dans le premier épisode sous peine d'avoir quelques difficultés à comprendre
+quelques passages. Prenez Ys et Ys II comme une seule et même aventure (ce qui double le plaisir).
+
+
+
+\ ETAT DE LA TRADUCTION : Patch v0.95 du 31/12/2007
+ \___________________________________________________
+
+Tout a été traduit, a priori.
+
+Le patch a été alpha testé. Il se peut donc qu'il reste des coquilles : n'hésitez pas à nous les
+signaler le cas échéant.
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________
+
+ROMhack        : Graou
+Programmation  : Graou
+Assembleur     : Graou
+Graphismes     : Graou, Ti Dragon
+Traduction     : Ti Dragon
+Relecture      : Ti Dragon
+Alpha Test     : Graou, Ti Dragon
+
+Graou est l'homme fort de ce projet puisqu'il a su satisfaire le moindre des désirs d'un petit
+dragon traducteur capricieux... il a été jusqu'à étendre une ROM NES, ce qui est un fait extrêmement
+rare dans le monde de la traduction de jeux vidéos.
+
+Ti Dragon est le traducteur capricieux dont il est question. Il a tout de même mis le texte en forme
+(ce qui n'est pas rien, hein ? Hé, dites ! C'est pas mal ! Bon, ok, je sors).
+
+
+
+\ REMERCIEMENTS
+ \______________
+
+Ti Dragon aimerait remercier Graou pour avoir su satisfaire tous ses caprices.
+Graou remercie Ti Dragon de lui avoir tapé dessus pour que ce projet soit mené à son terme.
+
+
+
+\ CONTENU DU ZIP
+ \_______________
+
+NES-YsII-0.95.txt : Fichier d'informations (vous être en train de le lire ;))
+NES-YsII-0.95.ips : Patch français de la ROM
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "NES-YsII-0.95.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Ys II - Ancient Ys Vanished - The Final Chapter (J).nes
+  Taille de la rom: 393 232 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 5A0454F3
+  CRC rom patchée : 7EBC5032
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+Des émulateurs permettent également de patcher directement les ROMs sans les altérer. Pour plus
+d'explications, je vous invite à consulter le site de la T.R.A.F dans la partie "Utiliser un patch IPS".
+
+
+
+\ HISTOIRE DE LA TRADUCTION
+ \__________________________
+
+L'envie de traduire un RPG issue d'une série m'est venue... Final Fantasy, c'était fait... Soul Blader/Illusion of Gaia/Terranigma, idem. Je ne parle pas des Gargoyle's Quest. Il nous restait donc Dragon Quest, pour lesquels il manque quelques opus, et Ys, une serie encore mal connue mais qui fait
+peu à peu son bonhomme de chemin. La sortie de l'opus PSP (Ys VI - The Ark of Napishtim), m'a donné
+l'idée d'aller harceler Graou pour qu'on se traduise le second épisode sur NES, d'autant plus que
+Génération IX était en train de traduire le premier... Il aurait été débile d'avoir le premier,
+arriver à la fin et constater que le second n'était pas traduit (eh oui !).
+
+Par ailleurs,  anecdote amusante, Graou était en train de jouer à Ys sur PC... Il a tout de suite
+répondu à mon appel. Et je peux vous dire qu'il en a chié ! Je ne sais pas s'il acceptera un autre
+projet en ma compagnie...
+
+Bon jeu à vous tous !
+
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Forum     : http://www.bessab.com/
+Sites Web : Génération IX     - http://generation9.kanshima.net/
+            T.R.A.F.          - http://traf.romhack.org/
+e-mail    : tiflamedragon@hotmail.com (Ti Dragon)
+
+
+
+\ REMARQUES LEGALES
+ \_________________
+
+Génération IX vous propose une traduction non-officielle réalisée à but non lucratif par des amateurs bénévoles. Elle n'est en aucun cas supportée par Nihon Falcom Corporation, Victor Interactive Software
+ou Nintendo. Cette traduction est donc gratuite et ne peut être vendue sous quelque forme que ce soit
+(vente de fichiers sur CD, de cartouches modifiées, de cartouches flash copiées, etc.) : son usage
+commercial est par conséquent strictement interdit.
+
+Vous utilisez ce patch de traduction en dégageant les auteurs de toute responsabilité concernant
+d'éventuels dommages.
+
+© 2007 Génération IX
+Tous droits réservés
+
+
+NES - Nintendo Entertainement System® est la propriété de Nintendo®.
+Ys II® est la propriété de Nihon Falcom Corporation.
+
+Les mentions légales relatives à Nintendo, Nihon Falcom Corporation et Victor Interactive Software se
+trouvent décrites dans un livret fourni avec chacun de leurs produits. Veuillez les lire attentivement.
+
+© 1990 - 2007 Nintendo
+© 1988 - 2007 Nihon Falcom
+© 1990 - 2007 Victor Interactive Software
+Tous droits réservés

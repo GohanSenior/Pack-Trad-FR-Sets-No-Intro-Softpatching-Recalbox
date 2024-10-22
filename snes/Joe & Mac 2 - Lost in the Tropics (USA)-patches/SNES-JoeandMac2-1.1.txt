@@ -1,0 +1,96 @@
+
+			 Génération IX (http://generation9.kanshima.net) 
+			est fier de vous présenter le patch rocailleux de
+				Joe & Mac 2 - Lost in the Tropics
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre : Joe & MAc 2 - Lost in the Tropics
+Console : Super Nintendo
+Développeur : Data East
+Date : 1993
+Genre : Plates formes
+
+
+\ ETAT DE LA TRADUCTION : version 1.1 créée le 16/09/2006
+ \_______________________________________________________
+
+Tout à été traduit à 100% !!
+De l'écran titre à la fin du jeu...
+
+
+\ COMMENTAIRES SUR LA TRADUCTION
+ \______________________________
+
+Ce petit jeu de plates formes rigolo fait suite à la traduction de Joe & Mac 1er du nom (naaan ?
+sans dec' ?); et je ne voulais pas laisser le petit frère en anglais. Je me suis donc attelé
+à la trad de cette rom amusante.
+
+Mais le projet a bien failli être mort né... En effet, le script était déjà traduit, le hack intensif
+en cours et au bout d'un moment, on s'est aperçus que le Joe & mac 2 existait sous une version
+multilingue numérotée 3. En testant la rom; je fus nettement déçu, beaucoup de choses étaient
+laissées en anglais.
+
+extrait de la discussion à ce sujet :
+Bahabulle : Euh....Si le 3 est le 2 US mais traduit ? Quelle utilité de le faire ??
+Ti Dragon : Parce que le "Lost in the tropics" n'a pas ete traduit :D ?
+Jes       : Ouais, pis dans le menu, 1P, 2P et tout le bordel n'est même pas traduit, c'est encore
+	    un beau foutage de gueule cette traduction. Et de toute façon, on a atteint le point
+	    de non retour: on termine cette trad maintenant !
+
+Bilan de l'affaire : un patch de plus !!! Il y'a de légères différences entre la v3 européenne et
+la V2 US, mais rien de vraiment flagrant. Attention : nous n'avons pas repiqué le script français
+de la V3 EU pour mettre sur une V2 US ! J'avais traduit et testé le script bien avant de voir
+que la V3 existait, et le script de ce patch est donc totalement personnel !!
+
+Bref, de multiples hacks et patches temporaires (ainsi qu'un Baha sévèrement dominé par un Jes
+des plus fouetteurs) plus tard, voici donc après 3 mois de travail acharné l'ultime ips de ce jeu !
+3 mois ? tant que ça ?? ben oui, y'a eu les vacances, et pas mal de tits soucis à résoudre qui ont
+nécessité du temps. Et le Rhum ne s'est pas fait en un jour !!!
+
+
+Encore merci à Jes, Baha et Ti pour l'aide qu'ils ont bien daigné voulu m'accorder...
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \______________________________ 
+
+Hack : Jes, Bahabulle, Ti Dragon, Happexamendios
+Traduction : Happexamendios
+Bêta-Test : Happexamendios
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "SNES-JoeandMac2-1.1.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Joe & Mac 2 - Lost in the Tropics (U).smc
+  Taille de la rom: 1 048 576 octets avant patchage ; 1 572 864 octets après patchage
+  Rom avec Header ? Non
+  CRC de la rom   : 0C3B4201
+  CRC rom patchée : 0B05F9B4
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  BSnes          [ ]		SNes9X 1.51    [x]
+  Snes 9X 1.43   [ ]		Snes 9X 1.53   [x]
+  Snes 9x Geiger [ ]		Snes GT        [ ]
+  ZSnes          [ ]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+\ CONTACTS 
+ \________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+Site Web : http://generation9.kanshima.net 
+Forum : http://www.bessab.com/viewforum.php?f=12 
+Hack : fredchev@tele2.fr
+Traduction : fredchev@tele2.fr
+Bêta-test : fredchev@tele2.fr

@@ -1,0 +1,90 @@
+			Génération IX (http://generation9.kanshima.net) 
+			   vous présente la traduction féérique de
+			      Snow White in Happily Ever After
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre	: Snow White in Happily Ever After
+Console	: Super Nintendo
+Développeur : Imagitec Design
+Date	: 1994
+Genre	: Plates-formes
+
+
+\ ETAT DE LA TRADUCTION : Version finale créée le 23/07/2008
+ \___________________________________ 
+
+Vous aimez les contes de fées ? Ouais ?? Tant mieux alors, parce qu'avec Snow White
+in Happily Ever After (SWIHEA pour faire plus court), vous allez être servi !
+En effet, SWIHEA vous permet d'incarner soit Blanche Neige (mais sans les 7 nains),
+soit un mystérieux homme en noir parmi divers tableaux (mine, château, forêt...)
+
+Attention toutefois, ce jeu s'adresse essentiellement aux plus jeunes d'entre nous
+(ou les plus neuneus, ce qui expliquerait pourquoi je me suis acharné sur ce jeu :p ).
+Ici, pas vraiment de challenge, c'est un banal jeu de plates-formes sans grand intérêt;
+le seul but est d'arriver à trouver la sortie de chaque niveau. Je m'rappele même pas
+avoir vu un boss !
+
+Pourquoi cette trad' alors ? Ben d'abord, j'fais c'que j'veux ! Je suis un traducteur
+libre, je ne suis pas un numéro !! Ensuite, je m'enquiquinnais au bureau ; et enfin
+c'est une daube, et moi les daubes ; je les adore !
+
+En fait, ce projet avait été entamé il y'a bien longtemps, mais ce jeu a fini par
+vaincre mon immunité à la daubasserie, et il a traîné sur un coin de mon disque dur
+pendant un moment. Il y'a peu, je suis retombé dessus, et j'ai décidé de finir ce
+que j'avais commencé. D'aucuns diront que c'était pas vraiment nécessaire, mais SWIHEA
+a finalement été plus utile que prévu...
+
+Bahabulle le Grand ayant développé un outil des plus efficaces, c'est ce jeu qui
+me servit pour bêta-tester son logiciel. Louée soit donc cette rom !!
+
+A noter que j'ai changé la fin du jeu. Oui, en effet ! En fait, la version US contient
+2 textes de fin d'une rare niaiserie (adaptée cela dit aux contes de fées), et les
+retoucher m'emmerdait copieusement (problèmes de tilemaps qui me gavaient sévère! ).
+Du coup, j'ai zappé ça et laissé un p'tit "Fin" au lieu d'un "Et ils vécurent heureux
+blablabla" qui ne s'affichait pas convenu.
+Comment ça, j'suis feignant ?? Ranafout' ! C'est ma trad, et tel fut mon bon vouloir !
+nan mais !! Ala place, j'ai fait un bel écran titre, z'êtes pas perdants...
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack 	  : Bahabulle, Happexamendios
+Traduction: Happexamendios
+Bêta-Test : Happexamendios
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "SNES-SnowWhite-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Snow White in Happily Ever After (U).smc
+  Taille de la rom: 1 048 576 octets
+  Rom avec Header ? Non
+  CRC de la rom   : D68D1AB3
+  CRC rom patchée : C089D954
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  BSnes          [ ]		SNes9X 1.51    [ ]
+  Snes 9X 1.43   [x]		Snes 9X 1.53   [x]
+  Snes 9x Geiger [ ]		Snes GT        [ ]
+  ZSnes          [ ]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction. 
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+Site Web : http://generation9.kanshima.net 
+Forum : http://www.bessab.com/viewforum.php?f=12 

@@ -1,0 +1,121 @@
+24/08/2002
+
+TERMINUS TRADUCTION prsents
+
+RUDORA NO HIHOU : LE TRESOR SECRET DES RUDRAS FR RC1
+
+----------------------------------------------------------------
+***********************Table of Contents***********************
+----------------------------------------------------------------
+
+1.	RUDORA NO HIHOU
+2.	THE STORY BEHIND THE TRANSLATION
+3.      PUBLISHED PATCHES
+4.	WHAT'S DONE
+5.	THE TERMINUS TRADUCTION TEAM
+6.      CONTACT US
+
+----------------------------------------------------------------
+1.  RUDORA NO HIHOU
+----------------------------------------------------------------
+
+The human race will die out in 16 days, and only four people have
+the power to stop this. Rudora no Hihou is a formidable quest
+to save humaity from ecological disaster and to find the Creator.
+This story is brought to life with highly detailed graphics and 
+the outstanding music found only Squaresoft games. And if these
+qualities aren't enough, Rudora no Hihou also features original
+gameplay based around mini-scenarios and the most elaborate magic
+system yet found in a game. Thus, we have once again an excellent game 
+that we have sadly missed because it was exclusively released in
+Japan. But all mistakes can be corrects, and you will now be able 
+to place this game in French.
+
+----------------------------------------------------------------
+2.  THE STORY BEHIND THE TRANSLATION
+----------------------------------------------------------------
+
+After Bahamut Lagood, Rudora no Hihou is the second major game
+we have translated from Japanese, and yet again it was done before
+any English translation. Once again, it is an incredible 
+accomplishment, for a Japanese-to-French translation requires far
+more work than an English-to-French translation. It is here that can
+be found the main problem concerning the magic system: Since the 
+spells are created by combining Japanese characters and the game
+engine interprets them by their Japanese names, it is necessary
+to reprogram the entire magic system to ensure a professional-
+quality translation. While this work will not be completed until
+a future version, this RC1 patch requires no knowledge of Japanese
+whatsoever.
+
+----------------------------------------------------------------
+3.  Published Patches
+----------------------------------------------------------------
+
+- 30/06/2002 : RC1
+  The first public version of this translation patch.
+
+----------------------------------------------------------------
+4.  What's done
+----------------------------------------------------------------
+
+Intro        : 100 %
+Script       : 100 %
+Objects      : 100 %
+Menus        : 100 %
+Monsters     : 100 %
+Credits      : 100 %
+ending       : 100 %
+Spells       :  50 %
+
+This release candidate translates everything necessary to play and enjoy the game.
+Since the characters in this game are also named after mythological figures,
+the translator has also written a small guide of these name that you will find
+in the file 'Mythlogie Rudra.txt'. (I have not translated this file)
+
+The spells have not actually been translated yet, but a workable solution is in
+place to make them usable by all.
+
+Finally, there is a known bug regarding the combat menu in which one of the 
+characters sometimes has a few display problems. This error will be corrected
+when RC2 is released.
+
+
+----------------------------------------------------------------
+5.  THE TERMINUS TRADUCTION TEAM
+----------------------------------------------------------------
+
+   Neo Mithrandil : Project Leader
+		    Hacker
+		    ASM Programming
+                    Graphic Design and Editing
+                    Script Correction
+
+   Bahamut        : Scrip Translation
+		    Hacking Assistant
+		    Additional Graphic Design
+
+   Copernic       : Translation Tools Programmer
+
+
+Thanks to JantjeB for having created the 3D fonts used by the magic
+system.
+
+And thanks to our beta testers : Bobcat, Nemesis, Size Fac, et Skoras.
+
+
+----------------------------------------------------------------
+6.  CONTACT US
+----------------------------------------------------------------
+
+Any comments, questions, and corrections regarding this translation
+can be sent to:
+
+Neo Mithrandil  - neo.mithrandil@laposte.net
+
+NOTE: I'm not sure whether or not and how well he speaks English.
+
+If you wish to better know this group, download our latest
+patchs, or learn about our current projects, visit:
+
+Terminus - http://terminus.romhack.net

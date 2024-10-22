@@ -1,0 +1,47 @@
+
+---- Traduction FR de Hikari Shinwa - Palthena no Kagami (Kid Icarus) ----
+
+
+Plateforme : Famicom Disk System
+
+
+------------------
+
+Traduction : Blyn
+Hack : Blyn
+
+------------------
+
+Ce qui a été traduit :
+
+- Menu
+- Dialogues
+- Ecran titre
+- Interface de création du personnage
+- Instructions diverses.
+
+------------------
+
+Application du patch :
+
+Il existe deux patchs pour les ROMs avec et sans header (les noms sont assez explicites).
+Les patchs IPS doivent être appliqués sur la ROM Hikari Shinwa - Palthena no Kagami (suivant la présence du header).
+
+Pour vérifier si votre ROM comporte un header, il faut l'ouvrir avec un éditeur hexadécimal, et vérifier si elle
+contient la séquence suivante sur la première ligne (0x00 à 0x0F) : 4644531A020000000000000000000000
+
+La ROM doit comporter un header si vous comptez y jouer sur la véritable console. L'émulateur FDS, lui, peut s'en passer.
+
+Si vous souhaitez ajouter le header manquant, rien de plus simple : ouvrez votre ROM non modifiée avec un éditeur hexadécimal
+(Translhextion, par exemple) et insérer la séquence mentionnée plus haut. Ensuite, appliquez le patch pour ROM avec header.
+L'autre technique consiste à ajouter le header après avoir appliquer le patch à la ROM sans header (vous suivez ?)
+
+Utilisez LunarIPS pour appliquer le patch :
+http://fusoya.eludevisibility.org/lips/
+
+------------------
+
+Remerciements :
+
+M0nsieurL(Lestat) et Ichigo pour leurs conseils !
+

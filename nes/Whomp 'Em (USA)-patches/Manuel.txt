@@ -1,0 +1,143 @@
+WHOMP 'EM (1991 Jaleco Ltd.) - Manuel
+
+--PAGE 1--
+
+Merci d'avoir acheté Whomp'Em de Jaleco. C'est juste l'un des nombreux nouveaux et 
+excitants jeux que vous pouvez avoir sur votre NES.
+
+TABLE DES MATIERES 
+
+Introduction...........................2
+
+But du jeu.............................2 
+
+Mondes.................................3 
+
+Totems.................................4 
+
+Objets Magiques........................5 
+
+Controles..............................6 
+
+Informations Ecran.....................7
+
+
+
+--PAGE 2--
+
+INTRODUCTION 
+
+Whomp 'Em est l'histoire de Petit Aigle, un jeu indien, très brave, parcourant le monde 
+à la recherche de mystérieux pouvoirs. Whomp'Em est constitué de 8 mondes à travers 
+lesquels vous affronterez de nombreux ennemis. Les premier monde sert d'introduction 
+à votre quête. Les six niveaux suivants sont accessibles dans n'importe quel ordre et 
+le dernier monde est un secret ... 
+
+BUT DU JEU
+
+L'objectif est de faire parcourir à petit aigle chacun des 8 mondes, de combattre tous 
+les ennemis rencontrés et de ramasser les objets qu'ils laisseront une fois réduits en 
+poussières.
+
+
+
+
+--PAGE 3--
+
+MONDES
+
+Au début du jeu vous êtes placé automatiquement dans le monde 1, avant de pouvoir 
+accéder aux mondes 2 à 7. Une fois ce premier monde fini, vous pouvez accéder à l'un
+ des six mondes suivants : les Sous-Bois, le Volcan, la Forêt Magie, la Terre Glacée, 
+le Lac Bleu, et le mont Enfer.
+
+Pressez la croix pour surligner le monde dans lequel vous voulez rentrer sur la carte qui 
+apparaît après avoir fini le premier niveau, et taper sur A. C'est une fois que vous aurez 
+fini les 7 premiers niveaux que vous aurez accès au dernier monde secret, situé au centre 
+de la carte ...
+
+
+
+--PAGE 4--
+
+TOTEMS 
+
+Un totem ( arme spéciale ou un pouvoir ) est obtenu lorsque vous finissez un niveau. 
+Ci-dessous, vous trouverez la liste de chaque totem avec leur nom, le monde dans lequel 
+ils apparaissent, et une description du pouvoir du totem.
+
+1. Tornade de lance (Foret Sacrée): Attaque tournoyante de lances permettant également 
+de casser les rochers.
+
+2. Baguette de Feu (Test Feu): La lance se termine par une flamme.
+
+3. Nuage magique (Rituel Glace): Permet à Petit Aigle de voler.
+
+4. Cristal de glace (Test Eau): Gèle les ennemis.
+
+5. Toile (Foret Magie) : Permet à Petit Aigle de capturer les ennemis dans une toile.
+
+6. Dard (Mont Secret): Permet à Petit Aigle de lancer des piques et de monter dessus.
+
+7. (?) Inconnu : C'est à vous de découvrir le pouvoir de ce totem.
+
+
+
+--PAGE 5--
+
+OBJETS MAGIQUES
+
+Il y a 8 objets magiques différents à collecter. Ces artefacts magiques apparaitront 
+quand vous aurez vaincu un ennemi. Pour ramasser un objet à terre, c'est simple, déplacez 
+Petit Aigle afin qu'il soit en contact avec cet objet. 
+
+1. Tête d'aigle en pierre: Augmente la force d'attaque.
+
+2. Coiffe de Buffle : Augmente la défense.
+
+10. Chemise en daim : Rend Petit Aigle invincible.
+
+11. Potion Magique : Vie supplémentaire. 
+
+12. Petit coeur : Augmente la vie d'un point.
+
+13. Gros coeur : Remonte complétement la vie de Petit Aigle.
+
+14. Lance : Augmente la longueur de la lance.
+
+15. Gourde : A ramasser afin de faire augmenter le nombre de coeur que Petit Aigle possède.
+
+Astuce : La pluspart des objets n'agissent que pour un très court instant. Quand Petit 
+Aigle ramasse une tête d'aigle, une coiffe ou une Chemise, l'objet apparaîtra en bas à 
+gauche de l'écran. Afin de voir le nombre de gourdes à ramasser pour augmenter le niveau 
+de Petit Aigle, pressez Select ... 
+
+
+
+--PAGE 6--
+
+CONTROLES
+
+Bouton A : Sauter - Bonton B : Frapper avec l'arme.
+
+START : Choix du Totem (permet à Petit Aigle de choisir le Totem à utiliser) - SELECT : 
+Pause Reprise.
+
+
+
+
+-PAGE 7--
+
+INFORMATIONS ECRAN 
+
+Totem utilisé : Ce sprite montre le totme que Petit Aigle est en train d'utiliser. Si Petit 
+Aigle n'utilise aucun totem, une lance apparaîtra à cet endroit.
+
+Vie supplémentaire : Chaque potion magique collectée ( au maximum 4) par Petit Aigle 
+apparaîtront ici.
+
+Note: Quelques ennemis peuvent voler les vies supplémentaires, en rentrant en contact avec 
+Petit Aigle, afin de se regénérer.. 
+
+Vie : Les coeurs représentent la vite de Petit Aigle. Une alarme vous préviendra lorsque 
+Petit Aigle n'aura qu'un seul de ses coeurs.

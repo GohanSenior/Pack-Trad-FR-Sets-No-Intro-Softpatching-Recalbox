@@ -1,0 +1,55 @@
+Mamono Hunter Yohko (Mega Drive)
+Traduction en Français v1.0 (30/05/2022)
+(C) 2022 Traduction Alucard73
+
+---------------
+Histoire du Jeu
+----------------
+Mamono Hunter Yohko : Dai-7 no Keishou est un jeu de plates-formes basé sur la série animée 
+Devil Hunter Yohko. Vous incarnez Yohko qui doit accomplir sa destinée et chasser les démons 
+de la surface de la Terre. Vous pouvez utiliser pour cela plusieurs armes afin de vous 
+débarrasser des ennemis et ainsi traverser les niveaux sans encombre.
+
+-----------------
+Ce qui a été fait
+-----------------
+Script    : 100 %
+Graphismes: 0 %
+
+--------------------
+Notes et Bugs connus
+--------------------
+Normalement aucun.
+Si vous rencontrer un bug, vous pouvez me contacter sur le Forum de la Traf.
+
+--------------------------
+Instructions pour le patch
+--------------------------
+Au format, vous pouvez utiliser LunarIPS ou Floating IPS.
+Archive utilisée:
+
+Mamono Hunter Youko - Dai 7 no Keishou (Japan).md
+
+MD5: e5df696dcfbc46e2b664dedf1dc0be52
+SHA1: 5C8C600CA7468871B0EF301FD82A1909AA8B3B10
+CRC32: 10BB359B
+Size: 524288
+
+-------
+Credits
+-------
+Alucard73 - Hacking, traduction et tests.
+
+-----------------
+REMARQUES LEGALES
+-----------------
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.

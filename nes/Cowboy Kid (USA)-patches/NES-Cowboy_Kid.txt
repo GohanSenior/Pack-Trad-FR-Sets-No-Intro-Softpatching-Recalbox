@@ -1,0 +1,120 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                              Cowboy Kid
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Cowboy Kid
+Console		: Nintendo NES
+Développeur	: Pixel
+Editeur		: Romstar
+Date		: Janvier 1992
+Genre		: Action
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 13/02/2014) :
+\_________________________________________________________________
+
+Taritatatatatataaaaaa !
+hein ?
+Ben c'était le son de la charge de cavalerie !
+
+C'est le minimum pour parler de Cowboy Kid, un jeu Nes fort
+sympathique au demeurant et se déroulant dans l'ouest sauvage...
+
+Il s'agit ici d'incarner un jeune cowboy qui va devoir capturer
+mort ou vif une tripotée de malfrats dignes d'un film de Sergio
+Leone.
+
+Chaussez vos éperons et en route pour la traque !
+Vous aurez donc 6 gangsters à capturer et c'est à vous de
+choisir l'ordre dans lequel vous leur courrez après.
+
+Le jeu vous fera visiter différentes villes aux ambiances
+diverses et on va retrouver les clichés du western tels
+les saloons glauques, le village indien, le fort de cavalerie
+et même une mine d'or.
+
+L'intérêt principal du jeu réside dans son petit côté RPG et
+traquer certains malandrins vous obligera à récolter des clés
+et des infos auprès des habitants.
+
+Le jeu est assez long et l'absence de code se fera quelque
+peu ressentir, surtout qu'on peut perdre des vies de façon
+ridicule, notamment en loupant un saut, mais il est possible
+de jouer à deux, ce qui facilite quelque peu la tâche...
+
+Histoire de varier les plaisirs, la rom vous propose de jouer
+au black jack, au jeu du maillet et d'accroître votre pécule
+en faisant du tir à la cible.
+
+L'action est omniprésente et on a tout le temps le doigt sur
+la gâchette, car l'ouest sauvage est véritablement très mal
+fréquenté ! Scorpions, bandits, serpents, indiens et fantômes
+déboulent par dizaines de tous les coins de rue.
+Heureusement que les munitions ne sont pas limitées...
+
+
+Je suis tombé sur cette rom un peu par hasard et je pensais
+torcher la traduction rapidement, mais le jeu est plutôt
+bavard et j'ai dû intégrer quelques DTE pour traduire certains
+passages (notamment pour le black jack) et j'espère que
+cette rom vous amusera autant que moi. 
+
+
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+energie infinie        0X0698          08
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Cowboy_Kid.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Cowboy Kid (U)[!].nes
+  Taille de la rom: 524 305 octets
+  Rom avec Header ? Non
+  CRC de la rom   : EF6B2AF4
+  CRC rom patchée : E5E6A7FA
+
+Le patch a été créé avec SmartIPS et a été testé avec les émulateurs suivants :
+  FCeu XD SP [x]		NesTicle   [ ]
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

@@ -1,0 +1,107 @@
+TERMINUS TRADUCTION présente
+
+Astro Fang - Super Machine
+----------------------------------------------------------------
+*******************Table des matières******************
+----------------------------------------------------------------
+
+1.    L'HISTOIRE DU JEU
+2.      CONTENU DE L'ARCHIVE ET UTILISATION
+3.    LES PATCHS PUBLIES
+4.      TOUT CE QUI A ETE FAIT
+5.    L'ÉQUIPE DE LA TRADUCTION
+6.      CONTACTS
+7.    REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  L'HISTOIRE DE Astro Fang - Super Machine
+----------------------------------------------------------------
+
+Astro Fang est très similaire à Rad Racer de square que tout le monde
+connaît et qui est l'un des rares jeux de voiture sur NES de cette période. 
+Que ce soit intentionnel ou non, les deux jeux sembleraient presque
+identiques sans le cadre mais ce Astro Fang a quelques ajouts bien
+sympas et avec ses mondes extraterrestres et sa conception de voiture
+abstraite, Astro Fang est loin des plages côtières et des lumières
+de la ville de Rad Racer et ça le rend unique.
+
+Contrairement à la plupart des jeux de course, il n'y a pas de minuterie
+mais le carburant est limité et remplit donc plus ou moins la même fonction.
+Bien qu'il n'y ait que 6 niveaux, ils sont incroyablement longs et certains
+prendront probablement quelques essais. Et si vous pouvez faire exploser
+les ennemis, vous devriez conserver les missiles, sinon vous ne pourrez
+pas vaincre le boss de niveau.
+
+Cela reste un jeu solide qui n'a jamais quitté le Japon.
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir:
+Astro Fang - Super Machine.ips  - Le patch IPS du jeu
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+Diverses Captures
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+(le Patcheur Terminus par exemple).
+Ce patch est à utiliser avec la ROM No-Intro:
+Astro Fang - Super Machine (Japan).nes
+
+----------------------------------------------------------------
+3.  LES PATCHS PUBLIES
+----------------------------------------------------------------
+
+-V1.00
+Traduction complète
+
+----------------------------------------------------------------
+4.  TOUT CE QUI A ETE FAIT
+----------------------------------------------------------------
+
+Traduction, retouches graphiques
+
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+Kazan:   Hacking, Traduction
+
+----------------------------------------------------------------
+6.  CONTACTS
+----------------------------------------------------------------
+
+Une remarque, une question ou une correction à apporter à la
+traduction du jeu.
+
+Kazan - newkazan@hotmail.fr
+
+Vous voulez mieux connaître le groupe, télécharger nos derniers
+patchs ou vous renseigner sur un projet.
+
+Site Web - http://terminus.romhack.net
+Facebook - https://www.facebook.com/TerminusTrad/
+
+----------------------------------------------------------------
+7.  REMARQUES LEGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de ce jeu n'est pas officiel et
+n'est pas supporté par Nintendo.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+Kazan

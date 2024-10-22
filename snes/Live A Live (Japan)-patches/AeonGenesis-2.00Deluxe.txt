@@ -1,0 +1,174 @@
+LIVE-A-LIVE
+ENGLISH TRANSLATION V2.00 DELUXE
+Copyright 2008 by Aeon Genesis
+http://agtp.romhack.net
+
+ToC
+
+0.  PLEASE NOTE
+1.  About Live-A-Live
+2.  Patch History
+3.  Features
+4.  Patch Credits and Contributors
+5.  Known issues
+6.  Application Instructions
+
+-------------
+0.PLEASE NOTE
+-------------
+(I) This patch should *NOT* be patched on top of an
+existing Live-A-Live translation. I cannot and will
+not be held responsible for any issues that arise as
+a result of patching the older version.
+(II) Several Live-A-Live ROMs available online may
+be interleaved. This patch MUST be applied to a clean,
+de-interleaved ROM *WITHOUT* a header. You can use NSRT,
+available on all operating systems, to prepare your ROM.
+
+-------------------
+1.About Live-A-Live
+-------------------
+Live-A-Live was released in Japan on September 2, 1994.
+It is a fairly different sort of RPG; instead of one
+large, lengthy story, LaL presents you with seven different
+vignettes across different time periods. As you complete
+them, suspicion grows that they may be more related than
+they at first seem. For those of you who haven't played it
+yet, I won't spoil what happens when all seven have been
+cleared, but suffice to say that once you've completed the
+game, you'll have experienced some of the most memorable
+plot twists in all of RPG history.
+
+---------------
+2.Patch History
+---------------
+I started work on Live-A-Live in late October 2001, as a
+project for a business class I was taking. I released it
+on Christmas day less than two months later, despite
+multiple hardware failures, inadequate equipment, and
+lots of stress and headaches.
+
+The resulting patch was acceptible for its time, but in
+retrospect it was rushed, the text was crunched into its
+available space, some of the hacking looked extremely
+unprofessional, and on the whole, it could have been much,
+much better.
+
+Fastforward to about this time last year. I've started
+work on a new version, I've recruited help on the technical
+side of things while I focus my own efforts on writing, and
+after a few more months, things are looking good. There are
+*lots* of bugs, though, everything from text disappearing at
+the end of lines to the autocenter code not working properly,
+from mysterious ghost indents at the beginning of lines to
+one character's sprite overwriting half of the others on the
+story select menu.
+
+That said, we have all of the issues worked out (we hope!)
+It's gone through a few rigorous testing cycles, which
+continue even as I write this. The end result is a patch
+that blows everything else out of the water. This is very
+likely Aeon Genesis's definitive work, exceeding possibly
+even Rudra in its grandeur. There are features in this that
+weren't even in the Japanese version, but I'll leave that
+for the next section.
+
+May 28, 2008 - Version 2.0 Deluxe release.
+-Font is now fully proportional, in main dialogue, menus,
+ and in battle
+-Script fully rewritten and expanded
+-Several untranslated graphics are now in English
+-Fixes several bugs in the original
+
+December 25, 2001 - Initial version 1.00 Release
+
+----------
+3.Features
+----------
+
+The new version includes...
+-560 kilobytes of English script:
+ Twice the size of the original translation!
+-Main dialogue, menu, and battle fonts are now fully
+ proportional!
+-Each chapter now has its own unique font - even the
+ Japanese version can't say this! Live-A-Live now
+ sports a total of ten different fonts.
+-Kung Fu names are now Chinese, not Japanese!
+-Items, techniques, and equipment names expanded
+ dramatically due to new fonts!
+
+
+---------------
+4.Patch Credits
+---------------
+THE LIVE A LIVE TEAM
+****NEW VERSION****
+----HACKERS----
+Gideon Zhi - Project leader, lead romhacker, editor
+RedComet - Assembly lead
+
+----TRANSLATION----
+Ian Kelley - The Big List, Interface, Descripts
+Liana - Spot requests
+
+----SPECIAL THANKS----
+Kitsune Sniper - Masaru Takahara "END" Graphic
+
+****OLD VERSION****
+----HACKERS----
+Gideon Zhi - Project leader, lead romhacker, assembly work
+Anus P - Width modification for the dialogue font
+
+----TRANSLATION----
+Akujin - Bakumatsu Chapter
+Sogabe - Kungfu Chapter
+Cidolfas - Scriptwriter for Sogabe
+D-Boy - Final Chapter, The Big List
+Nora - Medieval Chapter
+Tomato - Near Future Chapter, Old West Chapter
+Ian Kelley - Medieval Chapter, Sci Fi Chapter
+Zackman - The List, Present Day Chapter, Descripts
+Tsama - Present Day Chapter, Interface
+DDS - Spot requests
+Haeleth - Descripts
+Brand S - Present Day Chapter
+
+--------------
+5.Known Issues
+--------------
+No known issues!
+
+Please report any bugs, spelling errors, and such on
+on The Pantheon (http://agtp.romhack.net/pantheon/)
+Screenshots are preferred, as are SRAM saves.
+
+--------------------------
+6.Application Instructions
+--------------------------
+Quick ROM Info:
+2.00MB (16mbit HiROM), WITHOUT Header (*exactly* 2,097,152 bytes)
+The patch WILL expand the ROM to 2.50 megabytes.
+
+If using ZSNES, make sure that the patch has the same name as your ROM.
+In other words, if your ROM is called "lal.smc" make sure the patch
+is "al.ips" okay? If you're using a Mac, a Mac IPS patcher is
+available. Check the AGTP Links page. If you're using a copier, you
+probably already know how to patch the ROM :) Be sure to apply the
+patch to a clean copy of the ROM, and make sure your ROM HAS
+A HEADER!. If you right-click the ROM and select Properties, it
+should read "2.00 MB (2,097,152 bytes)". SNESTool will add all
+of your headers for you easily, and you can find it at
+http://rpgd.emulationworld.com
+In the utilities section, click on the IPS Tools link.
+The answers to the questions it asks you do not matter unless you're
+using a copier to play the game.
+
+An easy way to tell if the game has a header or not is that if you
+apply the patch and the game does not boot, your game very likely does
+not have a header.
+
+Note that this should absolutely _NOT_ be patched over the old version
+of the translation! That could cause all sorts of nasty issues, and I
+will not be held responsible for any problems you may encounter because
+of this.

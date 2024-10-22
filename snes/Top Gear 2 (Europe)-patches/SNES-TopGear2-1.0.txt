@@ -1,0 +1,111 @@
+			Génération IX (http://generation9.kanshima.net) 
+			vous présente la traduction Vroum-vroumesque de
+					TOP GEAR 2
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre	: Top Gear 2
+Console	: Super Nintendo
+Développeur : Kemco
+Date	: 1993
+Genre	: Course de tondeuse à gazon
+
+
+\ ETAT DE LA TRADUCTION : Version 1.0 créé le 09/09/2010
+ \_______________________________________________________ 
+
+Vrrrouuuuuuuuuuum Vrrrrr Vrrrrouum vroum vroum vrrrrrrr *crash*
+Hum...
+
+Désolé, j'ai abusé de l'accélérateur et ça a fini dans le mur.
+...Comme le jeu. Si vous cherchez du fun à la Mario Kart, va falloir tracer la route,
+ce jeu est plus proche du simulateur de tondeuse à gazon que de Need for Speed!
+
+Bon, disons le tout de suite Top Gear n'est pas franchement fun. Il a beau être typé arcade,
+on roupille plus que l'on ne rigole, mais il a un certain charme.
+
+Top Gear 2 est un looong jeu de course composé de 64 courses dans tous les pays du monde
+(de l'Australie à l'Allemagne en passant par les USA) qui vous met aux commandes d'une
+voiture de sport afin de vous tirer la bourre avec une vingtaine d'autres pilotes.
+
+Les adversaires sont coriaces, mais histoire de compliquer un peu le bouzin, les créateurs
+ont eu la merveilleuse idée d'insérer... [roulements de tambour] des conditions météo variables!
+
+C'est vrai qu'en 2010 ça fait largement dépassé, mais à l'époque c'était un peu plus rare.
+Les conditions de course vont donc varier et oscillent du brouillard (atroce pour la vue) à
+la pluie (patinage assuré) en passant par la course de nuit.
+
+
+La traduction a été finalisée après pas mal de temps. Le premier coup de pioche a été fait
+en novembre 2009, mais le jeu a été tellement long à tester qu'il a pas mal traîné.
+
+Je ne peux évidement pas éviter de remercier Maître Jes pour le hack graphique qu'il a bien
+voulu faire sur ce jeu plus que moyen. Mille merci, copain! Louée soit ta patience à mon encontre!!
+
+
+A noter que le jeu est un poil buggué. Il arrive que lors d'une course où l'on est en tête
+on se retrouve tout à fait par hasard 8 kilomètres en queue de peloton. Possible que ça soit
+dû aux cheat codes, j'ai pas testé plus avant...
+
+
+
+\ CODES DE TRICHE 
+ \________________
+
+Voici une fois de plus les codes Action Replay que j'ai dégotté pour ce p'tit jeu :
+
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Nitro infinie		7E01A8		 6
+Flouze infini		7E1D19		90
+finir second		7EC426		 0
+
+
+/!\ Désactiver les cheatcodes lors de l'affichage du tableau des scores pour
+éviter un bug si on veut changer les pièces de la voiture.
+
+Désactiver les cheatcodes après le dernier circuit pour avoir les temps.
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack 	  : Jes, Happexamendios
+Traduction: Happexamendios
+Bêta-Test : Happexamendios
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "SNES-TopGear2-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Top Gear 2 (E) [!].smc
+  Taille de la rom: 1 048 576 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 531463E1
+  CRC rom patchée : 9D742DC2
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  BSnes          [ ]		SNes9X 1.51    [x]
+  Snes 9X 1.43   [x]		Snes 9X 1.53   [x]
+  Snes 9x Geiger [ ]		Snes GT        [ ]
+  ZSnes          [ ]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+Site Web : http://generation9.kanshima.net 
+Forum : http://www.bessab.com/viewforum.php?f=12 

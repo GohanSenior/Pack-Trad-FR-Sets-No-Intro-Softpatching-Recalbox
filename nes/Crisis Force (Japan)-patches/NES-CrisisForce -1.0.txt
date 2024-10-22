@@ -1,0 +1,61 @@
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre : CRISIS FORCE 
+Console : Nes 
+Développeur : Konami 
+Date : 1991
+Genre : Shoot Them Up
+Traduction n°20 !!
+
+\ DESCRIPTION
+ \_______________________________ 
+
+Une petite découverte, ce petit jeu réserve pas mal de surprises surtout si vous
+avez la chance de jouer à 2. En gardant en tête le fait que ce jeu a été
+conçu sur une 8 bits, on ne peut que féliciter Konami.
+
+C'est vrai que le scénario est pauvre mais il y a tellement de bonnes
+choses à découvrir avec ce soft ... qu'il faut pas passer à côté.
+
+
+\ ETAT DE LA TRADUCTION : Patch Bêta 
+ \___________________________________ 
+
+Tout a normalement été traduit à part le titre, Crisis Force mais cela 
+enlèverait l'identité même du jeu. 
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack : KS151 
+Traduction : KS151 
+Bêta-Test : ColibriAlpha 
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Le patch "NES-CrisisForce -1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Crisis Force (J) [!].nes
+  Taille de la rom: 262 160
+  Rom avec Header ? Non
+  CRC de la rom   : FCBF28B1
+  CRC rom patchée : 2D1B181C
+ 
+ 
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher. 
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils 
+peuvent créer une sauvegarde de la rom avant de patcher). 
+Voilà maintenant votre rom avec les modifications apportées par notre traduction. 
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+Forum : http://www.bessab.com/viewforum.php?f=12 
+Site web : http://generation9.kanshima.net
+Hack & Traduction : ks151@msn.com

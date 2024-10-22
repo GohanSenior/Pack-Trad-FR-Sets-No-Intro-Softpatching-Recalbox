@@ -1,0 +1,92 @@
+			Génération IX (http://generation9.kanshima.net) 
+			   vous présente la traduction de Sparkster
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre	: Sparkster
+Console	: Super Nintendo
+Développeur : Konami
+Date	: 1994
+Genre	: Action/Plates-formes
+
+
+\ ETAT DE LA TRADUCTION : Patch Version 1.0 créé le : 25/08/2009 
+ \_______________________________________________________________ 
+
+Alors que j'avais 5 minutes à tuer et pas envie de faire grand-chose, je me suis penché sur
+les roms que j'avais dans le dossier "A tester" de mon disque dur. J'ai donc testé "Sparkster",
+un jeu de plates-formes signé Konami qui n'est pas mal du tout.
+
+La traduction en elle même a été assez vite torchée, je me suis malheureusement rendu compte
+qu'il n'y avait pas tant de texte que ça (hormis le générique de fin et quelques trucs), par contre
+j'ai fortement galéré pour un bug à 2 centimes ; à savoir que le jeu affichait un "8" impromptu
+à l'écran titre une fois qu'on a fini le jeu et qu'on le recommence dans la foulée. Bon, en fait,
+c'est très très con : c'est les cheat codes qui font ça, il suffit de les désactiver et ça roule!
+
+Le jeu en lui même est très agréable à jouer. Comme d'hab' chez Konami, les contrôles répondent
+bien, la jouabilité est parfaite et il y'a pas mal de trucs sympas (j'ai un faible pour les
+streums qui se barrent en se cachant les roubignolles parce qu'ils n'ont plus d'habits après
+un coup de latte! )
+
+Les musiques sont sympas et les graphismes bien travaillés. Il y a des phases type "shoot'em up",
+des combats de boxe de mecha, de la princesse à sauver, un système de code... Bref! Comme dans
+le cochon : tout est bon!!
+
+
+Au niveau de la trad', tout le peu de script est fait. Il manque juste le "Stage Clear" et
+le "Set up", mais j'ai la flemme, et c'est compressé. Donc on va pas se prendre le bulbe
+pour pas grand chose, hein?
+
+
+\ CODES DE TRICHE 
+ \________________
+
+Voici une fois de plus les codes Action Replay que j'ai dégotté pour ce p'tit jeu :
+
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Energie infinie		7E0691		12
+Vies infinies		7E448A		 9
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack 	  : Happexamendios
+Traduction: Happexamendios
+Bêta-Test : Happexamendios
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "SNES-Sparkster-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Sparkster (E).smc
+  Taille de la rom: 1 048 576 octets
+  Rom avec Header ? Non
+  CRC de la rom   : F43C155C
+  CRC rom patchée : 78D9DBE1
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  BSnes          [ ]		SNes9X 1.51    [ ]
+  Snes 9X 1.43   [x]		Snes 9X 1.53   [x]
+  Snes 9x Geiger [ ]		Snes GT        [ ]
+  ZSnes          [ ]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+Site Web : http://generation9.kanshima.net 
+Forum : http://www.bessab.com/viewforum.php?f=12 

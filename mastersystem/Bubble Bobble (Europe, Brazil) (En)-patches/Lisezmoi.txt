@@ -1,0 +1,92 @@
+Traduction Française de Bubble Boble
+sur Master System par "Sstrad Translations"
+
+Contenu de l'archive et utilisation
+-----------------------------------
+Normalement, l'archive ZIP doit contenir :
+
+bubblefr.ips - Le patch IPS de Bubble Bobble FR
+bubblefr.bat - Le batch d'installation du patch
+ips.exe      - Le patcheur obligatoire pour le batch
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Le meilleur moyen d'utiliser ce patch est d'extraire cette 
+archive ZIP dans le répertoire où se trouve la rom originale, 
+qui doit s'appeller bubble.nes, puis de lancer le batch 
+bubblefr.bat, pour avoir une rom bubblefr.nes traduite.
+
+Ce qui a été fait
+-----------------
+Menus    : 100 %
+Script   : 100 %
+Images   : 100 %
+Messages : 100 %
+
+L'équipe de la traduction
+-------------------------
+   Nanard       : Chef du projet
+		  Traduction du Script
+		  Traduction des Menus
+                  Traduction de tous les autres textes
+	       
+Autres Projets
+--------------
+Saint Seiya Saint Paradise : Japonais -> Anglais (Game Boy)
+
+J'ai décidé de traduire ce jeu car je suis un vrai fan des Chevaliers du 
+Zodiaque et que ce jeu est pour le moment en japonais. Les jeux vidéo sur
+Les Chevaliers du Zodiaque étant rares, je vais donc le traduire afin que
+tous les fans des Chevaliers du Zodiaque puissent jouer à ce jeu tout en
+pouvant comprendre l'histoire.
+
+Contacts
+--------
+Une remarque, une question ou une correction à apporter à la
+traduction de Megaman.
+
+Nanard - mirmbel@infonie.fr
+
+Vous avez envie de faire partie d'un projet en cours ou de
+lancer un nouveau projet dans le groupe.
+
+Psxhacker - sstrad@libertysurf.fr
+
+Vous voulez mieux connaître le groupe, télécharger nos derniers
+patchs ou vous renseigner sur un projet.
+
+Site Web - http://sstrad.romhack.net
+
+Si vous voulez contacter un membre en particulier, voici les e-mails et/ou 
+N° ICQ des membres de Sstrad Translations :
+
+Psxhacker : sstrad@libertysurf.fr -> 86086092
+Ben : benrock@libertysurf.fr -> 73749387
+REMslug : remslug@wanadoo.fr -> 54144671
+Crono : crono@rpgtown.com -> 71016568
+Asmodailius : asmodailius@wanadoo.fr  
+Hairbib : flokyb@club-internet.fr 
+Cissou_b7 : cyfirmin@yahoo.com 
+zekiller : zekiller@belgacom.net
+Nanard : mirmbel@infonie.fr
+
+Remarques Légales
+-----------------
+Le patch de traduction française de Bubble Bobble
+n'est pas officiel et n'est pas supporté par Nintendo.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+Nanard

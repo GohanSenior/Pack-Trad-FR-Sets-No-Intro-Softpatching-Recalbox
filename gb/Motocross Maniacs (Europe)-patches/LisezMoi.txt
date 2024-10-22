@@ -1,0 +1,110 @@
+TERMINUS TRADUCTION présente
+
+Motocross Maniacs
+----------------------------------------------------------------
+*******************Table des matières******************
+----------------------------------------------------------------
+
+1.    L'HISTOIRE DU JEU
+2.      CONTENU DE L'ARCHIVE ET UTILISATION
+3.    LES PATCHS PUBLIES
+4.      TOUT CE QUI A ETE FAIT
+5.    L'ÉQUIPE DE LA TRADUCTION
+6.      CONTACTS
+7.    REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  L'HISTOIRE DE Motocross Maniacs
+----------------------------------------------------------------
+
+Vous êtes un pilote de Motocross, et vous devez franchir la ligne
+d'arrivée le plus rapidement possible...Voilà!
+Comme pas mal de jeux de course/sport sur support Game Boy,
+Motocross Maniacs ne va pas briller par son histoire ou sa mise
+en scène, mais plutôt par sa lisibilité de jeu et son gameplay.
+Et c'est là l'essentiel.
+
+Motocross Maniacs est donc un jeu de course 2D tout ce qu'il y a
+de plus simple, il vous faudra donc évoluer sur des plates-formes,
+tremplins et autres loopings, astucieusement placés afin de vous
+frayer un chemin vers la ligne d'arrivée.
+
+En ce qui concerne la durée de vie, il y a donc huit circuits dotés
+de trois niveaux de difficulté chacun. Si ceux-ci se termineront
+assez rapidement avec un peu de pratique, on y reviendra souvent,
+et c'est ce qui fait la force de ce jeu : des petites sessions,
+mais très fréquentes.
+
+Une partie de l'article:
+https://oldiesrising.com/AmanoSkin/oldiesrisingtestsV2.php?titre=Motocross%20Maniacs&cons=27
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir:
+MotocrossManiacsFr.ips  - Le patch IPS du jeu
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+(le Patcheur Terminus par exemple).
+Ce patch est à utiliser avec la ROM No-Intro:
+Motocross Maniacs (Europe).gb
+
+----------------------------------------------------------------
+3.  LES PATCHS PUBLIES
+----------------------------------------------------------------
+
+- V1.00
+
+----------------------------------------------------------------
+4.  TOUT CE QUI A ETE FAIT
+----------------------------------------------------------------
+
+Traduction du jeu
+Retouches Graphiques
+
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+Kazan:   Hacking, Traduction, Graphismes
+
+----------------------------------------------------------------
+6.  CONTACTS
+----------------------------------------------------------------
+
+Une remarque, une question ou une correction à apporter à la
+traduction du jeu.
+
+Kazan - newkazan@hotmail.fr
+
+Vous voulez mieux connaître le groupe, télécharger nos derniers
+patchs ou vous renseigner sur un projet.
+
+Site Web - http://terminus.romhack.net
+Facebook - https://www.facebook.com/TerminusTrad/
+
+----------------------------------------------------------------
+7.  REMARQUES LEGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de ce jeu n'est pas officiel et
+n'est pas supporté par Nintendo.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+Kazan

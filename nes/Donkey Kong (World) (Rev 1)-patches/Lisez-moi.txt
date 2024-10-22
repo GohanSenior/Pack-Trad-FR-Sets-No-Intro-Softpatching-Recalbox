@@ -1,0 +1,10 @@
+Le tout premier jeu Mario originellement apparu sur bornes d'arcade en 1981 adapté deux ans plus tard 
+sur Famicom (Japon) et cinq ans plus tard sur NES (US et Europe) avec aujourd'hui une traduction française
+de haute qualité.
+
+Il contient deux différents patchs en français :
+
+- Un de la version NES (Trois niveaux seulement)
+- Un autre dans son édition originale (Avec quatre niveaux)
+
+Choisissez le patch que vous préférez et utilisez-le sur la ROM Donkey Kong (U) (PRG1) [!]

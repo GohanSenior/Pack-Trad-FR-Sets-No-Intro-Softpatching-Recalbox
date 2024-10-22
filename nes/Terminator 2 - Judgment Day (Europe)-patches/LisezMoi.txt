@@ -1,0 +1,119 @@
+TERMINUS TRADUCTION présente
+
+Terminator 2 - Le Jugement Dernier
+----------------------------------------------------------------
+*******************Table des matières******************
+----------------------------------------------------------------
+
+1.    L'HISTOIRE DU JEU
+2.      CONTENU DE L'ARCHIVE ET UTILISATION
+3.    LES PATCHS PUBLIES
+4.      TOUT CE QUI A ETE FAIT
+5.    L'ÉQUIPE DE LA TRADUCTION
+6.      CONTACTS
+7.    REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  L'HISTOIRE DE TERMINATOR 2 - LE JUGEMENT DERNIER
+----------------------------------------------------------------
+
+Terminator 2 : Judgement Day est un jeu d'action sorti sur NES
+(et sur pas mal d'autres supports de l'époque).
+
+Graphiquement, il est tout à fait honorable pour de la NES.
+Suffisamment détaillés pour qu'on reconnaisse bien les lieux et
+les personnages liés au film.
+Les décors sont variés, il n'y a pas de lassitude à ce niveau.
+Même les passages avec des illustrations pixélisées avec les
+héros de T2 entre les niveaux sont assez réussies !
+
+Le jeu reprend les grandes lignes de l'histoire du film, à savoir
+incarner le T-800 envoyé du futur pour sauver John Connor du
+T-1000 qui cherche à tout prix à l'éliminer. On passera par le
+célèbre passage du bar et des bikers, la course poursuite moto
+contre 3,5T, le passage dans l'hôpital psychiatrique, les locaux
+de Cyberdine et la fonderie, pour un affrontement final contre le
+Terminator en métal liquide. Le jeu est entrecoupé de petites
+cinématiques fixes sous-titrées pas trop mal, histoire que
+l'histoire suivent bien son cours malgré les ellipses faites par
+le jeu. Du jeu à licence classique, même si là on est au dessus
+du lot pour l'histoire, car on ne fait pas tout une salade sur un
+passage qui dure quelques secondes dans le film, mais plutôt sur
+les points importants et réellement adaptables en phase jouable.
+
+Cependant...le jeu est extrêmement difficile!
+
+
+Source:http://www.jeuxcollector.fr/tests-a-dossiers/loose-test/1699-loose-test-terminator-2-judgement-day-nes
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir:
+Terminator2Fr.ips  - Le patch IPS du jeu
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+(le Patcheur Terminus par exemple).
+Ce patch est à utiliser avec la ROM No-Intro:
+Terminator 2 - Judgment Day (Europe).nes
+
+----------------------------------------------------------------
+3.  LES PATCHS PUBLIES
+----------------------------------------------------------------
+
+- V1.00
+
+----------------------------------------------------------------
+4.  TOUT CE QUI A ETE FAIT
+----------------------------------------------------------------
+
+Traduction du jeu
+Ecran Titre
+Divers Sprites
+
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+Kazan:   Hacking, Traduction
+
+----------------------------------------------------------------
+6.  CONTACTS
+----------------------------------------------------------------
+
+Une remarque, une question ou une correction à apporter à la
+traduction du jeu.
+
+Kazan - newkazan@hotmail.fr
+
+Vous voulez mieux connaître le groupe, télécharger nos derniers
+patchs ou vous renseigner sur un projet.
+
+Site Web - http://terminus.romhack.net
+Facebook - https://www.facebook.com/TerminusTrad/
+
+----------------------------------------------------------------
+7.  REMARQUES LEGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de ce jeu n'est pas officiel et
+n'est pas supporté par LJN LTD et Nintendo.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+Kazan

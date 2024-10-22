@@ -1,0 +1,114 @@
+
+----------------------------------------------------------------
+***********************Table des matières***********************
+----------------------------------------------------------------
+
+1.	INFORMATION SUR LE JEU
+2.      CONTENU DE L'ARCHIVE ET UTILISATION
+3.	TOUT CE QUI A ÉTÉ FAIT
+4.      HISTORIQUE DES VERSIONS
+5.	L'ÉQUIPE DE TRADUCTION
+6.	REMARQUES LÉGALES
+
+----------------------------------------------------------------
+1.  INFORMATION SUR LE JEU
+----------------------------------------------------------------
+
+Titre       : The Adventures of Batman & Robin
+Console     : Megadrive
+Développeur : Clockworks Entertainment
+Editeur     : SEGA
+Année       : 1995
+Genre       : Action/Beat them all/Shoot (oui, c'est varié)
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+L'archive ZIP doit contenir :
+
+Adventures of Batman and Robin FR1.1.bps  - Le patch de 
+traduction au format BPS du jeu.
+LisezMoi.txt - Le fichier que vous êtes en train de lire.
+
+Ce patch est à utiliser avec les roms 
+-Adventures of Batman and Robin, The (JU) [!].bin
+-Adventures of Batman and Robin, The (U) [!].gen	
+
+
+Voir ci-après les empreintes numériques pour vour permettre de 
+vérifier que vous avez la bonne ROM :
+-MD5 : 5b1bcb3793262d2d0282b49e0c2ee053
+-SHA1: 1da4b3fc92a6572e70d748ebad346aeb291f89f3
+
+À vérifier ici : https://md5file.com/calculator
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+
+Vous pouvez patcher la rom en ligne via l'adresse suivante:
+https://www.marcrobledo.com/RomPatcher.js/
+
+Vous pouvez aussi le faire sur votre ordinateur :
+Si vous êtes sous Windows ou Linux, je vous conseille l'utilisation
+de Floating IPS (Flips).
+Si vous êtes sous Mac, je vous conseille l'utilisation de
+MultiPatch par Sappharad.
+
+       |   Windows   |     Mac    | Linux |   Android  |
+--------------------------------------------------------
+  BPS  |    Flips    | MultiPatch | Flips | RomPatcher |
+--------------------------------------------------------
+
+Tous les patcheurs susnommés sont disponibles sur 
+https://www.romhacking.net/
+
+----------------------------------------------------------------
+3.  TOUT CE QUI A ÉTÉ FAIT
+----------------------------------------------------------------
+
+Menu             : 100 % 
+Cinématiques     : 100 % (et vous n'en profiterez que si vous 
+terminez le jeu !!)
+
+----------------------------------------------------------------
+4.  HISTORIQUE DES VERSIONS
+----------------------------------------------------------------
+
+1.0 (23/01/10) : sortie initiale du patch
+1.1 (11/10/19) : ajustements mineures et intégration d'une somme
+ de contrôle (checksum) correcte.
+
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+Corrigo : Tout
+
+Si vous trouvez des erreurs dans le patch, je vous saurais gré
+de m'envoyer un courriel à : corrigo@outlook.fr avec si possible
+une capture d'écran du souci.
+
+----------------------------------------------------------------
+6.  REMARQUES LÉGALES
+----------------------------------------------------------------
+
+Le patch de traduction française des Aventures of Batman & Robin
+n'est pas officiel et n'est pas supporté par SEGA et/ou 
+Clockworks Entertainment.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout, à bientôt et bon jeu!
+
+Corrigo

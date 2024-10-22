@@ -1,0 +1,118 @@
+TERMINUS TRADUCTION présente
+
+Star Wars (Namco)
+----------------------------------------------------------------
+*******************Table des matières******************
+----------------------------------------------------------------
+
+1.    L'HISTOIRE DU JEU
+2.      CONTENU DE L'ARCHIVE ET UTILISATION
+3.    LES PATCHS PUBLIES
+4.      TOUT CE QUI A ETE FAIT
+5.    L'ÉQUIPE DE LA TRADUCTION
+6.      CONTACTS
+7.    REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  L'HISTOIRE DE Star Wars (Namco)
+----------------------------------------------------------------
+
+On a tous connu le star wars NES de JVC en 1991
+
+Mais 4 ans avant...Namco sortait le sien qui n'a jamais été
+localisé chez nous... Chose faite :)
+
+Bien que le jeu soit basé sur l'épisode IV, Namco a pris plusieurs
+libertés avec son scénario. Par exemple, Luc doit sauver certains
+des personnages principaux du film (R2-D2, C-3PO, Obi-Wan Kenobi,
+la Princesse Leia, Chewbacca et Han Solo), qui sont prisonniers de
+planètes distinctes. Ainsi, Luc voyage en utilisant le Faucon
+Millenium qui dans le film, n'a été piloté que par Chewie et Han,
+afin de les retrouver.
+
+De plus, sur chaque planète, le Boss semble être Dark Vador, qui
+est typiquement usurpé par des métamorphes qui se transforment
+ensuite en scorpion géant, Wampa, requin ou ptérosaure pour
+continuer à attaquer.
+On combat finalement Vador sur l'Etoile de la Mort ainsi que sur
+Yavin.
+Les faux Vaders ont été conçus comme des illusions représentant
+les craintes de Luke, comme la scène de la Grotte dans l'épisode V.
+Ces "illusions" ont pu kidnapper les alliés de Luke Skywalker et
+les retenir prisonniers. 
+
+D'autres différences incluent l'utilisation d'un sabre laser et de
+la Force dans l'épisode IV...Luke a les cheveux noirs dans le jeu,
+bien que les illustrations du manuel d'instructions le dépeignent
+avec des cheveux jaunes, plus proches de sa  couleur blonde.
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir:
+StarWars(Namco).ips  - Le patch IPS du jeu
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+(le Patcheur Terminus par exemple).
+Ce patch est à utiliser avec la rom JAP:
+Star Wars (Japan) (Namco).nes
+
+----------------------------------------------------------------
+3.  LES PATCHS PUBLIES
+----------------------------------------------------------------
+
+-V1.00
+Traduction complète
+
+----------------------------------------------------------------
+4.  TOUT CE QUI A ETE FAIT
+----------------------------------------------------------------
+
+Traduction complete du jeu
+Retouches graphiques 
+
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+Kazan : Hacking, Traduction, Retouches graphiques
+
+----------------------------------------------------------------
+6.  CONTACTS
+----------------------------------------------------------------
+
+Une remarque, une question ou une correction à apporter à la
+traduction du jeu.
+
+Kazan - newkazan@hotmail.fr
+
+Vous voulez mieux connaître le groupe, télécharger nos derniers
+patchs ou vous renseigner sur un projet.
+
+Site Web - http://terminus.romhack.net
+
+----------------------------------------------------------------
+7.  REMARQUES LEGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de ce jeu n'est pas officiel
+et n'est pas supporté par Nintendo, et Namco
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+Kazan

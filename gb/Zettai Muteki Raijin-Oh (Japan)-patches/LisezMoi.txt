@@ -1,0 +1,105 @@
+TERMINUS TRADUCTION présente
+
+Zettai Muteki Raijin-Oh
+----------------------------------------------------------------
+*******************Table des matières******************
+----------------------------------------------------------------
+
+1.    L'HISTOIRE DU JEU
+2.    CONTENU DE L'ARCHIVE ET UTILISATION
+3.    LES PATCHS PUBLIES
+4.    TOUT CE QUI A ETE FAIT
+5.    L'ÉQUIPE DE TRADUCTION
+6.    CONTACTS
+7.    REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  L'HISTOIRE DE Zettai Muteki Raijin-Oh
+----------------------------------------------------------------
+
+Zettai Muteki Raijin-Oh ( Matchless Raijin-Oh aux US) est une
+adaptation du manga du même nom.
+Zettai Muteki Raijin-Oh est un jeu de combat de mecha un peu comme
+Ultraman.
+Vous contrôlez un robot géant tout droit sorti d'un film japonais
+pour combattre 8 créatures géantes. Vous pouvez frapper votre
+adversaire toute la journée, vous n'arriverez pas à baisser sa
+barre de vie à zéro.
+Le secret réside dans le menu et le choix des options.
+Petit jeu sans prétention mais quand même bien sympa malgré la
+difficulté.
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir:
+Zettai Muteki Raijin-Oh.ips  - Le patch IPS du jeu
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+(le Patcheur Terminus par exemple).
+Ce patch est à utiliser avec la rom Unrealease:
+Zettai Muteki Raijin-Oh (Japan).gb
+
+----------------------------------------------------------------
+3.  LES PATCHS PUBLIES
+----------------------------------------------------------------
+
+-V1.00
+Traduction complète
+Retouches Graphiques
+
+----------------------------------------------------------------
+4.  TOUT CE QUI A ETE FAIT
+----------------------------------------------------------------
+
+Traduction complete du jeu
+Retouches Graphiques
+
+
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+Kazan : Hacking, Traduction.
+
+
+----------------------------------------------------------------
+6.  CONTACTS
+----------------------------------------------------------------
+
+Une remarque, une question ou une correction à apporter à la
+traduction du jeu.
+
+Kazan - newkazan@hotmail.fr
+
+Vous voulez mieux connaître le groupe, télécharger nos derniers
+patchs ou vous renseigner sur un projet.
+
+Site Web - http://terminus.romhack.net
+Facebook - https://www.facebook.com/TerminusTrad/
+
+----------------------------------------------------------------
+7.  REMARQUES LEGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de ce jeu n'est pas officiel
+et n'est pas supporté par Nintendo.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+Kazan

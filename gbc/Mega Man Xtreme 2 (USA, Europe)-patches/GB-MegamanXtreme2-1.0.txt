@@ -1,0 +1,121 @@
+/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+|                                Terminus Traduction                                 |
+|                                         &                                          |
+|                                   Génération IX                                    |
+|                                                                                    |
+|                                     PRESENTENT                                     |
+|                                                                                    |
+|                                  la traduction de                                  |
+|                                                                                    |
+|                                Mega Man Xtreme  2                                |
+\____________________________________________________________________________________/
+
+
+-------------------------------------------------------------------------------------
+******************************** Table des matières *********************************
+-------------------------------------------------------------------------------------
+
+1.    L'HISTOIRE DU JEU
+2.      INFORMATIONS DU JEU
+3.    CONTENU DE L'ARCHIVE ET UTILISATION
+4.      HISTORIQUE DES VERSIONS
+5.    TOUT CE QUI A ETE FAIT
+6.      L'ÉQUIPE DE LA TRADUCTION
+7.    CONTACTS
+8.      REMARQUES LEGALES
+
+
+\ 1. L'HISTOIRE DU JEU
+ \____________________________________________________________________________________
+
+Ce jeu prend place chronologiquement entre les évenements de Mega Man X3 et Mega Man X4.
+Par rapport au 1er épisode, Zéro est devenu jouable et ne se limite donc plus à un "striker".
+X et Zéro affrontent de mystétieux Réploïdes effaceurs d'âme.
+
+
+\ 2. INFORMATIONS DU JEU
+ \____________________________________________________________________________________
+
+Titre       : Mega Man Xtreme
+Console     : Game Boy Color
+Développeur : Capcom
+Date        : 2001
+Genre       : Action-Plate-forme
+
+
+\ 3. CONTENU DE L'ARCHIVE ET UTILISATION
+ \____________________________________________________________________________________
+
+Normalement, l'archive ZIP doit contenir :
+
+GB-MegamanXtreme2-1.0.ips - Le patch IPS de Mega Man Xtreme
+GB-MegamanXtreme2-1.0.txt - Le fichier que vous êtes en train de lire
+
+Ce patch est à utiliser avec la rom Mega Man Xtreme 2 (U) [C][!].gbc
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR (trouvable sur le site
+de la TRAF (http://traf.romhack.org) comme le Patcheur Terminus par exemple).
+
+
+\ 4. HISTORIQUE DES VERSIONS
+ \____________________________________________________________________________________
+
+29/02/2008 - Version Finale
+
+
+\ 5.    TOUT CE QUI A ETE FAIT
+ \____________________________________________________________________________________
+
+Script      :     100 %
+Graphismes  :     100 %
+Menus       :     100 %
+Insertion des accents
+
+
+\ 6. L'ÉQUIPE DE LA TRADUCTION
+ \____________________________________________________________________________________
+
+Script           : FlashPV
+Graphismes       : FlashPV / BahaBulle
+Outils de compression : BahaBulle
+
+
+\ 7. CONTACTS
+ \____________________________________________________________________________________
+
+Une remarque, une question ou une correction à apporter à la traduction de
+Mega Man Xtreme 2.
+
+Terminus Traduction : FlashPV   - FlashPV@aol.com
+Génération IX       : BahaBulle - BahaBulle@hotmail.com
+
+Vous voulez mieux connaître les groupes, télécharger les derniers patchs ou vous
+renseigner sur un projet :
+
+Site Web Terminus Traduction : http://terminus.romhack.net
+Site Web Génération IX       : http://generation9.kanshima.net
+
+
+\ 8. REMARQUES LEGALES
+ \____________________________________________________________________________________
+
+Le patch de traduction française de Mega Man Xtreme 2 n'est pas officiel
+et n'est pas supporté par Capcom ou Nintendo.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus.
+Ni argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+--------------------------------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+FlashPV
+BahaBulle

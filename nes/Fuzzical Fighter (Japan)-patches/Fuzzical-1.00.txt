@@ -1,0 +1,19 @@
+*****  Fuzzical Fighter v1.00 par Terminus Traduction ***** 
+
+-LA PETITE HISTOIRE-
+
+Fuzzical Fighter est un petit Shoot sur Nes avec des séquences styles RPG entre les niveaux.
+Sorti uniquement au japon, il a été traduit en anglais par WadkHack. Ce patch est d'ailleurs
+basé sur le version traduite du jeu (mais s'utilise avec la rom jap attention).
+
+-TRADUCTION-
+
+100% du jeu de traduit.
+
+-MEMBRES SUR LE PROJET-
+
+FlashPV: Hacking et traduction.  email: FlashPV@aol.com
+Merci à WadkHack et à Bongo de m'avoir permi d'utiliser leur patch.
+
+Terminus Traduction 2k1
+http: Terminus.romhack.net

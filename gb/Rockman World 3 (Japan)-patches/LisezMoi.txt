@@ -1,0 +1,72 @@
+MegaMan World 3 (Game Boy)
+Traduction en Français v1.0 (28/03/2023)
+
+
+------------------------
+Genre: plateforme
+------------------------
+Mega Man III (Rockman World 3 au Japon), est un jeu d'action-plates-formes. Il s'agit du troisième jeu de la 
+série à être sorti sur Game Boy.
+
+------------------------
+Histoire
+------------------------
+Le professeur Wily remonte le temps et Mega Man se lance à sa poursuite. 
+Tout au long de son aventure, le robot bleu se heurte à des ennemis du passé 
+ainsi qu'à Quint, un robot du futur qui lui est étrangement familier.
+
+------------------------
+CONTENU DE L'ARCHIVE ET UTILISATION
+------------------------
+Normalement, l'archive ZIP doit contenir:
+Megaman_World_3_FR.ips - Le patch IPS de MegaMan World 3 
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+comme LumarIPS.
+Ce patch est à utiliser avec la rom Rockman World 3 (Japan).gbc
+Taille: 262144 octets (256 KiB)
+CRC32: E904484F
+SHA256: c3f26fa63f2288a5f5b7416e0ab834be86462eeabfb32e6005537765627a69e4
+
+
+ROM patché:
+Taille: 262144 octets (256 KiB)
+CRC32: 63EF6C9C
+SHA256: 0c8a4614ccc1a24fb5e5c7d03e6ac288b87cff275cdeb1df84836647cd1f3ae7
+
+
+--------
+TRADUCTION
+--------
+Yoda07: menu, script, GFX : 100%
+
+
+----------------------------------------------------------------
+CONTACTS
+----------------------------------------------------------------
+Une remarque, une question ou une correction à apporter à la
+traduction de MegaMan World 3.
+
+Yoda07 mail: juin-2010@hotmail.fr
+
+----------------------------------------------------------------
+REMARQUES LEGALES
+----------------------------------------------------------------
+Le patch de traduction française de MegaMan World 3 n'est
+pas officiel et n'est pas supporté par Capcom ou Nintendo.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !

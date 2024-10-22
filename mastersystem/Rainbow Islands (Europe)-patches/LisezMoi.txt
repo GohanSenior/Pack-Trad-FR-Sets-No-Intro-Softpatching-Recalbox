@@ -1,0 +1,101 @@
+TERMINUS TRADUCTION  présente
+
+RAINBOW ISLANDS
+----------------------------------------------------------------
+*******************Table des matières******************
+----------------------------------------------------------------
+
+1.    L'HISTOIRE DU JEU
+2.      CONTENU DE L'ARCHIVE ET UTILISATION
+3.    LES PATCHS PUBLIES
+4.      TOUT CE QUI A ETE FAIT
+5.    L'ÉQUIPE DE LA TRADUCTION
+6.      CONTACTS
+7.    REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  L'HISTOIRE DE RAINBOW ISLANDS
+----------------------------------------------------------------
+
+Rainbow Islands est comme l'indique son sous-titre la suite du
+cultissime Bubble Bobble. Le jeu ne se déroule plus sur écran
+fixe mais sur des niveaux que l'on doit monter à la verticale.
+Taito a réussi avec ce jeu le tout de force de faire une suite
+différente de l'original mais qui sera tout aussi culte.
+Cette conversion Master System est très réussie mais comportait
+un bug qui empêchait d'accéder à la véritable fin, bug qui a
+été corrigé plus tard sur les versions brésiliennes du jeu.
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir:
+RainbowIslandsFrSMS.ips  - Le patch IPS de Rainbow Islands
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+supportant le format IPS (patcheur Terminus exemple).
+
+Ce patch est à utiliser avec la Rom NO-INTRO
+Rainbow Islands (Europe).sms
+
+----------------------------------------------------------------
+3.  LES PATCHS PUBLIES
+----------------------------------------------------------------
+
+-V1.00
+Traduction complète
+
+----------------------------------------------------------------
+4.  TOUT CE QUI A ETE FAIT
+----------------------------------------------------------------
+
+Script    :   100 %
+Pointeurs :   100 %
+Graphismes:   100 %
+ 
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+FlashPV : Hacking, Traduction
+Arsenal_51 : Bug Fix bonne fin
+
+----------------------------------------------------------------
+6.  CONTACTS
+----------------------------------------------------------------
+
+Une remarque, une question ou une correction à apporter à la
+traduction de Rainbow Islands
+
+FlashPV - FlashPV@aol.com
+
+Vous voulez mieux connaître le groupe, télécharger nos derniers
+patchs ou vous renseigner sur un projet.
+
+Site Web - http://terminus.romhack.net
+
+----------------------------------------------------------------
+7.  REMARQUES LEGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de Rainbow Islands n'est pas
+officiel et n'est pas supporté par Sega ou Taito.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+FlashPV

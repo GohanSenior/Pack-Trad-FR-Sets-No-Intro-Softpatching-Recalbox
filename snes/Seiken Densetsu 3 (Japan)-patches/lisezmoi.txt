@@ -1,0 +1,70 @@
+   /¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+   --  Fichier d'information généré par la T.R.A.F --
+   \________________________________________________/
+
+
+Informations sur le jeu
+-----------------------
+
+Titre           : Seiken Densetsu 3
+Console         : Super NES
+Editeur         : Squaresoft
+Année de sortie : 1995
+Genre           : Action RPG
+
+
+Informations sur le patch
+-------------------------
+
+ROM/ISO à patcher : Seiken Densetsu 3 (J).smc
+Base de données   : GoodSNES
+Noms              : sd3_sd3.ips, sd3_sd3j.ips, sd3_som2.ips
+Norme             : IPS
+CRC32 des patchs  : D31F4FE9, 52FE87D0, 19F12B63
+CRC32 de la ROM   : 863ED0B8
+Auteurs           : Terminus Traduction (95% du jeu)
+                    Vertex (texte d'intro)
+                    DragonsBrethren (écran titre)
+Taux d'avancement : 98%
+Année de sortie   : 2006
+
+Les 3 patchs sont identiques dans leur contenu à une petite
+différence prêt qui se situe au niveau de l'écran titre :
+- sd3_sd3.ips affiche "Seiken Densetsu 3"
+- sd3_som2.ips affiche "Secret of Mana 2"
+- sd3_sd3j.ips affiche le titre original en japonais
+
+Ces patchs sont surtout importants dans la mesure où ils
+complètent le travail effectué par Terminus Traduction fin
+2000. On retrouvera donc la traduction du texte d'introduction
+effectuée par Vertex peu après la sortie du patch mais qui
+n'avais jamais été incorporé dans le projet de Terminus. Le
+petit bonus provient du fait que, comme je l'ai dit plus
+haut, vous pourrez choisir l'écran titre qui vous convient
+grâce au travail de DragonsBrethren en 2005.
+
+Enfin, je me suis permis de créer le patch de manière à ce
+qu'il soit applicable à la ROM sans header (c'est-à-dire celle
+qui est issue du GoodSNES sans passer par des outils comme
+SNEStool), ce qui devrait rendre les choses plus simples
+pour pouvoir profiter de cette traduction. Accessoirement,
+j'ai également réglé les checksums (autant faire les choses
+bien, non ?).
+
+Amusez-vous bien !
+
+
+Ti Dragon
+
+
+--
+
+Pour patcher votre ROM, rendez-vous sur le site de la T.R.A.F
+dans la section dédiée : http://traf.romhack.org/?page=ipsuse
+
+--
+
+Site de la T.R.A.F          : http://traf.romhack.org/
+Site de Terminus Traduction : http://terminus.romhack.net/
+Site de DragonsBrethren     : http://dragonsbrethren.elazulspad.net/
+Forums de la scène Fr       : http://www.bessab.com/

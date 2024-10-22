@@ -1,0 +1,71 @@
+The Adventures of Rad Gravity
+
+----------------------------------------------------------------
+ L'HISTOIRE ET LE JEU
+----------------------------------------------------------------
+
+Agathos, un méchant sorcier, a désactivé les "ordinateurs des planètes unies" qui permettent à la galaxie de vivre en paix.
+Kakos, le dernier des ordinateurs, vous demande de réactiver les autres ordinateurs. Pour cela vous devrez retrouver les coordonnées des planètes et lieux de téléportation.
+
+Le jeu est un jeu de plateforme avec une pointe de Metroïd car vous devrez trouver des points de vies supplémentaires, des armes et armures pour pouvoir passer certains passages.
+
+Le jeu est assez diffcile car les niveaux sont labyrinthiques et certains objets sont trouvables seulement dans des passages secrets. Cependant, il offre des niveaux variés pour chaque planète et des "boss" souvent faciles si on trouve l'astuce pour les battre.
+ 
+----------------------------------------------------------------
+ CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir:
+RadGravityFrv.0.90.ips  - Le patch IPS du jeu
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+(le Patcheur Terminus par exemple).
+
+Ce patch est à utiliser avec la US no-intro :
+
+Adventures of Rad Gravity, The (USA).nes 
+CRC : B55D5747
+
+----------------------------------------------------------------
+ CE QUI A ETE FAIT
+----------------------------------------------------------------
+
+Seulement les textes dans le jeu et le texte de la fin du jeu.
+
+L'écran titre, password, et les "Stargate" ne sont pas traduits.
+
+----------------------------------------------------------------
+Le Traducteur
+----------------------------------------------------------------
+
+Seigneur_ced
+
+----------------------------------------------------------------
+ CONTACTS
+----------------------------------------------------------------
+
+Une remarque, une question ou une correction à apporter à la
+traduction du jeu.
+
+Seigneur_ced - cedgod@yahoo.fr.fr
+
+----------------------------------------------------------------
+ REMARQUES LEGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de ce jeu n'est pas officiel
+et n'est pas supporté par Nintendo et Interplay
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------

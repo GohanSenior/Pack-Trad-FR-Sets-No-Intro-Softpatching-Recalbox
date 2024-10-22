@@ -1,0 +1,170 @@
++-----------------------------------+
+| Kyatto Ninden Teyandee (Français) |
++-----------------------------------+
+
+ ********************
+* Table des matières *
+ ********************
+
+1. Histoire de Kyatto Ninden Teyandee
+2. Historique de la traduction
+3. Contenu de l'archive
+4. Utilisation
+5. Patchs publiés
+6. Ce qui a été fait
+7. Equipe de traduction
+8. Contacts
+9. Remarques légales
+
+ ***************************************
+* 1. Histoire de Kyatto Ninden Teyandee *
+ ***************************************
+
+Kyatto Ninden Teyandee est plus connu par chez nous sous le nom de Samouraï
+Pizza Cats. Il s'agit d'une série de dessin animé diffusée au début des
+années 90 sur la Cinq. Dans celle-ci, nous suivons les aventures d'un groupe
+de chats ninja et livreurs de pizzas à temps partiel nommés Toufou, Guidon
+et Polly. Ces trois compagnons luttent contre leur vieil ennemi, le très vil
+Dusournois dont l'objectif est de devenir l'empereur à la place de l'empereur
+Fred. Il est aidé pour cela de ces acolytes: Ducrochu et Décati. La série est
+caractérisée par un univers visuel d'inspiration asiatique très riche en
+couleurs, ainsi qu'un ton humoristique très prononcé.
+
+Moins connu que la série dont il est tiré, le jeu vidéo propose une toute
+nouvelle aventure pour ces 3 chats intrépides tout en restant dans l'esprit
+de l'animé. Paru au Japon en 1991 et édité par TECMO, il n'avait jusqu'à ce
+jour jamais connu de traduction en français. C'est désormais chose faite.
+
+ ******************************
+* 2. Histoire de la traduction *
+ ******************************
+
+Ce projet a démarré officiellement en novembre 2009. En choisissant un jeu de
+plate-formes "standard", je voulais améliorer mes compétences en romhacking
+sans perdre trop de temps sur l'aspect traduction.
+
+Je fus vite rejoint par Spring qui s'est occupé de la partie traduction. Bien
+que ne connaissant pas la série, Spring s'est immédiatement attelé à la tâche
+et a rapidement fourni une première traduction du script que je lui avais
+fourni.
+
+L'euphorie de début de projet a vite laissé place au doute lorsque j'ai
+découvert que le jeu utilisait un système d'animations assez complexe à gérer.
+En effet, le jeu est parsemé de scénettes dans lesquelles le texte du script
+est affiché en synchronisation avec un ensemble d'animations. La compréhension
+du système de temporisation puis son hack était une tâche assez difficile
+qui m'a rapidement démoralisé. Peu à peu, j'ai diminué mes efforts en remettant
+toujours à plus tard la complétion du projet... On était alors en février 2010.
+
+Durant une longue période, peu de choses ont bougé. D'aucuns disaient, et ils
+n'avaient pas forcément tort, que jamais un patch ne verrait le jour. En
+parallèle, je continuais à m'intéresser à la programmation sans jamais
+reprendre le travail laissé en attente. Les mois se sont vite enchainés et
+plus l'attente durait longtemps plus l'envie de reprendre s'éloignait...
+
+Pourtant tout s'accélère à la fin de l'année 2014. Suite à ma rupture de
+contrat avec mon ancienne boite, je décide de reprendre le seul projet sur
+lequel je m'étais cassé les dents et de le terminer une fois pour toute. Le
+Le système des animations a été décortiqué, puis modifié pour s'adapter au
+mieux au script traduit par Spring. Le script a été lui aussi retravaillé afin
+de se rapprocher de l'esprit de la série originale. L'écran titre a été
+retravaillé, les différents menus ont aussi été modifiés en profondeur afin de
+permettre une meilleure lisibilité du nom des personnages.
+
+Arrive janvier 2015, mois de parution du patch. Au final ce projet aura duré
+5 ans! Il est vrai que le temps est relatif, d'autant plus dans le milieu du
+romhacking, mais dans ce cas précis j'avoue que j'aurais pu aller un peu plus
+vite. Cela dit, ce temps d'attente m'aura permis d'améliorer mes compétences
+et de proposer au final un patch qui sera je l'espère de qualité.
+
+Comme quoi il ne faut jamais désespérer!
+
+ *************************
+* 3. Contenu de l'archive *
+ *************************
+
+LisezMoi.txt                  - Le fichier que vous êtes en train de lire.
+kyatto-ninden-teyandee-fr.ips - Le fichier patch.
+
+ ****************
+* 4. Utilisation *
+ ****************
+
+Ce patch a été créé pour fonctionner sur la version japonaise originale du jeu:
+"Kyatto Ninden Teyandee (J) [!]" (CRC32 sous fceuxd-sp: 0x45878d7f).
+
+Il est inutile de nous écrire pour demander où obtenir une ROM compatible,
+nous ne vous répondrions pas.
+
+Les outils de traduction peuvent être transmis sur demande. Cependant, il
+est important de considérer le fait que ceux-ci n'ont pas été créés dans
+une optique de partage, et par conséquent ne sont pas ou peu documentés.
+
+ *******************
+* 5. PATCHS PUBLIES *
+ *******************
+
+v1.0 (01/2015) - Première version publiée.
+
+ **********************
+* 6. CE QUI A ETE FAIT *
+ **********************
+
+Traduction des polices     : 100%
+Traduction des messages    : 100%
+Traduction du script       : 100%
+Synchro des animations     : 100%
+Traduction des menus       : 100%
+Traduction de l'écran titre: 100%
+Traduction du générique    : 100%
+
+ *************************
+* 7. EQUIPE DE TRADUCTION *
+ *************************
+
+Direction du projet : rid
+Programmation       : rid
+Traduction française: Spring, Messis
+Bêta-test           : rid
+
+Je remercie l'ensemble des personnes qui m'ont soutenu et aidé à concrétiser ce
+projet.
+Merci tout particulièrement aux membres de la TRAF pour leur aide, leurs
+conseils toujours utiles, leurs tutoriels et documents mis à disposition, et
+leur intérêt pour tout projet de romhacking.
+Je remercie enfin Spring de m'avoir rejoint sur ce projet de traduction.
+J'espère pouvoir retravailler prochainement avec lui sur de nouvelles
+localisations de jeux japonais (j'ai plein d'idées en tête maintenant!).
+
+ *************
+* 8. CONTACTS *
+ *************
+
+Une remarque, une question ou une correction à apporter à la traduction de
+Kyatto Ninden Teyandee, écrivez à Terminus Traduction.
+
+S'il s'agit d'une remarque générale ou concernant nos projets, envoyez un mail
+à la boite électronique publique du groupe Terminus Traduction :
+terminus@romhack.net
+
+ ************************
+* 9. REMARQUES LEGALES : *
+ ************************
+
+Le patch de traduction française de Kyatto Ninden Teyandee n'est pas officiel
+et n'est pas supporté par Nintendo et TECMO.
+Ce patch est gratuit et peut être distribué gratuitement tant qu'il n'est pas
+modifié, et que l'archive originale n'est pas modifiée non plus.
+Ni argent, biens ou services ne peuvent être demandés pour ce patch, dans sa
+forme originale ou appliquée.
+Tous ceux qui utilisent ce patch le font à leurs propres risques. Aucune
+personne citée dans cette documentation ne pourra être responsable de
+quelconques dommages provenant de son usage aussi bien au niveau ordinateur
+que console Nintendo Entertainment System.
+
++------------------------------------------------------------------------------+
+
+Merci d'avoir tout lu, bon jeu et que la vie des trads fr soit longue !
+
+rid - Terminus Traduction
+

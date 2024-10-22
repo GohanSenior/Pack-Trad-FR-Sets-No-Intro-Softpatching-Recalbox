@@ -1,0 +1,107 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                     Attack of the Killer Tomatoes
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Attack of the Killer Tomatoes
+Console		: Game Boy
+Développeur	: THQ Software
+Editeur		: THQ Software
+Date		: Janvier 1992
+Genre		: Plates-formes
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 24/04/2014) :
+\_________________________________________________________________
+
+Comme vous le savez certainement (ou pas, mais c'est pas grave),
+je suis un grand amateur de nanars filmiques et de daubes
+vidéoludiques.
+Alors quoi de mieux que l'alliance des deux ?
+C'est ce que je vous propose de découvrir avec cette adaptation
+sur Game Boy de la série cultissime des "Tomates Tueuses".
+
+Vous voici donc dans la peau de Wilbur Finletter, vétéran de la
+première guerre des tomates qui se retrouve une nouvelle fois
+face aux horribles fruits mutants créés par le Dr. Gangrene.
+
+Vous aurez donc 11 niveaux à parcourir afin de dénicher en temps
+limité une boîte de conserve de tomates cachée dans le décor.
+
+On ne peut plus simple n'est-il pas ? Mais c'est sans compter
+sur des ralentissements incessants dès qu'il y a 2 sprites
+à l'écran !
+
+Très bizarrement, le personnage saute super haut mais a une
+toute petite et ridicule allonge, ce qui donne des combats
+assez surprenants...
+
+La difficulté n'est pas excessive et les graphismes pas trop
+déplaisants, même si on a vu nettement mieux sur Game Boy.
+S'il n'y avait pas tous ces ralentissements, on pourrait
+avoir un jeu correct et amusant.
+
+La traduction de ce jeu s'est faite relativement rapidement
+et rejoint la version Nes qui avait vu le jour il y a pas
+mal de temps déjà. Mais comme j'adore les films de John de Bello,
+je ne pouvais que m'atteler à cette rom qui est tout de même
+bien moins fun que les films. Et si vous ne les avez pas
+encore vus, je ne peux que vous les conseiller !
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Invincibilité          0xC1E4          03
+Vies infinies          0xC888          09
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Attack_of_the_Killer_Tomatoes.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Attack of the Killer Tomatoes (U) [!].gb
+  Taille de la rom: 131 072 octets
+  Rom avec Header ? Non
+  CRC de la rom   : B5B38860
+  CRC rom patchée : 9388994B
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  BgB    [x]		GBEmul [ ]
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

@@ -1,0 +1,122 @@
+TERMINUS TRADUCTION présente
+
+Bart Contre Les Mutants De L'Espace
+----------------------------------------------------------------
+*******************Table des matières******************
+----------------------------------------------------------------
+
+1.    L'HISTOIRE DU JEU
+2.    CONTENU DE L'ARCHIVE ET UTILISATION
+3.    LES PATCHS PUBLIES
+4.    TOUT CE QUI A ETE FAIT
+5.    L'ÉQUIPE DE TRADUCTION
+6.    CONTACTS
+7.    REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  L'HISTOIRE DE Bart Contre Les Mutants De L'Espace
+----------------------------------------------------------------
+
+Dans les années 90, les simpsons étaient partout!!!! La Nes a donc eu
+droit à son adaptation. Ce jeu n'est peut être pas le jeu du siècle,
+mais ce n'est pas la daube qu'on veut si souvent nous faire croire.
+
+L'histoire nous plonge en plein Springfield par un doux soir d'été,
+où Bart va découvrir un terrible secret...des extraterrestres veulent
+envahir notre Terre en se dissimulant parmi les humains. 
+
+Comme beaucoup de jeux de cette époque, ce jeu est vraiment très dur
+(Surtout le 1er niveau), la maniabilité destinée aux perfectionnistes
+du saut millimétré n'aide pas, Bart Simpson ayant la fâcheuse habitude de
+glisser après la réception. Donc je préconise les vies infinies (Game Genie)
+car nous n'avons pas de continus.
+
+Si on devait faire un résumé rapide, c'est moche, musicalement dépourvu, dur.
+Mais certaines idées sont vraiment excellentes. Par exemple le fait de devoir
+repeindre des objets à la bombe est un concept franchement accrocheur et inédit.
+Il est aussi a dénoter que les stratagèmes pour battre les boss sont aussi assez
+originaux et amusants, je pense notamment à Tahiti Bob où l'on doit écraser le
+bout de ses chaussures pour le toucher, simple mais efficace.
+Enfin, le jeu regorge de petites choses insignifiantes mais très fun.
+Par exemple, monnayant une pièce on peut faire l'un des célèbres canulars de Bart
+à l'encontre de Moe lors du premier niveau, ou bien on peut participer aux jeux
+de la fête foraine, avec du lancer de fléchettes et tout un tas d'autres mini jeux.
+Il est à ajouter que certaines parties du jeu révèlent de sacrés chocs visuels,
+même si le jeu est assez pauvre dans l'ensemble, il est à dénoter de superbes décors
+pour le musée d'histoire, où on est enchanté par la verdure de la forêt amazonienne
+ou par le sublime des peintures égyptiennes. sent bien qu'Acclaim a dû plus dépenser
+en licence qu'en développement.
+
+Merci à Jenesuis.Net pour son test dont j'ai récupéré l'essentiel ici
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir:
+Bart Contre Les Mutants De L'Espace.ips  - Le patch IPS du jeu
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+(le Patcheur Terminus par exemple).
+Ce patch est à utiliser avec la rom:
+Simpsons, The - Bart vs. the Space Mutants (Europe).nes
+
+----------------------------------------------------------------
+3.  LES PATCHS PUBLIES
+----------------------------------------------------------------
+
+-V1.00
+Traduction complète
+
+----------------------------------------------------------------
+4.  TOUT CE QUI A ETE FAIT
+----------------------------------------------------------------
+
+Traduction complete du jeu (Merci a Griever pour son outil)
+Retouches Graphiques
+
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+Kazan : Hacking, Traduction.
+
+----------------------------------------------------------------
+6.  CONTACTS
+----------------------------------------------------------------
+
+Une remarque, une question ou une correction à apporter à la
+traduction du jeu.
+
+Kazan - newkazan@hotmail.fr
+
+Vous voulez mieux connaître le groupe, télécharger nos derniers
+patchs ou vous renseigner sur un projet.
+
+Site Web - http://terminus.romhack.net
+Facebook - https://www.facebook.com/TerminusTrad/
+
+----------------------------------------------------------------
+7.  REMARQUES LEGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de ce jeu n'est pas officiel
+et n'est pas supporté par Nintendo, Angel Studios et TOEI
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+Kazan

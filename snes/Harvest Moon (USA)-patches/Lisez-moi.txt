@@ -1,0 +1,68 @@
+_______________________________________
+Vendredi 24 Janvier 2020
+
+Modifications apportées pour la version 1.2 par Ingo
+- correction d'un bogue qui empêchait d'atteindre la fin du générique en cas de score supérieur ou égal à 200
+- changement d'une ou deux expressions traduites
+- correction d'environ 150 fautes de frappe
+
+patch à appliquer sur :
+Harvest Moon (U).smc
+sans Header
+CRC32 de la ROM : F829129E
+
+_______________________________________
+Mardi 31 Mai 2016
+
+Harvest Moon 
+
+version française 1.1
+Plateforme : Super Nintendo
+
+------------------
+
+Hack : Blyn, Akira76
+Traduction: MonsieurL, Manu-rid
+Relecture et correction : Manu-Rid
+Tests : Manu-Rid, Spiral
+
+------------------
+
+Ce qui a été traduit :
+
+- Menus ------------100%
+- Script -----------100%
+- GFX --------------100%
+- Intro ------------100%
+- Crédits de fin ---100%
+
+------------------
+
+Correction apporté sur la version 1.1
+
+correction d'un bug au niveau de la vente du bétail auprès du marchand, les ventes de poules et de vaches fonctionnent à présent correctement.
+  
+------------------
+
+Application du patch :
+
+Le patch IPS doit être appliqué sur la rom officielle du jeu "Harvest Moon (U)" (sans Header).
+
+Utilisez LunarIps pour appliquer le patch :
+http://fusoya.eludevisibility.org/lips/
+
+------------------
+
+Ce patch n'est pas officiel et n'est pas supporté par Nintendo.
+
+Ce patch est gratuit et peutt être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de leur usage.
+

@@ -1,0 +1,91 @@
+			Génération IX (http://generation9.kanshima.net) 
+				vous présente la traduction de 
+					  Panic Restaurant
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre	: Panic Restaurant
+Console	: Nes
+Développeur : EIM
+Editeur : Taito
+Date	: 1992
+Genre	: Plates-formes culinaire
+
+
+\ ETAT DE LA TRADUCTION : (Patch version 1.0 créé le 20/05/2013)
+ \_______________________________________________________________
+
+Si comme moi vous appréciez la bonne bouffe, Panic Restaurant va vous en écoeurer.
+En effet, dans ce jeu vous incarnez un chef. Pas un de ceux qui revisitent le couscous
+ou le boeuf bourguignon à la télé, mais un chef cuistot à l'ancienne, avec la toque
+de 2 mètres de haut, la grosse casserole et tout le toutim...
+
+Votre réputation n'est plus à faire, et alors que vous vous rendez plein d'entrain
+dans votre rutilante cuisine, le vilain de service vous annonce d'une voix pleine
+de mépris qu'il vous vole votre lieu de travail.
+
+Ni une ni deux, vous vous armez de votre poêle favorite et décidez d'allez lui montrer
+comment utiliser le rouleau à pâtisserie à des fins inavouables...
+
+
+Panic restaurant est un bon p'tit jeu de plates formes, à la difficulté bien dosée
+je trouve que pour de la nes il est pas mal foutu du tout. Les niveaux sont sympas,
+le personnage répond bien malgré quelques ralentissements ponctuels et j'aime bien
+l'idée de latter du poulet cuit, des toasters ou des micro-ondes géants.
+
+Certes, l'histoire n'est pas transcendante, mais pour un jeu de plates-formes, faut
+bien avouer qu'on s'en secoue un peu les tentacules. 
+
+La traduction s'est faite assez vite car il y a relativement peu de textes, et j'ai
+passé plus de temps à retoucher les graphismes qu'à franciser le bouzin.
+
+Le jeu est plaisant et il devrait vous occuper un p'tit moment et j'espère qu'il
+vous amusera autant que moi.
+
+
+\ CODES DE TRICHE 
+ \________________
+
+Voici une fois de plus les codes Action Replay que j'ai dégotté pour ce p'tit jeu :
+
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Energie infinie			0x90E1			169
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack 	  : Happexamendios
+Traduction: Happexamendios
+Bêta-Test : Happexamendios
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Le patch (nom du patch) est à utiliser sur la rom suivante :
+Nom de la rom   : Panic Restaurant (U).nes
+Taille          : 262 160 octets
+
+
+Le patch a été créé avec SmartIPS 1.0 et a été testé sous les émulateurs suivants :
+FCeu98 : Oui		FCeuXD SP : Oui
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher. 
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils 
+peuvent créer une sauvegarde de la rom avant de patcher). 
+Voilà maintenant votre rom avec les modifications apportées par notre traduction. 
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+Site Web : http://generation9.kanshima.net 
+Forum : http://www.bessab.com/viewforum.php?f=12 

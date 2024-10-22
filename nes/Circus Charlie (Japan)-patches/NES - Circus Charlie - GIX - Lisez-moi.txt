@@ -1,0 +1,78 @@
+				Génération IX (http://generation9.kanshima.net)
+
+				 vous présente la traduction de Circus Charlie
+
+
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre : Circus Charlie
+Console : Nintendo
+Développeur : Konami
+Date : 1986
+Genre : Acrobaties
+
+
+
+\ ETAT DE LA TRADUCTION : Patch 1.0 le 09/12/2004
+ \__________________________________________________
+
+
+
+Il n'y avait pas grand-chose à traduire dans le jeu, mais tout est fait.
+Le titre a aussi été changé (merci Lestat!)
+Il n'y a pas de staff vu que les niveaux se répètent à l'infini, mais si
+vous trouvez quelque chose de non traduit ou un bug, n'hésitez pas à nous
+le faire savoir.
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack : Hell
+Traduction : GreatSkaori
+Graphisme : Lestat
+
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Le patch "NES - Circus Charlie 1.0 - GIX.ips" est à appliquer
+la rom "Circus Charlie (J).nes". Il n'a pas été testé sur d'autres roms,
+donc il est possible qu'il y ait des problèmes si vous utilisez une autre rom que celle recommandée ici.
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher. 
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils 
+peuvent créer une sauvegarde de la rom avant de patcher). 
+Voilà maintenant votre rom avec les modifications apportées par notre traduction. 
+
+
+
+\ HISTORIQUE DE LA TRADUCTION
+ \____________________________
+
+Cette traduction a été réalisée dans le but de figurer dans notre calendrier de l'Avent
+de Noël. J'ai découvert ce jeu grâce au site Bouledefeu (http://bdf.tibone.com/), je
+l'ai essayé, je l'ai trouvé très amusant et Hell aussi, alors on s'est dit
+"Y'a pas grand-chose à faire, ça sera vite fait". On a aussi décidé de changer le titre,
+et pour cela j'ai fait appel à Lestat de Pocket Traduction (http://pocket-trad.playeradvance.org)
+qui a pu nous changer ça, hop là, une nouvelle traduction!
+
+
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web de Génération IX : http://generation9.kanshima.net
+Sit Web de Pocket Traduction : http://pocket-trad.playeradvance.org
+Forum : http://www.bessab.com/viewforum.php?f=12
+Hell (hell2405@yahoo.fr)
+GreatSkaori (greatskaori@yahoo.com)

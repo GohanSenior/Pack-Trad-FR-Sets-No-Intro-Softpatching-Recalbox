@@ -1,0 +1,5 @@
+Le tout premier jeu Mario originellement apparu sur bornes d'arcade en 1981 adapté sept ans
+plus tard sur Famicom Disk System (Au Japon uniquement) avec aujourd'hui une traduction
+française de haute qualité.
+
+Vous devez utiliser le patch sur la ROM Donkey Kong (Japan) (Disk Writer)

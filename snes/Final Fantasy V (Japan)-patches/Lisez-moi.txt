@@ -1,0 +1,22 @@
+Voici une nouvelle traduction française de Final Fantasy V sur Super Nintendo sorti
+en 1992 uniquement au Japon. J'ai porté les textes français depuis la version
+Game Boy Advance sortie en France en 2007.
+
+Dialogues : 100%
+Menus : 100% (Avec quelques petits bugs à corriger)
+Ennemis : 100%
+Objets : 100%
+Magie : 100%
+Dialogues de combat : 100%
+Messages de combat : 100% (Avec quelques petits bugs à corriger comme le nombre d'EXP et de Gils)
+
+Malgré ces petits bugs, le jeu est parfaitement jouable.
+
+Pour le moment, cette version est une beta, je n'autorise donc AUCUN CARTMOD.
+
+Vous remarquerez qu'à l'écran titre, il y a le nom d'auteur NOISE CROSS et comme je ne sais rien
+faire pour modifier en mettant mon nom d'auteur, je demanderai à quelqu'un pour m'aider.
+
+S'il y a des petits problèmes de textes, faites-le moi savoir et je corrigerai.
+
+Appliquez le patch sur la ROM Final Fantasy V (J) [!].sfc

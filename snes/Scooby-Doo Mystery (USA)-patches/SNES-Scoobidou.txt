@@ -1,0 +1,140 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                          Scouby-doo mystery
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Scouby-doo mystery
+Console		: Super Nintendo
+Développeur	: Sunsoft
+Editeur		: Acclaim
+Date		: Novembre 1995
+Genre		: Jeu d'enquête
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 09/10/2015) :
+\_________________________________________________________________
+
+Tout le monde connait Scoubidou et la bande d'enquêteurs de Hanna
+& Barbera, je ne vais donc pas refaire l'historique de cette série
+culte dont la première diffusion en France date de 1975 (la vache,
+même moi, j'étais pas né !!)
+
+Dans cette adaptation sur Super Nintendo, Sammy et ses amis vont
+enquêter sur 4 affaires bien mystérieuses allant d'un pirate fantôme
+à un vampire en passant par un clown diabolique et un monstre de goudron.
+
+Le joueur incarne Sammy accompagné du fidèle Scoubidou, et il vous
+revient (à l'instar du dessin animé) de vous taper tout le boulot
+d'investigation afin de résoudre le mystère.
+
+Le gameplay est assez simple et se découpe en deux phases.
+Tout d'abord, vous allez parcourir les niveaux (de plus en
+plus grands) afin de ramasser les indices nécessaires
+à la résolution de l'enquête.
+Rapportez ensuite chaque indice à Wilma afin de trouver qui est
+derrière chaque affaire.
+
+Une fois que tous les indices ont été trouvés, Fred vous demandera
+de collecter un certain nombre d'objets afin de bricoler le piège
+nécessaire à la capture du méchant de service.
+
+Vient ensuite la scène classique où Sammy et Scoubidou serviront
+d'appât et entraîneront le monstre dans le piège afin d'être
+démasqué.
+
+Le jeu est très fidèle à la série, aussi bien dans le déroulement
+que dans les graphismes, assez réussis. Les décors sont variés
+et bien colorés, même si certains passages sont un peu trop
+sombres à mon goût.
+
+La bande son n'est pas extraordinaire et assez maigrichonne,
+bien que ça colle bien à l'ambiance.
+
+Le personnage répond bien aux sollicitations, même si je trouve
+qu'il "glisse" un peu trop par moments, ce qui peut être gênant
+pour des sauts nécessitant un peu de précision.
+Tous les boutons de la manettes sont utilisés et il peut arriver
+qu'on se mélange dans les commandes ; toutefois, comme il ne s'agit
+pas d'un jeu d'action, cela ne prête pas trop à conséquence.
+
+
+J'avais entamé ce projet il y a bien longtemps (en juillet 2013
+pour être précis) afin de le proposer pour la fête d'Halloween.
+Mais la traduction n'avançait pas aussi vite que je ne le voulais
+et j'ai fini par me lasser des aventures de Scoubidou et
+de sa bande.
+
+2 ans après, voyant toujours ce projet traîner sur mes disques,
+je me suis décidé à en venir à bout. Une semaine de bêta test
+plus tard, voici enfin le patch pour ce jeu particulier.
+
+Tous les textes ont été normalement* traduits, mais pas les graphismes des
+plans des pièges ni l'écran titre. De même, je n'ai pas trouvé
+où étaient codés les crédits de fin, mais ça ne change rien
+à l'histoire.
+
+
+* Ce jeu comporte beaucoup de textes, et certains n'apparaissent que
+dans certaines conditions. Malgré pas mal de tests, il est possible
+que quelques phrases ne soient pas bien alignées dans les bulles
+ou qu'elles comportent des fautes.
+Dans ce cas, n'hésitez pas à nous le signaler afin de corriger au plus vite...
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Vies infinies          0x7EF400         09
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Scoubidou.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Scooby-Doo (U) [!].smc
+  Taille de la rom: 2 097 152 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 98D7611E
+  CRC rom patchée : 179B5760
+
+Le patch a été créé avec SmartIPS et a été testé avec les émulateurs suivants :
+  BSnes          [ ]		Higan          [x]
+  SNes9X 1.51    [ ]		Snes 9X 1.43   [ ]
+  Snes 9X 1.53   [x]		Snes 9x Geiger [ ]
+  Snes GT        [ ]		ZSnes          [x]
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

@@ -1,0 +1,92 @@
+			Génération IX (http://generation9.kanshima.net) 
+			vous présente la traduction de Space Megaforce
+				
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre   : Space Megaforce / Super Aleste
+Console : Super nintendo
+Développeur : Compile
+Editeur : Toho Co. LTD
+Date    : 1992 
+Genre   : Shoot'em up
+
+
+\ ETAT DE LA TRADUCTION : Version 1.0 créée le : 29/03/07
+ \________________________________________________________ 
+
+
+J'adore les shoots, surtout ceux où on bombarde littéralement l'écran de milliers de trucs dans tous les sens...
+Me remémorant avec nostalgie les centaines de francs dépensés durant ma jeunesse dans les machines d'arcades,
+ce fut avec la bave aux lèvres que je me suis jeté sur ce shoot !
+
+Hélas, mille fois hélas !! Contrairement aux jeux que j'ai la triste habitude de traduire, celui ci m'a plu.
+Je n'irai pas jusqu'à dire qu'il révolutionne le genre, loin de là... Mais l'action non-stop m'a accroché
+plus de 10 minutes, ce qui est un exploit !!
+
+C'est après avoir bidouillé le jeu et traduit les maigres textes présents (je m'attendais à plus, mais bon)
+que je m'aperçus non sans effroi que cette rom existait également sous le nom de "Super Aleste". Inutile de
+crier au scandale, c'est pas ma faute... Même si j'avais la désagréable sensation d'avoir déjà joué au jeu,
+je n'ai pas pensé un seul instant qu'il pouvait s'agir là encore d'une rom dont le titre change selon
+le pays.
+
+Notez bien que je n'ai pas tenter d'appliquer le patch sur une rom "Super Aleste"...
+
+Bref, déposez votre cerveau à côté de vous, armez vos blasters et chauffez les moteurs, y'a de l'alien
+à dézinguer...
+Baaaastoooooooon !!!
+
+
+\ CODES DE TRICHE 
+ \________________
+
+Voici les codes Action Replay que j'ai dégotté pour ce bon gros shoot des familles :
+
+
+---[Effet]-------------[Adresse]-----[Valeur]
+Bombes infinies		7E0152		3
+Vies infinies		7E0157		9
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack       : Happexamendios
+Traduction : Happexamendios
+Bêta-Test  : Happexamendios
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "SNES-SpaceMegaforce-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Space Megaforce (U) [!].smc
+  Taille de la rom: 1 048 576 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 11202781
+  CRC rom patchée : 033125EB
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  BSnes          [ ]		SNes9X 1.51    [x]
+  Snes 9X 1.43   [x]		Snes 9X 1.53   [x]
+  Snes 9x Geiger [ ]		Snes GT        [ ]
+  ZSnes          [ ]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+Site Web : http://generation9.kanshima.net 
+Forum : http://www.bessab.com/viewforum.php?f=12 

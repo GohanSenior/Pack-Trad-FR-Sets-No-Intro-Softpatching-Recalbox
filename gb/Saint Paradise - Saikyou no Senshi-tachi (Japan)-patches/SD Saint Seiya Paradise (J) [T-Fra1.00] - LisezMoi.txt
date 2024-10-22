@@ -1,0 +1,72 @@
+         ____                                                      __
+        /  _  \                                                   |  \
+       /  / \  \ __  __  __    __  _______  ____  ______/\___    _|   \
+      /  /  |__|/  ||  ||   \ |  ||__   __|/    \|  __\    / \  / |  . \
+      \  \     / . ||  ||    \|  |   | |   \ |\_|| |__ |/\| \ \/ /|  |\ \
+   ___ \  \   / /| ||  ||  \  |  |   | |    \ \  |  __||  |  \  / |  |_\ \
+  /  /  |  | /  _  ||  ||  |\    |   | |    _\ \ | |   |  |  |  | |   __  \
+  |  |__/  //  / | ||  ||  | \   |   | |   | \| \| |__ |  |  |  | |  |  \  \
+   \______//__/  |_||__||__|  \__|   |_|    \___/|____||__|  |__| |__|   \__\
+    .---------------------------------------------------------------------.
+    |                                                                     |
+  - + T R A N D U C T I O N   DE  - - - - - - - - - - - - - - - - - - - - + -
+    |                                                                     |
+    |      Titre: SD Saint Seiya Paradise (c) Bandaï                      |
+    |    Origine: JAPAN            Sortie Japon: 13/11/1992               |
+    |    Système: Game Boy               Taille: 256 KiloOctets/2Mégabits |
+    |                                                                     |
+    |                                                                     |
+    |    Traduction par: Nicko             Site: http://saint-seiya.fr.nr |
+    |           Version: 1.00      Sortie Trad.: 25/03/2006               |
+    |                                                                     |
+    |_____________________________________________________________________|
+    .---------------------------------------------------------------------.
+    |                                                                     |
+  - + N O T E S - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + -
+    |                                                                     |
+    |    Cette rom a été téléchargée sur :                                |
+    |               * http://saint-seiya.fr.nr                            |
+    |               * http://saintseiya.hautetfort.com                    |
+    |                                                                     |
+    |    Elle a été traduite par un fan pour des fans.                    |
+    |                                                                     |
+    |    Le fichier "SD Saint Seiya Paradise (J) [T-Fra1.00].gb" propose  |
+    |  les noms originaux des attaques en japonais.                       |
+    |    Le fichier "SD Saint Seiya Paradise (J) [T-Fra1.00-AttFR].gb"    |
+    |  propose les noms des attaques en français.                         |
+    |                                                                     |
+    |    Je me suis basé sur la version déjà traduite en espagnol en      |
+    |  respectant au mieux le Manga et l'Animé.                           |
+    |                                                                     |
+    |    Si vous trouvez la moindre faute, ou erreur de casse, merci de   |
+    |  laisser un commentaire sur le site dont l'adresse se trouve        |
+    |  ci-dessus.                                                         |
+    |                                                                     |
+    |_____________________________________________________________________|
+    .---------------------------------------------------------------------.
+    |                                                                     |
+  - + V E R S I O N S - - - - - - - - - - - - - - - - - - - - - - - - - - + -
+    |                                                                     |
+    |    1.00 25/03/2006 Premières versions                               |
+    |                                                                     |
+    |_____________________________________________________________________|
+    .---------------------------------------------------------------------.
+    .---------------------------------------------------------------------.
+    |                                                                     |
+  - + R E M E R C I E M E N T S - - - - - - - - - - - - - - - - - - - - - + -
+    |                                                                     |
+    |    MERCI A:                                                         |
+    |                                                                     |
+    |    Waseiyakusha pour la traduction espagnole initiale.              |
+    |    http://www.zophar.net/ et http://romhacking.deadbeat-inc.com/    |
+    |  pour leurs nombreux outils.                                        |
+    |    Nao de cyna.net pour son aide sur la traduction de quelques mots |
+    |  en japonais.                                                       |
+    |    Polamo pour l'idée de faire une version avec les attaques en     |
+    |  français.                                                          |
+    |    Et les autres que j'oublie...                                    |
+    |                                                                     |
+    |__ _ __________________________________________________________      |
+   -+----\\                                                         \-----+-
+    |     \\           SAINT SEIYA: SD SAINT PARADISE               \\    |
+   -+------\_________________________________________________________\----+-

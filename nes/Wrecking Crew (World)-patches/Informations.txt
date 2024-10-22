@@ -1,0 +1,35 @@
+
+
+           II
+          IIII
+         .IIII.                    _                         _
+         IIIIII                   | |                       | |
+   .I    IIIIII    I.             | |    _   _ ___ ___  __ _| |
+   I:I.  IIIIII  .I:I             | |   | | | / __/ __|/ _` | |
+  I:IIIIIIIIIIIIIIII:I            | |___| |_| \__ \__ \ (_| | |
+  IIIII:IIIIIIII:IIIII            \_____/\__, |___/___/\__,_|_|
+  IIIII:IIIIIIII:IIIII           ===========/ |=================
+  IIIIII:IIIIII:IIIIII                   |___/
+  I:IIIIIIIIIIIIIIII:I
+  :IIIIIIIIIIIIIIIIII:
+  .IIIIIIIIIIIIIIIIII.           ==== traductions.lyssal.fr ====
+   IIIIIIIIIIIIIIIIII
+   I:IIIIIIIIIIIIII:I
+    IIIIIIIIIIIIIIII
+     IIIIIIIIIIIIII              Traduction française de Wrecking Crew sur NES
+      .I:IIIIII:I.
+       IIIIIIIIII                La traduction est à appliquer sur le fichier :
+      .IIIIIIIIII.               Wrecking Crew (U) [!].nes
+      IIIIIIIIIIII
+     .IIIIIIIIIIII.              Pour appliquer le patch de traduction IPS,
+     IIIIIIIIIIIIII              vous pouvez utiliser SPI :
+     IIIII:II:IIIII              https://traf.romhack.org/?p=outils&oid=143
+    .IIIIIIIIIIIIII.
+    I:II::IIII::II:I             La traduction a été créée avec l'éditeur Olympus :
+    I:  :IIIIII:  :I             https://traf.romhack.org/?p=outils&oid=183
+        .IIIIII.
+         IIIIII                  L'archive comprend également la table de caractères
+         IIIIII                  utilisée pour la traduction.
+         IIIIII
+          IIII                   Si vous avez un retour sur cette traduction, merci d'utiliser
+           II                    le formulaire de contact sur le site.

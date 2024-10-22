@@ -1,0 +1,121 @@
+
+ASMTRADUCTION - 4ph vous présente la traduction Française de
+"Märchen Adventure Cotton 100%"(VERSION 1.0)
+
+----------------------------------------------------
+
+Rom info: Marchen Adventure Cotton 100% (J).smc
+Name: COTTON 100%
+Speed: 30/FastROM
+ROM Map: LoROM
+Type: 00
+Kart contents: ROM
+Header ROM Size: 16Mbits
+Calculated ROM Size: 16 Mbits
+SRAM size: 0Kbits (0Kbit)
+Actual Checksum: CD3C
+Header Checksum: CD3C
+Header Checksum Compliment: 32C3
+Output: NTSC 60Hz
+CRC32:	5FB7A31D
+Licensee: Unknown Company 
+ROM Version: 1.0
+Region: Japan
+
+----------------------------------------------------------------
+********************** Table des matières **********************
+----------------------------------------------------------------
+
+1.	Contenu du l'archive et utilisation.
+2.	La réalisation.
+3.	L'équipe de la traduction.
+4.	Contacts.
+5.	Remarques légales.
+
+----------------------------------------------------------------
+1.  Contenu de l'archive et utilisation.
+----------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir :
+
+Cotton_V1.0(FR).ips - Patch de traduction 
+
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Utilisez un patcheur IPS tel que "IPS XP", "Lunar IPS" ou autre
+pour appliquer le patch.
+
+Ce patch s'applique sur la rom japonaise du jeu,
+nommé "Märchen Adventure Cotton 100%(J).smc"
+(Taille : 2 097 152 octets, CRC32: 5FB7A31D)
+
+Après application du patch (Taille : 2 651 440 octets, CRC32: 73A0EA93)
+
+----------------------------------------------------------------
+
+2.  La réalisation.
+----------------------------------------------------------------
+
+Script     : 100 %
+Graphismes : 96 % <---- le Tile "START GAME" n'est pas traduit.
+Titre      : 100 %
+Crédits    : 100 %
+
+----------------------------------------------------------------
+3.  L'équipe de la traduction
+----------------------------------------------------------------
+
+   Concepteur du projet : 4ph                         
+    
+   Romhacking : 4ph 
+    
+   Traduction : Spring
+
+   Correcteur : M0nsieurL aka Lestat   
+
+   Testeur :  Koop
+
+  Remerciements spéciaux à :
+  Bongo' pour ses précieux conseils.
+  Akira pour la modification de la font en 8x16
+  
+----------------------------------------------------------------
+4.  Contacts
+----------------------------------------------------------------
+
+T.R.A.F. : http://traf.romhack.org
+
+Pour toutes remarques concernant un probable bug, des fautes d'orthographes
+ou autre, veuillez poster un message à cette adresse :
+
+http://www.romhack.org (Pseudo : 4ph)
+
+----------------------------------------------------------------
+5.  Remarques légales.
+----------------------------------------------------------------
+
+Le patch de traduction française de " Märchen Adventure Cotton 100% " 
+n'est pas officiel et n'est aucunement supporté par Nintendo.
+
+CE PATCH EST GRATUIT ET NE PEUT EN AUCUN CAS ETRE VENDU SOUS N'IMPORTE QUELQUE FORME!!!
+
+Il peut être distribué gratuitement tant qu'il n'est pas modifié et que l'archive originale 
+n'est pas modifiée non plus. 
+Aucunes ventes, biens ou services ne peuvent être demandés pour ce patch, dans sa forme originale 
+ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres risques.
+Aucunes personnes citées dans cette documentation ne pourront êtres responsables de quelques
+dommages provenant de son usage.
+
+----------------------------------------------------------------------
+
+J'espère que vous aimerez cette traduction, autant que j'ai eu plaisir à la faire. 
+
+Merci d'avoir lu ce "LisezMoi" jusqu'au bout.
+
+4ph
+
+#------------#
+# 22.12.2018 #
+#------------#

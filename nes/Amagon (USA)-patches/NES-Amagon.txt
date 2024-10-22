@@ -1,0 +1,125 @@
+            Génération IX (http://generation9.kanshima.net
+                vous présente la traduction survoltée
+                              d'Amagon
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Amagon
+Console		: Nintendo
+Développeur	: Aicom
+Editeur		: Vic-Tokai
+Date		: Avril 1989
+Genre		: Plates-formes action
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 21/08/2013) :
+ \_________________________________________________________________
+
+Alors que j'avais terminé un gros projet de traduction entamé depuis longtemps,
+je me suis mis en quête d'un petit jeu Nes histoire de me changer un peu.
+Un tour sur Emunova plus tard, mon choix s'est donc porté sur Amagon, un jeu
+de plates-formes dont la critique m'avait bien donné envie d'y jouer.
+
+Ce jeu nes d'apparence simple et sans prétention cache pourtant de bonnes
+surprises. Apparement peu connu, il vaut pourtant la peine qu'on le fasse tourner...
+
+Nous incarnons ici Amagon, un commando armé de son fusil et... ben c'est tout !
+Coincé sur une île, il va falloir la traverser de bout en bout afin 
+de prendre le bateau situé à l'opposé et rejoindre la civilisation.
+
+La balade ne serait qu'une promenade de santé s'il n'y avait pas quantité
+d'ennemis aussi bizarres que nombreux bien décidés à vous empêcher de passer.
+Mais vous n'êtes pas n'importe qui, car tel le super Sayen moyen vous avez
+la possibilité de vous transformer en "Megagon", une sorte de gros n'hulk
+en slop, mais sans le fond de teint couleur "vieux reste d'épinards".
+
+La mutation est un poil plus originale que ce que l'on a l'occasion de voir
+d'habitude, car cette fois on n'est pas limité dans le temps. En effet,
+en tant que Megagon on possède une sorte de barre d'énergie qui se réduit
+à chaque fois que l'on est touché, mais qui se recharge d'un cran
+tous les 5 000 points. Les adeptes du Hi-Score vont adorer !!
+
+
+Certes l'histoire n'est pas ultra originale, mais pour de la Nes, le jeu
+est beau, les décors sont très variés (j'aime bien la forêt de nuit),
+et les ennemis sont très différents ($*ù# d'éléphants en salopettes ! )
+
+Mais tout n'est pas rose sur l'île... Car les adversaires que
+l'on doit affronter sont nombreux, très nombreux... Peut-être un peu
+trop, d'ailleurs ! C'est bien simple, on n'a pas un instant de répit !
+Les ennemis déferlent par vagues, pire que dans un shoot'em up !!
+
+C'est bien simple, lors du bêta test, je faisais une savestate tous les
+2 ou 3 ennemis, voire tous les 2 mètres dans certains niveaux !
+
+Mais heureusement les streums ne sont pas avares en bonus. Les
+munitions, les vies et les points bonus se ramassent facilement.
+Car oui, les munitions sont limitées ! On démarre avec 300 cartouches
+et on s'aperçoit qu'il va en falloir beaucoup plus rien que pour
+les 2 premiers niveaux ! Et là où c'est cocasse, c'est que dès
+qu'on n'a plus de balles, le personnage donne des grands coups
+de crosse de fusil. Personnellement, j'aime bien l'idée ^^
+ 
+
+La traduction de ce jeu n'a pas été très compliquée, et à dire
+vrai, je m'attendais à un peu plus de textes et j'ai passé
+beaucoup plus de temps à le tester qu'à le hacker, mais ce petit
+jeu vaut la peine qu'on s'intéresse à lui et j'espère qu'il
+vous plaira autant qu'à moi.
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Vies infinies			0084			03
+Munitions infinies		0082			08
+------------------------------------------------
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Amagon.ips" est à utiliser sur la rom suivante :
+Nom de la rom   : Amagon (U).nes
+Taille de la rom: 131 088 octets
+Rom avec Header ? Non
+CRC de la rom   : E9A5722C
+CRC rom patchée : A5091952
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  FCeu XD SP [x]
+  NesTicle   [ ]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

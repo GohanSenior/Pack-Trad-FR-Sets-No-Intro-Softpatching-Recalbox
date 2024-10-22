@@ -1,0 +1,198 @@
+Le 14/01/2013
+-------------
+
+4ph vous présente la traduction Française de "Silva saga II - The Legend of Light and Darkness" (VERSION 1.0)
+
+Ce patch est basé sur la version Anglaise de Dynamic Designs.
+
+=============================================================================================================
+
+--------------------------ROM info---------------------------
+Silva Saga II - The Legend of Light and Darkness (J).smc
+    Nom : SILVASAGA2           Compagnie : Seta Co.,Ltd.
+
+--------------------------Data base--------------------------
+    Nom : Silva Saga II
+ Région : Japon                 Révision : 1.0
+ Port 1 : Game pad                Port 2 : Game pad
+Genre 1 : RPG                    Genre 2 : Inconnu
+=============================================================================================================
+
+-------------------------------------------------------------------------------------------------------------
+*********************** Table des matières ***********************
+-------------------------------------------------------------------------------------------------------------
+
+1.	L'histoire de Silva saga II.
+2.	Historique de la traduction.
+3.	Contenu du l'archive et utilisation.
+4.	La réalisation.
+5.	Notes de bugs connus.
+6.	L'équipe de traduction.
+7.	Contacts.
+8.	Remarques légales.
+9.      Les projets.
+
+-------------------------------------------------------------------------------------------------------------
+1. L'histoire de Silva saga II - The Legend of Light and Darkness.
+-------------------------------------------------------------------------------------------------------------
+
+Ce jeu fait suite à Silva saga I sorti sur la NES, d'ailleurs traduit en anglais par Aishsha.
+Pour plus d'informations sur cette version NES :
+Web-site: aishsha.blogspot.com (en anglais)
+
+L'histoire de SS2 débute au village de Beta. Vous vous réveillez dans la demeure de Nina, et vous 
+avez perdu la mémoire... La seule chose que vous vous rappelez, la recherche du guerrier de la
+lumière... Votre quête : retrouver la trace du prince Kyral.
+
+À vous de jouer!
+
+-------------------------------------------------------------------------------------------------------------
+2.  L'historique de la traduction.
+-------------------------------------------------------------------------------------------------------------
+
+Hou la la!! Ça remonte à loin, l'époque où je me suis inscrit sur les forums communs, lorsque j'ai
+découvert la TRAF. J'avais d'ailleurs posté une demande d'aide pour ce jeu, vu que je ne connaissais presque
+rien au niveau du ROMhacking. C'était l'endroit idéal pour apprendre.
+
+J'ai failli abandonner plusieurs fois cette traduction, mais l'envie de faire ce projet était plus fort
+que l'abandon.
+
+Entre deux, j'ai sorti le patch d'Equinox sur SNES, ainsi que BS Zelda - Ancient Stone Tablets - Chapter 1.
+
+Le hack de SS2 s'est avéré plus compliqué que je ne l'avais imaginé, mais mon sauveur est apparu en la
+personne de Bongo` ! Il faut aussi préciser que "Jes" m'a aidé au tout début du projet, mais vu que Bongo`
+avait beaucoup avancé au niveau hack sur SS2, d'un commun accord, Jes m'a finalement laissé travailler
+avec Bongo` sur le jeu. 
+
+-------------------------------------------------------------------------------------------------------------
+3.  Contenu de l'archive et utilisation.
+-------------------------------------------------------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir :
+
+SS2_FR_V1.0.ips - Patch de traduction 
+
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Utilisez un patcheur IPS tel que "IPS XP", "Lunar IPS" ou autre
+pour appliquer le patch.
+
+Ce patch s'applique sur la ROM japonaise du jeu :
+- Nom : Silva Saga II - The Legend of Light and Darkness (J).smc
+- Taille : 2 097 152 octets
+- CRC32 : 67E1756B
+
+Pour toute remarque concernant un éventuel bug, des fautes d'orthographe ou autre, veuillez poster un message
+à l'une de ces adresses :
+
+- http://www.romhack.org/ dans la catégorie "Bugs/Bêta-Test", en utilisant le sujet Silva Saga 2 (ou en le
+  créant s'il n'existe pas encore).
+- http://silvasaga2.blogspot.com
+
+-------------------------------------------------------------------------------------------------------------
+4.  La réalisation.
+-------------------------------------------------------------------------------------------------------------
+
+Script     : 100 %
+Graphismes : 100 % 
+Titre      : 100 %
+Crédits    : 100 %
+
+-------------------------------------------------------------------------------------------------------------
+5.  Notes de bugs connus.
+-------------------------------------------------------------------------------------------------------------
+
+Il existe un bug d'affichage au niveau de la fusion des idoles.
+
+Certains noms d'idoles sont composés de 5 caractères. Par exemple : "Chute". 
+
+Il se trouve que le nombre maximum de caractères affichables est de 4. Donc, il se peut qu'après une fusion,
+la dernière lettre du nom n'apparaisse pas. Mais le nom réapparait ensuite correctement dans le menu des
+statuts.
+
+-------------------------------------------------------------------------------------------------------------
+6.  L'équipe de la traduction
+-------------------------------------------------------------------------------------------------------------
+
+   Gestion du projet : 4ph                         
+
+   ROMhacking, Programmation, Assembleur : Bongo`
+   
+   ROMhacking secondaire : 4ph 
+
+   Décompresseur/compresseur pour l'écran-titre : Bahabulle.
+
+   Traduction de l'anglais vers le français : Happexamendios.
+   		     
+   Modifications graphiques : 4ph
+  
+   Traduction du Splash screen : FlashPV
+
+   Relecture/Corrections : Mike Deloge/Lestat
+
+   Bêta-test : 4ph/Lestat
+
+   Remerciements spéciaux :
+
+                            Bahabulle
+                            Jes
+                            Lestat
+                            Kogami
+                            Ti Dragon pour la publication du patch sur la TRAF et ses encouragements ;)
+                            
+                            Et les membres du forum "TRAF" qui ont longuement attendu cette traduction :)
+
+   Remerciements spéciaux à la team anglaise "Dynamic Designs" :
+
+                            Aishsha
+                            Bongo`
+                            Red Soul
+                            WillBill
+
+
+-------------------------------------------------------------------------------------------------------------
+7.  Contacts.
+-------------------------------------------------------------------------------------------------------------
+
+T.R.A.F. : http://traf.romhack.org/
+
+Forum : http://www.romhack.org/ (Pseudo : 4ph)
+
+Blog : http://silvasaga2.blogspot.com/
+
+La version anglaise de SS2 : http://www.dynamic-designs.us/
+
+
+-------------------------------------------------------------------------------------------------------------
+8.  Remarques légales.
+-------------------------------------------------------------------------------------------------------------
+
+Le patch de traduction française de Silva saga II - The Legend of Light and Darkness n'est pas officiel et
+n'est aucunement supporté par Seta et Nintendo.
+
+CE PATCH EST GRATUIT ET NE PEUT EN AUCUN CAS ETRE VENDU SOUS QUELQUE FORME QUE CE SOIT !
+
+Aucune vente, bien ou service ne peut être demandé pour ce patch, dans sa forme originale, appliquée ou même
+modifiée.
+
+Il peut être distribué gratuitement tant qu'il n'est pas modifié et que l'archive originale n'est pas non
+plus modifiée.
+
+Ceux qui utilisent ce patch le font à leurs propres risques. Aucune personne citée dans cette documentation
+ne pourra être tenue responsable de quelque dommage provenant de son usage.
+
+-------------------------------------------------------------------------------------------------------------
+9.  Les projets, on veut des noms...
+-------------------------------------------------------------------------------------------------------------
+
+Un projet est en cours, Xak - The Art of the Visual Stage de SUNSOFT
+Vous pouvez voir son avancement ici : http://xaksnes.blogspot.fr/
+
+Deux autres projets sont aussi en cours, mais pour le moment... ils restent secrets.
+
+J'espère que vous aimerez cette traduction, autant que j'ai eu de plaisir à la faire. 
+
+Merci d'avoir lu ce fichier jusqu'au bout et à bientôt !
+
+
+4ph

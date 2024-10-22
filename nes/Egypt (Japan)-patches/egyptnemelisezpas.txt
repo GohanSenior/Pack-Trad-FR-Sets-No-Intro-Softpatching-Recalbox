@@ -1,0 +1,109 @@
+
+				Lex et GreatSkaori
+				      présentent :
+
+		En exclusivité pour Génération IX (http://generation9.uhrft.org)
+				         **Egypt**
+
+
+
+Nom du jeu : Egypt
+Développeur : Human Creative
+Année de sortie : 1991
+Plate-forme : Nes
+Type : Réflexion
+
+
+
+Sommaire
+
+--Carnet de bord du Capitaine
+--Historique du projet
+--Versions du patch
+--Bugs Connus
+--Générique de fin
+--En cas de pépin
+
+
+
+-- Carnet de bord du Capitaine : Samedi 7 Juin 2003 à 16h03.
+
+
+
+Vous venez de télécharger le fichier zip de traduction de Egypt sur nes.
+Ce fichier zip contient 3 fichiers, dont un que vous êtes en train de lire actuellement, malgré
+son titre, vous êtes un personne sage et ça nous plaît!
+
+Les deux autres fichiers sont des patchs de traductions.
+
+- Egypt-beta-US.ips : Ce patch est à appliquer sur une rom japonaise déjà patchée avec la version 1.0
+de Dodgy Translations (http://www.miryokuteki.com/dodgytrans).
+Si le site n'est pas disponible, vous pouvez télécharger ce patch sur The Whirlpool (http://donut.parodius.com/)
+
+- Egypt-beta-J.ips : Ce patch est à appliquer directement sur une rom japonaise. (Egypt (J).nes)
+
+
+Egypt est un jeu de réflexion qui m'a un peu rappelé Ra, un vieux jeu amiga que j'avais quand j'étais gosse.
+Si quelqu'un possède encore cette relique, qu'il me fasse signe!
+Vous vous trouvez sur un tableau sur lequel se trouvent divers symbole. Le but du jeu étant de rapprocher
+les symboles identique, qui en entrant en contact se volatilisent. Une fois tous les symboles disparus, le
+niveau est complété. Vous enchaînez ainsi les niveaux jusqu'à atteindre la fin du temple.
+
+
+
+-- Historique du projet
+
+C'était il y a un mois et demi. Je regardais le goodnes que fiquetpa m'avait envoyé à la recherche de jeux
+sympa, pas forcément monstrueusement longs. Mais différents de tout ce qu'on a actuellement. Et je
+suis tombé sur ce jeu de réflexion qui m'a beaucoup plu. C'est un genre assez peu représenté dans les
+traductions que nous faisons, on se tourne plus sur les rpgs c'est vrai. Mais ces jeux n'en sont pas moins
+très intéressants. J'ai proposé sur notre forum de le traduire vite fait, et lex m'a proposé ses services.
+(Décidemment :D)
+J'ai donc contacté par mail l'équipe anglaise qui avait traduit le jeu depuis le japonais.
+Quelques jours plus tard Samda Knowe est venu me demander si un groupe français voulait traduire Egypt
+car le traducteur anglais avait reçu un mail qu'il avait accidentellement effacé :D
+J'ai pu ensuite rejoindre un chan et parler directement avec DodgyAussie, qui a été très intéressé! Une copie
+de notre patch lui sera d'ailleurs envoyé :)
+Donc voilà, après quelques problèmes de connexion, le patch est aujourd'hui à vous, alors bon jeu!
+
+
+
+-- Versions du patch :
+
+-> Version Beta du 7 Juin 2003.
+
+Tout est fait sauf le END à la fin du jeu
+
+
+
+-- Bugs Connus
+
+Aucuns, à notre connaissance.
+
+
+
+-- Générique de fin
+
+Au hacking : Lex
+A la trad : GreatSkaori / Lex
+Au béta-test : Lex, GreatSkaori
+
+Merci à Samda Knowe d'avoir servi d'intermédiaire.
+Merci à DodgyAussie de nous avoir donné le code de la fin ( permettant ainsi de tester le texte de fin :)) et
+d'avoir partagé quelques informations du jeu avec Lex.
+Merci encore une fois à Lex pour sa disponibilité et son talent! :)
+
+
+
+-- En cas de pépin
+
+On ne sait jamais, y a toujours un truc qui tourne pas rond, alors n'hésitez pas à nous
+contacter via le forum ( http://forum.bessab.net/viewforum.php?f=12 )
+Ou par mail :
+
+Lex :a_riv777@yahoo.fr
+GreatSkaori : GreatSkaori arobase yahoo point com
+
+Le nom de ce fichier texte est (C) Dark Schneider ^__^
+
+http://generation9.uhrft.org

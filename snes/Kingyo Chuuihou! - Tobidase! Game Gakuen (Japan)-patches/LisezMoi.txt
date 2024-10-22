@@ -1,0 +1,295 @@
+31/05/2012
+
+TRADUCTION DE KINGYO CHUUIHOU! TOBIDASE! GAME GAKUEN (VERSION 1.1)
+
+----------------------------------------------------------------
+***********************Table des matières***********************
+----------------------------------------------------------------
+
+1.	L'HISTOIRE DE KINGYO CHUUIHOU! TOBIDASE! GAME GAKUEN
+2.	L'HISTORIQUE DE LA TRADUCTION
+3.	CONTENU DU PATCH ET UTILISATION
+4.	LES PATCHS PUBLIÉS
+5.	TOUT CE QUI A ÉTÉ FAIT
+6.	NOTES
+7.	L'ÉQUIPE DE LA TRADUCTION
+8.	CONTACTS
+9.	REMARQUES LÉGALES
+
+----------------------------------------------------------------
+1.  L'HISTOIRE DE KINGYO CHUUIHOU! TOBIDASE! GAME GAKUEN
+----------------------------------------------------------------
+
+Ce jeu est l'adaptation d'une série animée, elle-même adaptée
+d'un manga nommé "Kingyo Chûhihou" (une sorte de Dr. Slump, en
+plus amusant selon moi, je n'ai jamais été très fan de Dr. Slump
+personnellement...).
+
+Pour plus d'informations sur le manga/la série animée :
+
+http://en.wikipedia.org/wiki/Goldfish_Warning! (en anglais)
+
+Le jeu se déroule sous la forme d'un party-game (c'est un peu
+l'ancêtre de Mario Party) jouable à trois, proposant divers jeux
+plus ou moins loufoque (à l'instar de l'ambiance du manga/de la
+série animée).
+
+Ce jeu est plus connu par certains initiés sous le nom de
+"Jeu de la vache", et plutôt qu'un long discours, je vous
+renvois directement sur le sujet du forum où j'ai moi-même
+découvert ce jeu :
+
+http://generation-snes.fr/Forum/index.php?showtopic=219
+
+----------------------------------------------------------------
+2.  L'HISTORIQUE DE LA TRADUCTION
+----------------------------------------------------------------
+
+Ce projet a démarré quelque part durant le mois d'août 2011.
+
+A la base, il semblait assez rapide à faire (un party-game n'est
+pas censé regorger de textes) mais finalement, balises comprises,
+le script du jeu pèse environ 600 Ko (soit aussi gros que le script
+principal de Secret of Mana, même s'il y a des messages redondants,
+il faut quand même les retraduire à chaque fois).
+
+Le hack a été plié très rapidement d'une main de maître par mon
+ancien comparse du projet de "Crystal Beans : From Dungeon Explorer",
+Neige. Comme d'habitude, son hack est de très grande qualité (il a
+complètement recoder la routine d'affichage du quiz qui était juste
+aberrante à l'origine, le jeu chargeant plusieurs fois dans la ram
+les mêmes données si je me souviens bien). Quasiment tout le contenu
+du jeu étant compressé, il lui a également fallu coder de quoi
+décompresser/recompresser tout ça.
+
+Le seul compromis qui a été fait concerne la police de caractères.
+Neige n'avait pas le temps à l'époque de coder une VWF, donc on a
+simplement passé la police de caractères de 12x16 en 8x16.
+
+La meilleure police de caractères qui collait à cette limitation
+niveau largeur était une en majuscules, donc la traduction n'utilise,
+au final, que des majuscules (comme à la bonne époque des jeux
+NES/Game Boy :D). Ca rend d'ailleurs plutôt bien à mon goût (bien
+mieux qu'avec les différentes minuscules que j'ai pu tester).  
+
+Ce projet, outre le hack de Neige, m'a demandé je pense environ
+300 heures (Secret of Mana m'en avait demandé environ 200 en comptant
+à la louche), c'est donc actuellement le projet qui m'aura pris
+le plus de temps, et de loin.
+
+Je suis néammoins très content de l'avoir fait, j'ai appris à
+apprécier ce jeu à sa juste valeur et je sais que cette traduction
+sera, au minimum, appréciée et utilisée par un petit groupe de
+personnes (ceux pour qui j'ai justement décidé de traduire ce jeu).
+
+Environ 9 mois plus tard, voici donc la traduction complète :)
+
+----------------------------------------------------------------
+3.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir :
+
+jdlv101f.ips - Patch de traduction avec un écran-titre en français (Le jeu de la vache)
+jdlv101j.ips - Patch de traduction avec un écran-titre en "japonais retranscrit" (Kingyo Chuuihou! Tobidase! Game Gakuen)
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Utilisez un patcheur IPS tel que "IPS XP", "Lunar IPS" ou autre
+pour appliquer l'un de ces patchs.
+
+Ces patchs s'appliquent sur la rom japonaise du jeu,
+nommé "Kingyo Chuuihou! Tobidase Game Gakuen (J).smc"
+(Taille : 2 097 152 octets, CRC32 : C819109C).
+
+Cette traduction a été testée sur une Super Nintendo et fonctionne
+correctement (que ce soit en PAL/NTSC et en 50/60hz). Le jeu était
+à la base protégé pour ne pas fonctionner en PAL (un message d'erreur
+apparait sur la version originale une fois l'écran-titre passé) mais
+la protection a été retirée dans ce patch. Cela n'intéressera que
+ceux qui veulent y jouer sur leur Super Nintendo PAL (non-switchée)
+donc c'est toujours bon à savoir :)
+
+Pour tout remarque concernant un probable bug, une faute d'orthographe
+ou autre, veuillez poster un message à cette adresse :
+
+http://www.romhack.org/viewtopic.php?f=43&t=3734
+
+----------------------------------------------------------------
+4.  LES PATCHS PUBLIÉS
+----------------------------------------------------------------
+
+Patch v1.1 - 31/05/2012
+
+Correction de deux petits bugs graphiques apparaissant au dessus
+de la tête de Chitose lors du mini-jeu "Bataille de coquillages".
+
+Pour corriger ce bug, il a été nécessaire de passer les "ORDI"
+affichés sur l'écran principal en "ORD", l'ajout d'une lettre
+supplémentaire provoquant le bug en question, même si l'explication
+technique est inconnue pour l'instant ^^;
+
+Merci à FFVIMan pour avoir reporté ce bug.
+
+****************************************************************
+
+Patch v1.0 - 02/05/2012
+
+Version entièrement traduite sans bugs connus.
+
+----------------------------------------------------------------
+5.  TOUT CE QUI A ÉTÉ FAIT
+----------------------------------------------------------------
+
+Script     : 100 %
+Mini-jeux  : 100 %
+Quiz       : 100 %
+Graphismes :  99 % *
+Titre      : 100 %
+Crédits    : 100 %
+
+*  Certaines choses n'ont pas été traduites volontairement car
+cela n'avait aucun intérêt (l'inscription sur le tableau de classe,
+l'inscription sur le fond d'écran lors du choix des cartes bonus).
+Il reste par contre deux choses que je n'ai pas traduit car je n'ai
+pas trouvé comment les modifier, cela viendra peut être si je dois
+faire une nouvelle version plus tard pour corriger quelques trucs
+(il s'agit du "1P/2P/3P qui apparait furtivement sur le pupitre du
+joueur lorsqu'on prend la main pour répondre à une question, et aussi
+le 1P/2P/3P au dessus des cartes bonus lors du choix des cartes).
+
+----------------------------------------------------------------
+6.  NOTES
+----------------------------------------------------------------
+
+Les commandes sont indiquées lors du début des mini-jeux, sauf
+une. Il est possible de rejoindre ou quitter la partie en appuyant
+sur le bouton "SELECT". Cette manipulation n'est, évidemment,
+utilisable qu'en dehors des mini-jeux.
+
+Les quiz ont été modifiés, car il est était difficilement adaptable
+(je doute que beaucoup de français connaissent l'histoire japonaise,
+par exemple). Les deux premiers quiz qui correspondaient à la langue
+nationale (la matière "français" pour nous) ont été remplacé par
+un quiz de vocabulaire sur des mots japonais assez courants
+pour les fans d'animés.
+
+Les deux autres quiz ont été remplacés par un quiz sur l'histoire
+occidentale en général (histoire mondiale, histoire française).
+
+Il est également bon à savoi qu'il y a quelques "cheats codes"
+pour ce jeu, que voici (les manipulations sont à faire après l'écran
+de copyright du début, lorsque les portraits des différentes personnages
+apparaissent à l'écran. Si la manipulation est réussi, un son se fait
+entendre et le personnage de l'écran, Wapiko, dira "Nakayoshi" au lieu
+de dire le titre du jeu "Kingyo Chuuihou! Tobidase! Game Gakuen").
+
+1) "Haut", "Droite", "Bas", "Gauche", "Haut", "X", "B".
+
+Ce "cheat code" remplace le premier quiz de japonais ("LV0 - An 1")
+par un quiz "custom". Chaque session de ce quiz spécial est composé
+de 20 questions (contre 10 pour les quiz classiques). Dans la version 
+originale, il s'agit d'un quiz sur l'animé mais comme quasiment personne
+ne doit connaître l'animé, il a été décidé de modifier le quiz en question.
+
+2) "Haut", "Droite", "Bas", "Gauche", "Haut", "X", "X".
+
+Ce "cheat code" remplace l'un des deux quiz "Histoire" ("MATH  - An 2")
+par un "tetris-like" où il est question d'empiler des dés de faces identiques.
+
+3) "Haut", "Droite", "Bas", "Gauche", "Haut", "B", "B".
+
+Ce "cheat code" active un mode spécial pour les "tetris-like" ("LV0 - An 2", 
+"MATH - An 1", "MATH - An 3" et "LV1 - An 1"). Les mini-jeux concernés
+ne s'arrêtent plus dès qu'un joueur a atteint 100 points, mais s'arrêtent
+lorsque les 3 joueurs ont perdu (il est donc possible de dépasser 100 points
+et de faire des compétitions de score avec ce mode).
+
+4) "Haut", "Bas", "Gauche", "Droite", "Select", "Select".
+
+Contrairement aux autres, ce "cheat code" est à faire sur l'écran de choix
+du mode de jeu (Mode école/Mode libre).  Si la manipulation est réussie,
+Wapiko s'agitera et criera "OK". Choisissez ensuite "Mode libre" pour
+accéder au mode "Juke-Box" (sound-test). Pour quitter ce mode, il est
+obligatoirement de relancer la console (reset ou "power off/on").
+
+Deux petites choses à savoir sur cette traduction. La premère est
+le nom de la vache qui est restée en japonais, "F. Ushi" est
+l'abbréviation de "Furyô Ushi", c'est à dire la "vache voyou" ou
+"vache délinquante" en français. Pour ceux qui veulent une meilleure
+idée du mot "Furyô" et connaissent "Yû Yû Hakusho", "Yusuke" et "Kuwabara"
+sont typiquement des "Furyô".
+
+L'autre chose à savoir est qu'il y a un quiz "Histoire" dans la catégorie
+"Mathématiques", c'est juste que le quiz original (de "Mathématiques")
+n'était pas vraiment adaptable en français et qu'on ne peut évidemment
+pas changer le "cours" de catégorie sans recoder tout le jeu, ce qui
+est exclu pour une traduction.
+
+----------------------------------------------------------------
+7.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+   Idée originale du projet : Hiei-
+                              Hella
+                              Banana Master
+
+   Romhacking, Programmation, Assembleur : Neige
+   
+   Romhacking secondaire : Bahabulle, Hiei-
+
+   Traduction : Hiei- (Eleaxt pour 1/4 des cartes bonus)
+
+   Modification graphique des écrans-titre (français et japonais) : Lyan53
+					     
+   Modification graphiques : Lyan53, Lestat, Hiei-
+
+   Modification des quiz : Hiei- (Banana Master pour le quiz "custom")
+
+   Correction : Musashi
+
+   Bêta-test : Hiei-, Hella, Banana Master
+
+   Remerciements spéciaux : Eleaxt
+                            Hella
+                            Banana Master
+                            Mario86
+                            Lestat
+                            Kogami
+                            Lyan53
+
+                            Et certains membres du forum "Generation-Snes"
+                            qui ont suivi le long périple de cette traduction :)
+
+
+----------------------------------------------------------------
+8.  CONTACTS
+----------------------------------------------------------------
+
+T.R.A.F. : http://traf.romhack.org
+Forum : http://www.romhack.org (Pseudo : Hiei-)
+E-mail : scripts-elysion@hiei-tf.fr (sujet : "Le jeu de la vache")
+
+Pour les bugs : http://www.romhack.org/viewtopic.php?f=43&t=3734
+
+----------------------------------------------------------------
+9.  REMARQUES LÉGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de "Kingyo Chuuihou! Tobidase!
+Game Gakuen" n'est pas  officiel et n'est pas supporté par Jaleco.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Aucun 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de quelque dommage provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+Hiei-

@@ -1,0 +1,119 @@
+/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+|                                Terminus Traduction                                 |
+|                                         &                                          |
+|                                   Génération IX                                    |
+|                                                                                    |
+|                                     PRESENTENT                                     |
+|                                                                                    |
+|                                  la traduction de                                  |
+|                                                                                    |
+|                                   Double Dragon 3                                  |
+\____________________________________________________________________________________/
+
+
+-------------------------------------------------------------------------------------
+******************************** Table des matières *********************************
+-------------------------------------------------------------------------------------
+
+1.    L'HISTOIRE DU JEU
+2.      INFORMATIONS DU JEU
+3.    CONTENU DE L'ARCHIVE ET UTILISATION
+4.      HISTORIQUE DES VERSIONS
+5.    TOUT CE QUI A ETE FAIT
+6.      L'ÉQUIPE DE LA TRADUCTION
+7.    CONTACTS
+8.      REMARQUES LEGALES
+
+
+\ 1. L'HISTOIRE DU JEU
+ \____________________________________________________________________________________
+
+Billy et Jimmy repartent se bastonner à tout-va pour libérer Marion qui a été enlevée.
+
+
+\ 2. INFORMATIONS DU JEU
+ \____________________________________________________________________________________
+
+Titre       : Double Dragon 3
+Console     : Nintendo
+Développeur : Technos
+Date        : 1990
+Genre       : Beat'em all
+
+
+\ 3. CONTENU DE L'ARCHIVE ET UTILISATION
+ \____________________________________________________________________________________
+
+Normalement, l'archive ZIP doit contenir :
+
+NES-DD3-GIX-TT.ips - Le patch IPS de Double Dragon 3
+NES-DD3-GIX-TT.txt - Le fichier que vous êtes en train de lire
+
+Ce patch est à utiliser avec la rom Double Dragon III - The Sacred Stones (U).nes
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR (trouvable sur le site
+de la TRAF (http://traf.romhack.org) comme le Patcheur Terminus par exemple).
+
+
+\ 4. HISTORIQUE DES VERSIONS
+ \____________________________________________________________________________________
+
+29/06/2007 - Version Finale
+
+
+\ 5.    TOUT CE QUI A ETE FAIT
+ \____________________________________________________________________________________
+
+Script      :     100 %
+Graphismes  :     100 %
+Menus       :     100 %
+Insertion des lettres minuscules et des accents
+
+
+\ 6. L'ÉQUIPE DE LA TRADUCTION
+ \____________________________________________________________________________________
+
+Script           : FlashPV
+Graphismes       : FlashPV / BahaBulle
+Aide compression : BahaBulle
+
+
+\ 7. CONTACTS
+ \____________________________________________________________________________________
+
+Une remarque, une question ou une correction à apporter à la traduction de
+Double Dragon 3.
+
+Terminus Traduction : FlashPV   - FlashPV@aol.com
+Génération IX       : BahaBulle - BahaBulle@hotmail.com
+
+Vous voulez mieux connaître les groupes, télécharger les derniers patchs ou vous
+renseigner sur un projet :
+
+Site Web Terminus Traduction : http://terminus.romhack.net
+Site Web Génération IX       : http://generation9.kanshima.net
+
+
+\ 8. REMARQUES LEGALES
+ \____________________________________________________________________________________
+
+Le patch de traduction française de Double Dragon 3 n'est pas officiel
+et n'est pas supporté par Nintendo.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus.
+Ni argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+--------------------------------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+FlashPV
+BahaBulle

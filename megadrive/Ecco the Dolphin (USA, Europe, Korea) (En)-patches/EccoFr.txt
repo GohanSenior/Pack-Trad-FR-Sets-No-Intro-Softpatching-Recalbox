@@ -1,0 +1,35 @@
+_________________________________________________________________________________________________
+9 décembre 2019
+
+Mise à jour flash par Ingo
+- reformulation de quelques phrases
+- correction de quelques fautes de frappe
+- correction du checksum
+
+patch à appliquer sur :
+ECCO (U) [!].bin
+CRC32 de la rom : 45547390
+
+_________________________________________________________________________________________________
+10 janvier 2002
+
+*****  Ecco the Dolphin Genesis v1.00 par Terminus Traduction ***** 
+
+-LA PETITE HISTOIRE-
+
+Ce jeu est un des plus originaux qu'ait connu la Mégadrive et aura d'ailleurs connu une suite
+(qui offrait d'ailleurs le choix entre plusieurs langues dont le francais en version européenne)
+et une magnifique mouture Dreamcast.
+
+-TRADUCTION-
+
+100% du jeu de traduit.
+
+ATTENTION: Ce patch est pour la rom au format .SMD uniquement
+
+-MEMBRES SUR LE PROJET-
+
+FlashPV: Hacking et traduction.  email: FlashPV@aol.com
+
+Terminus Traduction 2k2
+http: Terminus.romhack.net

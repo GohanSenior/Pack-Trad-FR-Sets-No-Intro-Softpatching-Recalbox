@@ -1,0 +1,36 @@
+******************************************************************
+      ________    ______  __    ________  ________    __
+     /        \  /     / / /   /       / /        \  / /
+    /   ___   / /_  __/ / /__ /__  ___/ /   ___   / / /
+   |   /__/  / ___\ \  / __  \  / /    |   /__/  / / /_____
+    \____/|_/ /_____/ /_/ /__/ /_/      \____/|_/ /_______/
+
+******************************************************************
+
+Jeu original : Mighty Final Fight
+Nom de la patch : Fnlfight.ips
+
+Compagnie : Capcom
+Publication : 1993
+Console émulée : NES
+Type : Beat'em Up
+Mémoire : 1 mg
+
+Version : v1.0
+Modifications : 12/21/99
+Langage : Français (Québécois)
+Taille de la patch : 5,57 ko
+Progression : 100%
+
+Auteur : Ashtal
+Courriel : ashtal@hotmail.com
+Site repaire : 
+ Le Temple d'Ashtal --> http://www.geocities.com/Tokyo/Temple/8611
+
+Note : Si vous avez une quelconque suggestion à apporter sur la
+correction de certains bogues ou de retoucher directement la patch,
+n'hésiter pas à m'en faire part. De plus, j'autorise quiconque dé-
+sirant distribuer cette patch (spécialement T.R.A.F.) à le faire à
+la condition, toutefois, de conserver le fichier .ips et ce .txt à
+l'intérieur de ce même archive. Merci !
+                                           -----> Ashtal

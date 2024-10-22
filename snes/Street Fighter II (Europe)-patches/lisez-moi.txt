@@ -1,0 +1,58 @@
+***** LE PATCH *****
+
+----- Utilisation -----
+Ce patch gratuit et non officiel propose de découvrir une alternative française aux dialogues anglais de la cartouche de votre jeu original.
+
+2 possibilité d'application suivant que vous utilisiez la rom américaine ou européenne:
+Street Fighter II The World Warrior (U) [!]_Fr-100%-Mike.ips
+Street Fighter II The World Warrior (E) [!]_Fr-100%-Mike.ips
+
+À appliquer sur le fichier image pour la version américaine:
+Street Fighter II - The World Warrior (U) [!].smc  SANS HEADER
+CRC32 de la rom : BC3DCD9D
+
+À appliquer sur le fichier image pour la version européenne:
+Street Fighter II - The World Warrior (E) [!].smc  SANS HEADER
+CRC32 de la rom : 8B93F566
+
+Pour voir le CRC32 d'un fichier, vous pouvez installer 7-Zip puis clic droit sur le fichier et CRC SHA > CRC32.
+Pour utiliser le patch, vous pouvez par exemple utiliser Lunar IPS disponible ici :
+https://traf.romhack.org/?p=outils&oid=151
+
+CRC32 de la rom américaine après patch: 094BF32F
+CRC32 de la rom européenne après patch: 36EF5B10
+
+Le checksum restera bon après patchage de la rom.
+
+----- Remerciements & Questions -----
+Vous pouvez m'écrire en laissant un message sur ce sujet du forum :
+https://www.romhack.org/viewtopic.php?f=43&t=4225
+
+
+
+***** LE JEU *****
+
+----- Série Street Fighter -----
+Mythique jeu de Capcom dès l'apparition de son deuxième volet sur Super Nintendo, la série fera grandir le nombre de combattants jusqu'à un nombre important dans le mémorable Street Fighter Alpha 3 !
+
+----- Profil combattants -----
+L'astuce est de maintenir les boutons L et R de la deuxième manette au lancement du jeu et d'attendre jusqu'à l'apparition du profil de Ryu (date de naissance, poids ...). A cet instant, les autres profils défileront, ce qui vous fera gagner un temps précieux pour les voir tous traduits de MM-JJ-AAAA/pieds/pouces/lbs en JJ-MM-AAAA/mètres/mètres/kg.
+Les mensurations B/W/H deviennent P/T/B (poitrine, taille, bassin).
+
+----- Classement des meilleurs joueurs -----
+On y voit "Nin" en premier que j'ai remplacé par "Mik" (pour Mike D) vu ma flemme pour m'insérer dans les crédits de fin du jeu (déjà bien remplis ! ^^). Nin (ou Nin-Nin) est Akira Nishitani, le concepteur du jeu.
+
+
+
+***** LES TRAVAUX FRANCOPHONES *****
+
+----- Fins -----
+épilogues des 8 combattants 
+
+----- Séquences -----
+24 messages de fin de combat (2 pour chacun des 12 persos)
+
+----- Détails -----
+fiches des 8 persos tournant en démo du jeu avec conversion pour date de naissance, taille, poids et mensurations
+liste de choix des menus et options
+ensemble des génériques de fin suivant la difficulté choisie

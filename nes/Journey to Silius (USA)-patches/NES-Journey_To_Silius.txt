@@ -1,0 +1,111 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                           Journey to Silius
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Journey to Silius
+Console		: Nintendo NES
+Développeur	: Tokai Engeneering
+Editeur		: Sunsoft
+Date		: Septembre 1990
+Genre		: Plates-formes / Action
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 19/11/2013) :
+ \_________________________________________________________________
+
+Il est des jeux qui gagnent à être connus, et c'est le cas de
+"Journey to Silius" sur Nes. Ce jeu de plates-formes action
+mérite qu'on s'arrête dessus.
+
+Sous couvert d'un scénario archi classique (le fils qui veut
+venger la mort de son père assassiné par de vilains terroristes) 
+on fait connaissance avec un jeu d'action frénétique et prennant.
+
+Au travers de 5 niveaux faisant un peu penser à Megaman, on va
+dégommer du robot par paquets de 50. Mais si on n'avait que
+les vilains z'aliens à gérer, ça irait tout seul ! Mais les
+développeurs sont des fourbes et bien que les niveaux soient
+relativement cours, ils n'ont pas hésité à saupoudrer
+le tout d'une bonne dose de pièges : des pics, de la lave,
+des lasers, des trucs qui tombent ou qui montent, des scies
+et des trous... beaucoup de trous !
+
+A côté d'une difficulté relative, on a ici un bon jeu à la
+maniabilité parfaite, bien animé et fluide. Pour ma part,
+je me suis bien amusé à tester ce jeu.
+
+Du côté de la traduction, tout à été fait. Bon en même temps,
+c'est pas la masse de script qui m'aura épuisé, mais il aura
+eu le mérite de m'occuper quelques heures. Je pensais qu'il
+y aurait plus de textes, mais bon...
+
+J'aurai sûrement passé plus de temps à retoucher les fontes
+qu'à travailler les textes ^^
+
+J'espère au moins que ce patch permettra de faire découvrir
+cette petite perle au grand public.
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]----------[Adresse]-----[Valeur]---
+Energie infinie        00B0          0B
+Vies infinies          0053          09
+Munitions infinies     00B1          40
+
+
+/!\ Informations relatives à l'utilisation des codes de triche :
+
+Il faut désactiver les codes de l'énergie et des munitions
+lorsqu'on tombe dans un trou ou après avoir battu un boss
+sous peine de voir le jeu tourner à vide.
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Journey_to_Silius.ips" est à utiliser sur la rom suivante :
+Nom de la rom   : Journey to Silius (U).nes
+Taille de la rom: 262 160 octets
+Rom avec Header ? Oui
+CRC de la rom   : 4563F40D
+CRC rom patchée : 38076D04
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  FCeu XD SP [x]
+  NesTicle   [ ]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

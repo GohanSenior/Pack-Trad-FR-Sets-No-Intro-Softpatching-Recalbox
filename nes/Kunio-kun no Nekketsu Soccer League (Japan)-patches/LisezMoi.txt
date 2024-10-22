@@ -1,0 +1,114 @@
+TERMINUS TRADUCTION présente
+
+Kunio Kun no Nekketsu Soccer League - Technos Soccer League
+----------------------------------------------------------------
+*******************Table des matières******************
+----------------------------------------------------------------
+
+1.    L'HISTOIRE DU JEU
+2.      CONTENU DE L'ARCHIVE ET UTILISATION
+3.    LES PATCHS PUBLIES
+4.      TOUT CE QUI A ETE FAIT
+5.    L'ÉQUIPE DE LA TRADUCTION
+6.      CONTACTS
+7.    REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  L'HISTOIRE DE KUNIO KUN'S NEKKETSU SOCCER LEAGUE
+----------------------------------------------------------------
+
+Kunio Kun No Nekketsu Soccer League est mieux décrit comme un jeu
+de baston où il faut marquer des buts que comme un jeu de foot.
+Une fois sur le terrain, Kunio Kun No Nekketsu Soccer League se
+démarque de la plupart des jeux de football sur console.
+En général, on vous permet de contrôler tous les membres de
+l'équipe à tour de rôle. Dans Kunio Kun's Nekketsu Soccer League,
+au contraire, vous dirigez toujours le même joueur.
+Les autres membres de l'équipe sont contrôlés par la console!
+Au début, c'est un peu déroutant! Heureusement, vous pouvez quand
+même leur donner des ordres. Par exemple, leur demander de faire
+des passes, de shooter ou de tacler un adversaire.
+Outre les tirs classiques et les passes, vos joueurs disposent
+d'un super tir, plus difficile à arrêter mais dont l'utilisation
+est limitée. C'est bien gentil de marquer de shooter dans la balle,
+mais encore faut-il arriver à la récupérer lorsque l'équipe adverse
+la possède! Pour cela, deux moyens: tacler ou plaquer l'adversaire
+au sol. Ce n'est pas très fair-play, peut-être, mais c'est très
+efficace! Et puis, comme ce type de faute n'est pas pénalisé,
+on ne va pas se gêner...
+Si un joueur est touché trop souvent, il peut même rester K.O.
+quelque temps.
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir:
+KunioSoccerFr.ips  - Le patch IPS du jeu
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+(le Patcheur Terminus par exemple).
+Ce patch est à utiliser avec la rom JAP:
+Kunio Kun no Nekketsu Soccer League (J).nes
+
+----------------------------------------------------------------
+3.  LES PATCHS PUBLIES
+----------------------------------------------------------------
+
+-V1.00
+Traduction complète
+
+----------------------------------------------------------------
+4.  TOUT CE QUI A ETE FAIT
+----------------------------------------------------------------
+
+Retouches des graphismes pour certains mots et drapeaux
+
+Traduction complete du jeu
+
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+Kazan : Hacking, Traduction
+
+FlashPV: Corrections
+
+----------------------------------------------------------------
+6.  CONTACTS
+----------------------------------------------------------------
+
+Une remarque, une question ou une correction à apporter à la
+traduction du jeu.
+
+Kazan - newkazan@hotmail.fr
+
+Vous voulez mieux connaître le groupe, télécharger nos derniers
+patchs ou vous renseigner sur un projet.
+
+Site Web - http://terminus.romhack.net
+
+----------------------------------------------------------------
+7.  REMARQUES LEGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de ce jeu n'est pas officiel
+et n'est pas supporté par Nintendo et Technos Japan.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+Kazan

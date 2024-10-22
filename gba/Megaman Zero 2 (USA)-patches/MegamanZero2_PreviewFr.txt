@@ -1,0 +1,80 @@
+**********************************************************************
+*                          Megaman Zero 2                            *
+*                                                                    *
+*              http://pocket-trad.playeradvance.org/                 *
+*                                                                    *
+**********************************************************************
+*                                                                    *
+*  Chef du Projet : YodaJR                                           *
+*                                                                    *
+*  Traducteurs    : YodaJR, Lestat, Kudo, YoBoY                      *
+*                                                                    *
+*  Hackeurs       : YoBoY, GeoGeo                                    *
+*                                                                    *
+*  Testeurs       : Kudo, Lestat, YoBoY                              *
+*                                                                    *
+**********************************************************************
+*                                                                    *
+*  Version        : 0.99.09 Preview Release                          *
+*                                                                    *
+**********************************************************************
+*                                                                    *
+* Patch IPS à appliquer sur le JEU US                                *
+*                                                                    *
+* ATTENTION : Ne diffusez pas la rom Patchée                         *
+*             Ne faites pas un lien direct vers notre site           *
+*             Préservez vos doigts                                   *
+*                                                                    *
+**********************************************************************
+
+
+Version 0.99.09
+---------------
+Les erreurs trouvées suite au bêta test sont corrigées.
+On a enfin un compresseur/decompresseur pour les graphiques
+du jeu. Mais c'est pas évident.
+
+Pour les vacances on sort un cette version en PREVIEW
+pour que nos fans en profitent un peu :)
+
+On continue a modifier les graphismes, certains le sont déjà
+donc ne vous étonnez pas, je rapelle que ce n'est qu'une
+Preview Release.
+
+Merci de signaler les éléments graphiques non traduit sur notre
+Forum, ainsi que les éventuelles fautes encore existantes dans
+les dialogues.
+
+
+Version 0.99.02
+---------------
+Bêta test interne des dialogues entre les différents personnages.
+Les graphismes sont compressé avec un LZSS à la sauce Capcom
+et pour l'instant on se casse les dents dessus.
+
+
+Version 0.00.01
+---------------
+* Création de la table de caractères, et identification des
+  codes particuliers.
+  FB >> "µ" positionne le texte en bas de l'écran
+  FC >> "@" Retour à la ligne dans un cadre de texte
+  FD >> Cadre de texte suivant traduit par un retour à la ligne
+  FF >> Section de texte suivante traduit par un {END}
+
+* Extraction des textes dans des fichiers TXT (21 fichiers)
+
+* Extraction des textes traduits par YodaJr, comme base
+  de traduction.
+
+* Cases de dialogue normales (avec image)
+  2 lignes de 20 lettres + 1 ligne de 19 lettres
+
+* Cases de dialogue une ligne (F300)
+  1 ligne de 27 lettres
+
+* Cases de dialogue sans portrait (F302)
+  2 lignes de 26 lettres + 1 ligne de 25 lettres
+
+* Sans case (intro...)
+  lignes de 30 lettres

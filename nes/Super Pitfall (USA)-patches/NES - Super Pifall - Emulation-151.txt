@@ -1,0 +1,62 @@
+                    Emulation-151 (http://www.emulation-151.com)
+                                              
+			 vous présente la traduction de Super Pitfall
+						
+						Patch 76
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre : Super Pitfall.
+Console : Nes.
+Développeur : Activision.
+Date : 1986
+Genre : Plateforme.
+
+
+
+\ ETAT DE LA TRADUCTION : Patch 02/09/07
+ \__________________________________________________
+
+
+Ce qui a été fait :
+
+- Traduction du texte.
+- Correction de la police qui comportait quelques approximations ^^.
+
+Ce qui n'a pas été fait :
+
+- Traduction du "1 up" "2 up" de l'écran de jeu.
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack : KS 151.
+Traduction : KS151.
+Betatest : KS151.
+
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Le patch "NES - Super Pitfall - Emulation-151.ips" est à appliquer sur
+la rom "Super Pitfall (U) [!].zip".
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher. 
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils 
+peuvent créer une sauvegarde de la rom avant de patcher). 
+Voilà maintenant votre rom avec les modifications apportées par notre traduction. 
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://www.emulation-151.com
+Forum :   http://www.emulation-151.com/Forum/phpBB2/index.php

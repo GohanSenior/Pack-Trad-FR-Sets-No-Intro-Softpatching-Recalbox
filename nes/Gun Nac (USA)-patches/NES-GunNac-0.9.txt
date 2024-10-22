@@ -1,0 +1,84 @@
+
+				Lex et GreatSkaori
+				      présentent :
+
+		En exclusivité pour Génération IX (http://generation9.kanshima.net)
+				Gun Nac : traduction française
+
+
+
+Plate-forme : Nes
+Nom du jeu : Gun Nac
+Développeur : Nexoft
+Année de sortie : 1990
+Type : P'tit n'avion surpuissant qui balaye tout sur son passage
+
+
+
+*-* SOMMAIRE *-*
+
+--Carnet de bord du Capitaine
+--Gun nac?
+--Versions du patch
+--Générique de fin
+--Contact
+
+
+
+--CARNET DE BORD DU CAPITAINE : DIMANCHE 14 DÉCEMBRE 2003 À  11H32
+
+Vous venez de télécharger le fichier zip de traduction de Gun Nac sur Nes.
+Ce fichier zip contient 2 fichiers, dont un que vous êtes en train de lire actuellement, malgré
+son titre, vous êtes un personne sage et ça nous plaît!
+
+
+
+--GUN NAC ?
+
+La plupart de mes projets étant tombé à l'eau :/ ,GreatSkaori est arrivé avec Gun Nac sous le bras en hurlant : "LAPINS TUEURS !!!!!!!!!!!"
+Tout d'abord méfiant j'ai tout de meme daigné telecharger la rom pour voir. Or il s'est avéré que ce shoot en plus de proposer des lapins tueurs (et beaucoup d'autres délires) est en fait un excellent clone de la série des Gunhed : comprenez que le gameplay est identique (plus proche de nous, Super-Aleste offrait ce même gameplay). Il est même un peu amélioré par l'ajout de boutiques entre les niveaux. Tout cela dans une ambiance délire des plus sympathique.
+
+Techniquement ce titre est une petite tuerie avec des milliers de sprites (euh, plutot des dizaines :P) ainsi que des scrollings sur plusieurs plans et ce genre de choses peu courantes pour de la Nes.
+
+Bref, j'espère que ce patch vous fera ressortir votre emulateur Nes préféré le temps d'une petite partie.
+
+
+
+--VERSIONS DU PATCH
+-> Version bêta du 14 décembre 2003
+
+"Game over" et "Area Clear" ne sont pas traduits à la fin des niveaux et il reste une fin que je n'ai pas testé : j'ai fini le jeu en easy et en normal et j'ai eu la même fin,  or je sais pour avoir hacké le jeu qu'il y en a une autre. Si quelqu'un la trouve, je ne suis pas contre recevoir un state.
+
+
+
+
+--GÉNÉRIQUE DE FIN
+fiquetpa = romhacking initial
+Lex = romhacking, traduction additionnelle
+GreatSkaori = traduction
+
+
+--COMMENT APPLIQUER LE PATCH ?
+
+Le patch "NES-GunNac-0.9.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Gun Nac (USA).nes
+  Taille de la rom: 262 160 octets
+  Rom avec Header ? Non
+  CRC de la rom   : D19DCB2B
+  CRC rom patchée : AD67641B
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+--CONTACTS :
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

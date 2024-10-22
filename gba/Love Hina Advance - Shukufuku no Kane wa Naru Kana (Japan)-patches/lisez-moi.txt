@@ -1,0 +1,172 @@
+|_______________________________________________________________|
+|                      __       __                              |
+|    ____  ____  _____/ / ___  / /_                             |
+|   / __ \/ __ \/ ___/ /_/ _ \/ __/                             |
+|  / /_/ / /_/ / /__/   /  __/ /_                               |
+| / ____/\____/\___/_/\/\___/\__/                               |
+|/_/                                                            |
+|   __                 __           __  _                       |
+|  / /__________  ____/ /_  _______/ /_(_)___  ____             |
+| / __/ ___/ __ \/ __  / / / / ___/ __/ / __ \/ __ \            |
+|/ /_/ /  / /_/ / /_/ / /_/ / /__/ /_/ / /_/ / / / /            |
+|\__/_/   \_____\____/\____/\___/\__/_/\____/_/ /_/             |
+|                                                               |
+|                                                               |
+|___________[ TRADUCTION DE JEUX VIDEO EN FRANCAIS ]____________|
+|_______________________________________________________________|
+|                                                               |
+| YODAJR / KUDO / LESTAT                                        |
+|                                                               |
+|  (Quelques membres de pocket traduction :p)                   |
+|                                                               |
+|_[ PRESENTENT ]________________________________________________|
+|_______________________________________________________________|
+|                                                               |
+| Love Hina Advance - Shukufuku no Kane wa Naru Kana            |
+|                                                               |
+|                                             (à tes souhaits!) |
+|                                                               |
+| En version française !                                        |
+|_______________________________________________________________|
+|_______________________________________________________________|
+|                                                               |
+|_[ APPLICATION DU PATCH ]______________________________________|
+|_______________________________________________________________|
+|                                                               |
+| Téléchargez un utilitaire capable de patcher des fichiers,    |
+| ce dernier DOIT absolument supporter le format IPS.           |
+|                                                               |
+| Visitez donc la TRAF :                                        |
+|                                                               |
+| http://traf.romhack.org/                                      |
+|                                                               |
+| ou notre site :                                               |
+|                                                               |
+| http://pockettrad.romhack.org/                                |
+|                                                               |
+| Vous y trouverez des tutoriaux vous expliquant la marche      |
+| à suivre pour patcher votre jeu.                              |
+|                                                               |
+| Pour dumper votre jeu, faites un dump de 64Mbits (soit 8Mo)   |
+| et vérifiez avec GBATA le CRC de votre ROM :                  |
+|                                                               |
+| The header information of file LH.gba                         |
+|---------------------------------------                        |
+| Software Title:LOVEHINAADVA                                   |
+| Game Serial:   AGB-ALHJ-JPN                                   |
+| Maker Code:    9N                                             |
+| Publisher:     MMV                                            |
+| Version:       1.0                                            |
+| Logo Code:     OK                                             |
+| Complement:    39h                                            |
+| Save Type:     EEPROM_V121                                    |
+| File Size:     64 mbit (8388608 bytes)                        |
+| CRC32:         B8E67449                                       |
+|---------------------------------------                        |
+|                                                               |
+| l'adresse de GBATA :                                          |
+|                                                               |
+| http://www.gbadat.altervista.org                              |
+|                                                               |
+| Si votre CRC différe de celui-ci : B8E67449                   |
+| Refaites un dump avec la bonne taille!                        |
+|                                                               |
+| Après application du patch, votre ROM doit avoir le CRC       |
+| suivant : 9EBAF6CB                                            | 
+|_______________________________________________________________|
+|_______________________________________________________________|
+|                                                               |
+|_[ NOTES CONCERNANT LA TRADUCTION ]____________________________|
+|_______________________________________________________________|
+|                                                               |
+| YodaJr est l'instigateur de ce projet.                        |
+|                                                               |
+| YodaJr ( Traduction et romhack )                              |
+| Kudo ( Création de table et extraction du script )            |
+| Lestat ( Modifications diverses, harmonisation, réinsertion ) |
+| Julie ( Corrections diverses, critiques... )                  |
+|                                                               |
+|>>Lexique :                                                    |
+|                                                               |
+| Tôdai : Université prestigieuse de Tôkyô.                     |
+| Rotenburo : Sources chaudes.                                  |
+| Senpaï : Signifie "aîné".                                     |
+| Sama   : Personne pour qui l'on voue un grand respect.        |
+| Chan   : "Particule" signifiant une certaine familiarité      |
+|          pour la personne qui l'emploie.                      |
+| Kotatsu : Couverture chauffante que l'on met sur une table    |
+|           basse prévue à cet effet.                           |
+| Baito : Équivalent d'un petit travail d'étudiant.             |
+| Izakuya : Bar-restaurant où les Japonais aiment se retrouver  |
+|           après le travail.                                   |
+|_______________________________________________________________|
+|_______________________________________________________________|
+|                                                               |
+|_[ NOTES CONCERNANT LE JEU ]___________________________________|
+|_______________________________________________________________|
+|                                                               |
+| Love Hina est le jeu vidéo sorti sur GBA en 2001 tiré         |
+| de la série éponyme. Ce dernier vous met à la place de        |
+| Keitarô, jeune étudiant en prépa pour la troisième année      |
+| consécutive...                                                |
+|                                                               |
+| Contraint par la force des choses à subvenir à ses besoins    |
+| par lui-même, il devient gérant d'une pension de jeunes       |
+| filles, et c'est du boulot !                                  |
+|                                                               |
+| Surtout qu'il n'y a pas que les plombs qui sautent            |
+| souvent à Hinata..                                            |
+|_______________________________________________________________|
+|_______________________________________________________________|
+|                                                               |
+|_[ REMERCIEMENTS ]______________________________________________|
+|_______________________________________________________________|
+|                                                               |
+| L'auteur de Love Hina :                                       |
+|                                                               |
+|                         Ken Akamatsu                          |
+|                                                               |
+| L'équipe du jeu vidéo, et tout ceux et celles qui ont de près |
+| ou de loin, inspirés Mr Akamatsu pour ce manga de qualité.    |
+|                                                               |
+| Cette traduction ne saurait avoir vu le jour sans le          |
+| "LHA project". Grâce à ces gens le jeu à été traduit en       |
+| anglais. Merci donc à :                                       |
+|                                                               |
+| Chief Ug ( traduction & romhacking )                          |
+| mandom (romhacking)                                           |
+| Gangis (modifications des graphismes)                         |
+|                                                               |
+| Cette traduction est dédicacée à :                            |
+|                                                               |
+| Mathilde <- un vieille connaissance ;)                        |
+| Dark Schneider <- il se prend pour Su.                        |
+| Shyma.X <- un collègue ;>                                     |
+|_______________________________________________________________|
+|_______________________________________________________________|
+|                                                               |
+|_[ INFORMATIONS LÉGALES ]______________________________________|
+|_______________________________________________________________|
+|_______________________________________________________________|
+|                                                               |
+| Cette traduction n'est pas officielle. Par conséquent,        |
+| les auteurs de cette dernière ne sauraient être tenus         |
+| responsables de pertes de quelque nature que ce soit (pertes  |
+| de données, de temps, d'argent, de petite copine, etc.)       |
+|                                                               |
+| La traduction de Love Hina Advance est gratuite !             |
+|                                                               |
+| Cette dernière ne peut faire l'objet d'aucune transaction     |
+| financière de quelque nature que ce soit.                     |
+|                                                               |
+| EN UTILISANT CETTE TRADUCTION LES TERMES DE CET ACCORD SONT   |
+| TACITEMENT APPROUVÉS !                                        |
+|                                                               |
+| (Grosso modo, si vous n'avez rien compris à ce qui s'est dit  |
+| ci-dessus, ne vennez pas pleurer chez nous si votre chat se   |
+| suicide après que vous avez joué à Love Hina ! Et il vous est |
+| formellement interdit de vendre cette traduction pour vous    |
+| dédommager...)                                                |
+|_______________________________________________________________|
+|___________________________________________[ Le 13 Août 2006 ]_|
+|_______________________________________________________________|

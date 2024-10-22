@@ -1,0 +1,72 @@
+Tiny Toon Adventures 2 - Montana's Movie Madness (Game Boy)
+Traduction en Français v0.80 (06/11/2022)
+
+
+------------------------
+Genre: plateforme
+------------------------
+Tiny Toon Adventures 2: Montana's Movie Madness est un jeu vidéo de plates-formes développé
+et édité par Konami, sorti en 1993 sur Game Boy.
+
+Une toute nouvelle salle de cinéma vient d'ouvrir dans Acme Acres. Mais, malheureusement, elle est 
+détenue par le méchant gosse Montana Max et il a décidé de lancer des films dans lesquels lui seul 
+est le héros. Vous avez donc la tâche de saboter ses plans durant les différents niveaux. 
+
+------------------------
+CONTENU DE L'ARCHIVE ET UTILISATION
+------------------------
+Normalement, l'archive ZIP doit contenir:
+TinyToon2.ips - Le patch IPS de Tiny Toon Adventures 2 - Montana's Movie Madness
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+comme LumarIPS.
+Ce patch est à utiliser avec la rom
+Tiny Toon Adventures 2 - Montana's Movie Madness (U) [!].gb
+Taille: 131072 octets (128 KiB)
+CRC32: C5C7868D
+SHA256: 379f9034b2702f06247e1dd4a6e21d51a76aff84d12ff851e4e962b105094d10
+
+
+ROM patché:
+Taille: 131072 octets (128 KiB)
+CRC32: 8E780C9E
+SHA256: 9e81bcf148cda0e6e665a774cf5382f51eb33bcbf7367b50ccafa2eb690034b6
+
+
+--------
+TRADUCTION
+--------
+Yoda07: texte, GFX
+Version 0.80:
+l'ensemble des dialogues, mini jeu et menu sont traduits.
+Il reste à traduire les gfx(life, time, push A) ainsi que les credits de fin.
+
+----------------------------------------------------------------
+CONTACTS
+----------------------------------------------------------------
+Une remarque, une question ou une correction à apporter à la
+traduction de Tiny Toon Adventures 2 - Montana's Movie Madness.
+
+Yoda07 mail: juin-2010@hotmail.fr
+
+----------------------------------------------------------------
+REMARQUES LEGALES
+----------------------------------------------------------------
+Le patch de traduction française de Tiny Toon Adventures 2 - Montana's Movie Madness n'est
+pas officiel et n'est pas supporté par Konami ou Nintendo.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !

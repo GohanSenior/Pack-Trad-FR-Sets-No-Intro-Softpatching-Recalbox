@@ -1,0 +1,107 @@
+TERMINUS TRADUCTION présente
+
+PULSEMAN (100ème patch de FlashPV!)
+
+----------------------------------------------------------------
+******************Table des matières****************
+----------------------------------------------------------------
+
+1.    L'HISTOIRE DU JEU
+2.      CONTENU DE L'ARCHIVE ET UTILISATION
+3.    LES PATCHS PUBLIES
+4.      TOUT CE QUI A ETE FAIT
+5.    L'ÉQUIPE DE LA TRADUCTION
+6.      CONTACTS
+7.    REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  L'HISTOIRE DE PULSEMAN
+----------------------------------------------------------------
+
+Pulseman est un des derniers jeux sortis sur Megadrive (en 1994)
+et n'a jamais vu le jour hors du Japon. Sorte de croisement entre
+Sonic et Megaman, c'est un des plus beaux jeux de plate-forme
+de cette console, et assurément l'un des meilleurs.
+Nous sommes fiers de vous le présenter aujourd'hui en francais
+alors qu'il n'a encore jamais été traduit dans une autre langue que
+le japonais, ce qui est une première pour un jeu Megadrive.
+Enjoy!
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir :
+
+PulsemanFr.ips  - Le patch IPS de Pulseman
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+(le Patcheur Terminus par exemple).
+Ce patch est à utiliser avec la rom Pulseman (J) (c) [!]
+au format .BIN
+
+----------------------------------------------------------------
+3.  LES PATCHS PUBLIES
+----------------------------------------------------------------
+
+-V 1.0 Beta:
+Le jeu est entièrement traduit à l'exception d'une phrase près les
+crédits (THANKS FOR PLAYING!)
+La font n'est peut être pas définitive également.
+
+----------------------------------------------------------------
+4.  TOUT CE QUI A ETE FAIT
+----------------------------------------------------------------
+
+Script         :   99 %
+Graphismes:   99 %
+Menus       :  100 %
+
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+-FlashPV : Chef de projet
+Traduction basée sur celle du site Volteccer:
+http://www.atomic-fire.com/volteccer/
+
+-Manekineko: Traductions annexes (Textes in-game et Fin)
+
+----------------------------------------------------------------
+6.  CONTACTS
+----------------------------------------------------------------
+
+Une remarque, une question ou une correction à apporter à la
+traduction de PULSEMAN.
+
+FlashPV - FlashPV@aol.com
+
+Vous voulez mieux connaître le groupe, télécharger nos derniers
+patchs ou vous renseigner sur un projet.
+
+Site Web - http://terminus.romhack.net
+
+----------------------------------------------------------------
+7.  REMARQUES LEGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de PULSEMAN n'est pas
+officiel et n'est pas supporté par  GameFreak ou Sega.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+FlashPV

@@ -1,0 +1,230 @@
+ ___________________________________________________________________________
+               
+                    Traduction de Bayonique Cammainedowe
+                            (Bionic Commando quoi)
+                              par Cigarette Patch
+                  et mon pote GreatSkaori de Génération IX
+ ___________________________________________________________________________
+
+ Pff, encore un ridmie qui sent la fatigue... ça devient franchement lourd
+ d'être obligé de se taper des bides à répétition sous pretexte que 
+ Cigarette à traduit un nouveau jeu. Je serais vous, j'esquiverais vite
+ fait les paragraphes débiles pour aller directement à la partie
+ "les Dessous du Dossier Bionic Commando".
+ ___________________________________________________________________________
+ 
+ Patch version 1.00  
+
+ Disclaimeur
+ Publicité
+ Les Dessous du Dossier Bionic Commando
+ Remerciements		          		      
+ ___________________________________________________________________________
+
+ Disclaimeur:
+
+ Bonjoure ai bienvenu sure mon dixclémeure, ami copin internotte.
+ En ba de page tu trouverat plain de lien poure choppaient des romme
+ gaime cub, Péesse2 mais pa Xbouz parsque sai une consolle de tarlouz LoL
+ loooool MdRrR ptdr xpdr. Eh ouait c sa le future. jouait gratiss au jeu.
+ la honte l'otre jour mon potte ghislain ai partis s'achetais le derniais
+ Yugioh au Scorres Gamez' on sait bien fouttu de sa gueul tro lait, il 
+ pars sacheter dais jeu comm mon gran paire il fesaient* du tamps de la 
+ NESSE.
+
+ *Maince, on dit pas il faisaient, mé il faiteS avaique un S.
+
+ Mai attenssion! tu ne peu gardait tes romme que pandant 24 heurs (jais
+ calculer sa faits 1 joure pile poile), sinon juli lesco et mouss diouf
+ vont faire une desentte chez toi et piquais tout ton stoque de janbom 
+ madrange. spa coule, mai du momant qu'ils ne capturres pas mes Seunny
+ Dilaight, (NDLR: Sunny Delight) c bon. 
+
+ Au faite se cerai trai trai jentil de ta pard si tu pouver cliquais sur
+ lai pubbe de mon sponsor "un clic pour plein de fric", car mon 
+ haibergeur gratui free.fr me coute la po du Q. free bende de voleur!!
+
+ Biensure pour dl les rome, tu doit téléphonez sur mon sairveur allopass,
+ fo pa déconnait, je fait pa sa poure du beur, mai pour l'argens du beur.
+
+ Tu ne doit pas vandre les romme que tu va tailechargais. 
+ enfin je dis ca parsque c mon pere qui m'a dis de meittre ca, mais
+ sinon on peut s'arrengais. tu me verse dais royaltizes de 25% sure ton
+ chifre d'affere, et je te laisse faires ton ptit deal paipaire maimaire.
+
+ Bon il me fo une chutte pour mon skaitche. Car tous bon skaitche qui se
+ respaicte se termine pare une chuttes. attens je raiflaichis deux sec...
+ 
+ A y ai j'ai trouver!
+ Pince mi & pince moi sont sur un bato. Pince mi tombe a l'eau.
+ voila la chutte, (ben oui il es tombe a l'eau, il a donc fais une chutte).
+ mdr Looolll lololollllool
+
+ ===========================================================================
+ Vous êtes comme moi, et vous vous sentez agressé dans vos yeux lorsque vous
+ lisez des disclaimeurs de ce type à l'entrée d'un site d'émulation? 
+ Un assemblage désordonné de lettres alignées à la hâte comme de vulgaires
+ Lego par un mioche de 9 ans dopé au Choco BN, voilà l'image, mes chères 
+ frères et soeurs, voilà l'image de la jeunesse d'aujourd'hui.
+ 
+ Alors pour faire cesser le massacre de pauvres voyelles innocentes et de 
+ malheureuses consonnes réticentes (ça veut rien dire mais c'est pour la 
+ rime) faites comme moi, ayez le geste citoyen. Suivez à la lettre la LEN et
+ osez la délation auprès du boss de AOL. 
+
+ Dommage que les lobbys ont fait marche arrière, il me plaisait bien 
+ cet article sur la délation...
+
+ ___________________________________________________________________________
+
+ Publicité:
+
+ Cigarette Patch, ce groupe merveilleux du monde fabuleux de la trad
+ francophone. Ce groupe qui est en parfaite harmonie avec la nature, ce
+ groupe qui fait "cui cui" comme les chants des oiseaux, ce groupe qui
+ respecte le blanc et les couleurs de dedans ta machine à laver....
+ 
+ Ce groupe qui fait des patch tellement pourris.... tels que:
+
+ Ninja Gaiden Trilogy (SNES) : Le projet mythique de ce groupe qui finira
+  			       bien un jour ou l'autre dans un cendrier...
+
+ Final Fight 2 (SNES)	     : Un patch parodique très mauvais pour ton 
+			       insécurité de dans la rue.
+
+ Prince of Persia (SNES)     : Un patch engagé dans la lutte contre le
+                               racisme.
+
+ River City Ransom (NES)     : Une traduction avec des scènes d'amour
+                               terrifiantes, et des scènes de violence
+                               émouvantes.
+
+ Duck Tales 2 (NES)          : Une traduction a but lucra...éducatif, 
+                               pour montrer à ces ptits cons de jeunes que
+                               le divertissement jeunesse de qualité 
+                               c'est pas du Hamtaro ni du Sakura la
+                               chasseuse de cartes.
+
+ ___________________________________________________________________________
+     
+ Les dessous du dossier "Bionic Commando" 
+
+ Bionic Commando est un jeu choc qui joue sur la provoc'. En effet, les gars
+ de chez Capcom - ah ce sont des sacrés filous les gars de chez Capcom -
+ ont sorti ce jeu initialement au Japon sous le nom:
+ Hitler no Fukkatsu - Top Secret.
+
+ Je vous traduit le titre, car j'ai appris le japonais au lycée avec Sangoku
+ et Ranma: La Résurrection d'Hitler - Top Secret.
+
+ Ouh là, on se demande comment la prude compagnie Nintendo a pu laisser
+ passer une telle affaire, et apposer le logo doré "Nintendo Seal of 
+ Quality" sur la cartouche. Même de nos jours, alors que la firme est en 
+ pleine crise d'adolescence en quête d'un style pour plaire aux jeunes 
+ pro-$onY, je ne pense pas qu'on puisse voir un jeu GameCube avec un titre 
+ aussi choc et provoc, bref aussi glauque qu'un phoque se tapant Roch
+ (Voisine).
+
+ Toujours est il que dans le jeu japonais vous trouverez des croix gammées à
+ la pelle (amis nerds petite idée de soirée pour vous si vous vous ennuyez:
+ "lequel de ces deux jeux comporte le plus de croix gammées:
+ Wolfenstein 3D ou Bionic Commando Jap?"). Le boss de fin est par ailleurs
+ l'ignoble Hitler, qui meurt dans d'atroces souffrances, dans une des fins
+ les plus gores jamais vues sur une console 8 bits. 
+
+ Pour éviter de trop faire plaisir à un certain porc nommé Jean-Marie,
+ Capcom à décidé de censurer le jeu aux States des Etats-Unis, et en Europe.
+ Mais rassurez vous, Hitler meurt toujours dans d'atroces souffrances
+ quelque soit la version du jeu. 
+ 
+ D'autres détails différencient les versions jap et us. Certains niveaux
+ contiennent plus de pièges, et il est possible de tuer le prisonnier de 
+ l'empire dans la zone 17 en version jap. On peut aussi se faire une petite 
+ bière (sans alcool on est sur une console Nintendo ;), et se taper deux 
+ trois blagues belges avec un général ennemi dans une des zones neutres. 
+ Les blagues ont dû être trop salaces car elles passent à la trappe dans la
+ version ricaine :(
+ 
+ Bionic Commando connaitra deux suites, une sur GameBoy, sans aucune
+ référence polémique, et une autre sur GameBoy Color, avec une ambiance
+ futuriste.
+
+ Voilà pour le côté badboy du commando à la main extensible baladeuse,
+ et dire que Dhalsim lui a repompé ce trait de caractère sans remords :( 
+ Passons aux patchs:
+
+ J'ai décliné la traduction sexy du légendaire GreatSkaori de Génération IX
+ en trois patchs:
+ o Bionic Commando.ips est la traduction avec la police d'origine.
+ o Metal Gear Commando.ips est la traduction avec la police de Metal Gear.
+ o enfin Bionic Commando Remix est la traduction avec une police refaite 
+   avec plein d'accents (é, è, à, et tous leurs amis mais aussi les accents
+   marseillais, québecois, vietnamiens etc...). 
+
+ Mon dieu, quel bide digne de Patrick Bosso...
+ Enfin je suis soulagé ça faisait longtemps que je revais de le placer
+ celui-là. Ce bide me hantait chaque nuit dans mes pires cauchemars, un
+ peu comme le gros cul de ma responsable de formation du BTS me torturait
+ l'esprit chaque nuit. Un cul énorme, monstrueux, capable d'absorber
+ n'importe quel choc, les américains ont pensé un temps louer ses services
+ pour construire le fameux bouclier anti-missile, (ah ma grosse truie, tu les
+ aimes les missiles nucléaires bien russes hein?). Mais les japonais ont 
+ tout fait foirer en engageant ce cul énorme pour doubler les levres de 
+ Godzilla Densestsu Vs Hello Kitty s'épile le maillot en créole.
+ On sait maintenant pourquoi Godzilla a une si mauvaise haleine :(
+
+ Ces patchs sont à appliquer sur la version américaine de la rom.
+
+ A oui j'oubliais, la tradition dans les ridmies, un petit code pour chaque
+ jeu en bonus, pour te remercier public de m'avoir lu jusqu'ici:
+
+ Appuyez sur A+B+Start pour quitter instantanément une zone.
+ 
+ Allez un deuxième, c'est la fête, je fais péter le Banga:
+ Pour avoir des continues, provoquez les Regis et autres Francis en camion
+ sur la carte et flinguez les ennemis les plus dangeureux. Vous obtiendrez
+ des emblèmes d'albatros synonymes de continues.
+
+ ___________________________________________________________________________
+
+ Remerciements
+
+ Mon pote GreatSkaori : Il a accepté de traduire un deuxième jeu pour
+                        Cigarette. Je n'ai même pas eu à le harceler, ni
+                        à lui faire du chantage. Dis lui, toi public, que
+                        je suis de la mauvaise graine, et que je file du 
+                        mauvais coton sur la mauvaise pente. Je suis une
+                        mauvaise fréquentation, mais non, il veut bosser
+                        avec moi.
+                        Merci encore Greats, et si on le nommait membre
+                        d'honneur du groupe? Vous en pensez quoi, amis
+                        du public?
+                        
+ Lex                  : Pour son interêt pour le projet "Bayonique 
+                        Cammainedowe", Bionic Commando quoi.
+                        
+ Le site de la TRAF   : Pour nous avoir proposé plein de patch, ainsi que 
+                        des FAQ qui m'ont permis de comprendre comment 
+                        traduire les jeux. Et surtout pour avoir accepté de 
+                        publier mes patchs sur leur site. Merci les gars :)
+		        http://traf.romhack.org
+
+ Les webmasters des   : Pour avoir pris le risque de parler de Cigarette 
+ sites d'émulation      Patch dans leurs news et pour avoir gracieusement
+                        distribué nos patchs.
+
+ Seb                  : Pour avoir écrit la FAQ (La Traduction pour les Nuls)
+                        qui m'a enfin fait comprendre comment traduire les 
+                        jeux.
+
+ Les créateurs de Nesticle, VirtuaNES, Translhextion, Tile Layer Pro
+
+ Et surtout le public qui vote en masse sur le petit bouton "voter" en bas
+ du site. Merci de votre soutien ;)
+
+ ___________________________________________________________________________
+
+ Patch de Traduction de Bionic Commando Copyright 2004 GreatSkaori - Skaiboy
+ http://cigarette.consolemul.com
+ http://generation9.kanshima.net
+ skaiboy@free.fr

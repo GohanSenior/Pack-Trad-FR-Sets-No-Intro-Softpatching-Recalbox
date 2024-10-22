@@ -1,0 +1,32 @@
+****************************************************
+*Titre : Evolution Les dongons Eternels            *
+*                                                  *
+*Support : Neo Geo Pocket (NGP)                    *
+*                                                  * 
+*Auteur de la traduction : Fry (fry@multimania.com)*
+*                                                  *
+*Traduction : Anglais --> Français                 *
+*                                                  *
+*Déroulement de la traduction :                    *
+*[ ] Arrété [×] En cours [ ] Terminé               *
+****************************************************
+
+______________________________________________________
+Historique :
+
+v0.1
+Le début de l'introduction est traduite.
+
+v0.2
+Toute l'introduction est traduite.
+
+v0.3 
+Correction des nombreuses fautes et de certains bugs.
+Le début du script de Pannam Town est traduit, ainsi
+que quelques menus et attaques...
+______________________________________________________
+
+Si vous utilisez cette traduction, merci de me prevenir
+des (nombreuses) fautes que vous allez rencontrer
+par email : fry@multimania.com
+par ICQ : 39785488

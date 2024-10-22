@@ -1,0 +1,56 @@
+Joe & Mac: Caveman Ninja (Mega Drive)
+Traduction en Français v1.0 (12/11/2020)
+(C) 2020 Traduction Alucard73
+
+---------------
+Histoire du Jeu
+----------------
+Retournez à l'âge des cavernes grâce à Joe & Mac: Caveman Ninja. 
+Seul ou en coopération, vous incarnez Joe et Mac, deux hommes de Cro-Magnon qui vont 
+devoir se battre pour retrouver les femmes capturées par des créatures préhistoriques. 
+Et si les autres hommes des cavernes peuvent être facilement vaincus à coups d'os ou de massues, 
+il faudra ruser pour ne pas se faire croquer par le grand tyrannosaure.
+
+-----------------
+Ce qui a été fait
+-----------------
+Script    : 100 %
+Graphismes: 99 %
+
+--------------------
+Notes et Bugs connus
+--------------------
+Normalement aucun.
+Si vous rencontrer un bug, vous pouvez me contacter sur le Forum de la Traf.
+
+--------------------------
+Instructions pour le patch
+--------------------------
+Au format, vous pouvez utiliser LunarIPS ou Floating IPS.
+Archive utilisée:
+
+Joe & Mac (USA).md
+
+MD5: 9800244038a6235c6d437582aa75f52f
+SHA1: D238ECDBC76AFFB0B92946A1EE984399B6E8FE27
+CRC32: 85BCC1C7
+Size: 1048576
+
+-------
+Credits
+-------
+Alucard73 - Hacking, traduction et tests.
+
+-----------------
+REMARQUES LEGALES
+-----------------
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.

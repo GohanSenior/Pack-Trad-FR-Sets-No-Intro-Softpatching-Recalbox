@@ -1,0 +1,126 @@
+TERMINUS TRADUCTION présente
+
+Zombie Hunter
+----------------------------------------------------------------
+*******************Table des matières******************
+----------------------------------------------------------------
+
+1.    L'HISTOIRE DU JEU
+2.      CONTENU DE L'ARCHIVE ET UTILISATION
+3.    LES PATCHS PUBLIES
+4.      TOUT CE QUI A ETE FAIT
+5.    L'ÉQUIPE DE LA TRADUCTION
+6.      CONTACTS
+7.    REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  L'HISTOIRE DE Zombie Hunter
+----------------------------------------------------------------
+
+Zombie Hunter est un jeu d'action RPG développé et publié par
+Hi-Score Media Work pour le Famicom en 1987, et pour l'ordinateur
+domestique MSX en 1988.
+Il n'a été publié qu'au Japon. Il a été développé comme projet
+par un magazine de jeux japonais connu sous le nom de Hi-Score.
+Il a été licencié par Activision pour être traduit et distribué
+en Amérique du Nord mais il a été annulé et n'a jamais été publié.
+En 2003, un patch de traduction non officiel a été produit par
+KingMike's Translations, qui a traduit le jeu en anglais.
+
+
+Dans Zombie Hunter, le joueur doit compléter six niveaux de
+défilement latéral, dont les quatre du milieu offrent au joueur
+le choix entre un chemin gauche et un chemin droit.
+
+Dans chaque niveau, le joueur fait un certain nombre de combats
+qui l'empêchent de progresser jusqu'à ce que tous les ennemis
+aient été vaincus ou chassés.
+Vaincre les ennemis rapporte au joueur des points d'expérience,
+et vaincre le dernier ennemi avant qu'il ne s'échappe rapporte
+au joueur un coffre au trésor.
+Les coffres fournissent de l'or au joueur, mais contiennent aussi
+des objets au hasard.
+
+La collecte de ces objets est essentielle à
+la survie du joueur tout au long du jeu. Plus l'objet est puissant,
+moins il est susceptible d'apparaître. 
+
+Dans le jeu A, les objets particuliers qui peuvent être obtenus à
+chaque combat sont prédéterminés
+Dans le jeu B, les objets qui apparaissent sont déterminés au hasard.
+Par conséquent, il est possible (mais peu probable) d'obtenir des
+objets extrêmement précieux plus tôt, mais vos statistiques
+n'augmentent pas aussi rapidement que dans le jeu A.
+
+
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir:
+ZombieHunterFr.ips  - Le patch IPS du jeu
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+(le Patcheur Terminus par exemple).
+Ce patch est à utiliser avec la JAP:
+Zombie Hunter (Japan).nes
+
+----------------------------------------------------------------
+3.  LES PATCHS PUBLIES
+----------------------------------------------------------------
+
+-V1.00
+Traduction complète
+
+----------------------------------------------------------------
+4.  TOUT CE QUI A ETE FAIT
+----------------------------------------------------------------
+
+Traduction complete du jeu
+basée sur la traduction US de KingMike's Translations
+
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+Kazan : Hacking, Traduction
+
+----------------------------------------------------------------
+6.  CONTACTS
+----------------------------------------------------------------
+
+Une remarque, une question ou une correction à apporter à la
+traduction du jeu.
+
+Kazan - newkazan@hotmail.fr
+
+Vous voulez mieux connaître le groupe, télécharger nos derniers
+patchs ou vous renseigner sur un projet.
+
+Site Web - http://terminus.romhack.net
+
+----------------------------------------------------------------
+7.  REMARQUES LEGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de ce jeu n'est pas officiel
+et n'est pas supporté par Nintendo et Hi-Score Media Work.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+Kazan

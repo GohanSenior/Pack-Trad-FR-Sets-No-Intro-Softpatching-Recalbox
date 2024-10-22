@@ -1,0 +1,88 @@
+			Génération IX (http://generation9.kanshima.net) 
+			   vous présente la traduction de Bubsy II
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre	: Bubsy II
+Console	: Super Nintendo
+Développeur : Accolade
+Editeur : Accolade
+Date	: 1994
+Genre	: Plates-formes
+
+
+\ ETAT DE LA TRADUCTION : Patch 1.0 créé le 24 Avril 2011 
+ \________________________________________________________ 
+
+
+Ayant traduit Bubsy premier du nom, je me suis lancé logiquement dans sa suite parue
+un an après. Le jeu est différent dans son concept puisqu'il ne s'agit plus ici
+d'un simple jeu de plates-formes linéaire. Ici on peut jouer à deux et choisir
+son parcours.
+
+Le jeu est divisé en étages où on choisit entre l'aile ouest ou l'aile est proposant
+des niveaux différents, ce qui permet de varier les parties. Une fois que tous les
+niveaux de l'étage sont faits, on peut latter le boss et entamer l'étage suivant.
+
+Les niveaux sont assez agréables et il y a plein de mini jeux cachés. A noter que
+dans cette rom, Bubsy peut utiliser des armes et même un scaphandre pour parcourir
+les niveaux sous-marins.
+
+
+Tout a été traduit, mais il y a toutefois un p'tit détail qui me gêne. Je n'ai
+en effet pas pu mettre ce que je voulais pour le "terminés" qui apparaît
+à la fin du premier niveau : ça indique "1 monde terminés". Le "terminés" devrait
+être au singulier, mais ça colle plus avec les "X mondes terminés" qui apparaissent
+ensuite. En attendant de trouver un truc qui aille mieux, ça restera comme ça!
+Il manque aussi les graphismes "East wing" et "West Wing", mais ça change
+rien au jeu.
+
+
+
+\ CODES DE TRICHE 
+ \________________
+
+Nan, pas de code pour ce jeu !
+J'ai pas eu besoin d'en chercher, y a des cheatcodes dispos sur Gamefaqs.
+
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack 	  : Happexamendios
+Traduction: Happexamendios
+Bêta-Test : Happexamendios
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Le patch "Bubsy II.ips" est à utiliser sur la rom suivante :
+Nom de la rom   : Bubsy II (E).smc
+Taille          : 2 097 152 octets
+Rom avec header : Non
+Crc de la rom   : 25DEECAA
+Crc rom patchée : 4FF633A5
+
+Le patch a été créé avec SmartIPS et a été testé sous les émulateurs suivants :
+Snes9X 1.53 : Ok	Snes9x 1.43 : Non testé		ZsnesW : Ok
+Bsnes 0.60  : Ok mais tourne au ralenti			SnesGT : Ok
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher. 
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils 
+peuvent créer une sauvegarde de la rom avant de patcher). 
+Voilà maintenant votre rom avec les modifications apportées par notre traduction. 
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+Site Web : http://generation9.kanshima.net 
+Forum : http://www.bessab.com/viewforum.php?f=12 

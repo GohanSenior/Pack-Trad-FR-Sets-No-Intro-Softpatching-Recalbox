@@ -1,0 +1,208 @@
+                               CHRONO TRIGGER
+                           Français - par Kogami
+
+          	        Projet débuté le 08/01/2009
+----------------------------------------------------------------------
+
+                             Par ~ Chrono Team ~
+
+----------------------------------------------------------------------
+***************************Table des matières*************************
+----------------------------------------------------------------------
+
+1.	L'HISTOIRE DE CHRONO TRIGGER
+2.	L'HISTORIQUE DE LA TRADUCTION
+3.      CONTENU DE L'ARCHIVE ET UTILISATION
+4.      LES PATCHS PUBLIÉS
+5.	TOUT CE QUI A ÉTÉ FAIT
+6.	L'ÉQUIPE DU PROJET
+7.      CONTACTS
+8.      AUTRES PROJETS
+9.	REMARQUES LÉGALES
+
+----------------------------------------------------------------------
+1.  L'HISTOIRE DE CHRONO TRIGGER
+----------------------------------------------------------------------
+
+Né d’une collaboration entre Enix et Squaresoft qui fêtait alors
+ses 10 ans, Chrono Trigger a été développé sous la houlette d’une
+équipe de rêve dans laquelle on recensait entre autres le fondateur
+de Final Fantasy et le réalisateur de Dragon Quest. C’est donc
+logiquement que ce petit bijou ébranle le monde des RPG à sa sortie
+en 1995, avec notamment un scénario en marge des concepts habituels
+et arborant un thème à la fois utopique et source de nombreux rêves.
+Oui mesdames et messieurs, il est question ici de secourir le monde
+en voyageant à travers le temps… Et c’est en l’an 1000, dans le
+royaume de Gardia, que cette merveilleuse aventure débute. 
+
+----------------------------------------------------------------------
+2.  L'HISTORIQUE DE LA TRADUCTION
+----------------------------------------------------------------------
+
+Chrono Trigger fut le premier grand projet sur lequel j'ai commencé en
+2009. C'est celui qui m'a permis de beaucoup progresser sur le RomHacking.
+Il s'agit aussi du projet qui m'aura demandé le plus de temps pour le
+finaliser car il a été mis en gestation plus d'une fois. La raison de
+cette retraduction est que je voulais repartir du script japonais pour
+être le plus fidèle possible à l'oeuvre originale en évitant toute
+forme de censures (rapport aux religions, sexe, injures) comme
+c'est le cas sur les versions officielles sorties sur Snes/NDS.
+
+----------------------------------------------------------------------
+3.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir :
+
+      Chrono Trigger (Fr) v1.05.ips - Le patch IPS de Chrono Trigger
+      LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Si vous utilisez ZSNES, vous pouvez renommer le patch du nom 
+de votre rom (Chrono Trigger (Fr) v1.05.ips si votre rom s'appelle 
+Chrono Trigger (Fr) v1.03.smc), et le patching sera effectué
+automatiquent au lancement de l'émulateur.
+
+Ce patch s'applique sur la Rom US originale du jeu.
+ -Chrono Trigger (USA).sfc  "sans header"
+
+----------------------------------------------------------------------
+4.  LES PATCHS PUBLIÉS
+----------------------------------------------------------------------
+
+V1.05 - 11/10/2019
+ -Correction de beaucoup fautes d'orthographe. (Merci à aullos)
+
+V1.04 - 02/05/2019
+ -Correction grammatical de "Maison à Chrono" par "Chez Chrono" (Merci à Darkness64)
+ -Correction grammatical (merci à dudemanbito)
+
+V1.03 - 20/03/2018
+ -Correction de 3 dialogues qui passé trop rapidement. (Merci à Serge)
+ -Correction d'une mauvaise position du curseur sur une
+  question qui empêché la réponse sur  "Oui" et "Non". (Merci à Serge)
+
+V1.02 - 07/03/2017
+ -Correction de deux fautes d'orthographe.
+
+V1.01 - 25/06/2016
+ -Correction d'un bug sur Nouveau Jeu / Nouveau Jeu +
+ -Correction de beaucoup fautes d'orthographe.
+ -Revu certaines tournures.
+
+V1.00 - 01/04/2016 (Version Bêta)
+ -Tout est traduit dans le jeu !!!
+
+----------------------------------------------------------------------
+5.  TOUT CE QUI A ÉTÉ FAIT
+----------------------------------------------------------------------
+
+- Dialogues..................... 100 %
+- Objets........................ 100 %
+- Armes......................... 100 %
+- Armures....................... 100 %
+- Accessoires................... 100 %
+- Age Names..................... 100 %
+- Menu.......................... 100 %
+- Noms des lieux................ 100 %
+- Magies........................ 100 %
+- Introduction.................. 100 %
+- Crédit de fin................. 100 %
+- Graphismes.................... 100 %
+- Compression DTE............... 100 %
+- Pointeurs 24 Bit.............. 100 %
+
+----------------------------------------------------------------------
+6.  L'ÉQUIPE DE TRADUCTION 
+----------------------------------------------------------------------
+
+Kogami:                          Chef de projet.
+                                 Traduction des Menus/Objets/Lieux/Attaques/Monstres/
+                                 Personnages/Bonus/Magies/Accessoires/Armes/Armures.
+
+Support et conseil:              https://www.chronocompendium.com/
+
+Yumi:                            Traduction du script principal depuis le japonais.
+ 
+Ichigo/MrL:                      GFX (Eclair, Ciel, Eau, Feu).
+
+Bahabulle:                       Aide sur les calculs/déplacements des pointeurs 24 bits
+                                 et décompression des GFX (ROMhacking).
+
+
+Hack:                            Rom étendue à 6 mo + déplacement des textes.
+                                 Pointeurs-24bit.asm
+                                 Implantation du hack "crononick".
+                                 Patch 6 lettres pour écrire "Chrono" en entier.
+                                 Ending-Art.asm (Ré-implantation de l'image de fin issue de la version jap).
+
+Outils:                          TheCheat1.4/VWF Line/Hareng-Tool/Lunar Address v1.04/
+                                 Lunar Expand/Temporal Flux/Tile Molester/xkas-plus/
+                                 Translhextion/Win Merge/SD2Snes.
+
+Insertion du script:             kogami
+Mise en forme des dialogues:     kogami
+Relecteurs:                      kogami / Ours1011 / KennYMcCormick
+Bêta-testeur:                    Kogami
+
+                               
+
+\ REMERCIEMENTS
+ \______________
+
+Je tiens à remercier avant tout les membres du forum "Square Palace" 
+pour leurs participation sur la traduction.
+
+  -DooKie
+  -lifeless
+  -captain_roger
+  -Senki
+  -Edouard
+
+Ainsi que les membres de la T.R.A.F
+  -Ti Dragon
+  -Bahabulle
+  -Hiei
+
+Et bien évidement, je remercie toute la communauté de la traduction
+francophone, les membres de la T.R.A.F / Ultimate-Console, pour leur
+soutien, leurs interventions, leurs encouragements et remerciements...
+		    
+----------------------------------------------------------------------
+7.  CONTACTS
+----------------------------------------------------------------------
+
+N'hésitez pas à me faire part de vos remarques ou des éventuels bugs 
+et fautes de français.
+
+Mail : kogami@hotmail.fr
+
+----------------------------------------------------------------------
+8.  AUTRES PROJETS
+----------------------------------------------------------------------
+
+La retraduction du jeu Final Fantasy VI depuis la version japonaise
+et peux-être le FFIV et FFV par la suite.
+
+----------------------------------------------------------------------
+9.  REMARQUES LÉGALES
+----------------------------------------------------------------------
+
+Le patch de traduction française de Chrono Trigger n'est pas 
+officiel et n'est pas supporté par Nintendo.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une Rom, 
+et que l'archive originale n'est pas modifiée non plus. 
+Ni argent, biens ou services ne peuvent être demandés 
+pour ce patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation 
+ne pourra être tenue responsable pour les dommages 
+occasionnés par son usage.
+
+----------------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+ ~Kogami

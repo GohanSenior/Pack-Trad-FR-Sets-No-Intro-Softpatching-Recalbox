@@ -1,0 +1,71 @@
+				Génération IX (http://generation9.kanshima.net)
+
+			vous présente la traduction de Harvest Moon 2 sur Gameboy Color
+
+
+\ INFOS SUR LE JEU
+ \_________________
+
+Titre       : HARVEST MOON 2
+Console     : Gameboy Color (GBC)
+Développeur : Natsume
+Date        : 2003
+Genre       : Sim/RPG
+
+
+\ ETAT DE LA TRADUCTION : Patch Pré-Bêta du 23/12/2004
+ \_____________________________________________________
+
+Ce patch est actuellement en version pré-bêta. C'est à dire qu'il fonctionne mais qu'il y a encore beaucoup
+de bugs. Donc si vous voulez jouer au jeu pour nous aider à trouver tous ces méchants insectes, vous êtes les
+bienvenus.
+Tout ce que nous vous demandons, c'est un screen du problème rencontré et si possible une sauvegarde juste
+avant que le problème ne soit chargé. Si vous utilisez un autre émulateur que Visualboy Advance, merci
+d'indiquer lequel.
+Envoyer vos remarques et fichiers aux personnes dans la partie contacts.
+MERCI
+
+Ce qui a été fait :
+- Extraction des scripts : 127 ko
+- Insertion des scripts  : 128 ko
+- Rajout des accents     : à â é è ê î ï ô ù û ç ë
+- Hack graphique         : NEW
+
+Ce qui n'est pas fait
+- Hack Graphique : Talk / Exit
+- Le No des réponses n'a pas pu être remplacé par Non
+- Les saisons n'ont pas pu être mises en entier
+- Certains textes n'ont pas été trouvés : Menu / File / les saisons lors du choix d'une partie sauvegardée
+					  Menu dans le jeu / WELCOME TO TRADE CENTER / Next
+- Manque un s à chats lors d'un choix entre Chiens et Chats
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE
+ \_______________________________
+
+Hack       : BahaBulle
+Traduction : Happexamendios
+
+
+\ COMMENT APPLIQUER LE PATCH
+ \___________________________
+
+ATTENTION!!! Le patch est à utiliser sur la rom : Harvest Moon 2 GBC (U) [C][!].gbc
+Les autres roms (si elles existent) n'ont pas été testées. Il est donc possible que ça ne marche pas.
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher.
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org).
+Il suffit ensuite généralement de sélectionner la rom puis le fichier ips et de valider
+(Certains outils peuvent créer une sauvegarde de la rom avant de patcher).
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+\ CONTACTS
+ \_________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'aurraient pas été cités plus haut.
+Site Web   : http://generation9.kanshima.net
+Forum      : http://www.bessab.com/viewforum.php?f=12
+Hackeur    : bahabulle@hotmail.com
+Traducteur : fredchev@tele2.fr

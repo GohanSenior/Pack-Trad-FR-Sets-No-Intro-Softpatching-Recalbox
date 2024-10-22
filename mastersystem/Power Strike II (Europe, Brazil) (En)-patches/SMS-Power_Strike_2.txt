@@ -1,0 +1,94 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                            Power Strike 2
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Power Strike 2
+Console		: Master System
+Développeur	: Compile
+Editeur		: Sega
+Date		: 1993
+Genre		: Action
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 07/08/2018) :
+ \_________________________________________________________________
+
+Etrangement, j'avais complètement oublié que j'avais traduit
+ce jeu. Le projet a été finalisé en février 2017, et c'est plus
+d'un an après que je retombe dessus...
+
+Faisons court ; il s'agit d'un shoot se passant dans les années 30.
+Suite à la crise de 1929, les gens ont tout perdu et les
+pilotes sont devenus des pirates du ciel pour tenter de
+survivre. Heureusement, il existe des "traqueurs", des pilotes
+dont la mission est d'abattre les pirates aériens et de faire
+du ciel un endroit meilleur.
+
+Graphiquement le jeu n'est pas mal du tout pour de la Master System,
+et bien qu'li souffre parfois de ralentissements, c'est lisible
+et on arrive à voir sur quoi on tire.
+
+Le jeu est sympa à jouer, bien qu'il n'innove pas franchement
+dans son game play (on ramasse des bonus qui augmente la puissance
+de tir et on canarde tout ce qui bouge), mais c'est loin d'être
+un des plus mauvais auxquels j'ai pu me confronter, mais si
+je vous dis que ça fait partie de la série des "Aleste",
+ça explique pas mal de choses, non ?
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+J'en avais trouvé, mais j'ai perdu le fichier :(
+Comme j'ai la flemme de les rechercher ; faudra soit les
+trouver vous-même, soit regarder sur Internet s'il n'y en a
+pas quelque part
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Power Strike 2.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Power Strike 2 (E) [!].sms
+  Taille de la rom: 524 288 octets
+  Rom avec Header ? Non
+  CRC de la rom   : A109A6FE
+  CRC rom patchée : 4566A07F
+
+Le patch a été créé avec SmartIPS et a été testé avec les émulateurs suivants :
+  Emukon           [ ]		Kega Fusion 3.64 [x]
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

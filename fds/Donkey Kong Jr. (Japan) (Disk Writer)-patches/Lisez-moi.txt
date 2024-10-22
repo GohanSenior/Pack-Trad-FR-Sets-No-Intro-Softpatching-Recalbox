@@ -1,0 +1,1 @@
+Le patch français doit être utilisé sur la ROM Donkey Kong Jr. (Japan) (Disk Writer).fds

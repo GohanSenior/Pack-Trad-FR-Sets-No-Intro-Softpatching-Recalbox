@@ -1,0 +1,96 @@
+         ________					   ________
+        /¯¯¯¯¯¯¯¯\					  /¯¯¯¯¯¯¯¯\
+       /   _     /	÷¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨/   _     /¨¨¨¨¨¨÷
+      /   /_/   / /¯¯¯¯¯\  /¯¯¯¯¯\ /¯¯¯¯¯\  /¯¯¯¯¯\/¯¯\ /   /¯/   /       ÷
+     /     ¯   / /  __   \/   ___//   ___/ /          //     ¯   /        ÷
+    /   ___    \/  /__/  /   /__ /   /    /   /¯¯/   //   ___    \        ÷
+   /   /¯¯¯/   /        /\___   \\___ ¯¯\/   /  /   //   /¯¯¯/   /        ÷
+  /   /___/   /   /¯¯¯¯¯    /   /   /   /   /  /   //   /___/   /         ÷
+ /     ¯¯¯   /\   ¯¯¯¯¯¯\¯¯¯   /¯¯¯¯   /\   ¯¯¯   //     ¯¯¯   /          ÷
+/___________/  \________/_____/_______/  \___/\____/__________/©          ÷
+ ¯¯¯¯¯¯¯¯¯¯¯    ¯¯¯¯¯¯¯¯÷¯¯¯¯¯ ¯¯¯¯¯¯¯    ¯¯¯  ¯¯¯¯ ¯¯¯¯¯¯¯¯¯¯            ÷
+                        ÷     Traduction de roms en Français              ÷
+                         ¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨ 
+         	 BessaB: http://www.bessab.net
+		           webmaster@bessab.net
+
+		 	 
+		            /""""""""""""""""""""""""\ 
+                           |         Faxanadu         |
+                            \......................../
+
+                                     Aventure
+			             ¯¯¯¯¯¯¯¯
+
+Introduction__________________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Faxanadu est sorti en Europe en 1988 sur Nes 8bits. Il était disponible en France mais qu'en
+Anglais. Un livret avec la traduction française de tous les dialogues était fourni avec le jeu
+mais il n'y a jamais eu de traduction officielle du jeu. Faxanadu n'est sûrement pas le 
+meilleur jeu d'aventure sur Nes mais il dispose d'une histoire bien sympatique. Bref, faxanadu
+vous offrira quelques bonnes heures.
+
+
+Historique______________________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Tout débute quand Fiquetpa entre dans le groupe. Il se cherchait un jeu sur nes à traduire. Il
+a finalement choisi Faxanadu. Ne sachant pas hacker correctement à ce moment-là, Fiquetpa a 
+demandé l'aide de Biglo.
+
+
+
+
+
+Version finale_______2 juillet 2001________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+	Etat: 100% traduit et hacké | Correction du problème du bouclier qui dépassait du cadre. 
+	¯¯¯¯¯
+
+	Sur le projet
+	¯¯¯¯¯¯¯¯¯¯¯¯¯
+	Biglo => Rom-hackeur
+	Fiquetpa => Traducteur/Beta-testeur
+	Jesaisplus => Asm-hackeur
+	Cervantès => Beta-testeur
+	Fyros => Beta-testeur
+
+Version 0.9 beta2_______29 Décembre 2000________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+	Etat: 100% traduit et hacké | Plusieurs corrections apportées par rapport à l'autre patch. 
+	¯¯¯¯¯
+
+	Sur le projet
+	¯¯¯¯¯¯¯¯¯¯¯¯¯
+	Biglo => Rom-hackeur
+	Fiquetpa => Traducteur/Beta-testeur
+	Cervantès => Beta-testeur
+	Fyros => Beta-testeur
+
+Version 0.9 beta_______5 Décembre 2000__________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+	Etat: 100% traduit et hacké
+	¯¯¯¯¯
+
+	Sur le projet
+	¯¯¯¯¯¯¯¯¯¯¯¯¯
+	Biglo => Rom-hackeur
+	Fiquetpa => Traducteur/Beta-testeur
+	
+Comment appliquer le patch ?
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Tout d'abord, munissez-vous de la rom européenne de Faxanadu.
+Copiez dans le même dossier: la rom, IPS.EXE et le patch. Ouvrez une fenêtre dos, déplacez-vous 
+dans le bon répertoire à l'aide de l'instruction CD (Change Directory). 
+
+Ensuite, tapez ips.exe nomdevotrerom.nes nomdupatch.ips.
+_____________________________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Cette traduction est gratuite et ne peut en aucun car être vendue. Elle ne peut
+non plus être modifiée sans l'accord de ses traducteurs. Tous les nouveaux patchs
+seront disponibles sur: 
+
+- BessaB: http://bessab.net
+- Consolemul: http://www.consolemul.com
+- T.R.A.F: http://traf.romhack.net
+- Zophar Domain: http://www.zophar.net_________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯

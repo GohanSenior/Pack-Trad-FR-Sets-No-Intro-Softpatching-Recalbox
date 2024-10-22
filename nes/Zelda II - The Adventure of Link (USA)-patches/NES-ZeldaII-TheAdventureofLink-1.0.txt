@@ -1,0 +1,111 @@
+				Génération IX (http://generation9.kanshima.net)
+
+			 vous présente la traduction de The Adventure of Link
+
+
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre : Zelda 2, The Adventure of Link
+Console : Nintendo
+Développeur : Nintendo
+Date : 1987
+Genre : Aventure-action
+
+
+Zelda 2 vient logiquement après Zelda 1, et se situe juste après la défaite de Ganon
+dans le premier épisode. Par manque de place (ou par manque de connaissance de
+l'anglais? :P), l'introduction du jeu diffère de celle du manuel sorti en France que
+vous pouvez retrouvez dans les deux épisodes récemment adaptés sur Gamecube.
+Là voici :
+
+Une fois Ganon vaincu, Impa, la nourrice de la princesse Zelda, alerte Link qu'un sortilège
+a plongé la princesse Zelda dans un sommeil éternel, et que seuls les pouvoirs de la Triforce
+peuvent la réveiller. Armé seulement de six cristaux et d'un parchemin, Link se met en route,
+ignorant que les forces du mal projettent de le sacrifier et d'utiliser son sang pour
+ressusciter le démoniaque Ganon.
+
+Dans cet épisode, le système de jeu est bien différent de celui de Zelda 1. Link se balade
+sur la carte du monde en vue de dessus, et des monstres apparaissent si vous sortez des
+sentiers. Touchez-en un, et vous attérirez dans une petite zone en 2D, vue de côté, où
+Link pourra affronter des adversaires, ou les éviter et sortir de l'écran pour revenir
+sur la carte du monde. Les palais quant à eux, utilisent tous cette vue de côté et
+proposent des chemins multiples, comme on peut en trouver dans Metroïd par exemple.
+
+Notons aussi que Link n'a plus à ramasser des coeurs pour augmenter son énergie, ou
+à trouver des épées données par des papys mangeant leur paquet de chips dans
+une des tombes d'un cimetière pour devenir plus fort. Chaque ennemi tué rapportera
+de l'expérience, qui servira à "acheter" des caractéristiques, pour améliorer la
+résistance, la sagesse et la puissance de notre elfe.
+
+Beaucoup préfèrent le premier épisode à celui-ci, mais je préfère tout de même
+Zelda 2 à son aîné. J'aime bien le principe de villages et de magie, et les jeux
+d'action en 2D de côté sont de toute façon mes préférés.
+
+
+
+\ ETAT DE LA TRADUCTION : Patch 1.0 le 18/12/2004
+ \__________________________________________________
+
+
+
+Tout a été traduit si je ne m'abuse, n'hésitez pas à nous contacter si
+vous constatez un manque.
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack : Hell
+Traduction : GreatSkaori
+Bêta-Test : Hell, GreatSkaori
+
+Nous tenons à remercier Skeud qui a aidé Hell à trouver la flèche du menu expérience.
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "NES-ZeldaII-TheAdventureofLink-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Zelda II - The Adventure of Link (U) [!].nes
+  Taille de la rom: 262 160 octets
+  Rom avec Header ? Non
+  CRC de la rom   : BA322865
+  CRC rom patchée : 7CF1E5C4
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ HISTORIQUE DE LA TRADUCTION
+ \____________________________
+
+Cette traduction a été réalisée dans le but de figurer le 25 Décembre, pour fêter
+Noël 2004.
+Cela faisait longtemps que je titillais Hell en lui demandant s'il se mettrait
+au hack un jour, et on avait dit que s'il le faisait, on ferait les deux zelda à deux.
+Nous avons sorti Zelda 1 la veille de Noël, Zelda 2 sort le jour de Noël! :)
+
+
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum : http://www.bessab.com/viewforum.php?f=12
+Hacking : Hell (hell2405@yahoo.fr)
+Traduction : GreatSkaori (greatskaori@yahoo.com)

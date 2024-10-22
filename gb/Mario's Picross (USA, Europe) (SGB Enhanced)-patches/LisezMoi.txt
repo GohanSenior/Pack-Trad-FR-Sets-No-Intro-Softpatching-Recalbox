@@ -1,0 +1,72 @@
+Mario's Picross (Game Boy)
+Traduction en Français v0.95 (19/11/2021)
+
+
+------------------------
+Genre: réflexion/puzzle
+------------------------
+Mario's Picross (マリオのピクロス?, Mario no Pikurosu en japonais) est un jeu vidéo 
+de puzzle développé par Jupiter et édité par Nintendo, sorti en 1995 sur Game Boy.
+Il reprend le principe du picross, jeu de chiffres sur grille. 
+
+
+------------------------
+CONTENU DE L'ARCHIVE ET UTILISATION
+------------------------
+Normalement, l'archive ZIP doit contenir:
+Mario's_Picross(FR).ips - Le patch IPS de Mario's Picross
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+comme LumarIPS.
+Ce patch est à utiliser avec la rom
+Mario's Picross (USA, Europe) (SGB Enhanced).gb
+262144 octets (256 KiB)
+CRC32: F2D652AD
+SHA256: 0D479D68A4AC800AB9FDE8B3DB016AF718C13A979163B3EB34B00AF96550CD3E
+
+ROM patché:
+262144 octets (256 KiB)
+CRC32: 300E03F3
+SHA256: E9D7E74C8AC0E06A821073F20A5AD8766432C6FBD7531872C954C495241A6636
+
+--------
+TRADUCTION
+--------
+Yoda07: menu, script et GFX.
+4PH: outils d'extraction et d'insertion du script.
+
+--------
+BUGS CONNUES
+--------
+Dans les picross facile, le noms des picross H3 (beignet) et 
+A4 (des couverts) n'apparaitront pas. Je ne sais sais pas pourquoi.
+
+----------------------------------------------------------------
+CONTACTS
+----------------------------------------------------------------
+Une remarque, une question ou une correction à apporter à la
+traduction de Mario's Picross.
+
+Yoda07 - juin-2010@hotmail.fr
+
+----------------------------------------------------------------
+REMARQUES LEGALES
+----------------------------------------------------------------
+Le patch de traduction française de Mario's Picross n'est
+pas officiel et n'est pas supporté par Jupiter ou Nintendo.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !

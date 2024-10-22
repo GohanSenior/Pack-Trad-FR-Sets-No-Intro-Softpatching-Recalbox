@@ -1,0 +1,90 @@
+   __       _______         __             
+  |  \ ____|_      |_______|  |__________  
+  |   |   ___|   __|_   ___|  |_      ___| 
+  |  _|_  __|_     |    |  __   |    |     
+  |     |     |__  |    |  |    |    |     
+  |     |_____|    |____|  |    |____|     
+  |_____|  |_______|  |____|______|        
+                                           
+===========================================
+| PrÈsente :                              |
+|                                         |
+| Super Back to the Future Part II (Fr)   |
+|                                         |
+|                                         |
+=========================[27/05/12]========
+                                           
+===========================================
+| Infos ‡ propos du jeu :                 |
+|                                         |
+| Issue de l'imagination de Robert        |
+| Zemeckis et Bob Gale, Back To The       |
+| Future n'est plus ‡ prÈsenter, mais     |
+| les deux qui ne suivent pas dans le     |
+| fond, je rÈsume :                       |
+|                                         |
+| En 1985, le docteur Emet Brown invente  |
+| une machine ‡ voyager dans le temps,    |
+| Marty McFly se retrouve en 1955...      |
+| pour la suite de l'histoire, appuyez    |
+| sur Start.                              |
+|                                         |
+===========================================
+                                           
+===========================================
+|                                         |
+| Comment patcher?                        |
+|                                         |
+| La rom originale doit avoir ce CRC:     |
+| B367D0B9                                |
+|                                         |
+| La rom patchÈe doit avoir ce CRC:       |
+| 9FA864D4                                |
+|                                         |
+| Utilisez LunarIps.                      |
+| http://fusoya.eludevisibility.org/lips/ |
+|                                         |
+===========================================
+                                         
+===========================================
+| Historique de la traduction :           |
+|                                         |
+| Suite ‡ une news sur romhacking.net     |
+| concernant Super BTTF2 traduit en       |
+| version anglaise, je me dit que Áa      |
+| serait sympa de traduire ce jeu, aprËs  |
+| avoir localisÈ les textes et la table   |
+| des caractËres, je me rends compte que  |
+| presque tout les graphismes du jeu      |
+| sont compressÈs, je dÈcide donc de      |
+| prendez contact avec Michal (mziab)     |
+| l'auteur du hack, pour qu'il me         |
+| dÈcompresse et rÈinsÈre les graphismes  |
+| enfin traduits.                         |
+|                                         |
+===========================================
+                                           
+===========================================
+| Remerciments :                          |
+|                                         |
+| ¿ Michal(hack) & Happex(traduction),    |
+| ¿ Lyan, pour l'Ècran titre :)           |
+|                                         |
+| ê¿ tous ceux et celles qui continuent de |
+| faire vivre cette console d'anthologie. |
+|                                         |
+===========================================
+                                           
+===========================================
+| Contacts et liens :                     |
+|                                         |
+| http://mziab.grajpopolsku.pl/           |
+| (mziab aka michal, Thank dude!)         |
+|                                         |
+| http://traf.romhack.org/                |
+| (salut les copains ^^)                  |
+|                                         |
+| http://cccproject.fr/                   |
+| (Feel & Bruno, des topains              |
+|                                         |
+===========================================

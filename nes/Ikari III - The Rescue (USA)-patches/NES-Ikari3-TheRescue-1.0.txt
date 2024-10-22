@@ -1,0 +1,46 @@
+
+http://generation9.kanshima.net/
+
+TRADUCTEUR :
+	KS151
+ROMHACKEUR :
+	KS151
+JEU :
+	Ikari 3
+DATE :
+	03/08/04 16h14
+
+CARACTÉRISTIQUES DU JEU :
+	Nombre de joueurs : 2 (en simultané)
+	Style : Action/Shoot Them Up
+	Note : 8/20
+
+LE PATCH :
+	Version 1.00
+
+TRADUCTION :
+	de l'anglais au français au stade de 95% car le 
+	sous-titre du titre n'est pas traduit.
+	
+COMMENT APPLIQUER LE PATCH ?
+Le patch "NES-Ikari3-TheRescue-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Ikari III - The Rescue (U) [!].nes
+  Taille de la rom: 262 160 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 567E1620
+  CRC rom patchée : 858FD7B4
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+CONTACTS :
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

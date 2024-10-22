@@ -1,0 +1,62 @@
+R-TYPE (Game Boy)
+Traduction en Français v1.0 (13/02/2022)
+
+------------------------
+Genre: shoot them up
+------------------------
+R-Type est une série de jeux vidéo emblématique du shoot them up à défilement horizontal, 
+développée par Irem et débutée en 1987 sur borne d'arcade.
+
+------------------------
+CONTENU DE L'ARCHIVE ET UTILISATION
+------------------------
+Normalement, l'archive ZIP doit contenir:
+R-TYPE (Fr)V1.0.ips - Le patch IPS de R-TYPE
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+comme LumarIPS.
+Ce patch est à utiliser avec la rom
+R-Type (USA, Europe).gb
+Taille: 131072 octets (128 KiB)
+CRC 32: E0F23FC0
+SHA256: 8CEBC4B128B79DD1B53A5B5A99450BB2783B86840EC61B22E70245DD6DF8C39B
+
+ROM patché:
+Taille: 131071 octets (127 KiB)
+CRC32: F8703B44
+SHA256: 6B3A261180520E7A6A6FDCCFE818AC4980C97373AA5C8D85C9F1034FC9F9E54B
+
+--------
+TRADUCTION
+--------
+Yoda07
+
+----------------------------------------------------------------
+CONTACTS
+----------------------------------------------------------------
+Une remarque, une question ou une correction à apporter à la
+traduction de R-TYPE.
+
+Yoda07 - juin-2010@hotmail.fr
+
+----------------------------------------------------------------
+REMARQUES LEGALES
+----------------------------------------------------------------
+Le patch de traduction française de R-TYPE n'est
+pas officiel et n'est pas supporté par IREM ou Nintendo.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !

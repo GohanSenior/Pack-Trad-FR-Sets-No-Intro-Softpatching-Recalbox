@@ -1,0 +1,142 @@
+			Génération IX (http://generation9.kanshima.net) 
+			    vous présente la traduction de Whirlo
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre	: Whirlo
+Console	: Super Nintendo
+Développeur : Namco
+Date	: 1992
+Genre	: Plates-formes/aventure
+
+
+\ ETAT DE LA TRADUCTION : V1.0 créé le 13/06/2009 
+ \________________________________________________ 
+
+
+Whirlo est un patch qui a été long à voir le jour. Le projet a été entamé en février 2009,
+à l'époque je cherchais juste un petit jeu de plates-formes et je me suis donc essayé
+à Whirlo. Le projet a touché à sa fin 4 mois après, quasiment jour pour jour !
+
+Attention toutefois ; je n'ai pas fait que ça pendant 4 mois à temps plein, mais moi qui
+pensais avoir peu de texte à traduire, je me suis retrouvé confronté à un challenge
+bien plus important que ce que je croyais, jugez plutôt :
+
+- 11 cinématiques pour 11 niveaux (sans compter les inter-niveaux)
+- 10 scènes de game over différentes
+- 55 ko de dialogues
+- Plus de 20 PNJs avec qui tailler le bout de gras
+- Des fins différentes en fonction des conseils qu'on a pu donner aux PNJs 
+...
+
+bref, Namco nous a gâtés ! Ce jeu méconnu du grand public est la suite de "Adventure
+of Valkyrie: Legend of the Time Key" paru sur Nes en 1986 et fait intervenir Krino Xandra
+(plus connu sous le nom de Whirlo en Europe), un personnage secondaire de "Adventure
+of Valkyrie". A noter que la Valkyrie qui était l'héroïne du jeu sur Nes intervient
+également ici, mais en personnage secondaire cette fois. Bref, Namco a inversé les rôles !
+
+Whirlo est donc le héros de cette cartouche. On l'incarne dans sa quête au travers du
+monde afin de retrouver des sphères magiques qui lui permettront de soigner son fils,
+et à l'occasion son peuple, de la malédiction lancée par un vil démon.
+
+Sorti de ce scénario de base assez simpliste et de ses graphismes soignés et enfantins,
+il s'avère que le jeu est bien plus ardu qu'il n'y paraît. En effet, au fur et à
+mesure de ses pérégrinations, Whirlo sera amené à croiser de nombreux personnages
+qu'il faudra aider pour pouvoir avancer. De la princesse qui a perdu le trésor offert
+par son chéri d'amour à la greluche qui ne sait pas qui épouser en passant par
+le gamin qui hésite entre vivre de sa musique ou reprendre les champs de concombres
+de son paternel, chaque choix aura des conséquences sur la suite du jeu.
+
+A l'inverse, si faire une bonne action fait avancer le scénario; sombrer du Côté
+Obscur de la Force peut stopper brutalement la partie ! Ainsi, les bas instincts
+du joueur seront régulièrement mis à l'épreuve... Personnellement, je ne cache
+pas avoir cédé à l'offre du capitaine pirate qui propose à Whirlo de balancer un
+de ses amis par dessus bord afin de prouver sa loyauté !
+
+
+Bref, les aventures du "Petit bonhomme vert" ainsi que l'appelait ma chère et tendre
+sont très variées et vous feront aller du village aux caves d'un château en passant
+par des grottes et des îles glacées, et même traverser des océans à dos de baleine ou en
+dirigeable ! Le dépaysement est assuré et les décors sont suffisament variés pour ne
+pas lasser le joueur.
+
+Seule la jouabilité laisse un peu à désirer. Il n'est pas toujours facile de bien gérer
+les attaques de Whirlo, ni de bien apréhender ses multiples possibilités de sauts, ce
+qui a eu le don de me mettre les nerfs à vif. Cette maniabilité douteuse a fortement
+contribué à ralentir le test du jeu !
+
+
+Au niveau des bugs connus, il arrive que certains textes empiètent sur le bord de
+la bulle de dialogue. De même, il y'a deux niveaux où il faut trouver un personnage
+en posant des questions aux PNJs, et lorsqu'on appuie sur START, une fenêtre d'infos
+apparaît et malheureusement, les bords des cadres sont merdouilleux:(
+
+A noter qu'il existe tant de possibilités de dialogues, qu'il est possible que certains
+ne soient pas bien calibrés. Si cela arrive, n'hésitez pas à me contacter !
+3 scènes de fin et 4 dialogues de la rom n'ont pas pu être contrôlés, par exemple...
+
+
+A côté de ça, tout le script est traduit. Grâce à Bahabulle, les accents ont été insérés
+dans la fonte et des graphismes ont été francisés. Il manque juste l'écran titre, le
+codage du bouzin était tellement bizarre que je l'ai laissé. Le modifier plantait gaiement
+la rom !!
+
+
+Voilà voilà...
+Que dire de plus sur ce jeu ? Hummm... Il est dur, très dur !! Mais il vaut la peine
+d'être connu et qu'une fois qu'on a décidé de relever ce challenge, on prend plaisir
+à y jouer. Essayez-le, vous ne le regretterez pas !!
+
+
+\ CODES DE TRICHE 
+ \________________
+
+Encore un code top exclusif que même chez Gamefaqs ils l'ont pas !
+
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Vies infinies		7E0470		9
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack 	  : Happexamendios, Bahabulle
+Traduction: Happexamendios
+Bêta-Test : Happexamendios
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "SNES-Whirlo-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Whirlo (E).smc
+  Taille de la rom: 1 048 576 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 7379E3B3
+  CRC rom patchée : E92E5D63
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  BSnes          [ ]		SNes9X 1.51    [x]
+  Snes 9X 1.43   [ ]		Snes 9X 1.53   [x]
+  Snes 9x Geiger [ ]		Snes GT        [ ]
+  ZSnes          [ ]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+Site Web : http://generation9.kanshima.net 
+Forum : http://www.bessab.com/viewforum.php?f=12 

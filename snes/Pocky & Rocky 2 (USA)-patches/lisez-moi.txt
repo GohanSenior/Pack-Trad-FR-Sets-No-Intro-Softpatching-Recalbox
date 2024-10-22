@@ -1,0 +1,107 @@
+***** LE PATCH *****
+
+----- Utilisation -----
+Ce patch gratuit et non officiel propose de découvrir une alternative française aux dialogues anglais de la cartouche de votre jeu original.
+
+2 possibilité d'application suivant que vous utilisiez la rom américaine ou européenne:
+Pocky & Rocky 2 (U) [!]_Fr-96%-Mike.ips
+Pocky & Rocky 2 (E)_Fr-96%-Mike.ips
+
+À appliquer sur le fichier image pour la version américaine:
+Pocky & Rocky 2 (U) [!]  SANS HEADER
+CRC32 de la rom : FC00BB1B
+
+À appliquer sur le fichier image pour la version européenne:
+Pocky & Rocky 2 (E).smc SANS HEADER
+CRC32 de la rom : 226929CF
+
+Pour voir le CRC32 d'un fichier, vous pouvez installer 7-Zip puis clic droit sur le fichier et CRC SHA > CRC32.
+Pour utiliser le patch, vous pouvez par exemple utiliser Lunar IPS disponible ici :
+https://traf.romhack.org/?p=outils&oid=151
+
+CRC32 de la rom américaine après patch: 22EF8AE9
+CRC32 de la rom européenne après patch: 99A92E13
+Le checksum restera bon après patchage de la rom.
+
+----- Remerciements & Questions -----
+Vous pouvez m'écrire en laissant un message sur ce sujet du forum :
+https://www.romhack.org/viewtopic.php?f=43&t=4225
+
+
+
+***** LE JEU *****
+
+----- Série Pocky & Rocky -----
+Connue au Japon sous le nom de  Kiki Kaikai (Le Monde Mystérieux des Fantômes), les 2 premiers titres sont sortis sur Super Nintendo puis le 3ème sur Game Boy Advance. Le 2ème volet traduit par ce patch porte le nom de Tsukiyo Soushi (une Nuit au Clair de Lune)
+
+----- Compagnons recrutables à ne pas manquer -----
+1er  : choisir le chemin de gauche du monde2 de la forêt avec une clé
+2ème : monde 3 des champs d'automne dans une maison
+3ème : choisir le chemin de droite du monde6 de la glace
+4ème : monde 7 des flammes avec une clé
+
+----- Potentiel des 3 Compagnons déjà présents -----
+Rocky: découvre les objets cachés avec jet du partenaire pour les trouver
+Ninja: ouvre les coffres et portes sans clé en se plaçant devant en Ninja
+Bob  : soulève les pierres pour de nouveaux objets ou chemins à explorer
+
+----- Potentiel des 4 Compagnons recrutables -----
+Tengy    : passe pas dessus le vide pour atteindre des rivages secrets
+Scarecrow: sautille sur un bâton mais cela est plus dangereux qu'utile
+Digger   : creuse sous terre pour découvrir les objets cachés
+Otobot   : mêmes potentiel que Tengy & invincible aux projectiles
+
+
+
+***** LES TRAVAUX FRANCOPHONES *****
+
+----- Etat de la traduction -----
+
+GRAPHISMES  (5% du jeu)
+version 1.1: 1/5 des 5% de traduit
+   les talentueux 4ph & BahaBulle m'ont fourni un outil pour  décompresser quelques graphismes,
+   me permettant de modifier l'écran titre & les noms des 9 niveaux de la carte en français! :-)
+version 1.0: rien
+   aucune traduction avec le format compressé
+
+TEXTES (95% du jeu)
+versions 1.1 ou 1.0
+   introduction
+   tutoriel
+   maisons des PNJs
+   magasins d'objets et d'encyclopédies
+   dialogues avec les Boss
+   scènes de fin des niveaux (2 à 9)
+   fin du jeu
+
+----- Profusion de clés !-----
+
+Vous gagnerez de très nombreuses clés de coffres avec cette traduction et voici pourquoi : des caractères invisibles vont ajouter des clés à votre inventaire. C'est une astuce trouvée pour afficher du vide avec cet effet secondaire (et éviter des trous de gruyère et décalage de textes).
+
+Plus de détail sur ce que fait le jeu:
+Dans les scènes de fin de niveau uniquement,
+des pointeurs relatifs vont chercher les textes au fur et à mesure qu'ils se construisent
+
+exemple: What? What do you want?
+Le jeu va:
+- écrire What?
+- pointer sur le premier What au lieu de l'écrire une nouvelle fois
+- écrire do you want?
+
+en français:
+- le premier What? se traduit par Quoi?
+- le deuxième What se traduit par Que (veux-tu?)
+donc impossible d'utiliser le pointeur pour écrire un mot différent ... (il pointe uniquement vers les textes déjà écrits)
+
+Statistiquement dans la version anglaise :
+- 2190 valeurs sont utilisées pour les mini scènes dont :
+  ° 1/3 de textes    : 737 caractères présents dans la rom
+  ° 2/3 de pointeurs : 1453 caractères (le reste) récupérant des morceaux des 737 caractères (prévus pour récupérer 3 caractères minimum ou bien plus parmi ceux déjà affichés dans des scènes précédentes uniquement).
+
+Une version française a été possible en réduisant les volumes de traduction et en repointant les occurences de caractères inutilisables vers du vide: le seul caractère qui ne fait pas avancer le texte avec du vide a l'inconvénient d'ajouter des clés à votre inventaire. 
+
+A propos des clés :
+- la petite Ninja ouvre les coffres sans besoin de clé
+- on peut gagner un lot de 10 clés au magasin (ce qui est vraiment beaucoup)
+- Mike le traducteur va plus loin avec une profusion de clés si vous regardez ces scènes de fin de niveau! ;-)
+- ayant plein de clés, profitez d'utiliser Bob pour enlever les rochers et jeter-le contre les maisons, arbres et murs pour découvrir de nombreux objets! ^^

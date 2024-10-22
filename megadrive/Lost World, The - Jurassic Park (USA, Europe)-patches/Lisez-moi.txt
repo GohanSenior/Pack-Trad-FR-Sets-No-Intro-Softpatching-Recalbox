@@ -1,0 +1,186 @@
+     _   _   _   _____        ___   _____   _____   _   _____        _____       ___   _____    _   _         _____    |
+    | | | | | | |  _  \      /   | /  ___/ /  ___/ | | /  ___|      |  _  \     /   | |  _  \  | | / /       /___  \   |
+    | | | | | | | |_| |     / /| | | |___  | |___  | | | |          | |_| |    / /| | | |_| |  | |/ /         ___| |   |
+ _  | | | | | | |  _  /    / / | | \___  \ \___  \ | | | |          |  ___/   / / | | |  _  /  | |\ \        /  ___/   |
+| |_| | | |_| | | | \ \   / /  | |  ___| |  ___| | | | | |___       | |      / /  | | | | \ \  | | \ \       | |___    |
+\_____/ \_____/ |_|  \_\ /_/   |_| /_____/ /_____/ |_| \_____|      |_|     /_/   |_| |_|  \_\ |_|  \_\      |_____|   |
+                                                                                                                       |
+ _____   _   _   _____        _       _____   _____   _____        _          __  _____   _____    _       _____       |
+|_   _| | | | | | ____|      | |     /  _  \ /  ___/ |_   _|      | |        / / /  _  \ |  _  \  | |     |  _  \      |
+  | |   | |_| | | |__        | |     | | | | | |___    | |        | |  __   / /  | | | | | |_| |  | |     | | | |      |
+  | |   |  _  | |  __|       | |     | | | | \___  \   | |        | | /  | / /   | | | | |  _  /  | |     | | | |      |
+  | |   | | | | | |___       | |___  | |_| |  ___| |   | |        | |/   |/ /    | |_| | | | \ \  | |___  | |_| |      |
+  |_|   |_| |_| |_____|      |_____| \_____/ /_____/   |_|        |___/|___/     \_____/ |_|  \_\ |_____| |_____/      |
+                                                                                                                       |
+------------------------------------------------------------------------------------------------------------------------
+
+25/06/2010
+
+Jurassic Park 2 The Lost World traduit de l'anglais par X-death
+Traduction v1.3
+
+---------------------------------------------------------------------
+***********************Table des matières***********************
+---------------------------------------------------------------------
+
+1.        SYNOPSIS DU JEU
+2.        CONTENU DE L'ARCHIVE ET UTILISATION
+3.	  CE QUI EST FAIT
+4.        AIDE DE JEU
+5.        SECRET
+6.        REMERCIMENT
+7.        CONTACT
+
+
+---------------------------------------------------------------------
+1.  SYNOPSIS DU JEU
+---------------------------------------------------------------------
+
+Le dernier de la série sur Mega Drive, un des derniers de la 
+ludothèque de la console puisqu'il sort en 1997. On comprend donc 
+le pourquoi de l'utilisation de graphismes en 3D isométrique très 
+bien réalisés mais qui ne sont pas non plus somptueux de par leur 
+originalité sans compter ces fameux stages boss en fausse 3D. 
+L'ambiance Jurassic Park est au rendez-vous avec cette sensation 
+oppressante de tomber nez à nez avec un vilain lézard vert faisant 
+quatre fois votre taille.
+
+(source Guardiana)
+
+---------------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+---------------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir :
+
+Jurassic Park 2 FR.ips    - Le patch IPS du jeu version française
+LisezMoi.txt              - Le fichier texte d' instruction
+
+le patch est à appliquer sur la rom originale:
+
+-Jurassic Park 2 - The Lost World (U)
+
+cette rom est disponible dans le GoodGen 3.0
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+---------------------------------------------------------------------
+3.  TOUT CE QUI A ETE FAIT
+---------------------------------------------------------------------
+
+Menu de jeu       :  98%
+Texte de mission  : 100%
+Graphismes        : 100%
+Cinématiques      : 100%
+
+
+---------------------------------------------------------------------
+4.  Aide de Jeu
+---------------------------------------------------------------------
+
+Ce jeu à une difficulté croissante, je vous conseille d' avancer
+prudamment et d exploiter les bugs de collisions pour endormir les
+dinosaures et ainsi obtenir des bonus.
+Une fois 3 bonus collectés vous pouvez obtenir une aide aérienne
+à tout moment.
+Si vous appelez l' aide aérienne avec plus de 3 bonus vous obtenez 
+une vie supplémentaire.
+
+Si vous êtes bloqué voici le code des missions:
+
+Isla Sorna Site 1 : IE2P2QDI
+ 
+-sauvetage terminé : MoMJP8S6
+-sauvetage et capture de stegos terminés : UMAM05RA
+-la poursuite débloqué : CCG0OS4G
+
+Isla Sorna Site 2 : LA4HJUJK
+
+- le convoi terminé : REI0P2EI
+- le convoi et les triceratops terminés : L4865JHQ
+- chasse au T-rex débloqué : 74AI6GNQ
+
+Isla Sorna Site 3 : AKOHT758
+
+- la grotte terminé : O2EGBH0U
+- la grotte et l escapade terminé : SMQN1A6A
+- le Rafting débloqué OQ65IOD6
+
+Isla Sorna site 4 : HE2P2QEI
+
+-la mine d'ambre terminé: HUI92I62
+-la mine et chasse aux oeufs terminé : TMQHIU6A
+-assaut de pterodactyles debloqué : BA4A9FTK
+
+* Mode Combat : CIVILWAR
+* Code Secret ( choix du niveau dans les options) : MAGICBOX
+* Tenue différente : REDHUNTR
+
+
+---------------------------------------------------------------------
+5.  SECRET
+---------------------------------------------------------------------
+
+Les codes suivants ne sont pas divulgués dans le jeu cependant ils
+sont contenus dans la rom, merci à Bahabulle pour les avoir trouvés
+me permettant ainsi de les traduire:
+
+*=vide ( zéro barré)
+  
+revoemag: nouvel écran de choix du niveau
+arenacy*: cinématique de test de combat
+nacynacy: affiche un message sur le zx81 et l'amiga
+hutchins: autre code de choix du niveau
+malamute: message de remerciment
+marianna: message d' amour
+macymacy: message hongrois
+emoke***: second message hongrois
+davidhil: message sur quake !
+jasonfri: message sur la paix
+frankie*: message d' amitiée
+
+
+---------------------------------------------------------------------
+6.  Remerciment
+---------------------------------------------------------------------
+
+-Merci à Tibounou pour m'avoir aidé à corriger les fautes.
+-Merci à Bahabulle et Jes pour leurs explications sur les pointeurs
+-Merci à Corrigo pour ses diverses modifications
+
+
+---------------------------------------------------------------------
+7.  Contact
+---------------------------------------------------------------------
+
+Si vous avez des questions ou un bug vous pouvez me contacter sur
+
+-mon adresse mail :  X-death@ultimate-console.fr
+-sur le forum de la Traf : pseudo X-death
+
+En vous remerciant d' avoir lu jusqu'au bout.
+
+Bon jeu ! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

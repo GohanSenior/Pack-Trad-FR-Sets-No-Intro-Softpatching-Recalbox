@@ -1,0 +1,102 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                              Double Hawk
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Double Hawk
+Console		: Master System
+Développeur	: Opera House
+Editeur		: SEGA
+Date		: 1990
+Genre		: Action
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 12/11/2015) :
+ \_________________________________________________________________
+
+Des méchants surarmés, deux héros gavés à la testostérone et
+un monde à sauver...
+
+Ainsi peut se résumer le scénario de "Double Hawk", typique
+des jeux des années 90.
+
+Le jeu est un shooter où l'on voit son personnage en bas de l'écran.
+Le gameplay est on ne peut plus simple :
+un bouton pour exploser tout ce qui bouge, un autre pour
+balancer des bombinettes s'il y a des survivants,
+et la manette pour déplacer son héros de gauche à droite.
+
+Vous voilà paré à traverser les 5 missions du jeu pour aller
+montrer aux infâmes terroristes qui est le patron.
+
+
+Les graphismes ne sont pas franchement beaux. On a même parfois
+un peu de mal à différencier les soldats du décor.
+Les musiques ne sont pas trop mal, mais bon sang ce que le jeu
+est chiant !
+Je trouve que le personnage répond mal. Il est lourd à manier,
+le curseur de visée est lent, et j'ai pas réussi à toucher
+le moindre bonus... 
+A moins que ce ne soit ma manette qui cafouille, comme dirait l'autre...
+
+Clairement, ce n'est pas le jeu qu'on ressort pour se faire
+une soirée entre potes, mais j'avais envie d'en faire la traduction.
+Pourquoi, me direz-vous ? Et bien parce que j'en avais envie,
+et ensuite je ne déteste pas ce genre de jeu. Bien que celui-là
+ne soit pas vraiment terrible...
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+Pas de cheat codes pour ce jeu...
+Enfin si, y'en a qui traînent sur internet.
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Double Hawk.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Double Hawk (E) [!].sms
+  Taille de la rom: 262 144 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 8370F6CD
+  CRC rom patchée : 439F84B2
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  Emukon           [ ]		Kega Fusion 3.64 [x]
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

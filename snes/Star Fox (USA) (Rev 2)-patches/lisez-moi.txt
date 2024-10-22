@@ -1,0 +1,35 @@
+ 
+                       /¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+                       --  Traduction de Star Fox --
+                       \___________________________/
+
+                           Traduction Fr - Denis
+
+
+                 Fichier d'aide au patching de la T.R.A.F
+
+
+
+Voici un petit fichier qui vous aidera à correctement patcher cette traduction de Star Fox
+sur Super Nes. La ROM du GoodSnes de Cowering que vous devez vous procurer est : 
+StarFox (v1.2).smc
+
+Deux solutions pour jouer à ce jeu en français :
+
+- munissez-vous d'un patcheur comme le patcheur Arkana (vous en trouverez toute une floppée
+sur le site de la T.R.A.F). Suivez les instructions du programme (il y a même un tutoriel
+sur le site de la T.R.A.F) et hop! vous vous retrouvez avec une ROM patchée en français.
+
+- certains émulateurs comme Zsnes pratiquent le 'patch à la volée'. Pour cela, renommez votre
+ROM en Star Fox.smc (après l'avoir extraite du zip, bien entendu). Renommez votre patch en
+Star Fox.ips (il doit avoir EXACTEMENT le même nom que la ROM, l'extension .ips mise à part).
+Compressez ces deux fichiers dans un zip, par exemple : Star Fox.zip. Ainsi, vous n'altérez
+pas la ROM et pouvez changer le patch a chaque nouvelle version.
+
+Amusez-vous bien !
+
+
+--
+
+Site de la T.R.A.F   : http://traf.romhack.org/
+Forum de la scène Fr : http://www.bessab.com/

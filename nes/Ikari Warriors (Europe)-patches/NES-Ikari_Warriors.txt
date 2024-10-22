@@ -1,0 +1,57 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                            Ikari Warriors
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Ikari Warriors
+Console		: Nintendo NES
+Développeur	: Micronics
+Editeur		: SNK
+Date		: 1987
+Genre		: Action
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 27/07/2004)
+ \_______________________________________________________________
+
+Ikari Warriors sur NES est un jeu d'action à défilement vertical. Votre avion vient de s'écraser en pleine jungle en territoire ennemi, vous devez maintenant atteindre le village d'Ikari, mais de nombreux ennemis vous bloquent le passage, allant des simples soldats aux hélicoptères en passant par les tanks. Il va falloir vous en défaire pour accomplir votre mission ! (Source : jeuxvideo.com)
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "NES-IkariWarriors-0.9.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Ikari Warriors (E) [!].nes
+  Taille de la rom: 131 088 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 90757260
+  CRC rom patchée : 58A864D6
+
+Le patch a été créé avec SmartIPS et a été testé avec les émulateurs suivants :
+  FCeu XD SP [x]		NesTicle   [ ]
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+\ EQUIPE DE TRADUCTION :
+ \_______________________
+
+Romhacking, traduction : KS151
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

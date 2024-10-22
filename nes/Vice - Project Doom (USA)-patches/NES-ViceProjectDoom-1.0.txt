@@ -1,0 +1,104 @@
+Generation IX (http://generation9.kanshima.net)
+vous presente la traduction de Vice : Project Doom. 
+
+
+\ INFOS SUR LE JEU
+ \_________________
+
+Titre : Vice : Project Doom
+Console : NES
+Developpeur : SAMMY
+Date : 1991
+Genre : Clone de Ninja Gaiden (Plateforme) avec phases de shoot'em up
+
+
+\ PROLOGUE (Extrait du manuel)
+ \_______________________________
+
+  Il y a plusieurs siècles, un petit groupe d'aliens est arrivé sur Terre. 
+Afin de survivre à ce nouvel environnement, ils ont produit une substance
+s'apparentant à une gelée verte qui devait leur permettre de subsister.
+
+  Afin de se fondre parmi les humains, ils ont créé des clones à apparence
+humaine. Les siècles passèrent et la BEDA Corporation fut créée. En façade, il 
+s'agissait d'une entreprise fabriquant et revendant du matériel électronique.
+Cependant, derrière tout cela, elle assurait la survie de l'espèce alien.
+
+  La gelée verte créée des extra-terrestres avait un effet "différent" sur les
+humains, et devint une substance recherchée par certains des plus riches 
+criminels du monde. Ce gel, secrètement produit par BEDA Corporation avait en
+outre des effets secondaires mortels sur l'espèce humaine.
+
+  L'officier Quinn Hart de la brigade "vice", épaulé par son partenaire Reese, se
+mit alors à enquêter afin de découvrir la mystérieuse source de ce gel mortel.
+Cependant, au cours de l'enquête, Reese disparut, et son corps n'ayant jamais été 
+retrouvé, il fut présumé mort.
+
+  Maintenant, Hart se retrouve seul à rechercher l'origine de la dangereuse
+substance ainsi que ce qui se cache derrière... 
+
+
+\ LES PERSONNAGES (Basé sur le manuel)
+ \___________________________________
+   _____
+  |Hart \_______________________________________________________________________
+  |                                                                             |
+  |  Ex-mercenaire aux compétences extra-ordinaires, voire surhumaines selon    |
+  |  certains. Il est dans la brigade depuis maintenant plusieurs années.       |
+  |_____________________________________________________________________________|
+   ________
+  |Christy \____________________________________________________________________
+  |                                                                             |
+  |  Cette officier est un des cerveaux de la brigade. Elle aide souvent        |
+  |  Hart et Reese à résoudre les affaires. C'est aussi l'amour le plus         |
+  |  récent et intense de Hart.                                                 |
+  |_____________________________________________________________________________|   
+   _______
+  |Sophia \_____________________________________________________________________
+  |                                                                             |
+  |  Une collègue de Christy. A l'habitude d'apparaître à l'improviste dans     |
+  |  les lieux les plus inattendus. Ses collègues rigolent souvent de sa        |
+  |  faculté à suivre n'importe qui, n'importe où.                              |
+  |_____________________________________________________________________________|
+
+
+\ ETAT DE LA TRADUCTION : 1.0 cree le : 09/07/2005
+ \___________________________________
+
+Tout est traduit (normalement).
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE
+ \_______________________________
+
+Hack : Graou
+Traduction : Graou
+Beta-Test : Graou
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "NES-ViceProjectDoom-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Vice - Project Doom (U) [!].nes
+  Taille de la rom: 262 160 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 753768A6
+  CRC rom patchée : E96E9C5F
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+\ CONTACTS
+ \_________
+
+N'hesitez pas a nous faire part de vos remarques, des eventuels bugs et fautes de francais
+ou meme des endroits non traduits qui n'auraient pas ete cites plus haut.
+Site Web : http://generation9.kanshima.net
+Forum : http://www.bessab.com/viewforum.php?f=12

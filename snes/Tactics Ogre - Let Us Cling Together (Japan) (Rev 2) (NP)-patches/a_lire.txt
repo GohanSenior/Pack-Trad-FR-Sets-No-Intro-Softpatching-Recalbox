@@ -1,0 +1,94 @@
+#############################################################################################################################################
+#                                                  Tactic Ogrus - Let's us trad tougezeur                                                   #
+#  Author : NaBoo(Romhack), Julien(GFX,Trad), DESKKA(Correction) Filou(Correction menus)    Date Début : 02/04/2018    Date Fin : XX/XX/XXXX#
+#############################################################################################################################################
+
+
+Introduction:
+_____________
+
+La tactique c'est l'attaque, tic tic tic & tac ranger du risque... Tactics Ogre. Si vous aimez les TRPG et que vous n'avez jamais joué à ce jeu, vous vous devez de l'essayer.
+
+Tactics Ogre propose un vaste scénario avec des chemins différents en fonction des décisions morales cruciales que vous êtes obligé de prendre tout au long du jeu. Je crois qu'il y a huit fins différentes selon le chemin que vous choisissez de prendre. Perso je n'en ai fais que 4... Le scénario est très intéressant. Le fait que le jeu change en fonction des décisions que vous prendrez fournit une valeur de rejouabilité. Le scénario de base commence avec le personnage principal et ses deux amis qui se battent pour une armée de la libération contre un empire maléfique. C'est à partir de là que le jeu commence...
+
+Les batailles sont le style RPG de stratégie au tour par tour au format grille typique. Dix alliés au total peuvent être contrôlés pendant le combat. Le jeu dispose d'un système de classe. Si vous avez déjà joué à Ogre Battle, vous saurez de quels types de classes il s'agit. Vous pouvez entraîner des mages, des chevaliers, des ninjas, des archers, des dresseurs de dragons et bien d'autres. En plus de toutes les classes humaines, vous pouvez recruter n'importe quelle bête du jeu pour l'ajouter à votre équipe. Certaines des bêtes sont des dragons, des griffons, des monstres morts-vivants, des fées et bien d'autres.C'est un univers très riche et varié.
+
+Le jeu vous prendra probablement 30 à 50 heures pour le finir en fonction de vos compétences, les quêtes secondaires, etc. J'imagine que quiconque aime les RPG de stratégie a déjà joué à ce type de jeu, il est connu pour être l'un des meilleurs.
+
+Voici donc le moment venu pour sortir le patch en Français de ce jeu pour le moins efficace.
+Il s'agit de la version 0.90b ce n'est en aucun cas une version définitive.
+Ce projet nous a demandé un temps monstrueux on ne compte plus les heures passées dessus.
+Le jeu est jouable à 100% les scripts du jeu ainsi que l'ensemble des gfx a été traduit pour une bonne compréhension.
+Cependant je tiens à vous dire qu'il reste certaines choses à faire.
+Cette traduction est basée sur le hack de Aeon Genesis.
+Ils ont dumper la version PlayStation 1. Les bugs d'intro sont déjà présents dans leur patch.
+
+Update du 1/4/21 : Traduction de l'intro en français.
+                   Traduction de certain tiles.
+
+
+
+Il nous reste à faire:
+_________________
+
+
+
+Corriger le bug de la version US concernant les interscènes entre les chapitres. Bug connu.
+Traduire certains des tiles et gfx dans le jeu.
+Si jamais vous rencontrez un problème, remontez-moi le problème à l'aide d'un screen et d'une note.
+
+
+
+Le patch du jeu:
+________________
+
+
+
+Le patch fait 1382ko.
+Pour patcher le bordel utilisez lunar ips https://www.romhacking.net/utilities/240/
+Il vous faudra la Rom japonaise sans header : Tactics Ogre - Let Us Cling Together (J) (V1.2).smc
+CRC32: 12F0A699
+Renommez la ROM tout comme le patch.
+Une fois le jeu patcher il fera 4096 Mo
+
+
+
+Astuces:
+________
+
+Ce jeu peut paraître assez difficile par moment voici une petite aide.
+
+Deneb Rowe, une alliée de choc.
+
+À partir du chapitre 4, vous pourrez avoir accès à la boutique de Deneb Rowe. Pour ce faire,
+rendez-vous dans les récits de Warren afin de débloquer la possibilité de rencontrer la magicienne.
+
+1er jour elle se trouve à Griatte
+4e  jour elle se trouve à Amorika
+6e  jour elle se trouve à Krizar
+8e  jour elle se trouve à Baramus
+10e jour elle se trouve à Asthon
+12e jour elle se trouve à Coritani
+14e jour elle se trouve à Brigantes
+15e jour elle se trouve à Givre
+17e jour elle se trouve à Fiduc
+20e jour elle se trouve à William
+21e jour elle se trouve à Heigm
+
+Voilà où la trouver afin de pouvoir y acheter des orbes en tout type. Elles, les orbes
+seront très utiles surtout à la fin du jeu.
+Si vous lui ramenez plusieurs têtes de citrouille, vous aurez
+la possibilité de la recruter avec vous.
+
+
+
+Faire de l'exp rapidement dans le jeu.
+______________________________________
+
+Pour ce faire il faut retirer tous les équipements et magies de tous vos personnages
+afin qu'ils s'entrainent à main nue sans aucune arme ni magie. Laissez l'AI de la console
+gérer les combats, relancer autant de fois qu'il faudra jusqu'à ce que
+le niveau des personnages vous paraisse suffisant.
+
+Les petits esprits attaquent les gens, les grands esprits attaquent les idées.
+La BadCompany vous souhaite un agréable moment accroché à votre pad.

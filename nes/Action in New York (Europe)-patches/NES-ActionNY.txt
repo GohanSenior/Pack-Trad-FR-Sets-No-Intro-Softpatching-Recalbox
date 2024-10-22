@@ -1,0 +1,131 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                          Action in New York
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Action in New York
+Console		: Nintendo NES
+Développeur	: Natsume
+Editeur		: Infogrames
+Date		: Juin 1991
+Genre		: Action
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 31/10/2013) :
+ \_________________________________________________________________
+
+Encore un nouveau patch pour un jeu totalement ignoré par le commun
+des mortels...
+
+Mais de quoi donc est-ce que c'est y qu'il est question dans çui-ci ?
+A cette excellente question je répondrai : "de la lutte éternelle
+contre le mal", "du dépassement de soi", "du sacrifice pour le bien
+de tout un peuple", voire tout ça à la fois...
+
+Nan plus prosaïquement il s'agit d'un bon gros shoot'em up des
+familles où l'on parcourt 5 niveaux pour blaster de l'alien baveux
+et faire du scoring.
+
+Bien évidement, si on est habitué à Ikaruga ou à toutes les autres
+merveilles du genre, on risque d'être pas mal déçu. En fait,
+on va même très probablement ressentir un certain ennui.
+Chaque niveau donne une impression de déjà-vu, les bonus ne sont
+pas fantabuleux (gardez l'arme "W", y a pas mieux !) et même
+l'utilisation des petits modules que l'on peut orienter à sa
+guise (via le bouton B) ne relèvent pas l'intérêt.
+
+Je n'ai pas pu le tester en mode 2 joueurs, mais je subodore
+que cela rajoute un peu de fun au titre...
+
+Les graphismes ne sont pas exceptionnels, et le personnage répond
+plutôt bien aux sollicitations (ce qui est un minimum pour un shoot!)
+
+Les animations (sauf celles du héros, il n'a que 2 représentations
+selon s'il tire à droite ou à gauche) sont fluides et je n'ai pas
+remarqué de ralentissement particulier, par contre il arrive très
+fréquement de voir des sprites moitié effacés...
+
+La difficulté quant à elle est dans la moyenne. J'ai connu
+bien pire, notamment sur R-type dont on peut voir l'influence
+certaine sur les développeurs. D'ailleurs, je me demande même
+s'il ne s'agit pas de repompe plutôt que de clins d'oeils.
+Je pense ici au niveau où on longe un énorme vaisseau et certains
+boss dont l'esthétique et/ou le pattern de déplacement sont à la
+limite du copier/coller.
+
+A côté de ces références troublantes, le jeu n'est pas désagréable
+à jouer et devrait vous occuper une petite après midi (5 niveaux,
+c'est quand même peu) avant de finir oublié dans un fond de tiroir
+entre le superbe canevas offert par mémé Thérèse au dernier noël
+et le cendrier en pâte à sel bricolé par le petit dernier pour la
+fête des pères...
+
+Hé ! Si je vous dit que ce jeu possède 2 fins différentes selon
+que l'on prend le héros (gugusse bleu) ou l'héroïne (nenette rouge),
+ça vous donne pas envie de refaire un tour de manège ?
+
+En tout cas, tout est traduit. Le script n'a pas pris trop de temps,
+mais c'est normal, on n'est pas sur un RPG ! Et j'ai même pris
+la peine de bricoler la fonte pour rajouter les 2 accents dont
+j'avais besoin. Bon, en fait, il me fallait plus de lettres accentuées
+que ça, mais ça rendait que dalle alors j'ai retouché le script
+afin de n'avoir que 2 accents à utiliser.
+
+
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Energie infinie J1     001C          06
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Action in New York.ips" est à utiliser sur la rom suivante :
+Nom de la rom   : Action in New York (E).nes
+Taille de la rom: 262 160 octets
+Rom avec Header ? Oui
+CRC de la rom   : 5773A224
+CRC rom patchée : AEE61E58
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  FCeu XD SP [x]		FCeu XD	[x]
+  NesTicle   [x]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

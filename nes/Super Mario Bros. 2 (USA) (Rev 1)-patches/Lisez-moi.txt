@@ -1,0 +1,17 @@
+Mise à jour de Super Mario Bros. 2 (NES)
+
+1.2 :
+
+- Quelques toutes petites modifications des caractères du prologue mais le texte traduit reste toujours le même.
+
+- A l'écran Warp Zone, la police serrée de "VOUS ARRIVEZ AU MONDE 4" a été remplacée par "VOUS AVEZ ATTERRI AU MONDE 4" avec la police d'origine.
+
+- A l'écran Game Over, la police serrée de "PARTIE TERMINEE", "CONTINUER" et "RECOMMENCER" on été remplacées par la police d'origine.
+
+- Scène finale toute traduite, sauf "CAST" pour le moment.
+
+- Correction de quelques lettres de "CHOIX DU PERSONNAGE" à l'écran de sélection du personnage.
+
+1.3 :
+
+- "CAST" traduit sous le mot "CASTING".

@@ -1,0 +1,109 @@
+				GENERATION IX (http://generation9.kanshima.net)
+
+				  est fier de vous présenter un jeu démoniaque
+                                    GARGOYLE'S QUEST II - THE DEMON DARKNESS
+
+----------------------------------------------------------------------------------------------------------------
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre       : GARGOYLE'S QUEST II - THE DEMON DARKNESS
+Console     : Nintendo Entertainment System (NES)
+Développeur : Capcom
+Date        : 1992
+Genre       : RPG / Plates-formes
+
+
+\ ETAT DE LA TRADUCTION : Patch Bêta du : 01/08/2005
+ \___________________________________________________
+
+Tout a été traduit, a priori.
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Romhack    : Ti Dragon
+Traduction : Ti Dragon
+Bêta-Test  : Hell, Ti Dragon
+
+
+\ CONTENU DU ZIP
+ \_______________
+
+NES-GargoylesQuestII.txt : Fichier d'informations (vous être en train de le lire ;))
+NES-GargoylesQuestII.ips : Patch français de la ROM
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Le patch NES-GargoylesQuestII.ips est à utiliser sur la ROM :
+"Gargoyle's Quest II - The Demon Darkness (U).nes".
+Il n'a pas été testé sur d'autres ROMs, donc il est possible qu'il y ait des problèmes si vous
+utilisez une autre ROM que celle recommandée ici.
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher.
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la ROM puis le fichier ips et de valider (certains outils 
+peuvent créer une sauvegarde de la ROM avant de patcher). 
+
+Des émulateurs permettent également de patcher directement les ROMs sans les altérer. Pour plus
+d'explications, je vous invite à consulter le site de la TRAF dans la partie "Utiliser un patch IPS".
+
+
+\ HISTOIRE DE LA TRADUCTION
+ \___________________________
+
+Quand j'étais gosse, j'ai eu entre les mains le merveilleux Gargoyle's Quest sur Game Boy.
+Bien que ne comprenant que dalle à l'Anglais, je me suis bien amusé avec. J'adorais l'ambiance
+de ce type de jeu avec ses musiques un peu lugubres (dans le même style que Castlevania, en fait).
+Ensuite, j'ai découvert la série avec Gargoyle's Quest II et Demon's Crest, respectivement sur NES
+et Super NES. J'ai tout simplement adoré. L'idée m'est donc venue de traduire au moins l'un de
+ces opus. Etant donné que Gargoyle's Quest et Demon's Crest avaient déjà été traduits, je me suis
+donc attelé à la tâche de traduire Gargoyle's Quest II (projet annoncé depuis des années par le
+groupe Asmotrad... groupe qui est mort depuis...) et d'en faire profiter tout le monde.
+
+Bref, c'est donc chose faite. Je remercie Jes pour m'avoir aidé à résoudre un problème lié à un
+ENORME bug, Hell pour avoir bêta-tester ce jeu dans les règles de l'art et rveach pour m'avoir aidé
+à trouver ces %*$! de pointeurs (peu classiques, je dois bien l'avouer).
+
+Mes outils pour cette traduction sont : Translhextion, Tile Layer Pro, Wordpad, Pointer Table,
+le logiciel d'extraction/insertion de Rveach, et un utilitaire d'optimisation MTE.
+J'avais aussi le droit de me servir de mon cerveau, accessoirement.
+
+J'espère que vous apprecierez cette traduction alors amusez-vous bien !
+
+
+\ REMARQUES SUR LA TRADUCTION
+ \___________________________
+
+Ce jeu utilise une compression MTE (Multiple Tile Encoding) ce qui veut dire que j'ai passé le
+plus clair de mon temps à optimiser le texte et la bibliothèque de mots. Je n'en peux plus. Je ne sais
+pas programmer, tout a été réalisé avec les moyens du bord (il y a pas mal de hacks graphiques d'ailleurs).
+Malgré tout, je suis plutôt content du résultat. Je n'ai pas traduit "Red Blaze" afin de laisser une
+certaine dimension mystique au jeu (et aussi parce que la traduction littérale française n'est pas
+super brillante).
+
+En ce qui concerne le hack graphique, j'ai volontairement remplacé la police d'origine. J'ai essayé de
+garder le même style mais en plus petit (avec Hell, nous trouvons que ça rend les majuscules moins
+difficiles à supporter).
+
+Il n'y avait pas une once de place dans cette ROM (sauf au niveau graphique... et encore !), ce qui a
+été un véritable calvaire. Il faut savoir que je ne suis, je le répète, qu'un humble romhackeur qui ne
+sait pas programmer. Je ne sais que me servir des outils à disposition, ce qui est déjà pas mal. Cette
+traduction n'est donc, d'un certain point de vue, pas parfaite. Mais elle est optimisée dans la limite
+de mes moyens.
+
+Merci de votre compréhension et bon jeu !
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Forum    : http://www.bessab.com/viewforum.php?f=12
+Site Web : http://generation9.kanshima.net/
+T.R.A.F. : http://traf.romhack.org/

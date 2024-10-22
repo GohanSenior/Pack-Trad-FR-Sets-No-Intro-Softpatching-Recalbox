@@ -1,0 +1,84 @@
+			- Neugier: The Journey Home- Traduction Française.
+
+
+Informations sur le jeu :
+-------------------------  
+Titre original : Neugier: Umi to Kaze no Kodo
+Neugier 
+(Wolfteam / Telenet - 1993) 
+
+Histoire du jeu:
+----------------
+Neugier est un petit action-RPG à la Zelda assez sympathique au premier abord. 
+Dans un monde médiéval-fantastique aux inspirations Perses, il raconte l'histoire
+de Duke, le fils exilé du comte de Neugier, une île qui parait-il abrite un trésor
+fabuleux.
+Apprenant par des rumeurs que son royaume est le théatre d'étranges événements, il
+décide de rentrer au bercail pour voir ce qu'il en est.
+Mais le bateau sur lequel il effectue son voyage est attaqué par des pirates commandés
+par une mystérieuse sorcière.
+Ainsi commence une aventure qui conduira Duke à s'infiltrer dans le chateau de son père
+et à rencontrer en chemin une mystérieuse jeune fille qui lui sauve la vie mais l'implore
+de fuir, ainsi qu'un aventurier dont la mission est d'assassiner la jeune fille en question! 
+
+Equipe du projet:
+-----------------
+Hacking et conception du projet: 
+4ph
+
+Traduction du script Anglais vers le Français: 
+M0nsieurL aka Lestat
+
+Correcteur & Béta testeur:
+Musashi
+
+Mise en forme du script:
+Happexiamendios
+
+Décompression tiles menu:
+Bahabulle
+
+Écran titre:
+Ichigo
+
+Utilisation du patch:
+---------------------
+Il faut appliquer le patch de traduction sur la version Japonaise du jeu (SANS HEADER).
+Le nom de la rom originale:  Neugier(J).smc
+Taille: 1 048 576 octets
+
+Après l'application du patch sur la rom:
+Taille: 2 097 152 octets
+
+Ce qui a été fait:
+------------------
+Le jeu est traduit à 100%, ainsi que les graphismes.
+Le script du jeu est basée sur la version Anglaise de Haeleth
+
+
+Remarque:
+---------
+Au cours du jeu, il se peut que certaines phrases aient été oubliées. 
+Si vous découvrez un oubli de traduction, vous pouvez m'aider en m'écrivant en MP ou le
+signaler sur le site de la TRAF. 
+N'hésitez pas à me faire part de vos suggestions, me rapporter d'éventuels bogues, des
+fautes de Français, vos remarques ou autres.
+Vous pouvez également laisser vos commentaires sur le forum de discussion.
+
+Remerciement spéciaux à:
+------------------------
+
+Au site de la TRAF pour tous ses conseils.
+Ultimate-console.Fr  
+
+
+-ATTENTION-
+-----------
+Ce patch de traduction ne doit en AUCUN CAS être VENDU! 
+Merci d'avoir lu toutes ces informations.
+
+Version Fr V1.0
+
+4ph le 04.08.2015
+
+

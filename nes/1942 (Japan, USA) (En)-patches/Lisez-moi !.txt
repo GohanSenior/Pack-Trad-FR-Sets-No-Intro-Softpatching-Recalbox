@@ -1,0 +1,24 @@
+
+http://generation9.kanshima.net/
+
+Traducteur:
+	KS151 (ks151@msn.com)
+Romhackeur :
+	KS151
+DATE:	
+	10/08/2004 18h24
+Jeu :
+	1942
+
+Caractéristiques du jeu :
+	Nombre de joueurs : 1
+	Style : Shoot Them Up
+	Note : 12/20
+
+Le patch :
+	Version 1.00
+
+Traduction :
+	de l'anglais au français au stade de 100%. A noter que c'est 
+	ma seixième traduction ! Rom traduite : 1942 (JU)
+	Dispo sur planetemu.net.

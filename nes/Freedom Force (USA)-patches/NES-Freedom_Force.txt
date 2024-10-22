@@ -1,0 +1,109 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                             Freedom Force
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Freedom Force
+Console		: Nintendo NES
+Développeur	: Sunsoft
+Editeur		: Nintendo
+Date		: Avril 1988
+Genre		: Rail shooter
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 02/10/2015) :
+\_________________________________________________________________
+
+Depuis "Baby Boomer", il y avait longtemps que je ne m'étais pas
+penché sur un jeu destiné au Zapper de la Nes.
+C'est maintenant chose faite avec "Freedom Force", un rail shooter
+aussi basique que son scénario.
+
+En tant que super soldat aussi classe que testeronné, c'est à vous
+qu'on fait appel dans les situations de crise, et là, ben...
+C'est la grosse crise !!
+Eugène Extrême, un chef terroriste a décidé de régner sur le monde
+et a envoyé des troupes de sbires méchamment armés afin de mettre
+son plan à exécution.
+
+Votre traque commence dans un aéroport et finit on ne sait pas
+trop où en fait, probablement chez le big boss des terro...
+
+Alors en parlant de big boss, si vous vous attendez à des combats
+épiques ou des boss gigantesques, vous pouvez raccrocher le treillis!
+Le jeu est plat, répétitif et assez ennuyeux et les 5 niveaux qui
+repassent en bouclent n'aident pas à s'amuser...
+
+Zapper oblige, le mode 2 joueurs est en alternance et n'apporte
+pas grand chose de plus.
+
+Le jeu n'est pas franchement joli, et les terroristes que l'on doit
+charger de plomb ressemblent plus à un résidu de gastro qu'à d'infâmes
+psychopathes voulant dominer le monde...
+
+Passons sur la musique, c'est très cheap et monotone.
+
+Bref, le jeu n'est pas terrible et il a été aussi chiant à
+traduire qu'à jouer. En effet, cette rom comporte des tas de
+textes en doublons qui ne semblent pas utilisés. C'est assez
+bizarre, mais bon ; ce n'est pas le premier jeu a être bizarre
+en dedans...
+
+Have Fun...
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Energie infinie J1     0x0516          14
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Freedom Force.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Freedom Force (U) [!].nes
+  Taille de la rom: 262 160 octets
+  Rom avec Header ? Oui
+  CRC de la rom   : 53EB8950
+  CRC rom patchée : 9A2F345
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  FCeu XD SP [x]		NesTicle   [ ]
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

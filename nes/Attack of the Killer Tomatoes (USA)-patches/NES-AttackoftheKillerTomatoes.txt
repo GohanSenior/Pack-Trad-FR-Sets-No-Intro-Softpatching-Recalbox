@@ -1,0 +1,105 @@
+			Génération IX (http://generation9.kanshima.net)
+         est fier de vous présenter le nouveau patch concentré enrichi en pulpe de tomates :
+
+			         ATTACK OF THE KILLER TOMATOES
+			          élu "Saveur de l'Année 2005"
+
+
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre : Attack Of The Killer Tomatoes
+Console : NES
+Développeur : THQ
+Date : 1991
+Genre : Plates-formes 
+
+
+\ ETAT DE LA TRADUCTION : Patch final du 28/10/2005
+ \__________________________________________________
+
+Tout à été traduit, du début à la fin... Même l'écran titre, c'est vous dire (malgré un petit
+défaut mais je vous laisse le trouver) !
+
+Y'a pas grand chose aussi faut dire, mais comment passer à côté de ce jeu aussi mythique
+que le film duquel il est tiré ?
+
+Bref, je vais pour une fois écourter mes habituelles diatribes et aller droit au but, et
+ce sans tourner autour du pot : ce jeu est une bombe neurale ! Pourquoi je dis ça?
+chais pas à dire vrai, je me suis dit que ça ferait bien dans mon ridmi. Influence
+cyberpunk probable....
+Re bref (vitre) Ce jeu est une ode à l'horreur! Le résultat parfait de la collaboration
+ratée d'un programmeur en mal de vivre et d'un designeur drogué, jugez plutôt :
+
+- Histoire : ça tient sur une demi feuille de papier à cigarette, et encore en écrivant gros :
+	     Un sinistre scientifiqeu fou en veut à une pauvre ville sans défense et la
+	     ravage à coup de tomates mutantes... Fallait oser!
+-Graphismes : un manchot empereur sous ecstasy ferait très certainement mieux. Je subodore que
+	      le designer avait un coup dans le nez au moment du choix crucial des 8 couleurs
+	      du jeu utilisées et réutilisées jusqu'à ce que nausée s'ensuive. J'en ai encore
+	      mal aux yeux rien que d'y repenser!
+- Musiques : si l'on appelle "musique" le parasitage audio émis par l'émulateur, il y'a de
+	     quoi faire peur aux mélomanes! On en viendrait presque à vénérer les infâmes
+	     gargouillis vocaux des pauvres ères de la naz'academy... Bref, ici le son se coupe
+	     sans regret!
+- Jouabilité : entre le "A chier" et le "Infâme", il m'a fallu télécharger la faq pour savoir
+	       comment faire bouger le tas de mou qui sert de héros...
+- Intérêt : pour tout joueur normal : absolument aucun! Pour l'adorateur de bouse immonde que
+	    je suis, ça frôle 500% de bonheur!
+
+Note de Ti Dragon : on a vu bien pire, ceci dit. Si vous aimez l'ambiance des jeux qui ont un
+                    scénario d'enfer (Tomatoes Attacks !), n'hésitez surtout pas. Je me suis bien
+                    amusé le temps du bêta test.
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack 	       : Happexamendios
+Hack graphique : Ti Dragon
+Traduction     : Happexamendios
+Bêta-Test      : Happexamendios, Ti Dragon
+
+De toute façon, qui d'autre aurait été assez cinglé pour ne serait ce que jetter un regard de
+dédain à cette infâme putridicité ? hein ? ça existe pas "putridicité" ? ben tant pis, trop tard!
+
+Note de Ti Dragon : je suis venu me rajouter à la dernière minute pour traduire ce sublime écran
+titre. Ce fut long et intense (les meilleurs moments) et, malgré un petit défaut, je ne suis pas
+mécontent d'avoir pu le faire en moins d'une heure (temps effectif :D). Je laisse dont la parole
+à mon Maître, Happexamendios.
+
+
+\ REMERCIEMENTS
+ \______________
+
+Al Hoween, sans qui je n'aurais pas eu de raison suffisament forte pour m'intéresser à cette rom
+THQ : pour avoir commis cette insanité
+Placebo : dont les albums ont remplacé avantageusement la musique larsenesque du jeu
+Ma tite puce : pour le bonheur qu'elle m'apporte
+Ma chère belle soeur : Merci pour tout ;) (cherchez pas, ça n'a rien à voir avec la trad')
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Le patch de traduction "NES-AttackofthKillerTomatoes.ips" est destiné à la rom
+"Attack of the killer tomatoes (U).nes".
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher. 
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (certains outils 
+peuvent créer une sauvegarde de la rom avant de patcher). 
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction. 
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web: http://generation9.kanshima.net/
+Forum	: http://www.bessab.com/viewforum.php?f=12 
+T.R.A.F : http://traf.romhack.org/

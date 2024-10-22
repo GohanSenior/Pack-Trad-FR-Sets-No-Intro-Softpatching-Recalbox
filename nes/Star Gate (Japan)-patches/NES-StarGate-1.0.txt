@@ -1,0 +1,69 @@
+------------------------------------------------
+                                                
+Génération IX (http://generation9.kanshima.net) 
+vous présente la traduction de Pinball. 
+
+------------------------------------------------
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre : STAR GATE 
+Console : Nes 
+Développeur : Atari
+Date : 1983
+Genre : Shoot Them Up
+Date Traduction : 5/11/04
+Rom Traduite : Star Gate (J)
+
+
+\ DESCRIPTION
+ \_______________________________ 
+
+Toujours aussi bon de retrouver les jeux d'antan. Surtout qu'il y avait
+de très bonnes choses, dont un scrolling qui peut changer à tout instant...
+Bref c'est du tout bon malgré des graphismes fil de fer.
+
+
+\ ETAT DE LA TRADUCTION : Patch Final 
+ \___________________________________ 
+
+Tout a normalement été traduit. 
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack : KS151 
+Traduction : KS151 
+Bêta-Test : ColibriAlpha 
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "NES-StarGate-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Star Gate (J).nes
+  Taille de la rom: 24 592 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 493BD2FF
+  CRC rom patchée : CCCB876F
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+
+Forum : http://www.bessab.com/viewforum.php?f=12 
+Hack & Traduction : ks151@msn.com
+Site Web : http://generation9.kanshima.net 

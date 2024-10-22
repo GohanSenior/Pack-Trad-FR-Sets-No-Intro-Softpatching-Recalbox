@@ -1,0 +1,181 @@
+                                       GENERATION IX
+                                            &
+                                           Gio
+
+
+                sont fiers de vous présenter la traduction d'un jeu méconnu
+
+                                      Super Hydlide
+
+--------------------------------------------------------------------------------------------------------
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre       : Super Hydlide
+Console     : Mega Drive (Genesis)
+Développeur : T&E Soft
+Editeur     : Asmik / Seismic / SEGA
+Année       : 1989 (Japon), 1990 (US), 1991 (Europe)
+Genre       : Action RPG
+
+
+\ ETAT DE LA TRADUCTION : Patch v1.0 du 29/12/2011
+ \___________________________________________________
+
+Tout a été traduit, a priori.
+
+Le patch a été alpha puis bêta testé. Il se peut qu'il reste des coquilles néanmoins : n'hésitez pas
+à nous les signaler le cas échéant.
+
+L'un des bugs les plus probables est un texte incompréhensible ou pas de texte du tout (voire un
+plantage mais j'en doute) lorsque vous parlez à un villageois. Il existe en effet, dans la ROM, quelques
+pointeurs éparpillés qui sont traités différemment des autres (je pense qu'il s'agit de traiter le
+charisme du joueur pour savoir si la personne peut ou non lui parler). Normalement, ils ont été repérés
+et modifiés mais nous ne sommes jamais à l'abris.
+
+Il reste deux ou trois problèmes d'alignement vers la fin mais rien de grave. On n'a simplement pas
+trouvé les octets qui vont bien et Meradrin n'avait plus de temps à consacrer au projet (qui est
+terminé depuis trois mois). Il a fallu adapter la traduction, d'ailleurs.
+
+À noter qu'il a également fallu ROMhacker la version japonaise afin d'extraire et traduire le prologue et
+l'épilogue, étant donné qu'ils ont été sèvèrement amputés dans la localisation US (les rendant presque
+incompréhensibles). Des DTE et MTE graphiques ont été rajoutées histoire de pouvoir tout afficher dans les
+cadres.
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________
+
+ROMhack        : Ti Dragon
+Programmation  : BahaBulle
+Assembleur     : BahaBulle, Meradrin
+Graphismes     : Ti Dragon
+Traduction     : Gio, GreatSkaori
+Relecture      : Gio
+Alpha-test     : Ti Dragon
+Bêta-test      : Gio
+Player-Time    : Correction du bug qui empÃªche l'utilisation des sort dans le jeu.
+
+Gio s'intéresse à la série des Hydlide, et plus particulièrement à Super Hydlide, un de ses premiers
+jeux Mega Drive. Non pas qu'il lui voue un culte sans limite mais il estime que ce jeu mérite que l'on
+s'y attarde. Il a d'ailleurs rédigé tous les articles francophones de Wikipédia qui traitent de la série
+des Hydlide.
+
+BahaBulle, membre de Génération IX, est celui qui a permis de décompresser les graphismes et de rétablir
+l'introduction et la fin du jeu japonais cruellement amputé lors de sa sortie en dehors du pays du soleil
+levant.
+
+Meradrin, membre de Final Translation, a aidé BahaBulle à gérer l'assembleur. Apparemment, cela lui a
+redonné l'envie de développer un émulateur Mega Drive bourré de debuggers en tout genre.
+
+GreatSkaori, membre de Génération IX, a traduit l'introduction et la fin de la version japonaise, de
+manière assez brute afin que Gio puisse l'adapter en fonction du contexte.
+
+Enfin, moi, Ti Dragon, membre de Génération IX, ait ROMhacké pas mal de choses (en particulier extraire/
+insérer les scripts), apporté quelques corrections et modifié les graphismes gentiment décompressés par
+BahaBulle (j'ai quasiment TOUT changé, police de caractères comprise).
+
+
+
+\ REMERCIEMENTS
+ \______________
+
+Ti Dragon
+---------
+Je remercie toute l'équipe qui a répondu rapidement à mes demandes, même si Mera a traîné vers la fin :D
+
+Gio
+---
+Je remercie Ti Dragon et son équipe de m'avoir permis de traduire ce jeu.
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Le patch [MD] Super Hydlide_FR_1.0_Bugs_Fix.ips est à utiliser avec la rom de Super Hydlide (Europe).md
+
+Size:524288
+CRC32:1FE2D90B
+MD5:6ba8d8f9d7bbdd3064bc093f22aa7c0a
+SHA-1:6C0A4B72B90ECFE8C324691BC6E54243746043C1
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher.
+Il en existe plusieurs que vous pourrez trouver sur le site de la T.R.A.F (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la ROM puis le fichier ips et de valider (certains outils 
+peuvent créer une sauvegarde de la ROM avant de patcher). 
+
+Des émulateurs permettent également de patcher directement les ROMs sans les altérer. Pour plus
+d'explications, je vous invite à consulter le site de la TRAF dans la partie "Utiliser un patch IPS".
+
+
+\ HISTOIRE DE LA TRADUCTION
+ \__________________________
+
+Gio était au départ venu me voir pour trouver un moyen de ROMhacker Super Hydlide. En quelques heures, je
+me suis retrouvé avec des scripts à traduire, en US et en japonais (environ 35 ko chacun)... Toute la
+traduction a été faite en quelques jours, mi-août 2011, et la version alpha du projet a été terminé assez
+rapidement. C'est le bêta test et les finitions qui ont finalement pris le plus de temps.
+
+Le jeu en lui-même tire vers le jeu de rôle un peu plus classique comme Rogue (et non pas les J-RPG que nous
+avons l'habitude de voir) puisque plusieurs éléments comme la faim, la fatigue, le poids de l'équipement ou
+l'alignement moral sont à prendre en compte au cours de l'aventure. Il s'agit d'un portage d'Hydlide 3
+(paru sur 8 bits, d'abord en 1987 sur MSX puis 1989 sur NES) et l'un des premiers jeux à être sorti sur la
+16 bits de SEGA. Le fait qu'il provienne d'un jeu initialement 8 bits s'en ressent : les améliorations sont
+minimes (bien que l'on remarque les différences) et pourraient être qualifiées d'indignes d'une telle console.
+Il est également à noter que le jeu représente un petit challenge car il est loin d'être facile, surtout au
+début. Malgré tout, les musiques se laissent écouter et le jeu en vaut la chandelle. Certains adhèrent,
+d'autres sont repoussés : à présent c'est à vous de vous faire votre opinion ; le jeu étant traduit, vous
+n'avez plus d'excuse pour ne pas l'essayer!
+
+
+\ BLOQUÉ DANS SUPER HYDLIDE ?
+ \__________________________
+
+Beaucoup d'informations au sujet du gameplay de Super Hydlide était contenues dans le manuel du jeu. Or, il
+n'est pas encore trouvable (à ma connaissance) sur Internet. Gio a essayé de palier ce problème en rédigant
+l'article Wikipédia suivant :
+
+http://fr.wikipedia.org/wiki/Super_Hydlide
+
+Il n'existe quasiment aucune solution de ce jeu (assez difficile à finir) sur Internet, uniquement un
+"walkthrough" anglais. Gio envisage d'en publier une ainsi qu'un guide complet (avec cartes) en français.
+Si jamais vous êtes bloqué dans le jeu et que vous souhaitez avancer, ou bien qu'il y a quelque chose que
+vous ne comprenez pas, vous pouvez le contacter par e-mail il se fera un plaisir de vous aider.
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Forum     : http://www.romhack.org/
+Sites Web : Génération IX     - http://generation9.kanshima.net/
+            Final Translation - http://www.finaltranslation.org/
+            T.R.A.F.          - http://traf.romhack.org/
+			Site perso de Gio - http://gio.viens.la/
+e-mails   : giovanni.arnaudeau@gmail.com (Gio)
+            tiflamedragon@hotmail.com (Ti Dragon)
+
+
+\ REMARQUES LEGALES
+ \_________________
+
+Génération IX et Gio vous proposent une traduction non-officielle réalisée à but non lucratif par des
+amateurs bénévoles. Elle n'est en aucun cas supportée par SEGA ou T&E Soft. Cette traduction est donc
+gratuite et ne peut être vendue sous quelque forme que ce soit (vente de fichiers sur CD, de cartouches
+modifiées, de cartouches flash copiées, etc.) : son usage commercial est par conséquent strictement interdit.
+
+Vous utilisez ce patch de traduction en dégageant les auteurs de toute responsabilité concernant d'éventuels
+dommages.
+
+© 2011 - 2012 Génération IX et Gio
+Tous droits réservés
+
+
+Mega Drive® et Super Hydlide™ sont les propriétés de SEGA®.
+Les mentions légales relatives à SEGA se trouvent décrites dans un livret fourni avec chacun de leurs produits.
+Veuillez les lire attentivement.
+
+© 1989 - 2011 SEGA
+Tous droits réservés

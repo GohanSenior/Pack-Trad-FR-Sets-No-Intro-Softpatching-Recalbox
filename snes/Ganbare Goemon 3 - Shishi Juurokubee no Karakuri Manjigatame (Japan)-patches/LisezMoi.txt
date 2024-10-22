@@ -1,0 +1,100 @@
+TERMINUS TRADUCTION  présente
+
+GANBARE GOEMON 3 - LA MECHA PRISE DE JUROKUBE SHISHI
+----------------------------------------------------------------
+*******************Table des matières******************
+----------------------------------------------------------------
+
+1.    L'HISTOIRE DU JEU
+2.      CONTENU DE L'ARCHIVE ET UTILISATION
+3.    LES PATCHS PUBLIES
+4.      TOUT CE QUI A ETE FAIT
+5.    L'ÉQUIPE DE LA TRADUCTION
+6.      CONTACTS
+7.    REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  L'HISTOIRE DE GANBARE GOEMON 3
+----------------------------------------------------------------
+
+Troisième opus SNES des aventures du célèbre voleur, cet épisode
+propose une fois de plus une réalisation impeccable avec des
+graphismes et des musiques sublimes. Le côté exploration y est
+désormais un peu plus poussé avec une véritable carte assez
+similaire à celle de Zelda III par exemple. Le jeu était resté
+longtemps confiné au japonais, c'est l'occasion de le découvrir!
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir:
+GanbareGoemon3Fr.ips  - Le patch IPS de Ganbare Goemon 3
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+supportant le format IPS (patcheur Terminus exemple).
+Ce patch est à utiliser avec la Rom NO-INTRO
+Ganbare Goemon 3 - Shishi Juurokubee no Karakuri Manjigatame (Japan).sfc
+
+----------------------------------------------------------------
+3.  LES PATCHS PUBLIES
+----------------------------------------------------------------
+
+-V1.00
+Traduction complète
+
+----------------------------------------------------------------
+4.  TOUT CE QUI A ETE FAIT
+----------------------------------------------------------------
+
+Script    :   100 %
+Pointeurs :   100 %
+Graphismes:   100 %
+
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+FlashPV :    Hacking, Traduction
+DDS:         Assembleur, Outils, Hacking original
+Tom:         Traduction originale 
+Mike Deloge: Bêta-test
+
+----------------------------------------------------------------
+6.  CONTACTS
+----------------------------------------------------------------
+
+Une remarque, une question ou une correction à apporter à la
+traduction de Ganbare Goemon 3.
+
+FlashPV - FlashPV@aol.com
+
+Vous voulez mieux connaître le groupe, télécharger nos derniers
+patchs ou vous renseigner sur un projet.
+
+Site Web - http://terminus.romhack.net
+
+----------------------------------------------------------------
+7.  REMARQUES LEGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de Ganbare Goemon 3 n'est pas
+officiel et n'est pas supporté par Konami ou Nintendo.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+FlashPV

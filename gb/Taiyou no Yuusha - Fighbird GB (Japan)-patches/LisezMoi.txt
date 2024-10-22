@@ -1,0 +1,124 @@
+TERMINUS TRADUCTION présente
+
+Taiyou no Yuusha - Fighbird
+----------------------------------------------------------------
+*******************Table des matières******************
+----------------------------------------------------------------
+
+1.    L'HISTOIRE DU JEU
+2.    CONTENU DE L'ARCHIVE ET UTILISATION
+3.    LES PATCHS PUBLIES
+4.    TOUT CE QUI A ETE FAIT
+5.    L'ÉQUIPE DE TRADUCTION
+6.    CONTACTS
+7.    REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  L'HISTOIRE DE Taiyou no Yuusha - Fighbird
+----------------------------------------------------------------
+
+"En dépit d’un air de déjà vu, il s’en tire plutôt bien et propose
+plusieurs petites choses : choisir son pilote, la possibilité de
+stocker plusieurs armes...
+
+Le jeu est dans l’ensemble très soigné livre des graphismes honnêtes
+ainsi qu’une bande-son travaillée ; mais ce qui marque encore un peu
+plus est la présence de cutscenes plutôt agréables en introduction
+et entre les niveaux.Cette ambiance très « Patlabor » rend assez
+bien sur l’écran de la petite GB...
+
+Le jeu est très maniable et la présence d’une barre de vie le rend
+encore plus charitable, même si arrivé au stage 3 les impacts seront
+fréquents...
+
+Il n’y a guère plus à ajouter au sujet de Fighbird, si ce n’est
+qu’il est toujours surprenant de découvrir des jeux inconnus sur
+Game Boy, à plus forte raison quand ils sont signés d’un développeur
+aussi prestigieux qu’Irem. Bon, il est vrai que le titre n’est sorti
+qu’au Japon et sa seule vraie valeur tient plus de la curiosité
+qu’on ramène du pays du Levant et introuvable ailleurs que de celle
+d’un Nemesis II..."
+
+http://shmup.com
+
+En 2010, une forme de vie extraterrestre maléfique appelée Draias
+débarque sur Terre. Celle-ci collabore avec Jango, un scientifique
+fou à lier, afin de mettre au point un terrible plan visant à ruiner
+la planète. Cependant, les forces spéciales de l'espace, appelées
+Uchuu Keibi Tai, n'ont pas l'intention de laisser leurs plans se
+réaliser. Elles font ainsi appel au Docteur Amano, qui va mettre au
+point un robot géant de défense appelé Fighbird, qui va être piloté
+par un jeune héros nommé Yutaro Katori.
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir:
+Taiyou no Yuusha - Fighbird.ips  - Le patch IPS du jeu
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+(le Patcheur Terminus par exemple).
+Ce patch est à utiliser avec la rom Unrealease:
+Taiyou no Yuusha - Fighbird GB (Japan).gb
+
+----------------------------------------------------------------
+3.  LES PATCHS PUBLIES
+----------------------------------------------------------------
+
+-V1.00
+Traduction complète
+Retouches Graphiques
+
+----------------------------------------------------------------
+4.  TOUT CE QUI A ETE FAIT
+----------------------------------------------------------------
+
+Traduction complete du jeu
+Retouches Graphiques
+
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+Kazan : Hacking, Traduction.
+
+----------------------------------------------------------------
+6.  CONTACTS
+----------------------------------------------------------------
+
+Une remarque, une question ou une correction à apporter à la
+traduction du jeu.
+
+Kazan - newkazan@hotmail.fr
+
+Vous voulez mieux connaître le groupe, télécharger nos derniers
+patchs ou vous renseigner sur un projet.
+
+Site Web - http://terminus.romhack.net
+Facebook - https://www.facebook.com/TerminusTrad/
+
+----------------------------------------------------------------
+7.  REMARQUES LEGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de ce jeu n'est pas officiel
+et n'est pas supporté par Nintendo our Irem.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+Kazan

@@ -1,0 +1,89 @@
+***** LE PATCH *****
+
+----- Utilisation -----
+Ce patch gratuit et non officiel propose principalement de découvrir une alternative française aux dialogues anglais de la cartouche de votre jeu original en complément d'améliorations produites pour la restauration de l'esprit du jeu originel.
+À appliquer sur le fichier image :
+Prince of Persia (U) [!].bin
+CRC32 de la rom : 13C181A4
+
+Pour voir le CRC32 d'un fichier sous Windows10 : installez 7-zip et clic droit sur le fichier puis CRC SHA > CRC32.
+Pour utiliser le patch, vous pouvez par exemple utiliser Lunar IPS disponible ici :
+https://traf.romhack.org/?p=outils&oid=151
+
+CRC32 de la rom après patch: CD158975
+Le checksum restera bon après patchage de la rom.
+
+----- Remerciements & Questions -----
+Vous pouvez m'écrire en laissant un message sur ce sujet du forum :
+https://www.romhack.org/viewtopic.php?f=43&t=4225
+
+
+***** LE JEU *****
+
+----- Origine -----
+Prince of Persia fut adapté sur 17 supports après sa sortie sur Apple II en 1989 :
+ORDINATEUR: PC, Amiga, Macintosh, Amstrad CPC, Atari ST, Sharp X68000, FM Towns
+NINTENDO  : NES, Game Boy, Super Nintendo, Game Boy Color
+SEGA      : Master System, GameGear, Genesis, Sega CD
+NEC       : PC98, Turbo CD
+
+----- La meilleure adaptation -----
+Parmi les 17 adaptations du jeu d'origine, je recherchais une version 100% fidèle et améliorée graphiquement.
+Les versions Super Nintendo et Megadrive sont bien mais présentent des ajouts et modification de niveaux.
+La bonne surprise vient de la version Genesis (Megadrive américaine) avec les 12 niveaux authentiques du jeu d'origine (au lieu de 17 sur Megadrive) et avec l'histoire (supprimée sur Megadrive) dont les textes sont parfaitement identiques au jeu d'origine de l'Apple II.
+
+Pour parfaire encore l'esprit d'origine,
+il manquait une traduction et une restitution des décors dont les détails sont expliqués dans les travaux de restitution des niveaux.
+
+----- Secrets  -----
+5 potions secrètes octroyant chacune un point de vie supplémentaire : niveau 2, puis 4, 7, 9 et enfin 11.
+2 potions secrètes perdues : niveau 3 (ne fonctionne pas) et niveau 5 (volée par le double)
+De 3 points de vie au départ, vous pouvez avoir 8 points au final !
+bonne découverte!
+
+----- Contrôles particuliers -----
+Peu évidents et expliqués uniquement sur les vieux manuels, le bouton C ne servira pas.
+
+Maintenez le bouton bas et appuyez sur A à répétition pour :
+- avancer accroupi et passer sous les herses qui se referment :
+
+Maintenez le bouton haut pour :
+- monter sur les plates-formes au dessus de vous
+- sauter sur place pour faire trembler toutes les dalles tombantes d'un écran & découvrir ainsi des passages secrets en hauteur
+
+Maintenez le bouton A et :
+- appuyez sur gauche/droite pour marcher doucement
+
+Maintenez le bouton B et :
+- appuyez sur gauche/droite pour faire un saut en avant sans élan
+
+
+
+***** LES TRAVAUX FRANCOPHONES *****
+
+----- Script -----
+Traduction de l'histoire avec ses lettres très stylées :
+- 5 écrans d'introduction
+- 2 écrans de victoire en fin de jeu
+- 1 écran d'échec quand le compte à rebours atteint 0
+
+----- Autre -----
+- écran titre
+- écran des crédits
+- menu de démarrage
+- menu dans le jeu
+- niveau en cours, minutage et mot de passe
+
+
+
+***** LES TRAVAUX DE RESTITUTION DES NIVEAUX *****
+
+----- Ajout d'un décor de fond -----
+Le seul endroit où il y a des ossements sur Apple II est à côté de l'épée que le héros doit récupérer dans le niveau 1.
+Ces ossements signalent l'ancien détenteur de l'épée et ne sont pas présents sur Genesis. Cela a été restauré.
+
+----- Suppression de nombreux décors de fond -----
+Inversement, ce patch supprime de nombreux décors de fond présentés dans la version Genesis mais absents de la version Apple II.
+Presque tous les écrans des caves du Palais sont concernés par cette restauration vers l'état d'origine authentique.
+En effet, la version Genesis s'éloignait des décors d'origine contrairement à de nombreuses adaptations fidèles sur ce point, y compris Sega-CD/Mega-CD.
+

@@ -1,0 +1,35 @@
+Je ne fais pas les fiches de "lisez-moi.txt" et mon francais n'est pas parfait. (Aussi, je suis Americain et nous n'avons pas les claviers qui a les lettres avec les accents.)
+
+Mais, ce fichier traduit Darkwing Duck de l'anglais au francais.
+
+Je veux donner un grand merci a "GreatSkaori" de "Generation_ix" pour lire ma traduction et corriger mon francais.  Il ne regarde pas ce fichier de "lisez-moi" et ce fiche a un beaucoup des errors.  Merci monsieur faux prof.
+
+Je veux donner aussi un grand merci a "Ti_Dragon" de "Generation_ix" pour designer l'ecran de titre.  Mon artiste original (Tyler Hunter) me donne un truc de merde, et Ti designe un ecran magnifique.  Merci pour ca.
+
+Si tu as le probleme avec ce fichier:
+1) apprendre anglais (parce que tes plaintes en francais, je ne comprende pas)
+2) verifies le nom de ce fichier et le nom de ton fiche original est le meme.
+3) demandes a un(e) autre personne
+4) repetes #3 jusqu'a tu demande a tout le monde a l'exception de moi
+5) demande a moi samda-aku@rosetta.shacknet.nu et n'attendre pas pour la reponse.
+
+Merci et bon jeu!
+
+COMMENT APPLIQUER LE PATCH ?
+Le patch "NES-MysterMask-1.0.IPS" est à utiliser sur la rom suivante :
+  Nom de la rom   : Darkwing Duck (U) [!].nes
+  Taille de la rom: 262 160 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 5DCE2EEA
+  CRC rom patchée : 9DF867BA
+
+
+For those of you who speak English better than French and are using this this translation to learn the language, I am honored to be part of your learning process and hope this game will aide you in some things.  Note that Darkwing Duck and MysterMask say 2 completely different things and even many of the names are different, but the game is still fun, none-the-less.  The same rules I mentioned above regarding "le problem avec se fiche" apply to your native English speakers as well.  The "aku" on my name is not there by accident, the title was actually given to me by someone else.
+
+Happy Trails and "n'ais pas peur"
+
+-Samda Knowe
+
+http://rosetta.shacknet.nu/?s=news
+
+http://generation9.kanshima.net

@@ -1,0 +1,17 @@
+PATCH pour la version américaine de Dr. Robotnik's Mean Bean Machine
+Nom par défaut de la rom à patcher : Dr. Robotnik's Mean Bean Machine (U) [!].bin
+Nom du patch : Dr. Robotnik's Mean Bean Machine BETA 0.9 fr
+Auteur : Alb_A_Tort
+
+
+---version 1.0--- 19/12/07
+Graphismes modifiés par FlashPV de Terminus Traduction.
+Merci à lui
+
+
+---version 0.9--- 03/11/05
+
+Reste à faire :
+	_ Modifier graphismes (grrr)
+	_ Modifier l'écran des continues
+	_ Inserer les accents

@@ -1,0 +1,94 @@
+			Génération IX (http://generation9.kanshima.net) 
+			  vous présente la traduction montagnarde de
+					CLIFFHANGER
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre   : Cliffhanger
+Console : Super Nintendo 
+Développeur : Sony
+Date   : 1993
+Genre  : Beat'em all bien naze
+
+
+\ ETAT DE LA TRADUCTION : Patch 1.1 créé le : 09/03/2007
+ \_______________________________________________________ 
+
+Encore une adaptation de film en jeu vidéo...
+...encore un sacré ratage !!
+
+Un bon nombre d'entre vous connait le film Cliffhanger; mais je doute que dans ce bon nombre il y'en ait beaucoup
+qui ait eu un jour la (mal)chance de connaître le jeu vidéo éponyme. Ma supernes adorée a là encore souffert suite
+à l'exécution de ce jeu ! J'en ai vu des bouses, et de toutes sortes !! Mais celle ci est vraiment indigeste, et ce
+à tous points de vue.
+
+La jouabilité est au delà du risible ! Le personnage se traîne comme un escargot sous Tranxen 5000, et je n'ai pu
+avancer qu'en boostant l'émulateur... Les quelques sauts à faire de ci de là sont des plus approximatifs, et les
+combats contre les 3 ou 4 ennemis sont aussi virulents qu'une course de bigorneaux à marée basse.
+
+Les graphismes sont laids, vraiment vraiment vraiment laids ! J'avais de vieux jeux sur mon commodore 64 (Dieu ait
+son âme) qui étaient nettement plus travaillés que cette catastopherie. J'avais rarement vu aussi peu de couleurs
+et d'esthétique dans une cartouche 16 bits. Même un des premiers jeux Game Boy est plus coloré que ça...
+
+Je passe sur les cinématiques à effet 3D bi polarisée applatie des plus immondes. C'est bien simple; on reconnait
+que de très loin les personnages !
+
+voilà, tout est dit...
+Le jeu a été entièrement traduit. Il me manquait un chtiot truc que j'ai été trop con pour pas dégotter, mais
+Jes m'a montré la voie à grand coup de pelle au cul :D
+
+
+\ CODES DE TRICHE
+ \________________
+
+Ce jeu est tellement chiant qu'il faut au moins ça pour le finir :
+
+Effet				Adresse		Valeur
+Vies infinies		7E061F		  9
+Energie infinie 1	7E061C		  0
+Energie infinie 2	7E061D		 112
+Uzzi infini			7E063D		  9
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack       : Happexamendios
+Traduction : Happexamendios
+Bêta-Test  : Happexamendios
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Le patch "SNES-Cliffhanger-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Cliffhanger (E).smc
+  Taille de la rom: 1 048 576 octets
+  Rom avec Header ? Non
+  CRC de la rom   : A9E67214
+  CRC rom patchée : FDD19CBD
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  BSnes          [ ]		SNes9X 1.51    [x]
+  Snes 9X 1.43   [x]		Snes 9X 1.53   [x]
+  Snes 9x Geiger [ ]		Snes GT        [ ]
+  ZSnes          [ ]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+Site Web : http://generation9.kanshima.net 
+Forum : http://www.bessab.com/viewforum.php?f=12 

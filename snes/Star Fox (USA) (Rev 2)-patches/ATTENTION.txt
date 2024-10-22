@@ -1,0 +1,4 @@
+ATTENTION : Pour jouer je conseille vivement l'émulateur gratuit Snes9x Version 1.43 ou supérieure. Il simule bien la console même si le jeu est un peu acceleré par rapport à ce qu'il serait sur Super Nintendo. Si vous utilisez un autre logiciel, vous aurez droit à des erreurs...
+
+© Copyright DENIS_48 - 29/06/2006
+http://www.lylatwing.com 

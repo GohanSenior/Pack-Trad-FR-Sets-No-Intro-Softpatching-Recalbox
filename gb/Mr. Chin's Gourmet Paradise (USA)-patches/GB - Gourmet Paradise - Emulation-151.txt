@@ -1,0 +1,62 @@
+				Emulation-151 (http://www.emulation-151.com)
+
+				 vous présente la traduction de Gourmet Paradise
+						Patch 53.
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre : Gourmet Paradise
+Console : GB
+Développeur : Romstar
+Date : 1990
+Genre : Réflexion / Réflexes
+
+
+
+\ ETAT DE LA TRADUCTION : Patch 28/05/06
+ \__________________________________________________
+
+
+Tout est traduit.
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack : KS 151
+Traduction : KS 151
+Betatest : KS 151
+
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Le patch "NES - Gourmet Paradise - Emulation-151.ips" est à appliquer sur
+la rom "Gourmet Paradise (U)" du 31/08/1996.
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher. 
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils 
+peuvent créer une sauvegarde de la rom avant de patcher). 
+Voilà maintenant votre rom avec les modifications apportées par notre traduction. 
+
+
+
+\ HISTORIQUE DE LA TRADUCTION
+ \____________________________
+
+Un ancien projet commencé sous l'égide de G 9 et fini sous mon site :). 
+Un projet histoire de tuer 1 à 2 heures de mon temps libre ;).
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://www.emulation-151.com
+Forum : http://www.emulation-151.com/Forum/phpBB2/index.php

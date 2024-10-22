@@ -1,0 +1,91 @@
+The humble pope Neige the reversing schemer and avatar of laziness est fier de
+présenter la patch de traduction de Crystal Beans From Dungeon Explorer
+version 1.0.
+
+Cette patch traduit le jeu japonais Crystal Beans From Dungeon Explorer en
+français.
+
+Cette patch doit être appliquée à une ROM de "Crystal Beans From Dungeon
+Explorer (J)" sans entête.
+
+Vous allez avoir besoin de tsukuyomi (disponible ici
+http://byuu.cinnamonpirate.com/files/tsukuyomi_v01.zip) ou d'un autre patcheur
+UPS pour appliquer cette patch.
+
+
+Crédits
+Création originale: Birthday et Hudson Soft
+
+Localisation française :
+Romhacking, Programmation, Assembleur : Neige
+Graphismes : Neige & Kogami
+Traduction : Hiei-
+Adaptation : Rid
+Correction : Rid
+Bêta-test : Neige, Hiei- & Kogami
+Correction de la table des kanjis : BRPXQZME
+
+Remerciements:
+Ilfak Guilfanov pour Ida Pro, le meilleur désassembleur au monde.
+  <www.hex-rays.com>
+Nightcrawler pour Romhacking.net.
+Bessab pour bessab.com.
+Inverse pour le défunt site Romhacking.com, le premier site où j'ai commencé à
+  apprendre sur le romhacking.
+Ryusui pour son utilitaire "TheCheat"
+
+
+Information sur le jeu
+
+Contrôles:
+A       Confirmer, parler
+B       Attaque longue portée, annuler, retourner au menu précédent
+X       Sortir à la carte du monde (seulement dans les villes)
+Y       Attaque courte portée
+L       Utiliser une potion blanche
+R       Utiliser un/des crâne(s) noir(s)
+Start   Pause et menu du personnage
+Select  Inutilisé
+
+Pour sauvegarder une partie, ouvrez le menu en appuyant sur START,
+sélectionnez Sauv. et ensuite choisissez la fiche où enregistrer la partie.
+
+Pour reprendre une partie, sélectionnez votre personnage et ensuite choisissez
+la fiche où la partie a été enregistrée.
+
+N.B. Vous ne pourrez pas sauvegarder une partie si vous changez de personnage.
+Il vous faudra reprendre le premier personnage que vous aviez choisi.
+
+Attributs initiaux des personnages:
+          PV  AG  AT  VI  IN
+Fighter   18   5   8   7   4
+Warrior   21   4   7   8   4
+Bow-Man   15   7   4   4   6
+Wizard    13   5   6   5   7
+Priest    12   5   5   4   8
+Monk      24   6   8   9   2
+Kage      15   8   5   5   4
+Witch     15   5   7   5   7
+Thief     13  13   5   5   4
+Bard      11   7   4   4  13
+Dragon    28   9   7  13   3
+Robot     18   6  13   6   6
+
+Objets:
+Haricot - Vie supplémentaire (appuyez sur A pour reprendre la partie)
+Petit coeur - Guérit 25% des PV maximum du personnage 
+Grand coeur - Guérit tous les PV du personnage 
+Cape - Protège le personnage de (Intelligence x Niveau) point de dommages
+Bottes - Augmente temporairement l'agilité du personnage
+Mirroir - Fait ricocher les projectiles du personnage
+Joyaux miraculeux - Fait augmenter le niveau du personnage (la couleur
+                    détermine l'attribut qui va être augmenté)
+Potion blanche - Utilisé pour guérir le personnage
+Crâne noir - Utilisé pour exécuter une attaque magique
+
+Calcul de la puissance magique des personnages:
+Intelligence       0-7  8-15  16-20
+Puissance magique   3    2      1
+
+Les potions blanches guérissent (Max PV / Puissance magique) PV.
+Il faut (Puissance magique) crânes noirs pour exécuter une attaque magique.

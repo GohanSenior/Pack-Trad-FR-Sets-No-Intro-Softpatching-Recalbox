@@ -1,0 +1,127 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                               Astyanax
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Astyanax
+Console		: Nintendo NES
+Développeur	: Jaleco
+Editeur		: Jaleco
+Date		: Mars 1990
+Genre		: Plates-formes
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 12/11/2013) :
+ \_________________________________________________________________
+
+Ce jeu assez méconnu a failli ne pas voir le jour.
+J'étais en train de finaliser le bêta test lorsqu'on m'avertit
+qu'un patch réalisé par Vectrex280996 pour le même jeu était
+sorti quelques semaines avant (le patch est dispo sur Romhacking.net,
+mais pas sur le site de la Traf - du moins à l'heure où j'écris
+ces lignes)
+
+Je me suis tâté pour savoir si ça valait le coup de terminer
+le patch et après quelques hésitations, je me suis dit que ça ne
+changeait rien et que je n'aurais pas passé une journée sur
+ce jeu pour des clous.
+
+Le jeu vous propose d'incarner Astyanax, un djeun'z de 16 ans
+rêvant perpétuellement d'une jeune femme qui l'appelle.
+Son destin changera définitivement lorsqu'il se verra attiré
+dans un royaume étrange où il aura pour mission de...
+de ??
+de ???
+Allez, vous le savez sûrement...
+de ????
+de sauver la princesse locale ! 
+Ben oui, je sais, ce n'est pas franchement original...
+
+Vous voici donc armé d'une hache de bataille, d'une armure
+rutilante et vous voilà parti pour aller montrer au méchant
+de service qu'on ne peut décemment pas capturer de la princesse
+sans se prendre un coup entre les omoplates...
+
+Le principe est vu et revu, et j'ai pensé jouer à un clone
+de Castlevania. On parcourt du château, des ponts, on tue
+des streums par paquets de 20 et on tombe bêtement dans
+des trous...
+
+Le jeu n'est pas transcendant, mais on passe un bon moment
+à latter du squelette à coup de boules de feu.
+
+Le jeu n'est pas spécialement complexe, et l'absence de password
+ou de continues est compensée par un code secret permettant
+le choix du niveau.
+Le personnage ne répond pas trop mal aux sollicitations, même
+si je le trouve un peu pataud et lourd pendant les sauts.
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Attaque spé. infinie   0093          10
+Energie infinie        0091          15
+Vies infinies          039A          09
+
+
+/!\ Informations relatives à l'utilisation des codes de triche :
+
+Il faut désactiver les codes à la fin de chaque niveau
+pour éviter que le décompte des points ne tourne en boucle.
+
+Il y a également des risques de bugs lors des affrontements
+dans la tour (dernier niveau). Le jeu s'est gelé quelques fois
+lorsque je lançais trop d'attaques spéciales contre les boss.
+Dans le doute, évitez de lancer des attaques magiques contre
+les boss.
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Astyanax.ips" est à utiliser sur la rom suivante :
+Nom de la rom   : Astyanax.nes
+Taille de la rom: 262 160 octets
+Rom avec Header ? Oui
+CRC de la rom   : 2FDFBC79
+CRC rom patchée : 29D3D5D2
+
+Le patch a été créé avec Ips XP 1.11 et a été testé avec les émulateurs suivants :
+  FCeu XD SP [x]
+  NesTicle   [ ]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

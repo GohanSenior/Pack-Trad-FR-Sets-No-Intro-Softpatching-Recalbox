@@ -1,0 +1,87 @@
+			Génération IX (http://generation9.kanshima.net) 
+				vous présente la traduction de
+					Prisoners of War
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+Titre	: Prisoners of War
+Console	: Nes
+Développeur : SNK 
+Date	: Septembre 1989
+Genre	: Beat'em up
+
+
+\ ETAT DE LA TRADUCTION : Patch 1.0 créé le 25/07/2012 
+ \_____________________________________________________ 
+
+Haaaa ! Les beat'em up à l'ancienne ! Le grand trip du soldat
+solitaire, seule solution à un insoluble conflit...
+
+Le grand cliché de la fin des années 80, quoi !
+Toujours est-il qu'après m'être attardé sur "Kid kool" et ses
+plantes miraculeuses (cf le patch éponyme), je me suis penché
+sur ce jeu pensant ne pas avoir trop à réfléchir.
+
+Ben j'avais raison... Classique de l'arcade, ce jeu ne
+nécessite pas de se creuser les méninges !
+On n'a juste à avancer, tatanner tout ce qui bouge,
+et avancer jusqu'aux prochains gugusses à savater
+et ainsi de suite. Le schéma traditionnel, quoi...
+
+Signé SNK, je m'attendais à un jeu palpitant et
+à l'action omniprésente ; mais on voit que la célèbre
+firme est plus à l'aise avec les machines d'arcade
+qu'avec la Nes. L'action n'est pas aussi frénétique
+qu'on aurait pu s'y attendre, et le jeu est
+limite barbant.
+
+Les ennemis sont toujours les mêmes et bien que les
+décors soient travaillés et fins, l'affichage bugge
+très souvent (à moins que ce ne soit l'émulateur
+qui n'arrive pas à suivre, je n'ai pas testé avec
+un autre).
+
+A côté de ça, le jeu est sympa à jouer mais ne laisse
+pas un souvenir impérissable. Disons que c'est parfait
+pour occuper pendant la digestion avant de se jeter
+dans la piscine.
+
+
+\ CODES DE TRICHE 
+ \________________
+
+J'avais trouvé les vies et les munitions infinies, mais j'ai
+oublié de garder les codes et j'ai la flemme de les rechercher,
+alors ça sera pour un autre coup :P
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack 	  : Happexamendios
+Traduction: Happexamendios
+Bêta-Test : Happexamendios
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Le patch (nom du patch) est à utiliser sur la rom suivante :
+Nom de la rom   : P.O.W Prisoners of War (U)[!].nes
+Taille          : 262 160 octets
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher. 
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils 
+peuvent créer une sauvegarde de la rom avant de patcher). 
+Voilà maintenant votre rom avec les modifications apportées par notre traduction. 
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+Site Web : http://generation9.kanshima.net 
+Forum : http://www.bessab.com/viewforum.php?f=12 

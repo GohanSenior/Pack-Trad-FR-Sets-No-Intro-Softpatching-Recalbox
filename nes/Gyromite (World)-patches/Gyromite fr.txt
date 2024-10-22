@@ -1,0 +1,22 @@
+Bah voilà, un jeu qui ne doit pas rappeler grand chose à une bonne majorité de consoleux.
+
+Il a été tout con à traduire.
+
+Le principe du jeu, en bref est simple, mais la forme est spéciale.
+Le bonhomme en blouse blanche que vous controllez doit choper toutes les bombes dans le niveau sans se faire bouffer par les adversaires et écraser par les piliers qui montent et qui descendent.
+MAIS QU'EST-CE QUI EST SPECIAL?-me direz-vous...
+bah les piliers sont controllés par les boutons A et B de la 2ème manette.
+Le jeu faisait partie de la ROBOT SERIE, ce qui permettait à NINTENDO de s'engraisser en revendant un robot à la con qui tenait une manette entre ses pseudo-mains et qui appuyait sur les boutons.
+Enfin, on pouvait toujours prendre les 2 manettes dans une main ou faire une partie avec un pote.
+
+Ici, donc sous votre émulateur, remplacez les boutons A et B de la 1ère manette par ceux de la 2ème manette et -quoi qu'on en dise- c'est un jeu bien marrant :)
+
+NB: en ce qui concerne la traduction, je n'ai pas modifié les sprites représentant des mots, mon éditeur de sprites ne décodant pas correctement le jeu.Désolé! :)
+
+NB2: remerciements à Lestat d'avoir réussi tant bien que mal à me faire comprendre comment marchent les éditeurs de traduction.
+
+Pour tous remerciements, félicitations mais surtout, je pense, insultes, provocations, :) 
+
+Bon amusement!
+
+Moryson

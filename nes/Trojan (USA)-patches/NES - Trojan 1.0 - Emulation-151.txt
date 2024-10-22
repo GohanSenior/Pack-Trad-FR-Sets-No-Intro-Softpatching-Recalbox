@@ -1,0 +1,50 @@
+Emulation-151 (http://www.emulation-151.com)
+Vous présente la traduction de Trojan
+
+Projet n° 39.
+
+\ INFOS SUR LE JEU
+ \_________________
+
+Titre : Trojan
+Console : NES
+Développeur : Jaleco
+Date : 1986
+Genre : Action.
+
+
+\ ETAT DE LA TRADUCTION : 1.0 créé le : 01/09/05
+ \___________________________________
+
+Tout est traduit.
+
+Taille du script à traduire : 1.16 Ko
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE
+ \_______________________________
+
+Hack : KS151
+Traduction : KS151
+Beta-Test : ColibriAlpha
+
+
+\ COMMENT APPLIQUER LE PATCH
+ \___________________________
+
+Le patch NES - Trojan 1.0 - Emulation-151.ips est à utiliser sur la rom Trojan (U).nes.
+La patch semble entrainé des sauts d'images sur les versions (E) et PC10.
+
+Pour appliquer le patch de traduction, il faut tout d'abord recuperer un outil pour patcher.
+Il suffit ensuite de selectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent creer une sauvegarde de la rom avant de patcher).
+Cependant vous pouvez vous rendre sur Emulation-151.com où vous pourrez trouver la rom déjà patchée :).
+Voila maintenant votre rom avec les modifications apportees par notre traduction.
+
+\ CONTACTS
+ \_________
+
+N'hesitez pas a nous faire part de vos remarques, des eventuels bugs et fautes de francais
+ou meme des endroits non traduits qui n'auraient pas ete cites plus haut.
+Site Web : http://www.emulation-151.com
+Msn : ks151@msn.com

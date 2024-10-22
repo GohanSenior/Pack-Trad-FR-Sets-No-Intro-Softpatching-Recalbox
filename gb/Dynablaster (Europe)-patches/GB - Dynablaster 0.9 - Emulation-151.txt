@@ -1,0 +1,54 @@
+Emulation-151 (http://www.emulation-151.com)
+
+		      vous présente le patch n°79 de Dynablaster sur Game Boy
+
+
+\ INFOS SUR LE JEU
+ \_________________
+
+Titre       : Dynablaster
+Console     : Game Boy
+Développeur : T & E Soft
+Date        : 1992
+Genre       : Hudson Soft
+
+
+\ ETAT DE LA TRADUCTION : Patch 0.9 du 30/08/07
+ \_________________________________________________
+
+Ce qui a été fait :
+- Extraction des scripts : 4,2 ko
+- Insertion des scripts  : 4,2 ko
+			 
+Ce qui n'est pas fait:
+- Beta test à 100 %
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE
+ \_______________________________
+
+Hack       : KS151
+Traduction : KS151
+
+
+\ COMMENT APPLIQUER LE PATCH
+ \___________________________
+
+ATTENTION !!! Le patch est à appliquer sur la rom Dynablaster (E) [!].gb
+              La rom doit faire 131 072 octets.
+	      Les autres roms (si elles existent) n'ont pas été testées. Il est donc possible que ça ne marche pas.
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher.
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org).
+Il suffit ensuite généralement de sélectionner la rom puis le fichier ips et de valider
+(Certains outils peuvent créer une sauvegarde de la rom avant de patcher).
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+\ CONTACTS
+ \_________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'aurraient pas été cités plus haut.
+Site Web          : http://emulation-151.com
+Forum             : http://www.emulation-151.com/Forum/phpBB3/index.php

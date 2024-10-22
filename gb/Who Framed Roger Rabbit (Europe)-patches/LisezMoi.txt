@@ -1,0 +1,63 @@
+Qui veut la peau de Roger Rabbit (Game Boy)
+Traduction en Français v1.0 (24/09/2024)
+
+
+------------------------
+CONTENU DE L'ARCHIVE ET UTILISATION
+------------------------
+Normalement, l'archive ZIP doit contenir:
+RogerRabbit_FR.ips - Le patch IPS de Qui veut la peau de Roger Rabbit
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+comme LunarIPS.
+Ce patch est à utiliser avec la rom
+Who Framed Roger Rabbit (Europe).gb
+Taille: 131072 octets (128 KiB)
+CRC32: DBEED84E
+SHA256: e0929d2e53bde47d3251ba6ba5ce425d0fc0742c656a54de9721333173a786e7
+
+
+ROM patché:
+Taille: 131072 octets (128 KiB)
+CRC32: 52DE6286
+SHA256: fc75f777d43ce1c9ee35e0a8e180e8802207cc4e6f827a12df50357ad56af236
+
+
+--------
+TRADUCTION
+--------
+Yoda07:
+menu: 100%
+script: 100%
+gfx: 100%
+
+
+----------------------------------------------------------------
+CONTACTS
+----------------------------------------------------------------
+Une remarque, une question ou une correction à apporter à la
+traduction de Qui veut la peau de Roger Rabbit.
+
+Yoda07 - juin-2010@hotmail.fr
+
+----------------------------------------------------------------
+REMARQUES LEGALES
+----------------------------------------------------------------
+Le patch de traduction française de Qui veut la peau de Roger Rabbit n'est
+pas officiel et n'est pas supporté par Nintendo et CAPCOM.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !

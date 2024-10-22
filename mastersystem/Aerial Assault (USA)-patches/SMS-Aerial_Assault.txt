@@ -1,0 +1,124 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                            Aerial Assault
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Aerial Assault
+Console		: Master System
+Développeur	: Sanritsu
+Editeur		: SEGA
+Date		: 1990
+Genre		: Action
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 29/05/2015) :
+ \_________________________________________________________________
+
+La traduction de ce jeu est un peu le fruit du hasard, comme souvent...
+En fait, c'est après avoir récupéré le fullset des roms Master System
+que j'ai cliqué sur cette rom pour reconfigurer mes émulateurs.
+
+J'ai juste passé l'écran titre et j'ai pu voir qu'il y avait un peu
+de texte. J'ai oublié ce jeu pendant quelques jours, le temps d'avancer
+sur un autre gros (très gros) projet de traduction.
+Un peu lassé par le projet sus-évoqué, je me dis qu'une petite trad
+facile me changerait un peu. C'est là qu'"Aerial Assault" m'est
+revenu en mémoire.
+
+Ni une ni deux, je dégaine mon éditeur hexa et branche ma manette!
+Quelques heures plus tard, le jeu est traduit.
+
+Certes, il s'agit d'un shoot'em up tout ce qu'il y a de plus
+classique ; une  méchante organisation a décidé de régner sur
+sur le monde grâce à un laser capable de détruire la couche
+d'ozone et rayer des nations de la carte. Entre nous, c'est
+complètement crétin ! En effet, si on détruit la couche d'ozone
+et qu'on vitrifie des pays, sur quoi on va régner ? Hein, franchement ?
+
+Bref ! Toujours est-il qu'il vous revient d'embarquer dans le
+tout dernier modèle d'avion de combat, j'ai nommé le "Freedom
+Fighter", un super zingue super armé et super mieux-que-tout,
+seul rempart de l'humanité contre la vilaine organisation...
+
+Ce jeu comporte 3 modes de difficulté, et chacun possède ses propres
+textes. Les briefings de missions sont différents, les niveaux
+aussi et la cinématique finale également.
+
+Graphiquement, le jeu n'est pas transcendant. On voit qu'on est
+sur 8 bits et la Master System n'est pas à la fête avec ce jeu.
+Les décors ne sont pas folichons (quoique le niveau de la forteresse
+n'est pas mal du tout), les animations sont plus que light
+et les musiques sont franchement casse becs.
+
+A côté de ça l'avion répond correctement et la difficulté n'est
+pas trop mal dosée. Cela dit, je trouve que certains bonus d'armement
+ne servent strictement à rien (notamment un tir qui part dans la
+direction où l'on va : on recule; ça tire en arrière, on va en haut;
+ça tire en haut, etc. Plutôt galère dans une nuée d'ennemis)
+
+En conclusion, ce n'est pas une rom qui restera dans les mémoires,
+mais il a l'avantage d'occuper un petit moment avant de passer
+à autre chose.
+
+La traduction est complète (hormis l'animation du "push start"
+de l'écran titre), mais il semble que certains textes s'affichent
+en fonction du score établi dans le niveau. Je n'ai pas pu les
+tester tous, donc n'hésitez pas à faire remonter l'info s'il y a
+un bug. 
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Vies infinies          00C139          03
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Aerial Assault.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Aerial Assault (UE) [!].sms
+  Taille de la rom: 262 144 octets
+  Rom avec Header ? Non
+  CRC de la rom   : ECF491CF
+  CRC rom patchée : 68E88F06
+
+Le patch a été créé avec Ips XP 1.11 et a été testé avec les émulateurs suivants :
+  Emukon      [x]		Kega Fusion [x]
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

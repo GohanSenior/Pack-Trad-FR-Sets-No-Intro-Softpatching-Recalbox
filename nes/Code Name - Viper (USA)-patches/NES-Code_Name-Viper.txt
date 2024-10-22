@@ -1,0 +1,107 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                           Code Name - Viper
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Code Name - Viper
+Console		: Nintendo NES
+Développeur	: Capcom
+Editeur		: Capcom
+Date		: Mars 1990
+Genre		: Action
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 22/11/2013) :
+ \_________________________________________________________________
+
+Encore un p'tit jeu Nes !
+Cette fois il s'agit d'un jeu de plates-formes bien bourrin
+où on part en chasse contre un puissant cartel de la drogue.
+
+Nous incarnons donc le soldat Smith envoyé détruire 7 bases
+de production de drogue. La subtilité est qu'on ne peut pas
+terminer le niveau tant qu'on n'a pas trouvé un commando
+retenu prisonnier. Une fois délivré, ce dernier vous donnera
+une bombe qui vous servira à faire sauter la porte menant
+à la fin du niveau.
+
+L'intérêt de "Code name:Viper" est que les prisonniers (femmes,
+enfants, commandos...) sont planqués derrière des portes
+dissimulées dans les murs. Rassurez-vous, on arrive
+facilement à repérer les dites portes !
+
+Il vous revient donc d'ouvrir toutes les portes possibles
+afin de libérer tout le monde. Les portes permettent aussi
+de se planquer temporairement des ennemis ou de leurs tirs,
+et elles renferment aussi des bonus (plus de temps, munitions,
+vies...)
+
+Le jeu ne comporte que 7 niveaux, mais la principale difficulté
+provient du nombre d'ennemis vous sautant dessus. C'est bien
+simple; y en a partout ! Et en plus, ils peuvent revenir !!
+
+Le personnage répond bien aux sollicitations et les graphismes
+ne sont pas trop mal pour une 8 bits.
+Je ne m'éterniserai pas sur la musique, je dois avouer que
+j'ai préféré jouer sans le son, c'est dire :D
+
+La traduction est complète et j'espère que vous apprécierez
+ce petit jeu autant que moi...
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Vies infinies          06AA          09
+Energie infinie        06F8          03
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "CodeName_Viper.ips" est à utiliser sur la rom suivante :
+Nom de la rom   : Code Name - Viper (U).nes
+Taille de la rom: 262 161 octets
+Rom avec Header ? Oui
+CRC de la rom   : 65771186
+CRC rom patchée : 6E813F53
+
+Le patch a été créé avec SmartIPS et a été testé avec les émulateurs suivants :
+  FCeu XD SP [x]
+  NesTicle   [ ]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

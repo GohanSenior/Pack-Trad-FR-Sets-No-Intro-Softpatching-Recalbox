@@ -1,0 +1,43 @@
+SHANTAE (Game Boy Color) - Patch de traduction française par Anthiflo
+Réalisée grâce aux outils et l'aide aditionnelle de Lorenzooone.
+
+--------------------------------------------------------
+
+Ce que contient la traduction :
+- Dialogues traduits
+- Noms de lieux traduits
+- Éléments d'interface traduits
+- Menus traduits
+
+Seuls les crédits ne sont pas traduits car bien trop compliqués à modifier pour une valeur ajoutée faible.
+Les noms des villes et des personnages récurents ont été conservés.
+
+--------------------------------------------------------
+
+Comment installer le patch :
+
+- Dézipper l'archive .zip avec un logiciel compatible
+- Récupérer une rom de Shantae (Game Boy Color) en version USA
+- Télécharger Lunar IPS : http://fusoya.eludevisibility.org/lips/index.html
+- Lancer Lunar IPS et cliquer sur "Apply IPS Patch"
+- Sélectionner le patch ShantaeFR
+- Sélectionner la rom de Shantae originale
+- La rom est désormais traduite en français !
+
+--------------------------------------------------------
+
+Libertés de traduction :
+
+- Certains nom/expressions sont récupérés des jeux Shantae les plus récents.
+- La police d'écriture de certains éléments graphiques a été changée (en même temps que la traduction) pour coller à celle utilisée dans les opus suivants.
+
+--------------------------------------------------------
+
+Notes de mise à jour :
+
+Version 1.2
+- Modification du "Appuyez sur Start" sur l'écran titre
+
+Version 1.1
+- Modification de certains textes (mineur)
+- Ajout du Mode d'emploi intégralement traduit

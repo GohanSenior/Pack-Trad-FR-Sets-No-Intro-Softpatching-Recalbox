@@ -1,0 +1,42 @@
+		***********************************************
+		************G_E_N_E_R_A_T_I_O_N    I_X*********
+		*************http://generation9.kanshima.net***
+		***********************************************
+	--------------------------------------
+	--Traduction de Totally RAd sur NES---
+	--------------------------------------
+->Fait par Speeder-Speed
+                 	~~~~Attention aux problèmes~~~~
+
+Je ne suis pas responsable des dommages pouvant être
+causés par ce patch. Ce patch est GRATUIT.
+Vous ne pouvez le vendre à qui que ce soit. 
+
+*-------> LES VERSIONS: 
+
+""""""""""""""""""""""""""""""
+""" VERSION du Patch: v1.00 """ 22:16 30/09/00
+""""""""""""""""""""""""""""""
++Texte         = 100% 
++Menu          = 100%
++Objets        = 100%
++Lieux         = 100%
++Le graphisme  = 100%
+
+
+
+*------->Comment appliquer le patch ?
+
+Le patch "NES-TotallyRad-1.0.IPS" est à utiliser sur la rom suivante :
+  Nom de la rom   : Totally Rad (U) [!].nes
+  Taille de la rom: 262 160 octets
+  Rom avec Header ? Non
+  CRC de la rom   : B629D555
+  CRC rom patchée : 1D199631
+
+
+*------->CONTACT:
+
+La traduction a été faite par Speeder-speed (membre de GIX).
+Le patch se trouve sur le site du groupe de traducteurs: GENERATION IX
+< http://generation9.kanshima.net >

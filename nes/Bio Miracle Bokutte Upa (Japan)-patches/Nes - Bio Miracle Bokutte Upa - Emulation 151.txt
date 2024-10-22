@@ -1,0 +1,74 @@
+				Emulation-151 (http://www.emulation-151.com)
+                                              
+			 vous présente la traduction de Bio Miracle Bokutte Upa
+		basée sur la traduction anglaise de Kitsune Sniper alias David Silva.
+						
+						Patch 56
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre : Bio Miracle Bokutte Upa
+Console : Nes
+Développeur : Konami
+Date : 1993
+Genre : Plateforme
+
+
+
+\ ETAT DE LA TRADUCTION : Patch 10/07/06
+ \__________________________________________________
+
+
+Tout est traduit.
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack : KS 151.
+Traduction : KS151.
+Betatest : KS151.
+
+Traduction anglaise : Kitsune Sniper
+
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Le patch "NES - Bio Miracle Bokutte Upa - Emulation 151.ips" est à appliquer sur
+la rom "Bio Miracle Bokutte Upa (J).NES" du 10/11/1999.
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher. 
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils 
+peuvent créer une sauvegarde de la rom avant de patcher). 
+Voilà maintenant votre rom avec les modifications apportées par notre traduction. 
+
+
+\ HISTORIQUE DE LA TRADUCTION
+ \____________________________
+
+J'ai tout simplement hérité de quelques roms de Perigourdin. Bon boulot mais hélas j'ai été obligé de tout
+extraire pour retraduire. Je n'ai pu aussi garder le titre retravailler par Peri : "Bébé Upa". Il 
+aurait certainement fallu travailler un peu plus dessus pour le mettre.
+
+En tout cas le jeu est mignon, sympathique et devrait réjouir les plus petits.
+
+Merci à David Silva de m'avoir autorisé à me servir de son projet. Il est en effet toujours plus facile 
+de partir d'un travail anglais que de la version originale en japonais :).
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://www.emulation-151.com
+Forum :   http://www.emulation-151.com/Forum/phpBB2/index.php
+
+-- David "Kitsune Sniper" Silva
+-- Kitsune's Den - http://vice.parodius.com/

@@ -1,0 +1,112 @@
+**************************************
+Traduit en Français par: Garcon Etoile
+**************************************
+18-11-2009
+**************************************
+
+----------------------------------------------------------------
+*******************Table des matières******************         |
+----------------------------------------------------------------
+
+1.    L'HISTOIRE DU JEU
+2.      CONTENU DE L'ARCHIVE ET INSTALLATION
+3.    LES PATCHS PUBLIES
+4.      TOUT CE QUI A ETE FAIT
+5.    L'ÉQUIPE DE LA TRADUCTION
+6.      CONTACTS
+7.    REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  Alex Kidd: High Tech World                                  |
+----------------------------------------------------------------
+
+Le jeune Alex, en villégiature chez ses souverains de parents, 
+éprouve le vif désir en cette belle matinée de se rendre dans la
+nouvelle salle d’arcade qui vient d’ouvrir dans la ville voisine.
+Le problème est que le jeune héros ignore le chemin pour arriver 
+à cette salle de jeux. Sa première mission sera d’explorer 
+minutieusement l’immense manoir familial à la recherche des 
+morceaux de plan vers la ville.
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET INSTALLATION                        |
+----------------------------------------------------------------
+
+L'archive ZIP doit contenir :
+
+1. Alex_Kidd_High_Tech_World_[PATCH].ips
+2. Lisez-Moi.txt
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+(le Patcheur "Lunar Ips" par exemple).
+
+L'adresse: 
+http://fusoya.eludevisibility.org/lips/
+
+___________
+IMPORTANT! 
+___________
+
+Ce patch est à utiliser 'UNIQUEMENT' avec la rom suivante (81 Ko):
+- Alex_Kidd_in_High_Tech_World_(UE)_[!].zip
+
+1. Télécharger la rom archivée.
+2. Décompressée la rom.
+3. Appliquer le patch sur la rom décompressée suivante (128 ko):
+- Alex Kidd in High Tech World (UE) [!].sms
+4. Vous pouvez jouer à la rom decompressée ou recompresser 
+en '.zip' une fois la modification faite.
+
+----------------------------------------------------------------
+3.  LES PATCHS PUBLIES                                          |
+----------------------------------------------------------------
+
+- Version 1
+
+----------------------------------------------------------------
+4.  TOUT CE QUI A ETE FAIT                                      |
+----------------------------------------------------------------
+
+Script          :    100 %
+Graphismes:     :    100 % 
+(Les graphismes contiennent 3 mots en japonais)
+
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION                                   |
+----------------------------------------------------------------
+
+   garcon_etoile : Tout
+
+----------------------------------------------------------------
+6.  CONTACTS                                                    |
+----------------------------------------------------------------
+
+Une remarque, une question ou une correction à apporter à la
+traduction de "Alex Kidd: High Tech World".
+
+garcon_etoile@hotmail.fr
+
+
+----------------------------------------------------------------
+7.  REMARQUES LEGALES                                           |
+----------------------------------------------------------------
+
+Le patch de traduction française de "Alex Kidd: High Tech World"
+n'est pas officiel et n'est pas supporté par Sega.
+
+Ce patch est gratuit et peut être distribué gratuitement.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+REMERCIEMENTS à la communauté du TRAF: http://traf.romhack.org/
+
+Merci de m'avoir lu !
+----------------------------------------------------------------
+
+garcon_etoile
+

@@ -1,0 +1,67 @@
+Tale Spin (Game Boy)
+Traduction en Français v1.0 (05/05/2021)
+
+
+------------------------
+Genre: plateforme
+------------------------
+TaleSpin est un jeu de tir tiré de la série animée du même nom. Vous incarnez Baloo, l'ours du Livre 
+de la Jungle réincarné en pilote de livraison, à travers ses aventures où l'objectif sera de survivre 
+aux assauts des sbires de Shere Khan. Vous contrôlez un petit avion pouvant tirer dans toutes les directions 
+et devez également récupérer des pièces qui serviront à améliorer votre appareil.
+
+
+------------------------
+CONTENU DE L'ARCHIVE ET UTILISATION
+------------------------
+Normalement, l'archive ZIP doit contenir:
+Tale Spin (FR) - beta.ips - Le patch IPS de TaleSpin
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+comme LumarIPS.
+Ce patch est à utiliser avec la rom
+Tale Spin (U).gb
+Taille: 131072 octets (128 KiB)
+CRC32: DE383E73
+SHA256: F20EF9AE0CF8C19F78D1446AA0C66B8E6B9D3AD64D4824CBAAD8AD471B4B9A7B
+
+ROM patché:
+Taille: 131072 octets (128 KiB)
+CRC32: 71CC459D
+SHA256: 51C5BC63A8D2DC3D82BB264820023B95DE0C91AAD8E5550D8EB377BBBA6B21C3
+
+
+--------
+TRADUCTION
+--------
+Yoda07
+
+----------------------------------------------------------------
+CONTACTS
+----------------------------------------------------------------
+Une remarque, une question ou une correction à apporter à la
+traduction de Tale Spin.
+
+Yoda07 - juin-2010@hotmail.fr
+
+----------------------------------------------------------------
+REMARQUES LEGALES
+----------------------------------------------------------------
+Le patch de traduction française de TaleSpin n'est
+pas officiel et n'est pas supporté par Capcom ou Nintendo et Disney.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !

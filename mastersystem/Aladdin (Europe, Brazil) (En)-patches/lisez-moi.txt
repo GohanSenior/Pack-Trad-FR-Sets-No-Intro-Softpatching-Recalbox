@@ -1,0 +1,58 @@
+		***********************************************
+		**********G_E_N_E_R_A_T_I_O_N    I_X***********
+		******http://generation9.romhack.net***********
+		***********************************************
+	    -------------------------------------------------------
+	    -------------Traduction de Aladdin sur SMS-------------                    
+	    -------------------------------------------------------
+
+-> Rom-hacking par Metallines et Speeder-speed
+-> Traduction du script par Greatskaori
+                 	
+
+~~~~Attention aux problèmes~~~~
+
+Je ne suis pas responsable des dommages pouvant être
+causer par ce patch. Ce patch est libre donc il GRATUIT.
+Vous ne pouvez le vendre à qui que ce soit. 
+
+*-------> LES VERSIONS: 
+
+""""""""""""""""""""""""""""""
+""" VERSION du Patch: v1.00 """   18:10 07/02/2001
+""""""""""""""""""""""""""""""
++Texte         = 100% 
++Le graphisme  =  100%
+
+""""""""""""""""""""""""""""""
+""" VERSION du Patch: v0.99 """   18:00 04/02/2001
+""""""""""""""""""""""""""""""
++Texte         = 100% 
++Le graphisme  =  99%
+
+""""""""""""""""""""""""""""""
+""" VERSION du Patch: v0.98 """   22:06 03/12/2000
+""""""""""""""""""""""""""""""
++Texte         = 100% 
++Le graphisme  =  98%
+
+*------->CONTACT:
+Rom-hacking par Metallines
+Rom-hacking graphique par Speeder-speed
+Traduction du script par Greatskaori
+Le patch se trouve sur le site du groupe de traducteurs: GENERATION 9
+< http://www.generation9.fr.st> ou < http ://generation9.romhack.net>
+
+--------------Pour nous contacter par e-mail: --------------
+<speeder-speed@caramail.com> (G9)->SPEEDER-SPEED
+<yamaneko@free.fr> (G9)->YAMANEKO
+<ragnarOK@caramail.com> (G9)->RAGNAROK
+<androidlord@hotmail> (G9)->ANDROID LORD
+<asac92@chello.fr>(G9)->METALLINES
+<Kikithegod@aol.com>(G9)->KIKITHEGOD
+<cassoule@club-internet.fr>(G9)->CASSOULET
+<greatskaori@yahoo.com>(G9)->GREATSKAORI	
+<moogle@net-up.com>(G9)->MOOGLE  
+<veilleuxlouis@hotmail.com> (G9)->GOLDEN MEN
+<meuh6@hotmail.com> (G9)-> MeuhMeuh
+A+ :)

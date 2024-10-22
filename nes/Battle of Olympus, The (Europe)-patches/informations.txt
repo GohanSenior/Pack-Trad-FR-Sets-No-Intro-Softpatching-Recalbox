@@ -1,0 +1,61 @@
+				The Battle of Olympus
+
+
++---------------------------+
+|  Informations sur le jeu  |
++---------------------------+
+Titre original : The Battle of Olympus
+Console : Nintendo (Nintendo Entertainment System)
+Développement / Édition : Imagineer et Infinity
+Année de sortie : 1990
+
+Dans "The Battle of Olympus", plongez au c½ur de la Grèce Antique et
+des musiques subliminales. Incarnez Orphée dont la dame de ses pensées,
+Hélène, a été enlevée par le Dieu Hadès, maître absolu du Tartare.
+
+Visitez les lieux les plus célèbres de la Grèce Antique comme le
+Peloponnèse ou la Crète et combattez des monstres mythiques comme le
+Lion de Némée ou le Minotaure. Des dieux vous aideront dans votre quête
+en vous aurez en votre possession des objets légendaires comme l'Oeil
+des Grées ou les sandales d'Hermès.
+
+Découvrez le jeu le plus mythique de la Nintendo dans son unique
+traduction française.
+
++---------------------------+
+| A propos de la traduction |
++---------------------------+
+Version : 1.0
+Traducteur : Rémi Leclerc
+Site : http://www.lyssal.com
+Page : http://www.lyssal.com/emulation/nintendo/the_battle_of_olympus/
+Forum : http://www.lyssal.com/discussion/forum/forum/?id_forum_forum=32
+
+Il faut appliquer la traduction sur la version européenne du jeu. Le nom
+du fichier doit donc normalement ressembler à  "Battle of Olympus, The (E).nes"
+Vous pouvez télécharger ce fichier sur la page :
+http://www.lyssal.com/emulation/nintendo/the_battle_of_olympus/
+
+Certaines choses ne sont pas traduites :
+- Sur la carte, "ARCADIA" et "PHRYGIA"
+- L'écran titre "THE BATTLE OF OLYMPUS"
+- À la fin, le "THE END"
+
+Et malheureusement, les accents n'ont pas pu être ajoutés
+
+Au cours du jeu, il se peut également que certaines phrases aient été
+oubliées. Si vous découvrez un oubli de traduction, vous pouvez m'aider
+en m'écrivant et en me disant précisément ce que j'ai oublié (le lieu,
+le contenu du message en anglais, éventuellement un mot de passe).
+
+Vous trouverez plus d'informations sur la traduction et poser vos
+questions sur le forum de discussion.
+
+N'hésitez pas à m'écrire à cette adresse: locelot@lyssal.com pour me
+faire part de vos suggestions, me rapporter d'éventuels bogues, des
+fautes de Français, vos remarques ou autres.
+
+Vous pouvez également laisser vos commentaires sur le forum de discussion
+du site, sur la page du jeu.
+
+Merci.

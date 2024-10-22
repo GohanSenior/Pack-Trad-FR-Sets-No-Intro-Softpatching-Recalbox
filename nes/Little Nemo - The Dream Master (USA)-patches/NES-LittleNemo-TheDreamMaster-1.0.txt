@@ -1,0 +1,46 @@
+Génération_IX (http://generation9.kanshima.net)
+
+Traduction de Little Nemo dreammaster sur Nes
+
+
+
+                 ~~~~Attention aux problémes~~~~
+
+Je ne suis pas responsable des dommages pouvant être
+causés par ce patch. Ce patch est GRATUIT.
+Vous ne pouvez le vendre à qui que ce soit. 
+
+*-------> LES VERSIONS: 
+
+""""""""""""""""""""""""""""""
+""" VERSION du Patch: v0.1 """   17:34 29/07/2000
+""""""""""""""""""""""""""""""
++Texte        = 100%
++Equipement   = 100%
++Menu         = 100%
++Objets       = 100%
++Lieux        = 100%
++Le graphisme = 100%
+
+*-------> COMMENT APPLIQUER LE PATCH ?
+Le patch "NES-LittleNemo-TheDreamMaster-1.0.IPS" est à utiliser sur la rom suivante :
+  Nom de la rom   : Little Nemo - The Dream Master (U) [!].nes
+  Taille de la rom: 262 160 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 5B4B6056
+  CRC rom patchée : 63B35D77
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+*------->CONTACT:
+
+La traduction a été faite par Speeder-speed (membre de GIX).
+Le patch se trouve sur le site du groupe de traducteurs: GENERATION IX
+
+http://generation9.kanshima.net

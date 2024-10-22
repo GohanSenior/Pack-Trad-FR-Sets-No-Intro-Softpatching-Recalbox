@@ -1,0 +1,67 @@
+				Génération IX (http://generation9.kanshima.net)
+
+		   vous présente la traduction de Conquest of the Crystal Palace sur Nintendo
+
+
+\ INFOS SUR LE JEU
+ \_________________
+
+Titre       : CONQUEST OF THE CRYSTAL PALACE
+Console     : NINTENDO (NES)
+Développeur : QUEST
+Date        : 1990
+Genre       : Plates-formes
+
+
+\ ETAT DE LA TRADUCTION : Patch Bêta du 12 avril 2006
+ \____________________________________________________
+
+Ce qui a été fait :
+- Extraction des scripts : 5.58 ko
+- Insertion des scripts  : 5.73 ko
+- Hack Graphique         : Textes sur les armes, RECORD, SCORE, APPUIE SUR START, ©2006 Génération IX
+
+Un peu de chinois a été traduit (sur les armes, ce qui ne fut pas une partie de plaisir  : j'ai remplacé les signes par des icônes que j'ai moi-même créées).
+
+Ce qui n'est pas fait
+- Quelques signes chinois n'ont pas été traduits car ils n'avaient aucune importance ou il y avait un manque de place :
+  Sur la carte du monde, les titres des niveaux et quelques signes par-ci, par-là.
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE
+ \_______________________________
+
+Hack           : BahaBulle
+Hack Graphique : Ti Dragon
+Traduction     : Ti Dragon
+
+
+\ COMMANDES
+ \__________
+
+Le système de changement d'armes n'est pas très intuitif, je me permet donc de l'expliquer ici-même.
+Donc pour changer d'armes, il suffit de se baisser (touche directionnelle vers le bas) puis
+d'appuyer sur le bouton A pour sélectionner l'arme désirée et enfin relâcher les touches pour
+activer l'arme.
+
+
+\ COMMENT APPLIQUER LE PATCH
+ \___________________________
+
+ATTENTION!!! Le patch est à utiliser sur la rom : Conquest of the Crystal Palace (U).nes
+Les autres roms (si elles existent) n'ont pas été testées. Il est donc possible que ça ne marche pas.
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher.
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org).
+Il suffit ensuite généralement de sélectionner la rom puis le fichier ips et de valider
+(Certains outils peuvent créer une sauvegarde de la rom avant de patcher).
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+\ CONTACTS
+ \_________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web   : http://generation9.kanshima.net
+Forum      : http://www.bessab.com/viewforum.php?f=12

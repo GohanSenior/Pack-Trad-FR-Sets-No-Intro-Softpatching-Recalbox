@@ -1,0 +1,130 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                              AstroRabby
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: AstroRabby
+Console		: Game Boy
+Développeur	: Cyclone Systems
+Editeur		: IGS
+Date		: 1990
+Genre		: Action
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 24/12/2013) :
+\_________________________________________________________________
+
+Astro Rabby fait partie de ces jeux méconnus mais dont on arrive
+à se passer aisément. C'est une curiosité que je ne sais pas
+trop comment présenter...
+
+Il s'agit de l'histoire de Rabby, un robot lapin...
+Son créateur s'est fait voler les pièces permettant à Rabby
+de réaliser le rêve d'Icare : le vol (non, pas à l'étalage !
+Le vol comme les oiseaux, les avions ou Superman...)
+
+Voyant la mine déconfite de son créateur, Rabby se dépêche
+de parcourir l'univers à la recherche des pièces manquantes...
+
+
+Vous incarnez donc le robot lapin et il vous faudra sauter,
+sauter, encore et toujours sauter par dessus des trous,
+des blocs, des bestioles et des machins afin d'atteindre les
+espèces de petites briques surmontées d'un point d'interrogation.
+
+Car telles les cases bonus d'un Mario, vous allez devoir sauter
+dessus pour savoir ce qu'elles contiennent. Parfois rien, parfois
+du temps, et surtout la pièce manquante !
+
+L'étrangeté de ce soft en vue aérienne vient du fait que
+chaque niveau se trouve sur une sorte de "rouleau", et
+vous reviendrez à votre point de départ pour un nouveau tour
+si vous n'avez pas découvert la pièce volée.
+
+La difficulté majeure vient de la gestion des sauts. Plus vous
+appuyez longtemps sur le bouton et plus votre saut sera haut
+et long. Il vous faudra donc bien calculer votre coup avant
+d'atteindre la case voulue.
+
+Une fois sur une case "?", il vous faudra resauter à nouveau
+dessus pour découvrir ce qu'elle renferme, mais si vous sautez
+trop dessus, la brique s'effrite et finit par s'effondrer (ce
+qui rendra les derniers niveaux quelques peu complexes).
+
+A la fin de chaque niveau, on peut activer un bonus, mais je
+ne suis pas certain que cela ait eu un impact sur la suite du
+jeu. De même qu'il est possible de tirer avec l'amélioration
+adéquate, mais franchement on arrive à faire le jeu sans trop
+dépenser de munitions...
+
+Le jeu n'est pas désagréable à jouer, mais laisse un étrange
+sentiment de... heu... comment dire ? Lassitude...
+En effet, les niveaux sont des plus répétitifs et l'absence
+de codes ou de sauvegarde rend le jeu particulièrement pénible.
+
+Ni bon ni mauvais, il manque un petit quelque chose pour
+le rendre attrayant. Peut-être une maniabilité améliorée ou
+des graphismes plus lisibles ??
+
+
+Toujours est-il que comme je n'avais pas grand chose à faire
+en cette belle journée venteuse, j'ai pu me consacrer à la
+traduction de cette rom dans l'optique de la faire sortir
+de son relatif anonymat...
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Vies infinies          0XC075          09
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "AstroRabby.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : AstroRabby.GB
+  Taille de la rom: 65 536 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 61E48EEF
+  CRC rom patchée : 17EB3206
+
+Le patch a été créé avec Ips XP 1.11 et a été testé avec les émulateurs suivants :
+  BgB    [x]		GBEmul [ ]
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

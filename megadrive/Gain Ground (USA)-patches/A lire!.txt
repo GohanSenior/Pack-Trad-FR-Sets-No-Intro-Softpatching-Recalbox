@@ -1,0 +1,57 @@
+Gain Ground (Mega Drive)
+Traduction en Français v1.0 (08/08/2023)
+(C) 2023 Traduction Alucard73
+
+---------------
+Histoire du Jeu
+----------------
+Gain Ground sur Megadrive est un jeu alliant action et stratégie. 
+Les missions proposent deux types d'objectifs, traverser une zone 
+sans mourir ou tuer l'intégralité des ennemis. Pour ce faire, 
+vous disposez de différentes unités possédant leurs propres 
+caractéristiques et la stratégie consiste à choisir judicieusement 
+quel soldat serait le plus efficace dans une situation donnée.
+
+-----------------
+Ce qui a été fait
+-----------------
+Script    : 100 %
+Graphismes: 0 %
+
+--------------------
+Notes et Bugs connus
+--------------------
+Normalement aucun.
+Si vous rencontrer un bug, vous pouvez me contacter sur le Forum de la Traf.
+
+--------------------------
+Instructions pour le patch
+--------------------------
+Au format, vous pouvez utiliser LunarIPS ou Floating IPS.
+Archive utilisée:
+
+Gain Ground (USA).md
+
+MD5: fa43881a792fadf1ab737294fff1bcc3
+SHA1: 3CC501086F794AC663AAD14D5C5A75B648041151
+CRC32: 83E7B8AE
+Size: 524288
+
+-------
+Credits
+-------
+Alucard73 - Hacking, traduction et tests.
+
+-----------------
+REMARQUES LEGALES
+-----------------
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.

@@ -1,0 +1,66 @@
+Génération IX (http://generation9.kanshima.net)
+         vous présente le nouveau patch de :
+
+			UFOURIA
+
+
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre : Ufouria
+Console : NES
+Développeur : SUNSOFT
+Date : 1991
+Genre : Plates-formes
+
+Un jeu de plateformes à peu près inconnu de tous. Une histoire basique, un gameplay basique, mais de zolis graphismes tout mignons et surtout il se finit plutôt rapidement, l'idéal pour un après-midi de libre.
+
+A noter que le jeu n'est jamais sorti aux Etats-Unis alors qu'il a connu les joies d'un portage en Europe.
+
+
+\ ETAT DE LA TRADUCTION : Patch final du 09/12/2005
+ \__________________________________________________
+
+Tout à été traduit, du début à la fin, sauf les crédits. 
+C'est mon premier patch en solo alors soyez indulgents :)
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack 	       : Barbe_folle
+Hack graphique : Barbe_folle
+Traduction     : Barbe_folle
+Bêta-Test      : Barbe_folle
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "NES-Ufouria-1.0.IPS" est à utiliser sur la rom suivante :
+  Nom de la rom   : U-four-ia - The Saga (E) [!].nes
+  Taille de la rom: 262 160 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 4EC0FECC
+  CRC rom patchée : 55B15A94
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web: http://generation9.kanshima.net/
+Forum	: http://www.bessab.com/viewforum.php?f=12 
+T.R.A.F : http://traf.romhack.org/

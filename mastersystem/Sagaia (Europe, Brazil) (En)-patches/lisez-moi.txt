@@ -1,0 +1,51 @@
+***** LE PATCH *****
+
+----- Utilisation -----
+Ce patch gratuit et non officiel propose principalement de découvrir une alternative française aux dialogues anglais de la cartouche de votre jeu original.
+À appliquer sur le fichier image :
+Sagaia (UE) [!].sms
+CRC32 de la rom : 66388128
+
+Pour voir le CRC32 d'un fichier sous Windows10 : installez 7-zip et clic droit sur le fichier puis CRC SHA > CRC32.
+Pour utiliser le patch, vous pouvez par exemple utiliser Lunar IPS disponible ici :
+https://traf.romhack.org/?p=outils&oid=151
+
+CRC32 de la rom après patch: 1EE934F3
+Le checksum restera bon après patchage de la rom.
+
+----- Remerciements & Questions -----
+Vous pouvez m'écrire en laissant un message sur ce sujet du forum :
+https://www.romhack.org/viewtopic.php?f=43&t=4225
+
+
+***** LE JEU *****
+
+----- Série Darius -----
+Sagaia est la version Master System de Darius II, l'un des meilleurs jeux sur cette console.
+La Série fut connue surtout pour ses équipements visuels et sonores de pointe et innovants en salle d'arcade.
+
+----- Histoire d'écrans -----
+Dans les années 80, Darius se jouait en salle d'arcade sur 3 écrans apposés en longueur, donnant un aspect visuel panoramique très réussi !
+30 ans plus tard, l'éditeur Taito propose la même idée avec Dariusburst.
+
+----- Secrets  -----
+La Série est connue pour ses nombreuses fins différentes.
+La version Master System traduite contient pas moins de 3 fins différentes et cela était précurseur à cette époque.
+Le secret pour finir le jeu est de profiter du bouclier qui permet de tenir avec une seule vie pour conserver tout son équipement !
+bonne découverte!
+
+
+
+***** LES TRAVAUX FRANCOPHONES *****
+
+----- Script -----
+Traduction de l'histoire avec l'introduction et les fins du jeu.
+
+----- Autre -----
+- écran titre
+- écran des scores
+- options
+- carte des planètes
+- message des boss et de la fin des niveaux
+- générique de fin
+- game over & continue

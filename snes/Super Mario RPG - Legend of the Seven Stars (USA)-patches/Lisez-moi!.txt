@@ -1,0 +1,145 @@
+**********************************************************************************
+***              Traduction française de Super Mario RPG sur SNES              ***
+**********************************************************************************
+
+La traduction française a été effectuée par l'équipe
+d'Atelier Traduction :
+http://ateliertraduction.forumactif.org
+
+
+**********************************************************************************
+***                          Application du patch FR                           ***
+**********************************************************************************
+
+- Obtenez la ROM américaine de Super Mario RPG sans header
+  (section "Informations sur la ROM " pour plus d'infos).
+
+- Lancez le patcheur "Lunar IPS.exe".
+
+- Cliquez sur le bouton "Apply IPS Patch".
+
+- Un fichier "ips" vous sera demandé, sélectionnez le fichier
+  "[AT]Patch_Mario_RPG_FR_v1.0.ips" fourni dans l'archive.
+
+- Le 2ème fichier demandé est la ROM américaine.
+
+- Si la fenêtre "The file was successfully patched" apparaît, le fichier ROM a
+  été patché avec succès. Ce même fichier est à présent en français.
+ 
+- Il ne vous reste plus qu'à l'utiliser sur l'un
+  des systèmes suivants :
+
+  * Tout émulateur sauf "Zsnes" (Snes9x recommandé pour le faible input lag)
+  * Un linker compatible (FXPAK PRO ou SD2SNES) sur la console originale
+  * En cartmodding sur la console originale (INTERDIT A LA VENTE !)
+  * Un MiSTer FPGA
+ 
+
+**********************************************************************************
+***                          Informations sur la ROM                           ***
+**********************************************************************************
+
+Nom de la ROM US : Super Mario RPG - Legend of the Seven Stars (U) [!].smc
+Taille de la ROM : 4 194 304 octets
+
+CRC32 de la ROM US sans header : 1B8A0625
+CRC32 de la ROM FR v1.0 sans header : 50848D68
+
+
+**********************************************************************************
+***                     Emulateurs et linkers fonctionnels                     ***
+**********************************************************************************
+
+Le jeu traduit a été testé entièrement sur les systèmes et émulateurs suivants :
+
+- Console originale avec les linkers FXPAK PRO et SD2SNES
+- Mesen-S v0.4.0 sur PC
+- Snes9x v1.61 sur PC (recommandé pour le faible input lag)
+
+Il devrait aussi fonctionner parfaitement sur les émulateurs suivants :
+
+- Bsnes sur PC
+- Ares sur PC
+- Higan sur PC
+- RetroArch avec coeur Snes9x, Bsnes ou Mesen-S
+- Sûrement d'autres...
+
+Le jeu est connu pour avoir des freezes aléatoires dans les menus et à certains
+moments du jeu avec l'émulateur suivant :
+
+- Zsnes
+
+Le jeu n'est pas compatible avec la "Super Nt" directement. Il faut passer par
+un linker FXPAK PRO ou SD2SNES ou le jeu cartmoddé pour jouer dessus.
+
+
+**********************************************************************************
+***                          Notes sur la traduction                           ***
+**********************************************************************************
+
+Nous avons repris le hack de A à Z pour cette version de Super Mario RPG afin
+d'obtenir une place quasiment infinie pour le texte et maîtriser tous les éléments
+du jeu. Cela nous a permis de traduire à l'aise sans avoir à se préoccuper de la
+place dans la ROM et en jeu pour les dialogues, les descriptions, les noms des
+ennemis, de leurs attaques et les noms de lieux.
+
+La traduction est principalement basée sur la version US du jeu, mais certains
+textes pas très clairs en anglais ou pas très inspirés ont été retraduits
+du japonais afin de fournir la meilleure expérience possible aux joueurs.
+
+Toutes les images et animations en anglais ont aussi été traduites par nos soins.
+
+Ce projet inattendu est né d'un désir de notre traducteur Ryusan de vouloir
+parfaire son ancienne traduction sortie en 2001 sous le label
+"Terminus Traduction". Cette version fut la première en français.
+
+Ce RPG à l'ancienne est très drôle et amusant. Nous avons fait très attention
+à ce que les dialogues soient le plus drôles et naturels possible ^^ Nous le
+conseillons fortement à tout fan de RPG à l'ancienne et de Mario.
+
+Nous espérons que vous passerez un bon moment avec Mario et notre traduction faite
+avec passion :)
+
+
+**********************************************************************************
+***                                  Crédits                                   ***
+**********************************************************************************
+
+- Hackeur :
+
+RyleFury
+
+- Traducteur :
+
+Ryusan
+
+- Correcteur :
+
+RyleFury
+
+- Graphistes :
+
+Ryusan
+RyleFury
+
+- Testeurs :
+
+Ryusan
+Jericho (Rockman Generation)
+RyleFury
+
+- Remerciements :
+
+Kirashi (pour des traductions du jap et quelques corrections en début de jeu)
+Aquagon (pour quelques traductions du jap)
+Lucifel05 (pour quelques corrections en début de jeu)
+
+
+**********************************************************************************
+***                                  Versions                                  ***
+**********************************************************************************
+
+- v1.0 (05/08/2022) :
+
+Traduction complète en français des textes et images.
+

@@ -1,0 +1,142 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                              Bebe's Kids
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Bebe's Kids
+Console		: Super Nintendo
+Développeur	: Radical Entertainment
+Editeur		: Motown Games
+Date		: Avril 1994
+Genre		: Action
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 07/11/2015) :
+ \_________________________________________________________________
+
+Tel le vautour affamé tournoyant au dessus du cow boy assoifé
+errant dans le désert, je rôdais autour de "Bebe's Kids" en
+attendant le moment de me jeter sur lui toutes serres dehors.
+
+Le moment tant attendu était enfin arrivé, et il était temps
+pour moi de me repaître de ses entrailles fumantes...
+Mais...
+
+RAAAAAAAAAAAAAAAAAAAAAAAH!!!!!!!!!!
+
+Hum!
+Respirons un grand coup et détendons-nous...
+Haaaaa pfouuuuu...
+
+Voilà, c'est mieux...
+
+Ceux qui suivent mes heu... "Travaux"... savent que j'ai une
+prédilection pour les roms pourries et les jeux oubliées.
+
+Et là, inutile de vous dire qu'on est tombé très très bas...
+
+Le jeu est apparemment tiré d'un film d'animation américain
+sorti en 1992 chez la Paramount. Autant dire que mon estime
+pour ce studio en a pris un coup dans l'aile.
+L'histoire est celle de gamins qui vont dans un parc d'attractions
+et tentent de s'infiltrer dans les attractions interdites aux
+enfants non accompagnés.
+Pour ce faire, le personnage que l'on incarnera devra savater
+tous les gardes et employés voulant l'empêcher de s'amuser.
+
+Et ce ne sera pas simple du tout ! La maniabilité du jeu est
+une véritable horreur, les coups sont infâmes à sortir (l'uppercut,
+coup essentiel et violent, nécessite d'utiliser les gâchettes
+et Y simultanément), et surtout les ennemis sont longs et
+chiants à buter.
+Rajoutons à celà un timer souvent serré et la pire gestion
+des collisions qu'on ait jamais vue et vous sentirez
+déjà votre sang bouillonner...
+
+La frustration atteindra son paroxysme lors du niveau de la
+maison hantée. C'est bien simple ; sans la vidéo d'un acharné,
+je pense que j'aurais balancé l'ordi par la fenêtre !
+Pour les psychopathes qui voudraient tenter l'expérience,
+voici la vidéo en question : https://www.youtube.com/watch?v=I5s7zhyLg5E
+Grand merci à l'auteur ^^
+
+Je ne parlerai pas des graphismes minables à peine dignes
+d'une 8 bits ou de la bande son horripilante qu'on penserait
+sortie d'un Bontempi 4 touches en phase terminale.
+
+Autant vous le dire tout de suite, j'en ai vraiment bavé pour
+arriver au bout, et j'ai eu la chance de ne pas avoir ma femme
+à mes côtés à ce moment. J'aurais encore été puni de console
+pour comportement et paroles outrancières !
+
+Pour résumer ; le jeu est long, chiant, difficile et injouable.
+Que des qualités !
+
+Côté traduction, j'espérais un peu plus de textes, mais le jeu
+m'a tellement fait criser que je n'ai même pas pris la peine
+de chercher comment était codé le générique pour le traduire.
+A dire vrai, je doute même que quiconque arrive au bout pour
+profiter de la superbe scène de fin du jeu...
+
+Allez, je vais aller me taper un Starcraft 2, ça va me détendre.
+
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Vies infinies          0x7E03C9         09
+Munitions infinies     0x7E0494         09
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Bebe's Kids.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Bebe's Kids (U) [!].smc
+  Taille de la rom: 1 048 576 octets
+  Rom avec Header ? Non
+  CRC de la rom   : BDA2E412
+  CRC rom patchée : F6BDDFEF
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  BSnes          [ ]		SNes9X 1.51    [x]
+  Snes 9X 1.43   [ ]		Snes 9X 1.53   [x]
+  Snes 9x Geiger [x]		Snes GT        [ ]
+  ZSnes          [x]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

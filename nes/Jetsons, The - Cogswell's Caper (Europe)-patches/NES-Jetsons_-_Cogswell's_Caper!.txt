@@ -1,0 +1,111 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                   Jetsons, The - Cogswell's Caper!
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Jetsons, The - Cogswell's Caper!
+Console		: Nintendo NES
+Développeur	: Natsume
+Editeur		: Taito
+Date		: Décembre 1992
+Genre		: Plates-formes
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 23/09/2015) :
+\_________________________________________________________________
+
+En France, les Jetsons n'est pas le dessin animé le plus connu
+de chez Hanna & Barbera (on connait mieux "Les fous du volant"
+ou "Scoubidou"), mais il a eu son adaptation sur Nes.
+
+"Jetsons : Cogswell's caper" est un jeu de plates-formes sympathique
+mettant en scène George, le père de famille, qui doit empêcher
+Cogswell de faire un tas de trucs pas jolis-jolis avec sa toute
+nouvelle usine.
+
+Vous voilà donc parti au travers de niveaux variés et plus ou
+moins longs (certains ne sont que prétextes à des dialogues).
+Pour vous aider dans votre mission, vos proches vous donneront
+des objets relativement utiles.
+
+A noter que les objets nécessitent de récupérer des packs de
+batteries (représentées par des espèces de pillules) et
+l'activation se fait en mettant le jeu en pause et en sélectionnant
+l'objet avec la flèche de droite. Quittez la pause, appuyez
+sur le bouton d'action, et hop! Ca marche...
+
+D'un point de vue graphique, le jeu est sympa. Les décors sont
+variés et sont assez fidèles au dessin animé.
+
+Musicalement c'est autre chose. Le jeu ne casse pas des briques,
+loin de là, et on se lasse assez vite.
+
+Du côté de la maniabilité, rien de spécial à dire ; le personnage
+répond bien, malgré quelques ralentissements qui peuvent parfois
+compliquer les sauts.
+
+La traduction s'est faite assez vite et sans difficulté particulière,
+à part le bon alignement des dialogues.
+Le fait qu'il n'y ait pas de fonte à modifier ou de graphisme
+à retoucher permet aussi de gagner du temps :p.
+
+En bref, c'est une petite rom sympa, bien que classique, que
+voilà et j'espère que vous vous amuserez bien avec...
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Energie infinie        0141          03
+Batteries infinies     0144          20
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "The Jetsons - Cogswell's caper.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Jetsons, The - Cogswell's Caper! (E) [!].nes
+  Taille de la rom: 393 232 octets
+  Rom avec Header ? Oui
+  CRC de la rom   : 41B3EAC1
+  CRC rom patchée : 9845D7BE
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  FCeu XD SP [x]		NesTicle   [ ]
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

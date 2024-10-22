@@ -1,0 +1,142 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                   Captain Planet and The Planeteers
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Captain Planet and The Planeteers
+Console		: Nintendo NES
+Développeur	: Chris Gray Enterprises
+Editeur		: Mindscape
+Date		: Septembre 1991
+Genre		: Action
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 16/11/2015) :
+ \_________________________________________________________________
+
+Caaaapitaiiiiiiiine caaaaaaveeeeeeeeeeeeeerne !!
+Ha non, pardon ! C'est de "Captain Planet" dont nous allons parler
+aujourd'hui.
+
+Tiré là encore d'une vieille série animée à but écolo-pédagogique
+diffusée dans les années 90, ce jeu est donc destiné aux enfants.
+Dans la théorie, du moins !
+Je pense que les auteurs n'aiment pas les enfants... Mais alors
+pas du tout ! A moins qu'ils n'aient regretté d'en avoir, mais
+toujours est-il que leur vengeance a été terrible.
+
+Gaïa, l'âme de la planète Terre, a recruté quelques adolescents
+à travers le monde et leur donne des bagues dotées de pouvoirs
+divers (la bague de la Terre, du Feu, du Vent, de l'Eau
+et du Coeur).
+Cette équipe de gamins, surnommés les "Planétaires", interviennent
+un peu partout dans le monde pour empêcher des vilains pollueurs
+de tout ravager.
+
+Toutefois, quand la situation devient trop difficile, nos chers héros
+peuvent utiliser les pouvoirs de leurs bagues pour invoquer
+le tout puissant Captain Planet, un gugusse tout bleu qui met
+lui aussi son slip par dessus son pantalon. Superman, si tu
+nous lis, tu as lancé une sacrée mode...
+
+Le jeu propose 5 missions découpées en 2 phases.
+La première étape se déroule dans un véhicule (hélico, vaisseau,
+ou sous marin) et propose de réaliser des objectifs sympas
+(libérer des poissons pris dans des filets dérivants, détruire
+des plates-formes mobiles de forage, etc.) en utilisant
+les bons pouvoirs au bon moment.
+La seconde phase vous permet d'incarner Captain Planet lui-même
+dans des niveaux labyrinthiques afin de débusquer (et stopper)
+le méchant de service.
+
+Jusque là, ça a l'air prometteur, mais une fois la manette en
+main, c'est une autre paire de manches.
+La maniabilité est tout bonnement infâme ! C'est l'un des jeux
+les plus injouables que j'ai eu l'honneur de traduire et c'est
+ce qui me fait penser que les développeurs sont des sadiques
+haïssant les gosses.
+Il est tout bonnement IMPOSSIBLE à un enfant de finir le jeu!
+Les phases en véhicules sont parfaitement ignobles à cause
+d'une inertie invraisemblable ; et le switch de pouvoir se
+faisant avec le bouton START, on se mélange facilement
+les pinceaux dans les phases stressantes.
+De plus, les ennemis esquivent facilement vos tirs mais ne vous
+ratent pas. Passons sur des conceptions de niveaux bien tordues
+qui impliquent de passer au pixel près, et vous commencerez
+déjà à détester ce jeu.
+
+Voyons maintenant les niveaux du Captain Planet...
+Le personnage doit évoluer dans des niveaux biscornus et
+bourrés de pièges et d'ennemis plus qu'hostiles.
+Là encore, il faudra trouver les bonnes combinaisons de pouvoirs
+pour arriver à progresser et atteindre le boss de fin de niveau.
+
+Etrangement, autant les niveaux sont infects, autant venir
+à bout des boss n'est qu'une formalité. L'un d'eux se rend
+juste en vous voyant, par exemple...
+
+Personnellement ce jeu m'a vraiment fait suer, et autant à
+traduire qu'à jouer. C'est bien simple, je n'ai pas réussi
+à finir la moitié des niveaux en véhicules !
+Mais ne vous en faites pas, la traduction est complète.
+J'ai été confronté à des encodages surprenants, mais tous
+les scripts ont été francisés.
+La seule chose qui manque est la scène d'invocation du
+Captain Planet et malgré mes efforts répétés, je n'ai pas
+réussi à trouver ces $ù*^$ç% de mots.
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+Pas de cheat codes pour ce jeu...
+Enfin si, mais ce n'est pas moi qui les ai trouvés.
+Cherchez sur GameFaqs, la soluce m'a bien aidé en tout cas.
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Captain Planet and The Planeteers.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Captain Planet and The Planeteers (E) [!].nes
+  Taille de la rom: 262 160 octets
+  Rom avec Header ? Oui
+  CRC de la rom   : A703173F
+  CRC rom patchée : D44D1339
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  FCeu XD SP [x]		NesTicle   [ ]
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

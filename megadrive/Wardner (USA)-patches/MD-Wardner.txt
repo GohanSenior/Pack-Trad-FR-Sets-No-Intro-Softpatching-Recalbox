@@ -1,0 +1,115 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                                Wardner
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Wardner
+Console		: Megadrive
+Développeur	: Dragnet
+Editeur		: Mentrix Software, Inc.
+Date		: 25 avril 1991
+Genre		: Prise de tête
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 11/11/2015) :
+ \_________________________________________________________________
+
+Si vous aimez le challenge, alors ce jeu est fait pour vous!
+Sous ses aspects de petit jeu simplet, il cache une difficulté
+et une perversité de tous les instants, mais nous y reviendrons.
+
+Alors que notre héros et sa copine/soeur/voisine de palier se
+baladaient sur l'avenue, le coeur ouvert à l'inconnu.
+Heu... Pardon...
+ALors qu'ils se baladaient dans la forêt, ils s'aperçurent
+qu'ils étaient perdus.
+C'est alors que surgit le méchant Wardner et qu'il enlève la donzelle.
+Il ne nous reste plus qu'à accéder au château de Wardner et
+de la libérer par la force.
+
+Le héros (auquel je trouve un faux air de Cartman dans South Park)
+est une espèce de magicien qui peut balancer des boules de feu.
+Au fur et à mesure qu'il trouvera des orbes de puissance, il pourra
+lancer plus de boules de feu.
+Afin de faciliter une tâche passablement ardue, Cartman pourra
+acheter des bonus dans une échoppe ; allant du temps supplémentaire
+à la cape magique en passant par des sorts.
+
+Graphiquement, le jeu n'est pas à la hauteur de la Megadrive.
+Il ressemble plus à un jeu 8 bits et les couleurs sont un peu
+dégueu.
+Le level design est bien tordu et recquiert précision et patience
+pour arriver au bout de chaque niveau.
+Mais le plaisir de jeu est entâché par une difficulté à la limite
+de l'insoutenable. Les boss sont infâmes, les ennemis nombreux
+et les pièges omniprésents. Je ne parlerai même pas du dernier
+niveau tellement c'est inbouffable ! Que celui qui a conçu ce jeu
+souffre mille tortures jusqu'à la fin des temps...
+
+Rajoutons à cela qu'il n'y a que peu de vies pour venir à bout
+du titre et que le temps est limité pour chaque niveau, et vous aurez
+là un beau jeu bien prise de tête qui n'est pas à la portée
+des plus jeunes.
+
+Normalement tout est traduit, à part un dialogue que je n'ai
+pas vu en jeu mais qui devrait apparaître correctement.
+Si jamais vous voyez une erreur, n'hésitez pas à nous faire
+remonter l'info.
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+FF8294:0004	vies infinies
+004D36:5238	toujours cape
+002198:08F9	toujours cape
+003A48:6004	toujours cape
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Wardner.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Wardner (U) [!].bin
+  Taille de la rom: 524 288 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 1E369AE2
+  CRC rom patchée : 8C1EF11A
+
+Le patch a été créé avec SmartIPS et a été testé avec les émulateurs suivants :
+  Emulicious       [ ]		Genesyst         [ ]
+  Kega Fusion 3.64 [x]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

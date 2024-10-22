@@ -1,0 +1,45 @@
+
+---- Traduction FR de Monster World 4 ----
+
+
+Plateforme : Sega Megadrive
+
+
+------------------
+
+Traduction : Blyn
+Hack : Blyn
+GFX "Fin de partie" : M0nsieurL
+
+------------------
+
+Ce qui a été traduit :
+
+- Menus ------------100%
+- Script -----------100%
+- GFX --------------100%
+- Générique de fin--100%
+
+------------------
+
+Application du patch :
+
+Le patch IPS doit être appliqué sur la rom de Monster World 4 version 2012, sortie sur Virtual Console.
+
+Utilisez LunarIps pour appliquer le patch :
+http://fusoya.eludevisibility.org/lips/
+
+------------------
+
+Ce patch n'est pas officiel et n'est pas supporté par Sega.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.

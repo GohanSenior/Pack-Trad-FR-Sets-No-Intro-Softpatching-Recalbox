@@ -1,0 +1,144 @@
+
+Je suis une fois encore, assez fier de vous présenter mon 2ème 
+patch de traduction.
+Le jeu n'est pas toujours pas en reste puisqu'il s'agit quand 
+même du mythique FPS de la N64!!
+
+
+----------------------------------------------------------------
+***********************Table des matières***********************
+----------------------------------------------------------------
+
+1.	INFORMATION SUR LE JEU
+2.      CONTENU DE L'ARCHIVE ET UTILISATION
+3.	TOUT CE QUI A ETE FAIT
+4.	PROBLEMES CONNUS
+5.	L'ÉQUIPE DE TRADUCTION
+6.      REMERCIEMENTS
+7.	REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  INFORMATION SUR LE JEU
+----------------------------------------------------------------
+
+Titre       : GoldenEye 007
+Console     : Nintendo 64
+Développeur : Rareware
+Editeur     : Nintendo
+Année       : 1997
+Genre       : FPS
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+L'archive ZIP doit contenir :
+
+GE007fr.IPS  - Le patch IPS de GoldenEye 007
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+(Lunar IPS  par exemple).
+Ce patch est à utiliser avec la rom GoldenEye 007 (U) [!]
+
+
+Mettez le jeu avec vos roms N64, et lors du rafraichissement de la
+liste, il apparaitra avec un nom différent selon les émulateurs :
+
+-sous project 64: comme une mauvaise rom, faites un clique droit 
+dessus, et veuillez reproduire les réglages ci-dessous pour avoir 
+une fluidité optimale et que le jeu plante moins.
+Noyau R3400i: Recompiler
+Méthode du 'self-mod. Code': Change Memory and Cache
+Counter Factor: 2
+Cochez: Large Compile Buffer, Register Caching, SP Hack, Use TLB. 
+
+
+-sous 1964 : comme une rom de glodeneye altérée, vous n’avez rien 
+à toucher,contrairement à P64.
+
+Sous mupen64++ : comme un Unknown dump, vous n’avez rien à toucher,
+contrairement à P64. 
+
+
+----------------------------------------------------------------
+3.  TOUT CE QUI A ETE FAIT
+----------------------------------------------------------------
+
+Script           : 100 % 
+Cinématique      : 100 %
+Crédits          : 100 % 
+
+----------------------------------------------------------------
+4.  PROBLEMES CONNUS
+----------------------------------------------------------------
+Les problèmes énoncés sont des problèmes que je n'ai pu corrigé,
+et resteront tels quels : 
+
+
+-pour des raisons techniques (manque de place) , seuls les 
+caractères accentués « é » et « à »;qui sont les plus redondants;
+ont été mis.
+-à cause de l’impossibilité de mettre un espace entre « tu as 
+trouvé un XXX » lors de l’acquistion d’une nouvelle arme, la 
+phrase a été remplacé par « un XXX », il s’agit de la même 
+abréviation qu’en mode multi à partir de 3 joueurs.
+-cette traduction a été optimisée pour le mode histoire, il est 
+donc normal que dans le mode multi, certaines traductions 
+dépassent un peu la fenetre du joueur ( cartouches de fusil 
+automatique ) par exemple.
+-Pas de distinctions entre pluriel et singulier pour «grenade»
+et «couteau»
+-La grenade apparait comme "l-grenades" dans le menu principal
+de la montre.
+-le mot "part" ne peut pas être traduit car il dépasserait
+-impossibilité de rajouter le "é" au mot "fregate" lors de la 
+sélection de ce niveau.
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+Corrigo : Tout
+
+Si vous trouvez des erreurs dans le patch, merci de m'envoyer un
+courriel à : corrigo21@hotmail.fr avec si possible une capture 
+d'écran du soucis.	
+
+----------------------------------------------------------------
+6.  REMERCIEMENTS
+----------------------------------------------------------------
+
+Je tiens à remercier l'équipe du site 
+             http://www.goldeneyevault.com/ 
+En partculier
+ -SubDrag , le créateur du GE setup editor
+ -Dragonsbrethren et Wreck pour leurs aides techniques
+Ils m'ont permis de traduire ce jeu, grace à leurs tutos et leurs 
+aides sur le forum.
+
+Mais aussi mes betas-testeurs : Magnio, Bfrançois, Sniper.jay et
+hypernono.
+
+----------------------------------------------------------------
+7.  REMARQUES LEGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de GoldenEye 007 n'est pas
+officiel et n'est pas supporté par Rareware et/ou Nintendo.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout, à bientôt et bon jeu!
+
+Corrigo

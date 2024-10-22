@@ -1,0 +1,219 @@
+				                 GENERATION IX
+                                                      
+
+			est fier de vous présenter la traduction d'un jeu bien fun :
+
+	                                     GUNPURU - GUNMAN'S PROOF
+						It's Srange World !
+
+--------------------------------------------------------------------------------------------------------
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre       : GUNPURU - GUNMAN'S PROOF - It's Strange World !
+Console     : Super Nintendo
+Développeur : Ascii Soft
+Editeur     : Ascii Soft
+Année       : 1997 (Japon)
+Genre       : Aventure
+
+
+\ ETAT DE LA TRADUCTION : Patch v1.0 du 14/04/2008
+ \___________________________________________________
+
+Le titre n'a pas été traduit. Tout le reste a été traduit, sauf erreur de notre part.
+Le jeu a été testé et il est possible qu'il reste des erreurs et/ou des bugs,
+mais nous avons pu finir le jeu en obtenant tous les objets possibles sans rencontrer de
+problèmes. Si vous rencontrez une faute horrible, un bug affreux, ou même une poupée barbie oubliée
+par Happexamendios, n'hésitez pas à nous contacter ! 
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________
+
+ROMhack        : Gideon Zhi, BahaBulle
+Programmation  : Gideon Zhi, BahaBulle
+Assembleur     : Gideon Zhi, Jes, BahaBulle
+Aide technique : Jes, S.O.R, BahaBulle
+Graphismes     : Ti Dragon, Happexamendios
+Traduction     : GreatSkaori et son frère, qui désire rester anonyme :D
+Relecture      : GreatSkaori, Happexamendios
+Alpha Test     : GreatSkaori (100%)
+Bêta-Test      : BahaBulle (100%), Happexamendios (100%)
+
+
+Ce jeu n'est jamais sorti hors du Japon, nous nous basons donc sur le (superbe) travail du groupe
+américain AGTP, mené d'une main de fer par Gideon Zhi, qui nous a très gentiment cédé ses
+outils et informations (un fichier rar monstrueux pas trié :D). Merci donc à lui pour
+son aide précieuse.
+
+ManZ, membre de Terminus Traduction, disparu au combat, a d'abord commencé à regarder le projet, 
+mais n'a pas continué, faute de temps.
+
+S.O.R, membre de Génération IX a ensuie pris le relais, mais il a lui aussi succombé aux
+charmes d'une belle blonde et s'en est allé, so long, my friend !
+
+Jes, membre de BessaB, m'a aidé à trouver les qualificatifs les plus négatifs à l'égard de ce
+jeu qu'il trouve moche, inintéressant, et bien pourri. Ca ne l'a pas empêché, en maugréant,
+de nous agrandir quelques menus de la main gauche, tout en philosophant avec moi sur le sens de la vie.
+
+Bahabulle, membre de Génération IX, a pris la suite. Devant le fouilli des outils de Gideon,
+il a repris le hack depuis quasiment le début pour réinsérer tous le bazar (texte et graphismes)
+afin de vous présenter le patch actuel.
+Il a aussi secoué des gens pour remettre le jeu à l'ordre du jour, quel homme !
+
+Happexamendios, lui aussi membre de Génération IX a ensuite testé le jeu du début à la fin,
+repéré des fautes, screenshoté des bugs et ri à gorge déployée devant ce jeu con comme la lune :D
+Il a aussi fait un sort à quelques graphismes, il les déteste et leur rend bien.
+
+Ti Dragon, membre de Génération IX s'est occupé des modifications graphiques, avec l'aide
+d'Happexamendios cité ci-dessus.
+
+Enfin, moi, GreatSkaori, membre de Génération IX, suis celui qui a lancé le projet, qui l'ai traduit
+avec l'aide de mon frère, qui l'ai testé, et qui ai embêté tout le monde pour que ce patch
+voit le jour.
+
+
+\ HISTOIRE DE LA TRADUCTION
+ \__________________________
+
+Je ne me souviens plus bien maintenant, mais ça devait être en été 2003 (bon dieu, ça nous rajeunit pas !).
+ManZ et moi devions chercher un projet sympa, rapide, pour travailler ensemble. Je crois
+qu'on s'est plantés pour le "rapide", vu que le patch sort le 13 avril 2008, mais sur le
+"sympa", pas d'erreur possible. Gunman's Proof (GP pour les intimes) et un Zelda-like chez les cowboys,
+hyper simplifié, qui ne se prend pas au sérieux une seule seconde et qui se termine en une
+dizaine d'heures. J'ai joué à la version us de Gideon Zhi, et je suis allé lui demander
+s'il pouvait nous aider à faire une version française. Il a accepté immédiatement et
+nous a fourni tous ses outils. Mais ManZ n'a vite plus eu de temps, S.O.R a courageusement
+pris la relève, mais à lui aussi dû lâcher l'affaire. J'ai traduit tout le script,
+avec l'aide de mon frère sur certains passages, il était dans une période "je veux jouer
+en anglais pour devenir fort, aide-moi mon frère!" , et ça plutôt bien marché.
+Le script a été rapidement réinséré par S.O.R et j'ai pu y rejouer jusqu'à la fin
+sans difficulté, mais le patch était loin d'être complet. J'ai enquiquiné Jes pour
+qu'il agrandisse quelques cadres, afin que les traductions des techniques
+(dont il est le premier fan) puissent rentrer sans problème.
+Le projet est tombé dans l'oubli. Puis début 2008, voyant arriver les 8 ans du groupe,
+on a dépoussiéré le bébé. Bahabulle a mis son nez dans des outils divers, Ti et
+Happex ont fait un sort aux graphismes manquants. Baha a réinséré le bazar, et Happex
+a testé le tout, m'indiquant les erreurs, et suggérant des améliorations.
+Aujourd'hui, le patch est tout beau, tout propre et nous espérons que vous vous
+amuserez bien avec ce jeu super fun, qui mérite d'être connu.
+
+
+\ REMERCIEMENTS
+ \______________
+
+Je voudrais remercier, évidemment, les créateurs de ce jeu très fun, qui m'a fait passer
+un très bon moment, de sa découverte initiale, à sa traduction, jusqu'à son test.
+
+J'aimerais ensuite remercier tous ceux qui m'ont aidé, ou non, à traduire ce petit jeu,
+parce que sans eux, ça aurait été impossible !
+- Gideon Zhi, d'abord. Il a réalisé le romhack et la programmation permettant la traduction
+  américaine du jeu. Et il nous a donné tout ce dont on avait besoin pour le traduire à
+  notre tour. Si jamais tu lis ça Gideon, merci bien ! Je t'écris pas en anglais vu que tu
+  comprends le français ! :)
+- ManZ, on a eu beaucoup de projets tous les deux, aucun n'a abouti, dommage ! Mais on a bien rigolé
+  au début, c'est ce qui compte !
+- S.O.R : C'est sympa d'avoir essayé de reprendre le projet à l'époque, surtout que tu étais
+  (déjà) débordé et que tu perdais ta motivation pour ce qu'on fait. T'es un bon !
+- Pixel : tu n'as pas participé à cette traduction, et tu ne liras jamais ce fichier texte, mais
+  qu'importe. On ne passe plus beaucoup de temps ensemble, et je le regrette, mais un jour, je
+  viendrai vider ton frigo !
+- Skaiboy, toi non plus tu n'as pas participé à cette traduction, mais on a collaboré sur
+  pas mal de projets, finis ou non. Tu me feras toujours autant rire, reviens nous voir !
+- Bahabulle, l'homme de la situation, toujours prêt à dégainer son clavier pour rendre la
+  vie à des projets moribonds, et en perpétuelle progression. Ta volonté me laisse admiratif,
+  bravo, et merci !
+- Happex, l'électron libre. Il veut tout faire, il aime tout et traduit comme personne les
+  jeux complètement cons. Tu t'en serais donné à coeur joie avec celui-ci ! Continue à
+  nous faire marrer, sans toi, nous serions bien tristes !
+- Hell, je te vois moins en ce moment, c'est dommage ! Je me rappellerai toujours du temps
+  qu'on a pu passer à déconner ensemble, et si je te dis "balancelle" et "sirop de pêche",
+  tu comprendras tout de suite :D
+- Darsh : SISTAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA ! P'tain, depuis le temps qu'on en
+  parle et qu'on se connaît, on s'est pas encore fait une bouffe, on est nuls, tu sais ?
+  Mais c'est ça qui est bon :D On s'appelle bientôt et j'espère que tu nous reviendras vite !
+- Ti, mon braza de l'internet, l'homme de tous les défis et monsieur relation. Tu connais
+  tout le monde, et ils sont tous prêts à donner un bras pour toi, mais comment fais-tu ?
+  Merci de toujours me porter vers le haut et de croire en moi, BRAZAAAAAAAAAAAAAAAAA !
+- Jes, monsieur à l'emploi du temps de ministre, tu bosses tout le temps, tu as 5 femmes, 12
+  enfants dans chaque pays, 2h de sommeil par nuit te suffisent et tu continues à aider
+  tout le monde sur leurs projets. Je sais qu'un jour, toi et moi, on aura notre grand
+  projet, et ça va chier ! :D
+- Juju, tu ne liras jamais ce fichier texte, j'en suis sûr. Personne ici ne te connaît
+  et c'est vraiment dommage pour eux. Je ne sais pas quoi dire d'autre que merci, pour
+  hier, aujourd'hui, et pour demain. Merci.
+- Mon frère. Tu es le meilleur de nous deux, tu réussiras, ne laisse personne te dire
+  le contraire. Greuh !
+
+
+\ CONTENU DU ZIP
+ \_______________
+
+SNES-Gunman'sProof-1.0.ips       Le patch à appliquer
+SNES-Gunman'sProof-1.0-GIX.txt   Le fichier que vous êtes en train de lire
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Le patch "" est à utiliser sur la rom suivante :
+  Nom de la rom   : Ganpuru - Gunman's Proof (J).smc
+  Taille de la rom: 3 145 728 octets
+  Rom avec Header ? Non
+  CRC de la rom   : AF415C24
+  CRC rom patchée : AC18450F
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  BSnes          [ ]		SNes9X 1.51    [x]
+  Snes 9X 1.43   [ ]		Snes 9X 1.53   [x]
+  Snes 9x Geiger [ ]		Snes GT        [ ]
+  ZSnes          [ ]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+Des émulateurs permettent également de patcher directement les ROMs sans les altérer. Pour plus
+d'explications, je vous invite à consulter le site de la TRAF dans la partie "Utiliser un patch IPS".
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Forum     : http://www.bessab.com/
+Sites Web : Génération IX     - http://generation9.kanshima.net/
+            BessaB            - http://www.bessab.net/
+            T.R.A.F.          - http://traf.romhack.org/
+e-mail    : greatskaori@yahoo.com (GreatSkaori)
+
+
+\ REMARQUES LEGALES
+ \_________________
+
+Génération IX vous propose une traduction non-officielle réalisée à but non lucratif par
+des amateurs bénévoles. Elle n'est en aucun cas supportée par NINTENDO ou Ascii Soft. Cette
+traduction est donc gratuite et ne peut être vendue sous quelque forme que ce soit (vente de fichiers
+sur CD, de cartouches modifiées, de cartouches flash copiées, etc.) : son usage commercial est par
+conséquent strictement interdit.
+
+Vous utilisez ce patch de traduction en dégageant les auteurs de toute responsabilité concernant
+d'éventuels dommages.
+
+© 2008 Génération IX
+Tous droits réservés
+
+
+SUPER NINTENDO® et GUNMAN'S PROOF® sont respectivement les propriétés de NINTENDO® et Ascii Soft®.
+Les mentions légales relatives à NINTENDO se trouvent décrites dans un livret fourni avec chacun de leurs
+produits. Veuillez les lire attentivement.
+
+© 2007 NINTENDO et Ascii Soft®
+Tous droits réservés

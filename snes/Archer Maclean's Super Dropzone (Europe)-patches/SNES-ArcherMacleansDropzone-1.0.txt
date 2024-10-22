@@ -1,0 +1,92 @@
+			Génération IX (http://generation9.kanshima.net) 
+			   vous présente la traduction spatiale de
+				Archer MacLean's Dropzone
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre   : Archer MacLean's Dropzone
+Console : Super Nintendo
+Développeur : Eurocom Development
+Editeur : Psygnosys
+Date    : 1994
+Genre   : Shoot horizontal
+
+
+\ ETAT DE LA TRADUCTION : Version 1.0 créée le : 29/03/2007
+ \__________________________________________________________ 
+
+Encore un p'tit jeu dont tout le monde ignorait jusqu'à l'existence...
+C'est pas triste ça ??
+Bref, cessons de nous apitoyer sur le sort de ces pauvres roms aux destinées incertaines et concentrons nous sur le jeu.
+
+Une fois de plus, l'univers est en danger...
+Une fois de plus, y'a personne d'autre que vous pour aller botter du fessier alien...
+Une fois de plus, c'est armé de votre blaster sub sonique à ondes courtes que vous vous lancez seul contre tous...
+Une fois de plus, c'est un scénar bateau pour un jeu bateau...
+
+Rien de bien transcendant sur ce jeu où on se contente de tirer bêtement sur tout ce qui bouge (ou pas) à l'écran
+tout en évitant les bombes lâchées subrepticement par les vilains n'extra-terrestres.
+
+Les décors sont comme les aliens : répétitifs... On se balade de planète en planète, passant de Io à Jupiter
+via Ganymède. Les boss sont toujours les mêmes et on torche le jeu en quelques heures à peine.
+
+Hors donc il advint que ce jeu est désormais traduit. Il reste un ou deux graphismes, mais ça empêche pas de
+désalieniser le système solaire !!
+
+
+\ CODES DE TRICHE 
+ \________________
+
+Voici une fois de plus les codes Action Replay que j'ai dégotté pour ce p'tit jeu :
+
+
+---[Effet]-------------[Adresse]-----[Valeur]
+Vies infinies		7E0025		4
+Bombes infinies		7E0026		9
+
+Y'en a sûrement d'autres, mais j'avais la flemme de les chercher :)
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack 	   : Happexamendios
+Traduction : Happexamendios
+Bêta-Test  : Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Le patch "Dropzone.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Archer MacLean's Dropzone (E) [!].smc
+  Taille de la rom: 1 048 576 octets
+  Rom avec Header ? Non
+  CRC de la rom   : E1CCCE49
+  CRC rom patchée : 62CD3215
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  BSnes          [ ]		SNes9X 1.51    [x]
+  Snes 9X 1.43   [ ]		Snes 9X 1.53   [ ]
+  Snes 9x Geiger [ ]		Snes GT        [ ]
+  ZSnes          [ ]
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher. 
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils 
+peuvent créer une sauvegarde de la rom avant de patcher). 
+Voilà maintenant votre rom avec les modifications apportées par notre traduction. 
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+Site Web : http://generation9.kanshima.net 
+Forum : http://www.bessab.com/viewforum.php?f=12 

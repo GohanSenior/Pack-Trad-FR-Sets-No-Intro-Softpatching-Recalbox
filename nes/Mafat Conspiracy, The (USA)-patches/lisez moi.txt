@@ -1,0 +1,79 @@
+Salut :)
+
+Cette traduction a été réalisé par Yamaneko de Yamaneko's Dominion ( http://ombre.free.fr )
+
+
+------------------------------
+------------------------------
+
+*Petit historique de cette traduction : )  ( ouais je raconte ma vie ! Et alors ?? )
+
++Dimanche 09/04/2000
+-Je veux rejoindre un groupe de traduction ce je ne m'y connais pas assez en rom hacking pour traduire un jeu convenablement, je visite un peu les sites et finalement me décide pour 
+Terminus : )
+-Je peux pas joindre le groupe pour l'instant sont très occupés . Sniff
+-Déprime ! :[
+-ptit Chat avec Gerad, il me convainc de faire une traduction en solo pour montrer ce que je vaut.
+Je me dis que sans utiliser les pointeurs ca va être hard ! Mais je décide de me taper un jeu Nes vu que
+pour trouver les tables ce sont les plus simples .
+-Dodo !
+
++Lundi 10/04/2000
+-Je commence la traduction de Golgo 13 et la fini le jour même, ca a été plutôt long vu que je ne sais pas extraire le texte ( je me suis tout tapé dans Thingy -_- )
+-Je la mets le soir même en ligne :)
+
++Mardi 11/04/2000
+-J'essaye quelques autres jeux que je voudrait traduire... Impossible sans utiliser les pointeurs !
+ ( et merde ... )
+-Je m'ennuie, je me dis que ce serait bien de savoir mettre des accents.
+-Réalisation de la version 1.1. La je pense que c'est bon, j'y touche plus !
+
+------------------------------
+------------------------------
+
+*V1.00
+-Bon autant vous prévenir; je suis nul en rom hacking et je ne sais même pas utiliser les pointeurs 
+( comme si je savais ce que c'est ! HA ! ) alors ya évidemment de la compression de phrases en vue,
+mais dans l'ensemble je suis content de moi, même si je n'ai pas pu tester toute ma traduction vu que
+le jeu n'est pas si facile ^_^ . 
+-Ya pas d'accents mais c'est des lettres majuscules et comme de toutes façons je sais pas faire ! 
+-Je sais parfaitement que le texte se repete dans la seconde intro, ca y était déja en version US.
+-Si quelqu'un a le code du stage select ( je sais qu'il y en a un ! j'ai traduit ce jeu :) 
+mais ne confondez pas avec le premier Golgo 13 ! celui avec l'helico qui s'ecrase au début ! ) 
+qu'il me le file pour que je puisse optimiser la traduction.
+-J'ai fait le patch mais je ne l'ai pas encore testé pour être sur que ca marche, 
+prenez plutôt la rom ( si quelqu'un teste le patch, qu'il me dise si ca marche ) 
+( j'ai tout fait aujourd'hui !! , traduc comprise )
+
+------------------------------
+------------------------------
+
+*V1.1
+-J'ai refait les polices pour pouvoir rajouter des accents.
+-Ajout des accents dans le texte.
+-Correction des toutes dernieres erreurs de traduction. Celles qui restent sont la plupart du temps là par manque
+ de place, car je ne sais pas utiliser les pointeurs et que j'ai tout traduit dans l'espace que j'avais :d .
+
+------------------------------
+------------------------------
+
+Remerciements :
+-Aux deux webmasters de Traf pour le faq sur la traduction sans qui ceci n'aurait certainement pas été possible,
+et pour les petits conseils. ( style rajouter ce read me ^_^ )
+-A Card Master de Terminus de pas avoir pu me recruter tout de suite dans Terminus,
+sans ca, je ne serais pas en train d'écrire ceci : )
+-A Gerad de emulation Database pour m'avoir un peu poussé à faire cette traduction.
+-A ceux qui font des traductions et qui m'ont donné envie d'en faire et aussi à ceux qui
+créent les outils nécessaire à tout ca !
+
+------------------------------
+------------------------------
+
+-Et enfin, si vous êtes un rom hacker et que vous recherchez un traducteur mailez moi !
+Je suis dans la situation inverse :
+
+-yamaneko@free.fr ou yamaneko.@worldonline.fr
+-Enfin, n'oubliez pas que pour utilisez une rom, vous devez avoir l'originale !
+Tous les documents, fichiers ou textes ayant rapport avec ce patch ou cette rom appartiennent
+à leur propriétaires ou auteurs respectifs.
+

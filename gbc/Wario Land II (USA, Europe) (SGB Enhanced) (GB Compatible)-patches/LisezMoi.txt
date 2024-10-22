@@ -1,0 +1,79 @@
+Wario Land 2 (Game Boy Color)
+Traduction en Français v1.0 (21/03/2023)
+
+
+------------------------
+Genre: plateforme
+------------------------
+Wario Land II est un jeu vidéo de Nintendo sorti en 1998 sur Game Boy, puis, en 1999, sur Game Boy Color.
+
+------------------------
+Histoire
+------------------------
+L'histoire tourne autour du retour de l'ennemi de Wario, le Capitaine Sirop, accompagnée de 3 soldats
+du Black Sugar, à l'apparence de pirates. Ces derniers se sont introduits dans le château de Wario pendant 
+le sommeil de celui-ci pour y voler ses trésors, inonder le château et lancer un réveil très bruyant rendant 
+le sommeil de Wario très difficile.
+
+------------------------
+CONTENU DE L'ARCHIVE ET UTILISATION
+------------------------
+Normalement, l'archive ZIP doit contenir:
+Wario_land_2_FR.ips - Le patch IPS de Wario Land 2 
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+comme LumarIPS.
+Ce patch est à utiliser avec la rom
+Wario Land II (USA, Europe) (SGB Enhanced) (GB Compatible).gbc
+Taille: 2097152 octets (2048 KiB)
+CRC32: 047BDF80
+SHA256: 40f366ccd5bd6a9643dc317db63a286f9104f164f9fc46ff037e548d5e83ed52
+
+
+ROM patché:
+Taille: 2097152 octets (2048 KiB)
+CRC32: 2AF0A314
+SHA256: 6d9dfb67463dc315e12d2d2f35f22902d2aeeff2a7f6de95e35ccb56e0b0300e
+
+--------
+TRADUCTION
+--------
+Yoda07: menu, script, GFX
+
+V1.0:
+script: 100%
+mini jeu: 100% (composé que de gfx)
+GFX: 90% (j'ai volontairement laissé le GFX "coin" que je trouve
+adapté comme nom de monnais pour le JEU.)
+modification de l'écran titre II->2 comme sur la version Jap ainsi que l'oeil dans
+le O de Wario.
+
+----------------------------------------------------------------
+CONTACTS
+----------------------------------------------------------------
+Une remarque, une question ou une correction à apporter à la
+traduction de Wario Land 2.
+
+Yoda07 mail: juin-2010@hotmail.fr
+
+----------------------------------------------------------------
+REMARQUES LEGALES
+----------------------------------------------------------------
+Le patch de traduction française de Wario Land 2 n'est
+pas officiel et n'est pas supporté Nintendo.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !

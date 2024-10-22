@@ -1,0 +1,6 @@
+Ce patch n'accepte pas tout les cores.
+
+Cores compatibles:
+
+- Libretro FCEUmm
+- Libretro QuickNES

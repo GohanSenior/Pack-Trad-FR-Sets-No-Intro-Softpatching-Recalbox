@@ -1,0 +1,35 @@
+
+http://generation9.kanshima.net/
+
+Traducteur:
+	KS151
+Romhackeur :
+	KS151
+Jeu :
+	BALLOON FIGHT
+Message :
+	Un jeu des plus simplistes car il s'agit d'un de combat où
+	il faut percer le ballon de ses adversaires sans perdre les 
+	deux siens ^^. Le jeu est génial surtout à deux mais reste 
+	relativement peu intéressant passé le demi-heure. Les niveaux
+	sont illimités on repars du deuxième si j'ai de bons souvenirs.
+
+	Mais on retrouve quand même les joies d'antant avec de la simplicité
+	et beaucoup de nostalgie ^^.
+
+Caractéristiques du jeu :
+	Nombre de joueurs : 2 (en asimultané)
+	Style : Action
+	Note : 6/20 (tout seul) et 14/20 (à deux)
+
+Le patch :
+	Version 1.00
+
+Traduction :
+	de l'anglais au français au stade de 99% (le titre du jeu 
+	n'est pas traduit). Beta-test nikel sous Nestopia et 
+	Virtua Nes. Peu de texte à traduire. A noter que c'est ma troisième
+	traduction ! Version traduite : Balloon Fight (E).nes 
+
+	1.1 : Rajout de:"'" dans "C'EST FINI" histoire de faire plaisir
+	à GreatSkaori ;)

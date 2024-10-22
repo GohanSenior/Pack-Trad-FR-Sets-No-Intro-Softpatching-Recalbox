@@ -1,0 +1,136 @@
+***** LE PATCH *****
+
+----- Utilisation -----
+Ce patch gratuit et non officiel propose de découvrir une alternative française aux dialogues anglais de la cartouche de votre jeu original.
+
+À appliquer sur le fichier image:
+ECCO Jr. (Feb 1995) (UJE) [!].bin
+CRC32 de la rom : 6C6F4B89
+
+Pour voir le CRC32 d'un fichier, vous pouvez installer 7-Zip puis clic droit sur le fichier et CRC SHA > CRC32.
+Pour utiliser le patch, vous pouvez par exemple utiliser Lunar IPS disponible ici :
+https://traf.romhack.org/?p=outils&oid=151
+
+CRC32 de la rom après patch: 381FE80C
+Le checksum restera bon après patchage de la rom.
+
+----- Remerciements & Questions -----
+Vous pouvez m'écrire en laissant un message sur ce sujet du forum :
+https://www.romhack.org/viewtopic.php?f=43&t=4225
+
+
+
+***** LE JEU *****
+
+----- Série Ecco le Dauphin -----
+Vous incarnez Ecco qui visitera de nombreuses mers et océans en différents lieux et temps de la Terre.
+3 jeux Ecco furent produits du temps de la Megadrive et de son périphérique MegaCD.
+
+1. Ecco the Dolphin
+magnifiquement traduit par Terminus Traduction,
+et dont vous trouverez un complément de traduction pour les vidéos de la version CD en fin de document...
+2. Ecco the Tides of Time 
+qui disposa d'une traduction officielle
+3. Ecco Jr.
+qui est traduit ici grâce à ce patch
+
+----- Options parentales -----
+Le manuel du jeu explique aux parents comment accéder à un menu caché pour leur enfant.
+Ce menu contient de nombreuses informations documentaires sur les dauphins.
+On peut aussi y changer la difficulté du jeu, permettant de découvrir 8 niveaux complémentaires.
+Maintenez A, B et C à l'écran titre jusqu'à l'apparition du menu.
+
+----- Niveau expérimental -----
+Il existe un niveau expérimental caché dans le jeu et que vous pouvez découvrir en suivant ces étapes:
+- entrez le code game genie ABHT-AADW
+- allez dans les mots de passe et entrez le code SJO
+
+
+
+***** LES TRAVAUX FRANCOPHONES *****
+
+----- Etat de la traduction -----
+
+écran titre
+introduction du jeu
+menu des options parentales
+descriptif des 27 niveaux du jeu
+20 glyphes documentaires dans les options parentales
+fin du jeu
+
+Ceci porte la traduction du jeu à 100%.
+
+----- Easter Egg -----
+Parmi les textes documentaires des 20 glyphes, on trouve un texte en double.
+Je l'ai remplacé par une autre question: Quel secret Ecco a-t-il? :-)
+
+----- Traduction bonus -----
+Une bonne part de la traduction dans Ecco Jr. concerne des infos documentaires.
+Peut-être le savez-vous: Novotrade avait déjà fait cela avant.
+Sur la version MegaCD de Ecco the Dolphin, dans le niveau The Library, 2 glyphes contiennent des documentaires vidéo.
+
+Ne sachant comment traduire ces vidéos sur MegaCD, en voici la traduction ici dans [DOC1 FR] & [DOC2 FR].
+
+----------[DOC1 FR]----------
+Les dauphins respirent de l'air bien qu'ils vivent en mer.
+Nous savons que les ancêtres des dauphins ont d'abord habité la terre.
+Alors pourquoi ont-ils migré vers la mer ?
+Il y a plus de 50 millions d'années, les ancêtres des dauphins vivaient sur la terre ferme et se déplaçaient à gué pour trouver du poisson et d'autres aliments dans les eaux chaudes et peu profondes des mers préhistoriques.
+Nous pensons qu'ils retournaient dans l'eau en permanence pour suivre les poissons et autres délices aquatiques qui étaient non seulement abondants mais aussi faciles à recueillir.
+Les dauphins sont parfaitement adaptés à la mer.
+Leur forme est appropriée pour être rapide et agile.
+Les nombreuses vertèbres de leur colonne vertébrale leur confèrent une grande souplesse, même au niveau du cou.
+Ils peuvent donc pencher leur tête à angle droit par rapport à leur corps pour regarder autour d'eux.
+Leur queue horizontale ou nageoire caudale est parfaitement conçue pour monter en flèche depuis le fond marin, afin de saisir des proies.
+Ils peuvent incliner leurs nageoires pour plonger ou remonter à la surface, les incliner pour effectuer des virages et les étendre complètement pour ralentir.
+En vitesse de pointe, les grands dauphins peuvent nager jusqu'à 30 kilomètre à l'heure.
+Ils atteignent leur vitesse maximale en sautant les vagues en courbe et en passant le moins de temps possible sous l'eau.
+Le résultat est comme s'ils tournoyaient comme des roues, parfois sous l'eau, parfois au-dessus.
+En voyant cela, on dit que les Dauphins tournoient.
+Bien qu'ils ne soient pas communément considérés comme des plongeurs de fond, les dauphins peuvent atteindre des profondeurs impressionnantes.
+Ils peuvent plonger à plusieurs reprises à des niveaux allant jusqu'à 300 mètres, tout en cherchant de la nourriture.
+Ils peuvent retenir leur souffle pendant six ou sept minutes.
+Pour survivre à la pression de ces profondeurs, les dauphins ont développé une cage thoracique très souple.
+Leurs systèmes circulatoire et musculaire ont été modifiés, pour augmenter le stockage d'oxygène.
+Et leur rythme cardiaque ralentit pendant qu'ils plongent, et s'accélère rapidement lorsqu'ils reprennent leur souffle.
+Des traits physiques uniques nous aident à voir les dauphins comme des créatures individuelles.
+Ils ont une grande mâchoire, bien qu'ils soient dotés d'un formidable éventail de dents qui semblent sourire.
+Un évent situé au sommet de leur corps leur permet de respirer avec une légère ouverture à la surface de l'eau.
+Cet évent aquatique qui se déploie vers le haut de leur corps au cours de leurs remontées, se referme hermétiquement lors des plongées pour verrouiller l'eau.
+Ils n'ont presque pas d'odorat mais ont une très bonne vue, meilleure que celle des humains.
+Bien qu'ils ne puissent voir qu'à courte distance sous l'eau, leurs yeux regardent intelligemment, avec une expression amicale, curieuse et souvent humoristique.
+Lorsque vous regardez les dauphins, ils se retournent.
+
+----------[DOC2 FR]----------
+Les grands dauphins sont des animaux robustes qui atteignent une longueur moyenne d'environ deux mètres et pèsent environ 250 kilogrammes.
+Certains individus spectaculaires ont cependant atteint une longueur de 4 mètres et pèsent jusqu'à 650 kilogrammes.
+La plupart des grands dauphins sont gris argenté, plus foncés sur le dessus et plus clairs sur le dessous.
+Nombre d'entre eux ont des tâches de rousseur avec une myriade de petites marques.
+Dans une vie normale, ils vivent pendant environ 25 à 30 ans.
+Les dauphins se déplacent en groupes familiaux libres appelés bancs.
+Ils sont exubérants et enjoués, sautant souvent sans raison apparente, juste pour le plaisir, semble-t-il.
+Ils sont très intelligents.
+Certains d'entre nous le croient : ils sont encore plus intelligents à leur manière que les humains.
+Les dauphins travaillent ensemble pour chasser.
+Ils attaquent souvent des bancs de poissons dans les zones peu profondes, pour faciliter la capture.
+Ils postent des sentinelles pour protéger le groupe des prédateurs, en particulier des requins.
+On a vu des dauphins aider un camarade blessé, soulevé au-dessus de l'eau à intervalles réguliers pour respirer.
+Certains dauphins peuvent devenir des amis et rester très proches les uns des autres pendant des années.
+Il est évident que la société des dauphins profite à tous ses membres, avec la sécurité du nombre.
+Et une plus grande capacité à trouver de la nourriture augmente leur intelligence et leur capacité d'apprentissage.
+Les dauphins sont bruyants.
+Ils communiquent sans arrêt avec des cris, des battements, des grognements, des claquements, des clics, des applaudissements et des sifflements.
+Jusqu'à 1 000 sons distincts par seconde dans ce que nous pensons être un type de langage.
+Les mères et leurs petits se touchent et peuvent entendre le son de l'autre, même si des dizaines de dauphins sifflent et gazouillent tout le temps autour d'eux.
+Les dauphins font chacun un sifflement distinctif et reconnaissable.
+D'autres dauphins imitent le sifflet pour appeler le plus proche dauphin par son nom.
+Au lieu d'entendre l'océan qui les entoure, les dauphins naviguent par sonar.
+Ils chantent, c'est-à-dire qu'ils envoient des ondes sonores qui leur renvoient un écho en fonction de leur environnement.
+Les dauphins ont une partie arrondie de la tête appelée melon.
+Le melon est rempli d'une huile qui élimine les vibrations et nous pensons que les dauphins peuvent ajuster ce melon pour modifier les sons qu'ils émettent.
+Les ondes sonores étant concentrées dans des vibrations amorties, ils peuvent déterminer d'où leurs sons sont renvoyés.
+Lorsque les dauphins s'approchent des objets, ils émettent une série de sons plus rapides qui les aident à identifier avec précision la position, la vitesse, la taille, la forme, la texture et même la composition d'un objet.
+
+----- Site à découvrir -----
+Si vous êtes fan de la série, ce site contient de nombreuses ressources très intéressantes:
+https://eccothedolphin.online/

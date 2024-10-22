@@ -1,0 +1,347 @@
+ ___________________________________________________________________________
+               
+                          Traduction de Duck Tales 2
+                              par Cigarette Patch
+                   Featuring GreatSkaori de Génération IX
+ ___________________________________________________________________________
+
+ Public, tu nous a demandé de traduire Duck Tales 2. Et nous ne reculons
+ devant rien pour exaucer tes souhaits. Ahh, si tu savais comment j'en ai
+ cauchemardé de ce jeu... Ca me rappellait Disney Parade sur TF1 (une chaine
+ culturelle française pour nos amis québecois qui ne suivraient pas), ce jeu
+ me rappellait Disney Parade, et son animateur mythique, la verrue de
+ Jean Pierre Foucault.
+ ___________________________________________________________________________
+ 
+ Patch version 1.00 sorti a l'occasion du deuxième anniv' de Cigarette ^^ 
+
+ Disclaimeur
+ Publicité
+ Episode Pokémon
+ Codes Game Génie
+ Remerciements		          		      
+ ___________________________________________________________________________
+
+ Disclaimeur:
+
+                * Disclaimeur d'origine censuré par la SELL *
+* La SELL Société Editrice des Logiciels de Loisirs condamne Cigarette Patch *
+            *  à 2 ans de prison ferme et 30000 Euros d'amende *
+
+        * A partir de ces lignes c'est la SELL qui prend la parole *
+
+
+ -edit-
+
+ Combien de fois devrais-je vous le dire? 
+
+              L'EMULATION C'EST PAS BEAU, C'EST TOUT VILAIN!!!
+
+ Vous le savez tous, émuler c'est pas bien pour la santé de nos chères
+ multinationales du jeux vidéos. A cause de vos conneries ces gens là sont
+ dans la rue... (en Benz vitres teintées, intérieur cuir, et secrétaires
+ triées sur le volet dans le jacuzzi cela va sans dire), mais avant ils
+ étaient en Rolls, bande d'égoïstes! Ca va pas non, briser les rêves de
+ millions de PDG comme ça!
+
+ De plus, si vous lisez ceci c'est que vous avez de mauvaises fréquentations.
+ En effet, vous faites appel à des "HACKEURS", la pire menace du net après
+ le "PIRATAGE". Ces sinistres individus (qui sont aussi dangereux qu'un
+ gueux en survet' dans les soirées de l'ambassadeur Ferrero) je disais donc,
+ ces sinistres individus n'ont aucun scrupule à violer l'intimité des roms
+ à coups de bits. Toute cette violence dans le but illusoire de jouer les
+ justiciers car soit disant ces roms ne sont pas sorties en français.
+ Diantre, tout ceci est d'une foutaiserie...
+
+ Alors aujourd'hui, moi, Jean Renaud Verin inspecteur de la SELL,
+ je pousse ma gueulante:
+ 
+                    Y EN A MARRE, CROTTE A LA FIN MERDE!
+
+ Je me suis associé à Nikos Aliagas, (un laquais qui bosse dans un château),
+ pour vous infliger une épreuve qui nous lavera de l'affront que vous
+ venez de nous faire subir.
+
+ Voici votre gage. Lancez votre rom de Duck Tales 2 et attendez jusqu'a
+ l'écran titre. La n'appuyez surtout pas START et chantez à haute voix les
+ paroles de ce tube des années 80.
+ Pour les [Hou, hou] aidez vous d'une demoiselle hystérique.
+
+          ----------------------------------------------------
+              C'est le plus grand Boss de toute la ville
+                            Picsou, Picsou
+              C'est le plus puissant de tout Canardville
+                            Picsou, Picsou
+               Il vaut des milliards, en or, en dollars
+                           Picsou [hou hou]
+               En suivant Fifi, Riri et Loulou [hou hou]
+                 Nous entrerons dans la bande à Picsou
+
+                         C'est le plus riche
+                           [Foi de canard]
+                           Le plus chiche
+                          [Le plus roublard]
+
+                     En suivant Fifi, Riri et Loulou
+             Nous entrerons dans la bande à Picsou [hou hou]
+            On ne veut plus claquer du bec chez nous [hou hou]
+               Nous voulons entrer dans la bande à Picsou
+           --------------------------------------------------
+
+ Source : http://www.bide-et-musique.com
+ 
+ Mais non, c'était une blague, une caméra cachée quoi...
+ Si vous avez vraiment cru à ma blague et que vous avez chanté avec moi, 
+ (moi j'étais tombé dans le panneau la première fois, vraiment trop fort ce
+ Marcel Beliveau) alors vous êtes assez nostalgiques pour pouvoir appliquer
+ ce patch sur votre rom.
+
+ A fil des années, ça devient n'imp mes ridmies :(
+ ___________________________________________________________________________
+
+ Publicité:
+
+ Bon allez, pour se remettre de nos émotions (Haggar cherche pas les caméras
+ de Marcel Béliveau, c'était une blague... rah ces stagiaires je vous jure)
+ voici une page de pub.
+
+ Cigarette Patch, ce groupe merveilleux du monde merveilleux de la trad
+ francophone. Ce groupe qui est en parfaite harmonie avec la nature, ce
+ groupe qui fait cui cui comme les chants des oiseaux, ce groupe qui
+ respecte le blanc et les couleurs de dedans ta machine à laver....
+ 
+ Ce groupe qui fait des patch tellement pourris.... tels que:
+
+ Ninja Gaiden Trilogy (SNES) : Le projet mythique de ce groupe qui finira
+  			       bien un jour ou l'autre dans un cendrier...
+
+ Final Fight 2 (SNES)	     : Un patch parodique très mauvais pour ton 
+			       insécurité de dans la rue.
+
+ Prince of Persia (SNES)     : Un patch engagé dans la lutte contre le
+                               racisme.
+
+ River City Ransom (NES)     : Une traduction avec des scènes d'amour
+                               terrifiantes, et des scènes de violence
+                               émouvantes.
+
+ ___________________________________________________________________________
+ 
+ Episode Pokémon
+
+ Un ridmie de Cigarette sans deux gros bides bien gras et bien lourds n'est
+ pas un vrai ridmie. Ici, on ne recule devant rien, et nous avons chippé 
+ LA fameuse "cassette interdite" du bureau de Dorothée. Voici donc en avant
+ première l'épisode 69 de Pokémon, l'épisode mythique adulé par les fans et
+ qui fut censuré par TF1 du fait de sa violence verbale omniprésente.
+
+ SACHA:
+ - Salut Prof. Patrick Chen, c'est moi Sacha!^^
+ PROF CHEN:
+ - Tiens Sacha Distel, comment vas tu? J'étais sur ce chêne a cueillir, des
+ pommeuuuhs, des poireuuuuhs et des scoubidoubidou ah, scoubidoubidou ah...
+ SACHA:
+ - Bon, ça suffit Prof Chen! >( J'ai chanté ça à l'époque parce que j'étais
+ à la rue, pas la peine de me vanner a chaque fois, c'est relou a force ...
+ PROF CHEN:
+ - OK, alors arrête de m'appeller Patrick Chen, j'ai une tête a présenter le
+ JT de France 2? Vraiment cons ces jeunes... Sinon quoi de neuf mon petit
+ Sacha?
+ SACHA:
+ - Regardez ce que j'ai choppé sur mon Pokédex....
+ PROF CHEN:
+ - Oh, un Nintendomon! Mais c'est excellent ça!
+ SACHA:
+ - Oui j'ai eu du mal à le capturer, ces bêtes là envahissent les forums 
+ d'émulation et se reproduisent sans arrêt, mais dès qu'il s'agit de les
+ capturer, c'est une autre histoire...
+ PROF CHEN:
+ - Ne nous raconte pas ta vie non plus Sacha ^^. Si tu nous montrais
+ plutot ce dont est capable ton Nintendomon?
+ SACHA:
+ - Et toi je t'ai demandé si Sophie Davant présente la météo en string? >(
+ Pardonnez moi, ça m'a echappé mais fallait pas me chercher aussi.
+ PROF CHEN:
+ - Passe pour cette fois, je vais passer sous silence ta relation avec
+ Nana Mouskouri. Alors ce Nintendomon?
+ SACHA:
+ - C'est très simple. Il possède plusieurs attaques, voici la première,
+ allez Nintendomon, montre nous ta force verbale!!!
+ NINTENDOMON:
+ - "Nintendo c lai mailleure il on invantai lai jeu vidaiyo, lai otre
+ son dai copieure ai dai paidé mdr! A more Saiga mdr! a mord Sonie mdr!
+ o chiote Microchiote mdr!" :)
+ PROF CHEN:
+ - Ouh là, j'ai déjà mal aux tibias :( Mais pourquoi fait'il autant de
+ fautes d'orthographes?
+ SACHA:
+ - C'est pour nous faire peur et pour nous montrer qu'il a des burnes.
+ Notez bien la haine qui se dégage de cet ardent boulet-défenseur de la
+ marque du plombier. Tout le reste c'est de la merde. Analysez la 
+ pertinence des arguments énoncés "paidé, a more les autres, 
+ au chiottes etc..."
+ PROF CHEN:
+ - Excellent, excellent! Quelle belle rétorique :) Sinon quoi d'autre,
+ dépèche toi, je suis déjà à deux doigts de m'acheter un Virtua Boy ^^.
+ SACHA:
+ - Nintendomon! Montre nous ta défense de la mauvaise foi!!!
+ NINTENDOMON:
+ - "Ta gueulleuh, Segamon! la guème jir sai une anclume mdr! mon paire an a
+ trouvai une a casteaurama den le raiyon marto mdr!! sinon sur gébéya,
+ ya pa de portaje snais. tu mans salle nioubi mdr. saiga sai une mark
+ de putte mdr! depui kil fon plu de consol, il fon dai jeu partou, il se 
+ son fai besé pare tou le mond mdr!"
+ PROF CHEN:
+ - Ca c'est de la bonne défense! Mais qui est ce mystérieux Segamon?
+ SACHA:
+ - C'est une autre race de Pokéboulet qui hante les forums d'émulations.
+ Ils venerènt une autre divinité appellée Sega, et ce sont les pires
+ ennemis des Nintendomon.
+ PROF CHEN:
+ - Ah OK. C'est comme les fameux Sonymon et les Microsoftmon!
+ SACHA:
+ - Tout à fait. T'es pas aussi stupide que t'en as l'air Prof CHEN!
+ PROF CHEN:
+ - Je te remercie Sacha, je m'entraine dur et je vais bientot
+ évoluer en PROF SAPIN. (le vieux bide a deux balles ^^)
+ Il me manque juste une donnée. Quel est le cri des Nintendomon? 
+ C'est "mdr" non? 
+ SACHA:
+ - Non pas du tout, c'est "Yahooooo!" pendant les périodes de reproduction,
+ ou sinon "Ouh! ouh! Just what i needed!" quand ils se nourrissent d'un
+ Super Champignon. Les Segamon ont un autre cri caractéristique qui est
+ "SEEEEEEEEEEEEEEEEEEEGGGGGGAAAAAAAAAAAAAAAAAAAAA" et une variante sonore
+ juste avant d'avaler une boisson gazeuse.
+ PROF CHEN:
+ - Très bien. Mais je pense que tu as un petit disclaimeur a faire avant que
+ nos lecteurs se ruent sur la boite mail de Skaiboy pour lui déverser un flot
+ d'insultes.
+ SACHA:
+ - C'est exact, Prof Chen. Le mois prochain, je vous parlerai de la guerre des
+ Sonymon contre les Microsoftmon
+
+ Disclaimeur:
+ 
+ Ce bide ne s'adresse en aucun cas au fans "raisonnables" de Nintendo, Sega
+ Sony et Microsoft. Les termes Nintendomon, Segamon, Sonymon et Microsoftmon
+ (Micromon pour les intimes) correspondent aux boulets de base qui hantent
+ vos forums d'émulation favoris, en clamant haut et fort que seule la marque
+ qu'ils défendent est la meilleure, les autres consoles n'étant que des
+ excréments de chiens :(
+ Et ne faites pas semblant de ne pas m'avoir compris, tout le monde a cotoyé
+ un jour ou l'autre ce genre de pokémon en liberté sur un forum ;)
+ Je suis moi même fan de Nintendo (j'ai traduit 5 jeux Nintendo et je possède une
+ NES et une GBA SP), fan de Sega aussi (je fais religieusement chaque mois une
+ partie de Streets of Rage 2 et j'ai failli m'acheter une DreamCast l'an
+ dernier), fan de Sony (je possède une PS1 avec 60 jeux originaux), 
+ fan de Microsof... hum non pas vraiment fo pas déconner non plus :)
+ Les marques déposés Nintendomon, Segamon, Sonymon et Micromon sont la
+ propriété exclusive de Cigarette Patch, mais je serais heureux si vous pouvez
+ les employer sur votre forum d'ému favori afin de faire reculer cette
+ menace que sont les pokéboulets.
+ Attention a ne pas trop taper sur les Nokiamon, cette espèce est en voie de
+ disparition! mdr je me transforme en pokéboulay mdr mdr lol lol!! 
+
+ Merci de m'avoir lu jusqu'au bout, les hardcore gamers vaincront et surtout
+ n'oubliez pas notre cri de guerre:
+
+                          A MORE LAI POKAIBOULAYZ' mdr!!!
+ ___________________________________________________________________________
+   
+ Codes Game Genie
+
+ Excusez moi, mais fallait réagir! Y en a vraiment marre de ces pokaiboulays!
+
+ Voici donc une autre tradition chez Cigarette, après la séquence 
+ "coup de gueule" voici le coin des grugeurs.
+ 
+ Cigarette, le groupe qui aime son public, t'offre un fabuleux séjour
+ de voyage dans la page des gruges de Duck Tales 2.....
+
+        GZXGZGVG        Vies infinies
+        APONPXAA        Mode Marco Fogiel (pour ceux qui aiment souffrir)
+        ZAONPXAA        Mode Adibou (si vous avez du mal)
+        ASNKPAAL        Commencer avec 5HP
+        AONKPAAL        Commencer avec 1HP (Mode Marco en cuir ;)
+        PAXSPZAA        Etre pété de thunes
+        AAEKAPZA        Commencer comme un auch avec seulement 1 vie 
+
+ Source: www.gamefaqs.com
+
+ Le petit Ariel Wizman 8 ans, me demande si ces codes Game Génie fonctionnent
+ si on astique une ampoule ou une bougie à défaut de ne pas avoir de lampe
+ magique. Je lui répondrais simplement: "Magic Mandrax, ici le docteur Pajot
+ avec un T, quittez le corps d'Ariel Wizman! Oh fait j'oubliais! Shewbacca
+ ici le docteur Jean Louis David avec un D, quittez la chevelure de Stéphane
+ Bern."
+ (Je sais c'est pas très original de se foutre de la gueule de la force
+ capillaire du Stéphane Bern, mais c'est de saison ;)
+
+ Il y a trois fins différentes dans ce jeu, au cas où vous seriez fans de
+ ce radin de Onc'Picsou.
+
+ La fin classique quand vous finissez le jeu, normal.
+ La fin honteuse lorsque vous finissez le jeu avec 0$ au compteur, 
+ et 0$ au total
+ La fin stylée si vous finissez le jeu en récupérant les 7 morceaux de la
+ carte au trésor. 
+
+ Ce patch ne fonctionne uniquement que sur la version américaine de la rom.
+ Cigarette Patch vous recommande l'émulateur VirtuaNES, qui est bien stylé
+ avec plein d'options qui tuent comme les filtres 2xSai...
+
+ ___________________________________________________________________________
+
+ Remerciements
+
+ Mon pote GreatSkaori : Pour avoir accepté de traduire ce jeu, et pour son
+                        professionnalisme hors pair. Il a même été au point
+                        de fouiner aux quatre coins du Web pour retrouver
+                        le nom de famille du clan McPicsou. T'es un bon
+                        Greats, si tu veux traduire un autre jeu sous le
+                        label Cigarette, chui partant.
+                        http://generation9.uhrft.org/ (Génération IX, 
+                        ils bossent actuellement sur Final Fantasy Tactics
+                        et Legend of Mana entre autres)
+                        
+ Pixel                : Que l'on surnomme affectueusement Pixou, (rien à
+                        voir avec Onc'Pixou ou Oncle Ben's) qui a trié le
+                        script grâce à une commande magique sous Linux. 
+                        http://dem.nobis-crew.org/ (Deus Ex Machina qui
+                        traduisent Xenogears sur Play)
+
+ NhuNhu Rocket        : Le seul pélerin qui contribue encore au forum du
+                        groupe. Un gars courageux qui n'a pas peur d'aller
+			fouiner dans les coins les plus pourris du net :)
+                        
+ Le site de la TRAF   : Pour nous avoir proposé plein de patch, ainsi que des
+                        FAQ qui m'ont permi de comprendre comment traduire les
+                        jeux. Et surtout pour avoir accepté de publier mon 
+                        patch sur leur site. Merci les gars :)
+		        (en particulier Hell).
+		        http://traf.romhack.net
+
+ Les webmasters des   : Pour avoir pris le risque de parler de Cigarette Patch
+ sites d'émulation      dans leurs news et pour avoir gracieusement distribué
+                        nos patchs.
+
+ Asmo                 : Pour m'avoir encouragé et pour m'avoir proposé de
+		        l'aide. Ainsi que pour son interêt pour mon modeste
+		        travail.
+		        http://www.asmolution.fr.st
+
+ Seb                  : Pour avoir écrit la FAQ (La Traduction pour les Nuls)
+                        qui m'a enfin fait comprendre comment traduire les 
+                        jeux.
+
+ Les créateurs de Nesticle, FCEUltra, VirtuaNES, Hexposure, Tile Layer
+ Pro, Thingy, Word, Bloc Notes, et mes dicos Harrap's et Hatier...
+
+ Et surtout le public qui a voté en masse pour la traduction de ce bon
+ ptit jeu. Merci encore de votre soutien ;)
+ ___________________________________________________________________________
+
+ Patch de Traduction de Duck Tales 2 Copyright 2003 GreatSkaori - Skaiboy
+ http://cigarette.consolemul.com
+ http://generation9.uhrft.org/
+ skaiboy@free.fr

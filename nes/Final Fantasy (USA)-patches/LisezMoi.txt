@@ -1,0 +1,126 @@
+01/02/2003
+
+TERMINUS TRADUCTION présente FINAL FANTASY RC2 (NES)
+Traduction française v1.01
+
+----------------------------------------------------------------
+***********************Table des matières***********************
+----------------------------------------------------------------
+
+1.	L'HISTOIRE DE FINAL FANTASY
+2.      CONTENU DE L'ARCHIVE ET UTILISATION
+3.      LES PATCHS PUBLIES
+4.	TOUT CE QUI A ETE FAIT
+5.	L'ÉQUIPE DE LA TRADUCTION
+6.      CONTACTS
+7.	REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  L'HISTOIRE DE FINAL FANTASY
+----------------------------------------------------------------
+
+Le monde est sous l'emprise du mal. Les éléments sont déchaînés
+et la terre commence à pourrir. Les gens attendent que se
+réalise la prophétie...
+
+' A l'aube du Chaos viendront les Quatre Guerriers... '
+
+Un beau jour, quatre jeunes guerriers arrivèrent, chacun tenant
+un Cristal.
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir :
+
+ff1fr.ips    - Le patch IPS de Final Fantasy version française
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+L'utilisation du Terminus Patcher, qui est disponible sur notre
+site, est recommandée pour utiliser notre patch. Ce Patcheur est
+très rapide du fait de sa programmation en assembleur, et pèse
+6 ridicules kilo-octets !
+
+UTILISEZ LE PATCHE AVEC LA ROM ORIGINALE 'FINAL FANTASY (U).NES'
+
+----------------------------------------------------------------
+3.  LES PATCHS PUBLIES
+----------------------------------------------------------------
+
+1.00 - 01/01/2003
+
+Première version du patche de Final Fantasy sur NES.
+Ce patche à pour but de déceler les dernières erreurs du
+hack, afin de les corriger et de sortir un patch final.
+
+1.01 - 01/02/2003
+
+Les dialogues ont été revus, corrigés et aérés (entendez par là
+que les textes ne font plus 'blocs' comme avant). Les textes en
+combats sont maintenant plus explicites, et il n'y a plus de
+bugs (enfin, normalement !) avec les textes qui dépassent des
+cadres.
+
+----------------------------------------------------------------
+4.  TOUT CE QUI A ETE FAIT
+----------------------------------------------------------------
+
+Dialogues  : 100%
+Ennemis    : 100%
+Equipement : 100%
+Graphismes : 100%
+Menus      : 100%
+
+Il reste encore un petit bug dans le menu des magies, mais
+qui n'empêche absolument pas de jouer. Il sera résolu dans un
+futur patche.
+
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+   Ryusan       : Chef de projet, hacking, traduction.
+
+                  
+Remerciements au staff de mon site (www.emuarena.com) qui m'ont
+aidé à vérifier la rom patchée en y jouant, mais aussi aux
+outils qui ont été créés pour l'occasion.
+
+----------------------------------------------------------------
+6.  CONTACTS
+----------------------------------------------------------------
+
+Une remarque, une question ou une correction à apporter à la
+traduction de Final Fantasy :
+
+Ryusan - theryusan@aol.com
+
+Vous voulez mieux connaître le groupe, télécharger nos derniers
+patchs ou vous renseigner sur un projet.
+
+Site Web - http://terminus.romhack.net
+
+----------------------------------------------------------------
+7.  REMARQUES LEGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de Final Fantasy n'est pas 
+officiel et n'est pas supporté par les concepteurs du jeu.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+Ryusan

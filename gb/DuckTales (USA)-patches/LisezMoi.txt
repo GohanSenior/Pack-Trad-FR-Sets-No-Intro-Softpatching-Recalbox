@@ -1,0 +1,74 @@
+Duck Tales (Game Boy)
+Traduction en Français v1.1 (19/02/2022)
+
+
+------------------------
+Genre: plateforme
+------------------------
+Disney's DuckTales (traduit par La Bande à Picsou) est un jeu vidéo de plate-forme adapté de la 
+série d'animation du même nom La Bande à Picsou. Le jeu, développé par Capcom est d'abord sorti 
+aux États-Unis sur NES en 1989 avant d'être porté sur Game Boy l'année suivante. 
+
+------------------------
+Histoire
+------------------------
+Le joueur dirige Balthazar Picsou parti à la recherche de trésors légendaires, à travers 
+5 niveaux à défilement horizontal, représentant chacun une région du monde. Picsou peut se 
+déplacer, sauter et utiliser sa canne pour envoyer des projectiles sur ses différents adversaires 
+ou pour rebondir lors d'un saut pour atteindre une plus grande hauteur. 
+
+------------------------
+CONTENU DE L'ARCHIVE ET UTILISATION
+------------------------
+Normalement, l'archive ZIP doit contenir:
+Duck Tales FR(1.1).ips - Le patch IPS de Duck Tales
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+comme LumarIPS.
+Ce patch est à utiliser avec la rom
+Duck Tales (U) [!].gb
+Taille: 65536 octets (64 KiB)
+CRC32: 2BBBB54D
+SHA256: 8182C444DD9457C0396CB1B5B17AEABA0E8D428AC16599CD1D7528E3FE50314C
+
+ROM patché:
+Taille: 65536 octets (64 KiB)
+CRC32: B52E5F0A
+SHA256: 0D00912E2F4998BBBCDA8787820435E98DC39E7B71DCA76B25F5724FA8E5B3D8
+--------
+TRADUCTION
+--------
+Yoda07: menu, script, 100%
+
+V1.1: correction de fautes, reformulations de certaines phrases et mise en forme du texte 
+plus net.
+
+----------------------------------------------------------------
+CONTACTS
+----------------------------------------------------------------
+Une remarque, une question ou une correction à apporter à la
+traduction de Duck Tales.
+
+Yoda07 - juin-2010@hotmail.fr
+
+----------------------------------------------------------------
+REMARQUES LEGALES
+----------------------------------------------------------------
+Le patch de traduction française de Duck tales n'est
+pas officiel et n'est pas supporté par Capcom ou Nintendo et Disney.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !

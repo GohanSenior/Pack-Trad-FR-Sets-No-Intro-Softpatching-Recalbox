@@ -1,0 +1,51 @@
+-------------------------------------------------------------------------------
+The Ignition Factor Français
+-------------------------------------------------------------------------------
+Version 1.0
+
+Release date: 12/02/2015
+-------------------------------------------------------------------------------
+Avancement du Projet
+
+stable
+-------------------------------------------------------------------------------
+Credits
+
+Crazydoub (crazydoub@gmail.com)
+-------------------------------------------------------------------------------
+Description
+
+Traduction Français du jeu Snes Ignition Factor.
+-------------------------------------------------------------------------------
+Instructions
+
+Appliquer le patch Ips sur la rom US du jeu:
+Ignition Factor, The (U).smc (1,00 Mo / 1 048 576 octets)
+Rom patchée:
+1,50 Mo (1 572 864 octets).
+
+-------------------------------------------------------------------------------
+NOtes additionnelles
+
+N'hésitez pas à me faire part des bugs éventuels rencontrés à
+crazydoub@gmail.com
+
+Un grand merci à Izidor pour ses conseils et sa patience ;)
+
+-------------------------------------------------------------------------------
+Codes Action Replay
+
+Infinite Minutes 		7E1CBA00 
+Infinite Seconds 		7E1CB900
+Infinite Milliseconds 		7E1CB800
+Infinite Fire Trucks 		7E069703
+No Item Weight 			7E069800
+Infinite Health 		7E0669F9
+Maximum Health 			7E069AF9
+Infinite Red Extinguisher 	7E068DB4
+Infinite Green Extinguisher 	7E068EB4
+Infinite Blue Extinguisher 	7E068FB4
+Infinite Air Tank 		7E0690B4
+Infinite CO2 Bombs 		7E0695B4
+Infinite Plastic Explosives 	7E0696B4
+Can Always Carry Up To 9 Items 	7E069909

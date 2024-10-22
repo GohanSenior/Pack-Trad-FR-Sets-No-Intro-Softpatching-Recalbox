@@ -1,0 +1,113 @@
+----------------------------------------------------------------
+***********************Table des matières***********************
+----------------------------------------------------------------
+
+1.	INFORMATION SUR LE JEU
+2.      CONTENU DE L'ARCHIVE ET UTILISATION
+3.	TOUT CE QUI A ÉTÉ FAIT
+4.      HISTORIQUE DES VERSIONS
+5.	L'ÉQUIPE DE TRADUCTION
+6.	REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  INFORMATION SUR LE JEU
+----------------------------------------------------------------
+
+Titre       : Altered beast
+Console     : Megadrive
+Développeur : SEGA
+Editeur     : SEGA
+Année       : 1988
+Genre       : Beat them all
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+L'archive ZIP doit contenir :
+
+*Altered BeastFR1.1.bps --> Le patch de traduction du jeu. 
+*LisezMoi.txt -------> Le fichier que vous êtes en train de lire.
+
+Ce patch est à utiliser avec les versions:
+   -Altered Beast (UE) (REV02) [!].gen
+   -Altered Beast (JU) (REV 02) [!].bin
+
+Voir ci-après les empreintes numériques pour vour permettre de 
+vérifier que vous avez la bonne ROM :
+-MD5 : 2ed5293e46abe1e74edeb96da0e7a618
+-SHA1: 38945360d824d2fb9535b4fd7f25b9aa9b32f019
+
+À vérifier ici : https://md5file.com/calculator
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+
+Vous pouvez patcher la rom en ligne via l'adresse suivante:
+https://www.marcrobledo.com/RomPatcher.js/
+
+Vous pouvez aussi le faire sur votre ordinateur :
+Si vous êtes sous Windows ou Linux, je vous conseille l'utilisation
+de Floating IPS (Flips).
+Si vous êtes sous Mac, je vous conseille l'utilisation de
+MultiPatch par Sappharad.
+
+       |   Windows   |     Mac    | Linux |   Android  |
+--------------------------------------------------------
+  BPS  |    Flips    | MultiPatch | Flips | RomPatcher |
+--------------------------------------------------------
+
+Tous les patcheurs susnommés sont disponibles sur 
+https://www.romhacking.net/
+
+----------------------------------------------------------------
+3.  TOUT CE QUI A ÉTÉ FAIT
+----------------------------------------------------------------
+
+Le dialogue de ZEUS, les stats de fin de niveau
+
+Ce qui n'a pas été fait : le "push start button, le "game over",
+et les crédits.
+
+Globalement, le jeu a une traduction globale de 90 %
+
+----------------------------------------------------------------
+4.  HISTORIQUE DES VERSIONS
+----------------------------------------------------------------
+
+1.0 (04/08/11) : sortie initiale du patch
+1.1 (14/10/19) : intégration d'une somme  de contrôle (checksum)
+correcte.
+
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+Corrigo : tout
+
+Si vous trouvez des erreurs dans le patch, je vous saurais gré
+de m'envoyer un courriel à : corrigo@outlook.fr avec si possible
+une capture d'écran du souci.
+
+----------------------------------------------------------------
+6.  REMARQUES LÉGALES
+----------------------------------------------------------------
+
+Le patch de traduction française d'Altered beast n'est pas 
+officiel et n'est pas supporté par SEGA
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucunes personnes citées dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout, à bientôt et bon jeu!
+
+Corrigo

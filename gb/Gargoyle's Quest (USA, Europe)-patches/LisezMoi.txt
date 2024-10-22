@@ -1,0 +1,146 @@
+19/02/2020
+
+TERMINUS TRADUCTION présente
+
+GARGOYLE'S QUEST FR 1.01
+
+----------------------------------------------------------------
+***********************Table des matières***********************
+----------------------------------------------------------------
+
+1.	L'HISTOIRE DE GARGOYLE'S QUEST
+2.	L'HISTORIQUE DE LA TRADUCTION
+3.      CONTENU DE L'ARCHIVE ET UTILISATION
+4.      LES PATCHS PUBLIES
+5.	TOUT CE QUI A ETE FAIT
+6.	L'ÉQUIPE DE TERMINUS TRADUCTION
+7.      CONTACTS
+8.      AUTRES PROJETS
+9.	REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  L'HISTOIRE DE GARGOYLE'S QUEST
+----------------------------------------------------------------
+
+Gargoyle's Quest est un des premiers jeux Game Boy, et bien
+qu'il ait plus de dix ans, il n'a presque pas pris une ride.
+C'est le grand éditeur Capcom qui nous en a fait part, vous 
+dirigez une gargouille qui doit sauver le Royaume des Goules de
+l'Armée des Destructeurs. Alternant action et aventure, c'est
+un excellent petit jeu qui vous fera passer de très bons 
+moments.
+
+Amusez-vous bien !
+
+----------------------------------------------------------------
+2.  L'HISTORIQUE DE LA TRADUCTION
+----------------------------------------------------------------
+
+Il va pas être long puisque c'est à date le plus court projet de
+Terminus : un projet solo de deux jours, Gargoyle's Quest est un
+de mes jeux préférés, qui a beaucoup marqué mon enfance, il est 
+donc logique que j'ai voulu le traduire, j'ai essayé de le 
+faire le plus fidèlement possible malgré l'étonnante disposition
+du jeu pour l'époque, avec près de 3 tables et une compression 
+en mots pré-écrits.
+
+----------------------------------------------------------------
+3.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir :
+
+Gargoyle'sQuestFr.ips.ips  - Le patch IPS de Gargoyle's Quest
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+Gargoyle's Quest.tbl - la table avec MTE
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+supportant le format IPS (patcheur Terminus exemple).
+Ce patch est à utiliser avec la Rom NO-INTRO
+Gargoyle's Quest (USA, Europe).gb
+
+----------------------------------------------------------------
+4.  LES PATCHS PUBLIES
+----------------------------------------------------------------
+
+1.01 - 19/02/2020
+
+20 ans après, quelques petites corrections, dont le "READY" de
+début de stage et fix de la séquence de fin
+
+1.00 - 19/04/2000
+
+Le seul patch à date et j'espère le dernier s'il n'y a pas de
+bugs majeurs et trop de fautes d'orthographe.
+
+----------------------------------------------------------------
+5.  TOUT CE QUI A ETE FAIT
+----------------------------------------------------------------
+
+Script    : 100 %
+Objets    : 100 %
+Pointeurs : 100 %
+
+Dans le hacking de la rom, que dire... Les mots préécrits ont
+été complètement optimisés, les trois tables ont été trouvées
+grâce à SearchR (qui marche enfin chez moi ;-) et ainsi tout le 
+jeu a pu être traduit, dont l'écran de démarrage avec le
+nouveau copyright !
+
+----------------------------------------------------------------
+6.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+   Copernic     : Chef du projet
+                  Changement des tables de pointeurs
+                  Changement de la compression
+                  Traduction des Noms (Menus, Objets, ...)
+                  Traduction du Script
+
+Je tiens également à remercier Lag et Readiosys du groupe Final
+Translation qui m'ont beaucoup soutenu ces derniers temps, et 
+c'est grâce à leur programme de compression que j'ai pu réussir
+à optimiser les mots préécrits à fond ;-).
+
+----------------------------------------------------------------
+7.  CONTACTS
+----------------------------------------------------------------
+
+Une remarque, une question ou une correction à apporter à la
+traduction de Gargoyle's Quest.
+
+Copernic - copernic@ifrance.com
+
+Vous avez envie de faire partie d'un projet en cours ou de
+lancer un nouveau projet dans le groupe.
+
+Card Master - cardmaster@romhack.net
+
+Vous voulez mieux connaître le groupe, télécharger nos derniers
+patchs ou vous renseigner sur un projet.
+
+Site Web - http://terminus.romhack.net
+
+--------------------------------------------------------------
+8.  REMARQUES LEGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de Gargoyle's Quest n'est pas 
+officiel et n'est pas supporté par Squaresoft.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+Copernic

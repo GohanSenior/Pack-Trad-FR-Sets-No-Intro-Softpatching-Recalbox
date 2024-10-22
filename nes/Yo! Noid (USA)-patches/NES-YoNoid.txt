@@ -1,0 +1,115 @@
+            Génération IX (http://generation9.kanshima.net
+            vous présente la traduction aux p'tits oignons
+                              de Yo! Noid
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Yo! Noid
+Console		: Nintendo NES
+Développeur	: Now Production
+Editeur		: Capcom
+Date		: 1990
+Genre		: Plates-formes
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 09/09/2013) :
+ \_________________________________________________________________
+
+C'est un peu par hasard que je suis tombé sur cette rom.
+Je cherchais de quoi me changer un peu d'un gros jeu de plates formes
+de la SuperNes quand le destin me désigna d'un doigt gracile cette petite rom.
+Plus précisément, je zyeutais les tests d'EmuNova, mais dit comme ça,
+c'est tout de suite moins romantique...
+
+Toujours est-il que je fus intrigué. En effet, on a tous en mémoire
+(du moins pour les plus anciens d'entre nous) les jeux "Mc Donald Land"
+et "Super Dany", ou encore "Cool Spot" qui n'étaient qu'un moyen
+douteux de nous faire manger du gras, du flan et ingurgiter du 7up.
+Mais hormis ces trois spécimens célèbres, il en existait un autre,
+qui semble ne pas avoir connu les joies de l'importation en Europe
+mais dont la star est la mascotte de "Domino's Pizza".
+
+Nous voici donc dans la peau de Noid, une sorte de heu... ninja en
+costume de lapin armé d'un yoyo (mais qu'est-ce qu'ils ont mis
+dans leurs pizzas ?) qui va devoir sauver New York de l'infâme
+Dr Green qui vient foutre le dawa pour on ne sait trop quelle raison.
+
+Le jeu est très sympa à jouer, les 14 niveaux sont variés et colorés
+et on n'a pas l'impression de faire tout le temps la même chose.
+Les concepteurs ont eu l'excellente idée d'incorporer des niveaux
+en gyrocoptère, en skate board, à scrolling automatique, et comble
+d'originalité les combats contre les boss ont été remplacés par
+un concours de mangeurs de pizza assez fun et relativement tactique.
+
+Le personnage répond bien, la jouabilité et l'animation sont au top
+et les graphismes bien léchés pour de la Nes. On pourrait presque
+comparer à du "Tic & Tac Rescue Rangers".
+
+A noter que les concours de pizzas se gagnent plus facilement si vous
+trouvez un maximum de cartes bonus dans les niveaux, mais attention,
+car la plupart sont invisibles et n'apparaissent que si on tire
+dessus avec le yoyo.
+
+La traduction est complète, et franchement je vous conseille
+de l'essayer, car malgré ses dehors de jeu publicitaire (et encore! ),
+il permet de passer un bon moment.
+
+Allez, pour fêter ça, mettez moi 2 Margarithas avec supplément poivrons et anchois !
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+Voici les codes que j'ai utilisés (merci GameFaqs ;p ) :
+
+---[Effet]--------------[Code Game Genie]---
+Vies infinies			SXKTTUVK+SXKVPUVK
+Temps infini			SXXLIGVG
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "YoNoid.ips" est à utiliser sur la rom suivante :
+Nom de la rom   : Yo! Noid (U) [!].nes
+Taille de la rom: 262 160 octets
+Rom avec Header ? Non
+CRC de la rom   : 50D141FC
+CRC rom patchée : 37EC7541
+
+Le patch a été créé avec "WindHex32" et a été testé avec les émulateurs suivants :
+  FCeu XD SP [x]
+  NesTicle   [ ]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

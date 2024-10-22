@@ -1,0 +1,57 @@
+Rastan Saga II (Mega Drive)
+Traduction en Français v1.0 (16/11/2020)
+(C) 2020 Traduction Alucard73
+
+---------------
+Histoire du Jeu
+----------------
+Rastan Saga II est un jeu d'action / plates-formes sur Megadrive. 
+Un groupe maléfique s'est emparé d'un bâtiment sacré : le Skyscraper et 
+compte bien s'en servir pour conquérir le monde. Vous incarnez un féroce 
+guerrier et vous devez parcourir plusieurs niveaux en prenant soin de 
+démolir tous vos ennemis. Les boss de fin de niveau laissent derrière 
+eux des gemmes, indispensables pour progresser dans le jeu.
+
+-----------------
+Ce qui a été fait
+-----------------
+Script    : 100 %
+Graphismes: 0 %
+
+--------------------
+Notes et Bugs connus
+--------------------
+Normalement aucun.
+Si vous rencontrer un bug, vous pouvez me contacter sur le Forum de la Traf.
+
+--------------------------
+Instructions pour le patch
+--------------------------
+Au format, vous pouvez utiliser LunarIPS ou Floating IPS.
+Archive utilisée:
+
+Rastan Saga II (USA).md
+
+MD5: c96b3cdf4525f7fba802d2804fed6a33
+SHA1: ADEC2CB70344FFC720ECDFEB68712BB3D1D0FD9C
+CRC32: C7EE8965
+Size: 524288
+
+-------
+Credits
+-------
+Alucard73 - Hacking, traduction et tests.
+
+-----------------
+REMARQUES LEGALES
+-----------------
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.

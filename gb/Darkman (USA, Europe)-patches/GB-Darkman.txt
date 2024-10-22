@@ -1,0 +1,141 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                                Darkman
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Darkman
+Console		: Game Boy
+Développeur	: Ocean
+Editeur		: Ocean
+Date		: Décembre 1992
+Genre		: Beat'em all
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 30/05/2015) :
+ \_________________________________________________________________
+
+Alors là, les copains, on touche au grandiose !
+
+J'en ai tâté de la bouse tout au long de ma carrière ; de la grosse,
+de la molle, de la putride, de l'indicible et même des
+"qui-sont-sympa-en-fait", mais ce jeu vaut le détour.
+
+Ce jeu est l'adaptation d'un film du génial Sam Raimi datant
+de 1990. Pour ma part, je n'ai jamais vu ce métrage, mais je ne
+désespère pas de mettre la patte dessus.
+
+Pour le pitch, voici la version "Allo Ciné" :
+Peyton Westlake, brillant gênéticien, vient de réaliser la synthèse
+des cellules de la peau. Sa femme, avocate, a pour client un
+constructeur immobilier, Louis Strack Jr, dont un document
+confidentiel vient de lui révèler les agissements douteux.
+Elle cache le document dans le laboratoire de son mari.
+Louis Strack Jr envoie des tueurs pour récupérer son bien.
+Le professeur est laissé pour mort mais il survit a ses
+horribles blessures. Defiguré, il réussit à se recomposer
+un visage, mais qui ne tient qu'une heure, afin d'assouvir
+sa vengeance. 
+
+Alléchant, non ?
+Sauf que le scénar du jeu est nettement plus limité puisqu'il
+s'agit d'un résumé de ce résumé. Et le tout condensé...
+
+La question du visage qui ne tient qu'une heure n'est même pas
+abordée et le reste tient en quelques lignes...
+
+Alors en quoi ce jeu est mauvais ?
+humm... Par quoi commencer ?
+Par sa jouabilité aussi douteuse que médiocre ?
+Ok, alors  !! Dans un beat'em all, en général, on trouve un bouton
+pour flanquer une torgnole, un autre pour un bourre pif et
+éventuellement un bouton de saut. La GB n'ayant que 2 boutons,
+le saut se fait donc en appuyant simultanément sur A et B.
+Jusque là, ça pourrait aller, sauf que...
+Le bouton A sert à flanquer des coups à gauche, et le bouton B
+sert pour frapper à droite.
+
+Aussi douteux que fatigant !
+
+Le jeu est en plus d'un ennui mortel. En effet, dès qu'on est
+touché, le perso passe 4 secondes au tapis alors que les ennemis
+se relèvent en 2 secondes max. La hitbox des adversaires est
+trèèèèèès réduite alors que la votre est même énorme !
+La baston contre le premier boss est même à se taper la tête
+dans le mur tellement c'est galère !
+
+la musique quant à elle est franchement horripilante !
+Clairement, le GB n'est pas au mieux de sa forme côté son...
+
+La difficulté est surtout dûe à la jouabilité merdique et à
+la lenteur de déplacement du personnage. Rajoutons à celà
+un timer et une faculté à perdre de la vie plus qu'élevée
+et on obtient une véritable horreur qui ferait même frémir
+le Marquis de Sade en personne !
+
+Alors pourquoi traduire cette rom ?
+Ben parce que je suis tombé dessus un peu par hasard, comme
+souvent...
+Du coup, tout est traduit, à part l'interface de jeu (time,
+power, etc.), mais ça change pas grand chose...
+
+Bon allez, zou ! Je passe à autre chose...
+Et à mon avis vous aussi quand vous aurez passé 10 minutes
+sur cette horreur.
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Vies infinies          0xC08A          03
+Energie infinie        0xC418          12
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Darkman.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Darkman (U).gb
+  Taille de la rom: 131 072 octets
+  Rom avec Header ? Non
+  CRC de la rom   : FF858DA9
+  CRC rom patchée : 4FDE8121
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  BgB    [x]		GBEmul [ ]
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

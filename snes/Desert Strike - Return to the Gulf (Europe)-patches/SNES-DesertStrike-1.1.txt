@@ -1,0 +1,121 @@
+____________________________________________________________________________________________________________________________
+
+          GENERATION IX
+ http://generation9.kanshima.net
+
+---------------------------------
+             PRESENTE
+
+                LA
+       TRADUCTION FRANCAISE
+                DE
+
+          DESERT STRIKE
+____________________________________________________________________________________________________________________________
+
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ INFORMATIONS SUR LE JEU
+_________________________
+
+Titre       : DESERT STRIKE
+Console     : Super Nintendo (SNES)
+Développeur : Visual concepts / Electronic Arts
+Date        : 1992
+Genre       : Simulation d'hélicoptère
+
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ EQUIPE DE TRADUCTION
+______________________
+
+Hack        : BahaBulle       1.0  1.1
+Traduction  : BahaBulle       1.0
+              Happexamendios       1.1
+Bêta-Test   : ColibriAlpha    1.0
+              BahaBulle            1.1
+              Happexamendios       1.1
+
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ HISTORIQUE DE LA TRADUCTION
+_____________________________
+
+Patch 1.1 : 16/04/2010
+   On nous a signalé que le patch ne fonctionnait pas.
+   J'ai donc regardé mes fichiers de l'époque et...bah c'était il y a longtemps et je débutais dans le romhacking.
+   Je me suis alors dit pourquoi ne pas refaire le hack en entier histoire de voir si je ne pouvait pas améliorer le tout.
+   Surtout que j'ai plus d'expérience qu'à l'époque ;)
+   Et voilà le résultat.
+   - Agrandissement de la rom pour ne pas être limité en textes
+   - Retraduction complète
+   - Graphismes modifiés
+   - Le problème des conjugaisons de la version 1.0 a été résolu
+   - Ajouts des minuscules et accents
+
+Patch 1.0 : 12/09/2004
+   Une de mes toutes premières traductions. J'avais été assez limité sur l'espace et je n'avais pas d'outils
+   d'extraction efficace à l'époque, j'avais donc du recalculer les pointeurs à la main.
+   - Il manque quelques éléments graphiques.
+   - A la fin du jeu, il y a un récapitulatif de tout ce qui a été détruit et il n'a pas été
+     possible de conjuguer comme il fallait car en anglais le même mot est utilisé que ce soit
+     du masculin ou du féminin.
+     Exemple : US : RADAR DESTROYED et ENEMY TROOPS DESTROYED
+               VF : RADARS DETRUITS et TROUPES ENNEMIES DETRUITS (au lieu de DETRUITES)
+
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ ROM A UTILISER
+________________
+
+Nom    : Desert Strike - Return to the Gulf (E).smc
+Taille : 1,00 Mo (1 048 576 octets)
+Header : Non
+CRC32  : 8EED024A
+
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ COMMENT APPLIQUER LE PATCH
+____________________________
+
+Pour vérifier le CRC32 de la rom, vous pouvez télécharger un outil à cette adress :
+http://ffulgore.free.fr/site/f-crc/us/download.htm
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher.
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org).
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ CONTACTS
+__________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Forum : http://www.bessab.com/viewforum.php?f=12
+
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ REMARQUES LEGALES
+___________________
+
+Génération IX vous propose une traduction non-officielle réalisée à but non lucratif par des amateurs bénévoles.
+Elle n'est en aucun cas supportée par NINTENDO ou Electronic Arts.
+Cette traduction est donc gratuite et ne peut être vendue sous quelque forme que ce soit (vente de fichiers
+sur CD, de cartouches modifiées, de cartouches flash copiées, etc.) : son usage commercial est par
+conséquent strictement interdit.
+
+Vous utilisez ce patch de traduction en dégageant les auteurs de toute responsabilité concernant
+d'éventuels dommages.
+
+© 2008 Génération IX
+Tous droits réservés
+
+SUPER NINTENDO® et DESERT STRIKE® sont respectivement les propriétés de NINTENDO® et Electronic Arts®.
+Les mentions légales relatives à NINTENDO se trouvent décrites dans un livret fourni avec chacun de leurs
+produits. Veuillez les lire attentivement.
+
+© 2007 NINTENDO et Electronic Arts®
+Tous droits réservés

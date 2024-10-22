@@ -1,0 +1,119 @@
+			Génération IX (http://generation9.kanshima.net) 
+			  vous présente la traduction glop glop de
+					Miss Pacman
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre	: Miss Pacman
+Console	: Super Nintendo
+Développeur : Digital Eclipse
+Date	: 1996 (ou 1997 ?)
+Genre	: pacman avec noeud dans les cheveux
+
+
+\ ETAT DE LA TRADUCTION : Version 1.0 créée le : 01/04/08
+ \________________________________________________________ 
+
+"Rond comme un ballon, et plus jaune qu'un citron, c'est lui paaaacmaaaaaaaan !!"
+Qui n'a pas déjà entendu au moins une fois cette chanson de William Leymergie (et oui !) ?
+Peut être les plus jeunes d'entre nous; mais cela n'empêche pas que tout un chacun
+connait ne serait-ce que de nom le célèbre Pac man et ses fameuses pac-gommes.
+
+Toujours est-il que ce globule jaune a une femme, et que cette miss est l'héroïne du
+jeu dont voici la traduction...
+
+Remontons le temps quelques années en arrière, à l'époque  où les jeux vidéos étaient
+surtout joués dans les bars et les salles d'arcades. Les principaux titres étaient
+Akanoïd et pac man... Le principe est on ne peut plus simple : survivre à des stères
+de labyrinthes envahis par des fantômes, tout en mangeant tout ce qui se trouve
+dans le niveau (fruits, points, pac-gommes et éventuellement fantômes).
+
+L'adaptation de cette célèbre borne d'arcade sur snes ne déroge pas à la règle.
+le principe est exactement le même, mais le fun en moins ! Car ce qui était
+éclatant il y'a 2 siècles ne l'est plus forcément en 1995, surtout que pacman est
+un peu tombé aux oubliettes, et même si la série animée des années 80 a relancé
+un poil sa notoriété, l'heure est plus à latter du gob' à Secret of Mana qu'à
+bouffer des fantômes à Miss Pac Man.
+
+Toujours est il que les éditeurs ont fort probablement tenté d'engranger quelques
+brouzoufs en voulant ranimer la flamme nostalgique des vieux de la vieille (chose
+très courante parmi les éditeurs d'ailleurs, et même encore aujourd'hui), seulement
+le jeu n'atteint pas des sommets, et pour cause...
+
+Graphismes : A peine digne d'un MO5, les 12 couleurs et demi affichées sont
+un pur affront à la 16 bits de Nintendo !! En plus ça bugge au 133ème niveau!
+
+Scénario : ben, c'est du pac man, alors même si on joue sa greluche, c'est tout
+de même très limité comme changement...
+
+Musiques et bruitages : bêêêêêê !! Ce sont les vieux bruitages d'époque mixés
+au Bontempi deux touches ! Aussi immonde que vintage !
+
+Animation : 3 images/secondes à tout pêter ! Rien à dire puisqu'il n'y a rien
+à voir !
+
+Toutes les conditions étaient donc réunies pour m'attirer telle la mouche par
+un pot de miel, et en faire une traduction. Le résultat est somme toute assez
+concluant, vu le peu de texte du jeu.
+
+Tous les textes sont donc traduits et validés, il n'y a qu'un ou deux graphismes
+que je n'ai pas faits pour cause de compression et de flemme monstrueuse, et
+franchement ça change rien au jeu.
+
+
+\ CODES DE TRICHE 
+ \________________
+
+Voici une fois de plus les codes Action Replay que j'ai dégotté pour ce p'tit jeu :
+
+
+---[Effet]-------------[Adresse]-----[Valeur]
+vies infinies		7E028C		02
+choix du niveau		7E0236		xx
+/!\ : le choix du niveau peut entraîner des bugs surprenants !!
+A noter que le jeu buggue à partir du niveau 133, et après 8 niveaux
+il peut se planter complètement.
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack 	  : Happexamendios
+Traduction: Happexamendios
+Bêta-Test : Happexamendios
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "SNES-MsPacman-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Ms. Pac-Man (E) [!].smc
+  Taille de la rom: 262 144 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 37C89424
+  CRC rom patchée : 11711842
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  BSnes          [ ]		SNes9X 1.51    [ ]
+  Snes 9X 1.43   [ ]		Snes 9X 1.53   [x]
+  Snes 9x Geiger [ ]		Snes GT        [x]
+  ZSnes          [ ]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+Site Web : http://generation9.kanshima.net 
+Forum : http://www.bessab.com/viewforum.php?f=12 

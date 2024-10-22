@@ -1,0 +1,133 @@
+			Génération IX (http://generation9.kanshima.net) 
+				vous présente la traduction de 
+					King Of Dragons
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre	: King of Dragons
+Console	: Super Nintendo
+Développeur : Capcom
+Date	: 1994
+Genre	: Beat'em up chevaleresque
+
+
+\ ETAT DE LA TRADUCTION : Patch 1.0 créé le : 27/05/2008 
+ \_______________________________________________________ 
+
+Il est des jeux qui, même si on les a déjà finis 500 fois, procurent toujours beaucoup de plaisir
+à jouer (Secret of Mana, Barbie vs Killers Klowns...). King of Dragons est de ceux là (du moins
+pour moi), et vous proposer ce patch aujourd'hui me semblait donc nécessaire.
+
+Adeptes de la course au matos qui tue, de la réflexion intense ou de la stratégie finement élaborée ;
+je vous conseille de passer votre chemin ! Ici pas de finesse dans le choix des armes, inutile
+aussi de chercher des plans d'attaques de la mort, le seul mot d'ordre est "baaaaaaastooooooon !!"
+
+Le choix le plus cornélien se résume à "qui est ce que je vais prendre parmi les 5 persos dispos ?"
+le reste consiste à démonter du streum par paquets de 10 jusqu'au boss, et ainsi de suite jusqu'au
+boss final...
+
+L'histoire ? Barf... Coup classique : un vil dragon dévaste tout, et il vous revient de lui montrer
+qui est le patron à grands coups de hache dans la tronche.
+
+Simpliste ? ben ouais, je vais pas dire le contraire, mais n'oublions pas qu'il s'agit d'un bon
+gros vieux beat'em up des années 90, donc on ne va pas non plus faire la fine bouche. Et de plus,
+c'est un jeu Capcom, donc il bénéficie d'une excellente réalisation.
+
+
+Une fois le héros choisi; c'est parti pour 13 niveaux aussi divers que variés. Votre guerrier
+se promènera de forêts en dongeons en passant par des grottes obscures et des montagnes.
+
+Les animations sont fluides, et on ressent bien les "caractéristiques" des personnages. L'elfe
+ira forcément plus vite que le gros paladin en armure lourde par exemple, mais celui ci tapera
+moins fort que le barbare, qui lui encaissera toujours mieux les dégâts que le mage...
+
+La maniabilité est parfaite, comme toujours chez Capcom, et les graphismes sont gros et lisibles,
+même si je trouve que, comme d'hab' dans ces jeux là, les ennemis sont toujours les mêmes,
+seulement différenciés par leur couleur. Les niveaux sont assez variés pour qu'on n'ait pas
+l'impression de refaire toujours le même parcours.
+
+
+Bref, pour une fois, je vous offre un patch pour un jeu qui vaut le détour ! Et il a été long
+à venir ce patch, ça oui !!
+
+Ce projet était à l'origine destiné à sortir pour l'anniversaire de Génération IX en 2007, et
+il aura fallu presque un an pour accoucher du morceau. La traduction du texte en elle même a
+été très rapide, mais il n'en était pas de même pour le hack.
+
+La sortie de ce patch complet à 100% n'aurait d'ailleurs jamais pu se faire sans l'aide de
+Bahabulle, Ti Dragon et de Jes, que je remercie encore chaleureusement pour leur dévouement.
+
+Toujours est-il qu'après un an de travail (enfin; pas un an à temps complet, hein ! y'a eu une
+grosse période de creux), des heures de codage d'outils de compression / décompression, 4 tables
+de caractères différentes, des centaines de pixels recoloriés, et plus de 150 posts étalés dans
+les 7 pages du sujet dédié à ce jeu dans le forum de la Traf; "King of Dragons" parle enfin français.
+
+Tout a été fait; des graphismes retouchés (plus ou moins artistiquement pour certains, et notament
+l'écran de sélection de personnage, mais si un graphiste veut améliorer le bouzin, pas de souci! )
+aux textes délicatement accentués, il ne manque rien, hormis toi, ami joueur, pour prendre en main
+le sort des habitants de cette contrée soumise aux caprices du dragon rouge....
+
+
+.-----=[ ATTENTION ]=----------------------------------------------------------------------------.
+|                                                                                                |
+|      Il m'est arrivé presque à chaque fois que la rom semble "bloquée" sur un écran noir après |
+| l'écran de licence Capcom. Il suffit d'accélérer copieusement l'émulateur jusqu'à l'écran      |
+| titre, et ça roulera tout seul ensuite. Ce "bug" n'est pas dû à la traduction, je l'ai eu avec |
+| la version originale (US ou Jap) du jeu et aussi bien sous Snes9X que sous Zsnes, mais je ne   |
+| sais pas du tout d'où ça provient...                                                           |
+°------------------------------------------------------------------------------------------------°
+
+
+
+\ CODES DE TRICHE 
+ \________________
+
+Voici une fois de plus les codes Action Replay que j'ai dégotté pour ce p'tit jeu :
+
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Energie Infinie J1	7E0B9A		40
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack	       : Bahabulle, Jes, Happexamendios
+Hack graphique : Ti Dragon, Happexamendios
+Traduction     : Happexamendios
+Bêta-Test      : Happexamendios
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "SNES-TheKingofDragons-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : King of Dragons, The (U) [!].smc
+  Taille de la rom: 2 097 152 octets
+  Rom avec Header ? Non
+  CRC de la rom   : DD505DF7
+  CRC rom patchée : 5CB57348
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  BSnes          [ ]		SNes9X 1.51    [x]
+  Snes 9X 1.43   [ ]		Snes 9X 1.53   [x]
+  Snes 9x Geiger [ ]		Snes GT        [ ]
+  ZSnes          [ ]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+Site Web : http://generation9.kanshima.net 
+Forum : http://www.bessab.com/viewforum.php?f=12 

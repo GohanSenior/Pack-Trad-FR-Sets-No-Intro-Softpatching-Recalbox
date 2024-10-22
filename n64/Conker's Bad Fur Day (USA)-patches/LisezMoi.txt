@@ -1,0 +1,216 @@
+----------------------------------------------------------------
+***********************Table des matières***********************
+----------------------------------------------------------------
+
+1.	INFORMATION SUR LE JEU
+2.      CONTENU DE L'ARCHIVE ET UTILISATION
+3.	TOUT CE QUI A ÉTÉ FAIT
+4.	L'ÉQUIPE DE TRADUCTION
+5	NOTE DE VERSION
+6.	REMERCIEMENTS
+7.	REMARQUES LÉGALES
+
+----------------------------------------------------------------
+1.  INFORMATION SUR LE JEU
+----------------------------------------------------------------
+
+Titre       : Conker's Bad Fur Day
+Console     : Nintendo 64
+Développeur : Rare
+Editeur     : Rare/THQ
+Année       : 2001
+Genre       : Aventure
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+L'archive ZIP doit contenir :
+
+*ConkerFR1-3.bps -----------------> Le patch de traduction du jeu 
+au format bps.
+*ConkerFR1-3.xdelta -----------------> Le patch de traduction du
+jeu au format xdelta
+*CONKER BFD_HIRESTEXTURES.htc --------> Le fichier contenant les
+graphismes modifiés
+*LisezMoi.txt ----------------> Le fichier que vous êtes en train
+de lire.
+
+A/Utilisation du patch 
+----------------------
+
+Le patch est à utiliser avec la version américaine du jeu au 
+format z64 soit : Conker's Bad Fur Day (U) [!].z64
+
+Note : si vous avez la rom au format .n64 ou .v64, vous devrez 
+utiliser Tool 64 (1.11) pour la convertir en .z64
+
+Voir ci-après les empreintes numériques pour vour permettre 
+de vérifier que vous avez la bonne ROM
+
+MD5 : 00E2920665F2329B95797A7EAABC2390
+SHA-1 : 4CBADD3C4E0729DEC46AF64AD018050EADA4F47A
+
+Vous pouvez patcher la rom en ligne via l'adresse suivante:
+https://www.marcrobledo.com/RomPatcher.js/
+
+Vous pouvez aussi le faire sur votre ordinateur :
+Si vous êtes sous Windows ou Linux
+Pour le patch au format bps, je vous conseille l'utilisation de
+ Floating IPS (Flips).
+Pour le patch au format xdelta, je vous conseille l'utilisation de
+Delta Patcher pour Windows et YADP de Nhoya pour linux
+ 
+Si vous êtes sous Mac, et quel que soit le format du patch,
+je vous conseille l'utilisation de MultiPatch par Sappharad.
+
+
+       |   Windows   |     Mac    | Linux |   Android  |
+--------------------------------------------------------
+  BPS  |    Flips    | MultiPatch | Flips | RomPatcher |
+--------------------------------------------------------
+Xdelta |Delta Patcher| MultiPatch |  YADP | RomPatcher |
+
+Tous les patcheurs susnommés sont disponibles sur 
+https://www.romhacking.net/
+
+
+B/Utilisation du pack de textures
+---------------------------------
+
+Ce dernier vous permettra de faire un pacthage "à la volée", 
+comprenez par là que contrairement aux fichiers xdelta ou bps qui 
+ancreront les modifications de manière définitive dans votre rom,
+les modifications graphiques se mettent par dessus sans pour autant
+les écraser. Enfin, elles ne sont compatibles qu'avec les 
+émulateurs fonctionnant sur un système de greffons (plugins).
+
+Les méthodes d'installations diffèrent selon le système 
+d'exploitation ou l'émulateur, je n'énumérerai que les
+principaux :
+
+-Retroarch:
+
+    1. Vous devrez exécuter le noyau Mupen64Plus ; ParaLLEL 
+est incompatible car il n'utilise pas le plugin vidéo GlideN64.
+
+    2. Accéder à votre dossier d'installation RetroArch :
+         Windows 10 : %AppData%\RetroArch
+         Android TV 7.1 : storage/emuated/0/Retroarch
+         Ubuntu 18.04: ~.config/retroarch
+
+    3. Naviguer jusqu'à \system\Mupen64plus\cache (créez le 
+dossier cache s'il n'existe pas)
+
+    4. Placer le pack de textures dans le dossier cache. 
+
+    5. Charger la ROM avec le noyau Mupen64Plus sélectionné.
+
+    6. Enfin, activez l'option Menu rapide -> Options -> Use 
+High-Res textures et Use High-Res Full Alpha Channel sur « True »
+
+    7. Recharger le contenu
+
+    8. Vous devriez maintenant avoir votre texture pack actif.
+
+-Projet64:
+
+Vous aurez besoin de GlideN64, c’est le seul greffon GFX qui 
+peut charger des packs de texture au format HTC. 
+
+Placer le HTC dans \Project64\Plugin\GFX\cache
+
+Lancez PJ64 et allez dans Options > Paramètres > Plugins et 
+configurez votre plugin vidéo sur «  GLideN64 Public Release ».
+ Appuyer sur OK.
+
+Ensuite, allez dans Options > Configurer le plugin graphique
+ > Amélioration des textures > Pack de textures et cocher :
+
+Utiliser un pack de textures (Texture cache path doit cibler
+ \Project64\Plugin\GFX\cache)
+Utilisez les transparences complètes
+Sauvegarder le cache d’amélioration des textures sur le disque
+Compresser le cache de texture
+
+----------------------------------------------------------------
+3.  TOUT CE QUI A ÉTÉ FAIT
+----------------------------------------------------------------
+
+Toutes les bulles de dialogues sont traduites, ainsi que les
+crédits.
+Les graphismes ont été modifiés grâce à Djipi.
+
+Veuillez noter que le jeu n'a pas de bulles de dialogues à 3 
+endroits dans la campagne solo :
+-la séquence d'introduction dans la salle du trône.
+-la séquence du débarquement dans le châpitre "It's War !"
+-la séquence de conclusion dans la salle du trône.
+
+----------------------------------------------------------------
+4.  HISTORIQUE DES VERSIONS
+----------------------------------------------------------------
+
+1.0 (25/02/18) : sortie initiale du patch
+1.1 (03/10/18) : correction d'une faute de frappe et traduction
+d'un dialogue passé à la trappe
+1.2 (18/02/19) : graphismes textuels modifiés pour être en Français
+par Djipi, correction d'une faute de frappe et du mot "lap"
+dans le mode de jeu concerné.
+1.3 (02/09/19) : diverses corrections sur les graphismes textuels 
+
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+Corrigo : textes
+Djipi : graphismes
+
+Si vous trouvez des erreurs dans le patch, je vous saurais gré 
+d'envoyer un courriel à la personne en charge de son domaine
+dans la traduction :
+- bulles de dialogues : corrigo@outlook.fr 
+- pack de texture : jp.tigani@gmail.com
+
+----------------------------------------------------------------
+6.  REMERCIEMENTS
+----------------------------------------------------------------
+
+Je tiens à remercier :
+-Subdrag qui a réussi à trouver les bulles de dialogues
+relatives aux tutoriels.
+-Blade133bo qui a ouvert la voie avec sa traduction espagnole et
+qui m'a donné les astuces pour ne pas dépasser la taille des
+fichiers originels.
+-Djipi pour avoir trouvé une faute de frappe et un dialogue
+secondaire non traduit dans le chapitre "It's war!", ainsi que sa
+participation pour la modification des graphismes.
+
+Merci également aux vidéastes suivants qui m'ont dépanné quand
+j'étais en manque d'inspiration:
+-Halryk Hynay pour la version Nintendo 64
+-Spsonic pour la version Xbox
+
+----------------------------------------------------------------
+7.  REMARQUES LÉGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de Conker's Bad Fur Day n'est 
+pas officiel et n'est pas supporté ni par Rare, ni par Nintendo.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec la rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucunes personnes citées dans cette documentation ne 
+pourra être responsable de n'importe quels dommages provenant de
+son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout, à bientôt et bon jeu!
+
+Corrigo.

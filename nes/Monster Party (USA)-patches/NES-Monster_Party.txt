@@ -1,0 +1,122 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                             Monster Party
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Monster Party
+Console		: Nintendo NES
+Développeur	: Human Entertainment
+Editeur		: Bandai
+Date		: Juin 1989
+Genre		: Action
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 14/04/2014) :
+\_________________________________________________________________
+
+Monster Party est un jeu comme on aimerait en voir plus souvent!
+Sous son apparence de banal jeu de plates-formes, il cache
+des trésors d'humour et des pièges retors...
+
+Alors que Mark, le héros (donc vous), rentrait peinard chez lui,
+voilà t'y pas que Bert, une espèce d'extraterrestre à la mauvaise
+alien, vous embarque pour l'aider à sauver sa planète d'une horde de
+monstres belliqueux.
+
+On peut raisonnablement se demander "Pourquoi vous ?", mais déjà :
+1- C'est un scénar de jeu, donc faut pas chercher trop loin !
+2- Si ce n'est pas vous, qui ira sauver le monde ?
+3- Si vous refusez d'aider les monstres en détresse, y aura pas de jeu possible...
+
+Afin de tataner les floppées de monstres qui parsèment les 8
+niveaux du jeu, vous serez armé de votre batte de baseball
+qui vous permettra de frapper les streums, mais surtout de
+renvoyer leurs tirs.
+
+A l'occasion, vous pourrez également vous transformer
+temporairement en Bert, ce qui vous donne la capacité de voler
+et de tirer sur les ennemis.
+
+J'avoue que ce jeu m'a bluffé ! Human Entertainment a fait du
+très bon boulot sur ce soft. La jouabilité est parfaite, l'humour
+omniprésent et le jeu est suffisament long pour masquer sa
+relative facilité. 
+
+La conception des niveaux est sympa, bien que le niveau 6 soit
+assez galère. Indice pour le dernier niveau : n'allez pas tout
+de suite sur la droite ;)
+
+Les ennemis sont aussi différents qu'amusants et vous latterez
+aussi bien des parapluies chauve-souris, des paires de jambes ou
+des pantalons que des beignets de crevettes, la mort ou une sorte
+de bonhomme légo géant.
+Mention spéciale au type avec un sac en papier sur la tête. Tapez-lui
+une fois dessus, et admirez :D
+
+
+La traduction et le test du jeu ont pris une bonne journée, et
+je me suis amusé à refaire quelque chose que j'avais déjà fait
+deux ou trois fois auparavant : n'utiliser aucun mot contenant
+des accents. Et ben c'est pas toujours facile, croyez moi !
+Ce jeu terriblement fun méritait une trad à sa hauteur, et
+j'espère avoir réussi mon coup et que vous l'apprécierez à
+sa juste valeur!
+
+"Have Fun", comme on dit dans les milieux autorisés...
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Energie infinie        0X009E          2A
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Monster_Party.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Monster Party (U) [!].nes
+  Taille de la rom: 262 160 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 6F0AC6EC
+  CRC rom patchée : DD6203A2
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  FCeu XD SP [x]		NesTicle   [ ]
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

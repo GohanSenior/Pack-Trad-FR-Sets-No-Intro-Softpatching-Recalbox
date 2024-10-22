@@ -1,0 +1,62 @@
+				Génération IX (http://generation9.kanshima.net)
+
+				 vous présente la traduction de Q-Bert II
+
+
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre : Q-Bert II
+Console : Game Boy
+Développeur : JALECO
+Date : 1992
+Genre : Réflexion
+
+
+
+\ ETAT DE LA TRADUCTION : Patch Beta 23/04/2005
+ \__________________________________________________
+
+
+Il reste encore des éléments graphiques à traduire et hélas les accents à insérer.
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack : KS 151
+Traduction : KS 151
+
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Le patch "GB - Q-Bert II Beta - GIX.ips" est à appliquer sur
+la rom "Q-bert II (UE) [!].gb"
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher. 
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils 
+peuvent créer une sauvegarde de la rom avant de patcher). 
+Voilà maintenant votre rom avec les modifications apportées par notre traduction. 
+
+
+
+\ HISTORIQUE DE LA TRADUCTION
+ \____________________________
+
+Je cherche juste à faire mes armes sur la Game Boy et Q-Bert m'a
+toujours intrigué :).
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum : http://www.bessab.com/viewforum.php?f=12

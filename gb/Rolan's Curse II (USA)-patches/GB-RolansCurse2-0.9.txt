@@ -1,0 +1,58 @@
+				Génération IX (http://generation9.kanshima.net)
+
+			   vous présente la traduction de Rolan's Curse 2 sur Gameboy
+
+
+\ INFOS SUR LE JEU
+ \_________________
+
+Titre       : ROLAN'S CURSE 2
+Console     : Gameboy (GB)
+Développeur : American Samy Corp.
+Date        : 1992
+Genre       : Rôles/Aventure
+
+
+\ ETAT DE LA TRADUCTION : Patch Bêta du 03/12/2004
+ \_________________________________________________
+
+Ce qui a été fait :
+- Extraction des scripts : 14,5 ko
+- Insertion des scripts  : 14,2 ko
+- Hack Graphique : ED / HP / MP / LV
+
+Ce qui n'est pas fait
+- Le titre
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE
+ \_______________________________
+
+Hack       : BahaBulle
+Traduction : GreatSkaori
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "GB-RolansCurse2-0.9.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Rolan's Curse II (U) [!].gb
+  Taille de la rom: 131 072 octets
+  Rom avec Header ? Non
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+\ CONTACTS
+ \_________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web          : http://generation9.kanshima.net
+Forum             : http://www.bessab.com/viewforum.php?f=12

@@ -1,0 +1,128 @@
+Traduction Française de Final Fantasy Legend
+sur Game Boy par "Sstrad Translations"
+
+Contenu de l'archive et utilisation
+-----------------------------------
+Normalement, l'archive ZIP doit contenir :
+
+fflfr.ips    - Le patch IPS de Final Fantasy Legend FR
+fflfr.bat    - Le batch d'installation du patch
+ips.exe      - Le patcheur obligatoire pour le batch
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Le meilleur moyen d'utiliser ce patch est d'extraire cette 
+archive ZIP dans le répertoire où se trouve la rom originale, 
+qui doit s'appeller ffl.gb, puis de lancer le batch 
+fflfr.bat, pour avoir une rom fflfr.gb traduite.
+
+Ce qui a été fait
+------------------
+Script    : 100 %
+Objets    : 100 %
+Menus     : 100 %
+Magies    : 100 %
+Monstres  : 100 %
+Messages  : 100 %
+Pointeurs : 100 %
+
+L'équipe de la traduction
+-------------------------
+   Psxhacker    : Chef du projet
+                  Changement de la font et de la DTE
+                  Dump du Script
+		  Dump de tous les textes autres que le Script
+		  Traduction de tous les textes autres que le Script
+                  Réinsertion du Script et des autres textes
+                  Correction du Script et des autres textes.
+
+   Ben          : Traduction du Script
+	
+   REMslug      : Traduction du Script
+
+   Crono        : Traduction des Monstres
+
+Autres Projets
+--------------
+Pokémon Gold : Anglais -> Français (Game Boy Couleur)
+Pokémon Gold est le premier projet de Sstrad Translations et sera bientôt terminé. 
+La traduction est maintenant efféctué grâce à la version américaine de la rom, ce
+qui nous permet d'avoir une meilleure traduction et aussi de gagner de la place par
+rapport à la place restreintre que nous laissait la versin jap
+
+Saint Seiya Saint Paradise : Espagnol -> Anglais (Game Boy)
+
+J'ai décidé de traduire ce jeu car je suis un vrai fan des Chevaliers du 
+Zodiaque et que ce jeu est pour le moment en japonais. Les jeux vidéos sur
+Les Chevaliers du Zodiaque étant rares, je vais donc le traduire afin que
+tous les fans des Chevaliers du Zodiaque puissent jouer à ce jeu tout en
+pouvant comprendre l'histoire.
+
+Dragon Ball Z Gokuden : Anglais -> Français (Super Nintendo)
+
+Voici une traduction que j'avais commencé avant la création du groupe et 
+que j'avais abandonner à cause de la place restreinte dans la rom pour 
+traduire les dialogues. Mais grâce à Jesaisplais (de BessaB) qui m'a
+expliqué le fonctionnement des pointeurs snes, j'ai repris la traduction 
+que je fais avec l'aide de Ben. Dbz Gokuden est maintenant un projet actif du
+groupe et est basé sur la traduction de Kakkoi Translations (grâce à la demande
+de Bes (Créateur de BessaB) qui à demandé si l'on pouvait faire la traduction en 
+utilisant leur patch et qui nous a donné la table que lui a envoyé le traducteur 
+de Kakkoi Translations.
+
+Remerciements
+-------------
+Je voudrais souhaiter un grand merci à :
+- "Copernic", un des membres de Terminus Traduction, pour m'avoir aidé à comprendre
+le fonctionnement des pointeurs Game Boy et pour avoir programme DTESEEK (qui m'a
+permit d'optimiser la DTE et de pouvoir faire rentrer le texte traduit dans la rom).
+ 
+Contacts
+--------
+Une remarque, une question ou une correction à apporter à la
+traduction de Final Fantasy Legend.
+
+Psxhacker - sstrad@libertysurf.fr
+
+Vous avez envie de faire partie d'un projet en cours ou de
+lancer un nouveau projet dans le groupe.
+
+Psxhacker - sstrad@libertysurf.fr
+
+Vous voulez mieux connaître le groupe, télécharger nos derniers
+patchs ou vous renseigner sur un projet.
+
+Site Web - http://sstrad.romhack.net
+
+Si vous voulez contacter un membre en particulier, voici les e-mails et/ou 
+N° ICQ des membres de Sstrad Translations :
+
+Psxhacker : sstrad@libertysurf.fr -> 86086092
+Ben : benrock@libertysurf.fr -> 73749387
+REMslug : remslug@wanadoo.fr -> 54144671 
+Crono : crono@rpgtown.com
+Amsodailius : asmodailius@wanadoo.fr  
+Hairbib : flokyb@club-internet.fr 
+Cissou_b7 : cyfirmin@yahoo.com 
+Huraken : valli.m@wanadoo.fr
+
+Remarques Légales
+-----------------
+Le patch de traduction française de Final Fantasy Legend
+n'est pas officiel et n'est pas supporté par Squaresoft.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+Psxhacker

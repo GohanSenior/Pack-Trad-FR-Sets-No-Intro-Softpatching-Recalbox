@@ -1,0 +1,54 @@
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre : DRAGON BUSTER 
+Console : Nes 
+Développeur : Namco 
+Date : 1987
+Genre : Action
+Rom à patcher :Dragon Buster (J)
+Traduction n°22 !!
+
+\ DESCRIPTION
+ \_______________________________ 
+
+Un petit jeu bien bourrin qui est assez dur à commencer
+en effet le maniement de l'épée est assez spécial. Mais
+passé le premier monde on se prend vite au jeu et on essaie 
+absolument de voir la fin à chaque fois. A noter que les 
+monstres sont assez difficiles à battre. 
+
+Bref un bon jeu qui m'a plu.
+
+
+\ ETAT DE LA TRADUCTION : Patch Bêta 
+ \___________________________________ 
+
+Tout a normalement été traduit à part le titre, Dragon Buster mais cela 
+enlèverait l'identité même du jeu. 
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack : KS151 
+Traduction : KS151 
+Bêta-Test : ColibriAlpha 
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher. 
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la rom : Dragon Buster (J) puis le fichier ips et de valider (Certains outils 
+peuvent créer une sauvegarde de la rom avant de patcher). 
+Voilà maintenant votre rom avec les modifications apportées par notre traduction. 
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+Forum : http://www.bessab.com/viewforum.php?f=12 
+Hack & Traduction : ks151@msn.com

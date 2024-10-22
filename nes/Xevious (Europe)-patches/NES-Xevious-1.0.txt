@@ -1,0 +1,59 @@
+
+http://generation9.kanshima.net/
+
+TRADUCTEUR:
+	KS151
+	
+ROMHACKEUR :
+	KS151
+	
+JEU :
+	Xevious
+	
+MESSAGE :
+	Un monstre de l'histoire des jeux vidéos adapté sur tous les 
+	supports et toujours de la même manière... le jeu reste 
+	simpliste avec des graphismes réduits à des formes 
+	géométriques. C'est également une référence pour ceux qui 
+	cherchent à faire les plus grands scores sur un shoot. 
+
+	Bref cela plaira certainement aux plus âgés et, qui sait 
+	peut-être au plus jeune en sachant qu'il vient d'être adapté 
+	sur Gba ^^
+
+CARACTÉRISTIQUES DU JEU :
+	Nombre de joueurs : 2 (en alternance)
+	Style : Shoot Them Up
+	Note : 11/20
+
+LE PATCH :
+	Version 1.00
+
+TRADUCTION :
+	de l'anglais au français au stade de 99% car le bêta test 
+	n'est pas terminé sur la fin du jeu ^^
+
+
+COMMENT APPLIQUER LE PATCH ?
+Le patch "NES-Xevious-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Xevious (E) [!].nes
+  Taille de la rom: 88 176 octets
+  Rom avec Header ? Non
+  CRC de la rom   : D745D7CB
+  CRC rom patchée : 6F4065EA
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+CONTACT :
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

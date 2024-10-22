@@ -1,0 +1,101 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                           Flintstones, The
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Flintstones, The
+Console		: Megadrive
+Développeur	: Taito
+Editeur		: Taito
+Date		: 22 octobre 1993
+Genre		: Action
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.1 créé le 09/11/2015) :
+ \_________________________________________________________________
+
+Yabadabadooooooo !
+Ou un truc comme ça...
+
+Les plus anciens auront reconnu le cri de joie de Fred Pierrafeu,
+heros de la vieille série d'Hanna & Barbera.
+
+L'histoire de cette adaptation sur Megadrive consiste à retrouver
+à chaque niveau un objet disparu.
+
+Les aventures de Fred le conduiront au coeur d'un volcan,
+sur un train conduit par un dino, et dans plein de coins
+sympas.
+
+Les graphismes et l'animation sont fidèles à l'esprit du
+dessin animé, bien que je trouve certains niveaux un peu fades.
+
+Le jeu est long et assez difficile par moments. Certains
+passages nécessitent une bonne coordination pour s'en sortir
+sans encombre, d'autant plus qu'il n'y a pas de système de
+mot de passe. Heureusement, les concepteurs ont intégré
+quelques cheat codes pour faciliter les choses...
+
+Si vous aimez les jeux de plates-formes rigolos, alors
+jetez-vous sur cette rom, elle vaut le détour ! 
+
+\ EVOLUTIONS DU PATCH :
+ \______________________
+ 
+V 1.0 : tout
+V 1.1 : correction d'un hameçon auquel il manquait une lettre.
+		Merci à Rid pour son oeil avisé :p
+
+\ CODES DE TRICHE :
+ \__________________
+
+Pour les cheat-codes, cherchez sur Internet :P
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "The Flintstones.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Flintstones, The (U) [c][!].bin
+  Taille de la rom: 524 288 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 7C982C59
+  CRC rom patchée : D7D6880
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  Emulicious       [ ]		Genesyst         [ ]
+  Kega Fusion 3.64 [x]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

@@ -1,0 +1,36 @@
+
+---- Traduction FR de Kaeru no Tame ni Kane wa Naru (Pour la grenouille sonne le glas) ----
+
+
+Plateforme : Game Boy
+
+
+------------------
+
+Traduction : Blyn
+Hack : Blyn
+
+------------------
+
+Ce qui a été traduit :
+
+- Menus ------------100%
+- Script -----------100%
+- Ecran titre ------100%
+- Générique de fin--100%
+
+------------------
+
+Application du patch :
+
+Le patch IPS doit être appliqué sur la rom Kaeru no Tame ni Kane wa Naru (Japan).
+
+Utilisez LunarIps pour appliquer le patch :
+http://fusoya.eludevisibility.org/lips/
+
+------------------
+
+Remerciements :
+
+M0nsieurL(Lestat), Ichigo et Redfield pour leurs aides et conseils !
+

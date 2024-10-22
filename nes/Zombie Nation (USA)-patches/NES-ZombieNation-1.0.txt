@@ -1,0 +1,41 @@
+
+http://generation9.kanshima.net/
+
+Traducteur:
+	KS151 (ks151@msn.com)
+Romhackeur :
+	KS151
+DATE:	
+	04/08/2004 00h41
+Jeu :
+	ZOMBIE NATION
+
+Caractéristiques du jeu :
+	Nombre de joueurs : 1
+	Style : Shoot Them Up
+	Note : 15/20
+
+Le patch :
+	Version 1.00
+
+Traduction :
+	de l'anglais au français au stade de 100%. A noter que c'est 
+	ma huitième traduction !
+	
+Comment appliquer le patch ?
+Le patch "NES-ZombieNation-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Zombie Nation (U) [!].nes
+  Taille de la rom: 262 160 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 03FB57B6
+  CRC rom patchée : C06726E8
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.	
+	

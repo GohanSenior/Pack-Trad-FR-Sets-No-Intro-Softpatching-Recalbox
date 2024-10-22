@@ -1,0 +1,84 @@
+			Génération IX (http://generation9.kanshima.net) 
+				vous présente la traduction de
+				  Zero, the Kamikaze Squirrel
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre	: Zero the kamikaze squirrel
+Console	: Super Nintendo
+Développeur : Iguana Entertainment
+Editeur : Sunsoft
+Date	: Mars 1995
+Genre	: Plates-formes 2D
+
+
+\ ETAT DE LA TRADUCTION : Patch 1.0 créé le 15/08/2011 
+ \_____________________________________________________ 
+
+
+Chuis un peu en mode flemme ce soir et c'est l'heure de l'apéro, alors je vais pas trop en dire
+pour une fois...
+
+Zero est un de ces personnages qu'on a un peu oublié. Il a fait ses débuts en tant qu'ennemi de service
+dans "Aero the acro-bat" (que je me traduirai p'têt un jour...) puis Sunsoft a décidé d'en faire 
+le héros d'un jeu à part entière. Un peu comme Wario et Mario, quoi...
+
+Il en résulte un bon jeu de plates-formes mais qui ne brille pas par son originalité. La réalisation
+est bonne, le jeu est super fluide et le personnage répond bien, mais il manque un petit quelque
+chose pour en faire un très bon jeu. Probablement le fait que le level design est vu et revu. Les
+niveaux sont archi classiques : forêt, plage, ruines...
+
+Je suis resté un peu sur ma faim, mais c'est tout de même un bon jeu et c'est déjà pas mal.
+
+La traduction est complète grâce à Bahabulle qui a extrait l'écran "télégramme" de l'introduction
+et à Ti Dragon qui a retouché ledit télégramme.
+
+
+
+\ CODES DE TRICHE 
+ \________________
+
+
+Aujourd'hui, pas de code de triche... 
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack 	  : Happexamendios, Bahabulle
+Traduction: Happexamendios
+Bêta-Test : Happexamendios
+Graphismes: Ti Dragon
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Le patch "SNES-Zerothekamikazesquirrel-1.0.ips" est à utiliser sur la rom suivante :
+Nom de la rom   : Zero the Kamikaze Squirrel (E) (V1.1).smc
+Taille          : 2 097 152 octets
+Rom avec header : Non
+Crc de la rom   : F4830329
+Crc rom patchée : 0B49DE06
+
+Le patch a été créé avec WindHex et a été testé sous les émulateurs suivants :
+Snes9X 1.53 : [x]	Snes9x 1.43 : [ ]	ZsnesW      : [ ]
+Bsnes 0.60  : [ ]	SnesGT      : [ ]
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher. 
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils 
+peuvent créer une sauvegarde de la rom avant de patcher). 
+Voilà maintenant votre rom avec les modifications apportées par notre traduction. 
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+Site Web : http://generation9.kanshima.net 
+Forum : http://www.bessab.com/viewforum.php?f=12 

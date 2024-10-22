@@ -1,0 +1,205 @@
+				Génération IX (http://generation9.kanshima.net)
+
+				 vous présente la traduction de Kid Icarus
+
+
+
+
+
+Le 13 Juillet 2004
+------------------
+
+Ti Dragon
+*********
+
+Amis joueurs, bonjour ! Vous avez eu le courage de lire ce fichier texte (ou, du 
+moins, l'ouvrir pour y jeter un oeil). Aujourd'hui, je vous présente le patch d'un
+jeu ayant été traduit déjà deux fois (par Arkames et Cyril 125) : Kid Icarus sur
+Nes. Pourquoi le retraduire ? Parce que les patchs déjà sortis ne me convenaient
+pas (d'un point de vue taille du texte, par exemple). Mais ceci est une raison
+mineure par rapport au véritable but : apprendre à romhacker. GreatSkaori adorant
+ce jeu et souhaitant le traduire, je me suis donc attelé à la tâche du hack. Le
+résultat se trouve dans ce zip alors amusez-vous bien !
+
+Kid Icarus est un jeu de plateforme à scrolling principalement vertical dans
+certaines phases et à tableaux dans d'autres pour finir par un scrolling horizontal.
+Vous incarnez Pit, un Ange qui doit sauver son Royaume et Athéna de la terrible
+Médusa !
+
+Kid Icarus a également été porté sur Game Boy avec des graphismes identiques. Ce
+jeu est amusant et demande adresse et nerfs d'acier. Les graphismes sont correct
+et les décors quasiment absents. Les musiques sont bonnes pour une console telle
+que la Nes, ce qui en fait un jeu sympa à jouer, d'autant que la durée de vie est
+tout de même relativement longue.
+
+En tout premier lieu, sachez que cette traduction a été produite par des bénévoles,
+des fans, et qu'il est par conséquent GRATUIT, il ne saurait être question de le
+vendre à qui que ce soit.
+
+
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre : Kid Icarus
+Console : Nintendo
+Développeur : Nintendo
+Date : 1986
+Genre : Plate-forme
+
+
+
+\ ETAT DE LA TRADUCTION : Patch 1.0 le 09/11/2004
+ \__________________________________________________
+
+
+
+Texte principal -> 100 %
+Menu -> 100 %
+Ecran titre -> 100 %
+Crédits -> 100 %
+Accents -> Tous ceux nécessaires
+
+
+Reste à faire :
+
+Pas grand-chose, à vrai dire ^^ On pourrait paufiner le patch sur les crédits (mais
+vous ne saurez pas quel était mon problème :D) mais, à part ça, je pense que tout
+est convenable. On pourrait éventuellement traduire l'écran titre "Kid Icarus" en,
+par exemple "P'tit Icare" mais j'ai préféré laisser le titre original. Peut-être
+plus tard si le coeur m'en dit :)
+
+A *priori*, il ne devrait y avoir aucune coquille, (ou alors moi et GreatS avons
+mal fait notre boulot lors du bêta-test :D) mais si vous trouvez des erreurs, des
+fautes ou des gros bugs immondes, n'hésitez pas à nous le faire savoir via le forum.
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Ce projet a mobilisé peu de gens : GreatSkaori et moi, au départ. ManZ a été mon
+maître Jedi (j'ai donc été son padawan) et (je le répète) m'a enlevé une énorme
+épine du pied pour me trouver les 2 octets restant.
+
+Hacking - Relecture - Bêta Test : Ti Dragon
+Traduction - Bêta Test : GreatSkaori
+Aide précieuse : ManZ
+
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Le patch "NES-KidIcarus-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Kid Icarus (UE) [!].nes
+  Taille de la rom: 131 088 octets
+  Rom avec Header ? Non
+  CRC de la rom   : D9F0749F
+  CRC rom patchée : CBEF6DC3
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher. 
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils 
+peuvent créer une sauvegarde de la rom avant de patcher). 
+Voilà maintenant votre rom avec les modifications apportées par notre traduction. 
+
+
+
+\ HISTORIQUE DE LA TRADUCTION
+ \____________________________
+
+En fait, il s'agit d'un projet démarré en 2002 alors que j'étais en stage au Japon
+(si, si, il faut y aller au moins une fois dans sa vie pour mieux comprendre - les
+mangas c'est gentil, mais avoir un contact direct avec le pays, c'est encore autre
+chose :D). Je voulais apprendre à romhacker, mettre en pratique ce que j'avais
+appris en théorie. GreatSkaori voulait traduire un jeu qui a bercé son enfance :
+Kid Icarus. A l'époque, je ne savais pas qu'il avait été traduit. Alors je me suis
+attelé à la tâche. Mais, les études et la vie privée reprenant le dessus, j'ai dû
+délaisser le projet pour quelque temps (c'est-à-dire 2 ans).
+
+Il a donc été moyennement facile de reprendre toutes mes vieilles notes concernant
+le projet. Cependant, en un week-end, j'ai pu recommencer et terminer le projet en
+essayant de rentrer tout le texte de GreatSkaori ainsi que quelques hacks graphiques
+(introduction des minuscules, des accents, modification du titre, des crédits, etc).
+Je tiens d'ailleurs à remercier maintenant ManZ et Pixel pour m'avoir aidé à trouver
+3 octets que je cherchais désespérément (je n'en avait trouvé qu'un seul ^^).
+
+
+
+\ REMERCIEMENTS
+ \________________
+
+Ti Dragon
+*********
+
+Un ENORME 'merci' à ManZ, mon maître Jedi. Un petit cours sur les pointeurs et une
+aide ASMeuse grâce au debugger que j'ai donc appris à utiliser. Merci à Pixel qui
+m'a mis sur la voie du premier octet en me donnant quelques indications ASM. Je
+remercie également Orphis pour deux-trois indications complémentaires à celles de
+ManZ.
+
+Un merci (il faudra compter le nombre d'occurences de ce mot dans ce fichier)
+également à tous les gens qui viennent sur le chan IRC et le forum pour leur bonne
+humeur, qu'ils soient de Génération IX, BessaB, Final Translation, Deus eX Machina,
+Terminus Traduction, Pocket Traduction, The Rosetta Group, AGTP et autres groupes
+étrangers, simples visiteurs ou vieux de la v(i)eille venus nous encourager, nous
+faire un petit coucou, discuter chiffons :D que sais-je !
+
+Enfin, je tenais à remercier GreatSkaori qui m'a un peu forcé à entreprendre
+un tel projet, ce qui m'a permis de découvrir plus en profondeur les difficultés
+du romhack. Désolé pour avoir mis 2 ans à finir tout le bazar ^^
+
+Une mention particulière pour les logiciels et programmes suivants :
+- Hexecute : très bon, dommage qu'il soit incomplet et que la recherche Hexa peine
+  quelque peu
+- Translhextion : très bon également. Je ne l'ai découvert que plus tard
+- Nester : l'émulateur simple Nes. très practique et rapide d'utilisation
+- FCE Ultra : un bon émulateur Nes avec un débugger sympa. Il manque une 
+  fonctionnalité : le log ASM en temps réel. Quel dommage, cela aurait été plus
+  vite et plus simple pour moi :D
+- uips : simple, rapide et efficace pour créer un patch IPS. Dommage qu'il n'y ait
+  pas un readme avec, cela m'aurait évité de faire une connerie :D
+
+
+GreatSkaori
+***********
+
+Je remercie aussi ManZ et Pixel qui ont filé un coup de pouce à Ti qui
+ramait pour trouver certaines choses. (Les jeux nes sont vils contrairement
+à ce qu'on pourrait penser).
+
+Evidemment merci à Ti d'avoir bien voulu passer autant de temps sur un si
+petit jeu et pour si peu de texte. Je n'ai pas pu t'aider, mais tu as réussi,
+et peu importe que ça ait pris deux ans :)
+
+
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Le forum : http://www.bessab.com/viewforum.php?f=12
+Le site :  http://generation9.kanshima.net
+e-mails :  tiflamedragon@hotmail.com   -   greatskaori@yahoo.com
+Le chat : serveur irc.worldnet.net
+          channel #generation_ix
+          (ou via l'applet irc disponible sur le site)
+
+
+Bon jeu, et merci de votre confiance.
+
+
+---------------------
+
+Génération IX n'est nullement affilié à Nintendo. Kid Icarus (tm) est la
+propriété de Nintendo. Génération IX n'est propriétaire que de la traduction.
+Le patch IPS est gratuit et vous l'utilisez à vos risques et périls :
+Génération IX ne pourra être tenu responsable d'un quelconque dommage subit
+suite à l'utilisation du patch ou des logiciels qui ont pu être cité dans
+ce fichier.
+
+Tous droits réservés 2000-2004 Génération IX (http://generation9.kanshima.net)

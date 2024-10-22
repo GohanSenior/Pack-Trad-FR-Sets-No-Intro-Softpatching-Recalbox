@@ -1,0 +1,215 @@
+					Génération IX (http://generation9.kanshima.net) 
+				     est fier de vous présenter leur centième traduction:
+					        Tic & Tac - Rangers du Risque 2
+
+
+								En hommage à Sir Jaguar,
+					                webmaster du site consolemul.com
+
+\ DISCLAIMEUR
+ \___________
+
+	Note de Skaiboy:
+	
+	Bon, comme j'ai participé a la traduction de ce jeu, je me suis senti obligé
+d'inclure une documentation remplie de bides, plus pathétiques les uns que les autres.
+On est pas chez Cigarette Patch, le groupe de trad le plus pourri de l'ouest, mais chez GénérationIX
+un groupe stylé du costard et plein de classe capillaire, donc je me suis un peu retenu sur les
+vannes pourries.
+
+	Si vous avez un quelconque ressentiment néfaste concernant ce fichier texte, ne tenez
+en aucun cas GénérationIX pour responsable. 
+
+	Petit message à toutes les célébrités que j'ai écorché gentillement: je vous aime tous, 
+j'aaaaadooore tout ce que vous faites :)
+
+	
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+
+Titre       : Chip'n Dale - Rescue Rangers 2
+Console     : NES
+Développeur : Capcom
+Date        : 1993
+Genre       : Plates-formes 
+
+
+\ ETAT DE LA TRADUCTION : version 1.0 créée le 19/12/2004 
+ \_______________________________________________________
+
+
+Textes     : 100%
+Graphismes : 99,99% (à part deux trois trucs dans les décors, comme "EXIT" ou "POWDER",
+                     mais je vous rappelle que le jeu se passe aux States)
+                     la fausse excuse :p
+
+
+\ COMMENTAIRES SUR LA TRADUCTION
+ \______________________________
+
+
+	Un petit jeu de plates-formes sans prétention, jouable a deux simultanément. Le premier
+était mythique, celui-ci est moins bon. On perd l'ambiance qui tue la mort, les ziks qui déchirent
+le string de ta soeur, mais on gagne en difficulté, et la jouabilité reste identique avec quelques
+petites nouveautés comme la possibilité de lancer une caisse en diagonale ("larguer une caisse" lolool
+mdr me chuchote Cauet* dans mon oreillette), ou encore charger une caisse à la MegaMan ("ta caisse c'est
+une Fiat Cinquecento" loloool xpdr me susurre Arthur* dans mon oreillette).
+
+	Au final, je lui attribue un petit 12/20 soit 9,998 selon la notation de l'école des fans
+de ce cher Jacques Martin.
+
+* 1 partout balle au centre. Y'en a marre des vos gamineries a la radio. Je préfèrais quand c'était
+Jacques Martin qui animait les ondes. Au moins avec lui, ça déconnait avec classe :x.
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \______________________________ 
+
+
+Traduction        : GreatSkaori
+Hack              : Skaiboy
+Edition Graphique : Hroþgar scrb
+
+Cascades          : Passe-Partout
+Musique           : Charlie Oleg
+
+
+\ CONTENU DU ZIP
+ \_______________
+
+
+NES-Tic&Tac2 1.0.ips : Patch français de la rom
+NES-Tic&Tac2 1.0.txt : Fichier inutile blindé de vannes vaseuses qui donnent mal à la tête <_<
+
+
+\ COMMENT APPLIQUER LE PATCH SI TU NE T'APPELLES PAS PATRICE CARMOUZE
+ \___________________________________________________________________ 
+
+
+Le patch "NES-TicetTac2-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Chip 'n Dale Rescue Rangers 2 (U) [!].nes
+  Taille de la rom: 262 160 octets
+  Rom avec Header ? Non
+  CRC de la rom   : FC5783A7
+  CRC rom patchée : 82090B41
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+\ COMMENT APPLIQUER LE PATCH SI TU T'APPELLES PATRICE CARMOUZE!!
+ \______________________________________________________________
+
+
+Salut Patrice, comment vas-tu? Tu m'excuseras mais je ne te serre pas la main, maladroit
+comme tu es, tu risques de me broyer deux trois doigts. On se fait la bise, c'est mieux entre
+personnalités de la Jet Set. J'aaaaaadoooooooore tout ce que tu fais Patrice, toujours ultra
+fashion ta coupe de cheveux blancs: chez la ménagère de plus de 50 ans, en matière de cheveux
+blancs, tu mets George Clooney à l'amende bien comme il faut :)
+
+Bon, alors d'abord j'espère que tu es bien assis, attends ne bouge pas, je vérifie si ta chaise
+n'est pas piégée... Non c'est bon, cramponne-toi, c'est parti!
+
+OK prends ta souris, et déplace le pointeur là, comme ça voilà, c'est très bien, sur le
+fichier "Chip'n Dale Rescue Rangers 2 (U).zip". Ouh là, doucement, tu sors de la fenetre là!
+Fais attention, l'ami j'aaaaaadooooooooore tout ce que tu fais avec la souris mais y a des
+limites!!
+
+Ensuite tu double cliques dessus pour décompresser, le fichier zip, le fichier braguette, c'est
+Cauet qui me l'a refilé celle-là, elle est bien bonne hein? Cauet j'aaaaaaaadoooooore tout ce
+que tu fais avec tes blagues :)
+
+....
+
+Bon, j'arrête là, je m'enfonce de trop, je crois que vous avez compris le principe de ce
+sketch. Mais comment finir un bide sans chute?
+
+Ah ayé j'ai trouvé! :o
+C'est Pierre Richard, un grand blond avec une chaussure noire qui rippe sur une peau de
+banane. Voilà la chute \^o^/.
+
+<_<
+
+
+\ REMERCIEMENTS
+ \_____________
+
+	
+	J'aimerais d'abord remercier mon pote GreatSkaori de m'avoir confié le hack du 100è
+patch de GénérationIX. J'ai été honoré de bosser avec toi sur cette centième trad. Grâce à tes
+coups de fouets jusqu'au dernier jour, j'ai enfin pu hacker un jeu en moins d'un mois :o. 
+Un exploit, si on connaît ma paresse légendaire...
+
+	Si vous êtes en admiration totale devant la beauté classieuse de l'écran titre en français,
+c'est grâce au talent de notre (attendez je sors le copier/coller :D) Hroþgar scrb national.
+Merci beaucoup vieux.
+
+	Je voudrais tout particulièrement remercier S-O-R et Orphis pour leur soutien dans mon
+combat contre cette diabolique compression MTE, Lestat qui m'a donné l'idée de traduire ce jeu
+il y a un an, ainsi que Ti Dragon, le seul grand malade assez atteint pour se souvenir du nom français
+de Zipper (Rusard) la mouche.
+
+	Pauvre Rusard, tout le monde a oublié son nom :( D'un côté c'est un peu normal, Rusard a 
+vu son rôle réduit a un simple figurant. En effet, notre ami la mouche Rusard n'a pas le droit de 
+parler dans les dessins animés Rangers du Risque. Que voulez-vous, en ce milieu des années nineties,
+les studios Disney sont victimes de la concurrence féroce des Hello Kitty et autres Pokébidules japonais.
+Et qui dit concurrence, dit restrictions bugétaires, sacrifices de l'équipe, et Rusard s'est vu rétrogradé 
+du statut de grand acteur à figurant stagiaire en alternance :( Pourtant, j'ai eu l'occasion de parler
+avec lui et les vannes de Rusard sont terribles, je me rappelle de son imitation du film "la Mouche" en 
+albano-bulgare à se tordre de rire :D
+
+
+*GreatSkaori se tape l'incruste*
+
+	J'aimerais remercier infiniment Skaiboy, à qui j'ai donné des délais, et qui a tout fait
+pour les respecter, et qui a réussi avec brio. Je n'ai pas pour habitude de vouloir tenir des
+dates et la seule fois où ça s'était produit, ça s'était plutôt mal passé. Donc, je te rassure,
+c'était la première et la dernière fois! Je ne sais pas si on refera le coup du calendrier
+l'an prochain, mais on s'y prendra bieeeeeeeeen plus à l'avance. Merci encore, tu fais du
+très bon travail et on refera des patchs ensemble, tu peux me croire, allez viens, j'te
+paye un coup à boire!
+
+	Je remercie H, que je hais du plus profond de mon coeur, qui d'ailleurs n'est pas là au
+moment de la sortie de ce patch. Bien fait pour toi, j'espère que tu t'ennuies beaucoup là où
+tu es, ha ha ha ha ha. Merci beaucoup H, tu es super doué, le patch a plus de gueule grâce
+à toi.
+
+	BRAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!! Merci Ti, c'était bien joué le
+coup de Rusard, y'a que toi pour te souvenir de ces jeux de mots à la noix. Et encore toutes mes
+félicitations!! ;)
+
+	Merci à tous les autres, à Pixel, S.O.R, Orphis, Hell, Jes, Dark Schneider, Fiquetpa,
+Lex, Metallines, Bahabulle, Happexamendios, KainZ, Elazul, Bes, Samda Knowe, Rveach, cvoila,
+Colibri Alpha, KS151, Lestat, Speeder Speed, Android Lord, Ragnar0k, Skeud, Meradrin, Moogle,
+Cattibri, SenkiT, Elfe Noire, Lezard, Jonath, Hadora, ManZ, Apoc, Le Boss, Conan The Babar, Ben,
+Shyma X, Gentil Graphiste, FlashPV Nabil, Nigel, Ashura, Zack, Vali, ToraKami et tout ceux que
+j'auraispu oublier malgré tous les noms déjà cités. Merci à tous, membres du groupes ou non,
+membres de la traduction francophone ou non, français ou non, vous nous avez tous témoigné de
+l'intérêt et aidés à un moment ou à un autre, et/ou continuez à le faire, et le groupe peut
+publier aujourd'hui le 100ème patch de traduction ce lundi 20 décembre 2004, après 4 ans,
+8 mois et 7 jours d'existence.
+
+	Merci aussi aux gens qui visitent régulièrement notre site, et encore plus à ceux
+(encore trop rares) qui prennent le temps de nous laisser des messages d'encouragement sur
+le forum, par email ou qui passent sur le chan.
+
+
+
+
+\ CONTACTS 
+ \________ 
+
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+(dans le patch, pas dans le ridmie qui ne sert a rien) ou même des endroits non traduits qui 
+n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net et http://cigarette.consolemul.com/
+Forum : http://www.bessab.com/viewforum.php?f=12 
+Skaiboy Cigarette : skaiboy@free.fr
+GreatSkaori : greatskaori@yahoo.com

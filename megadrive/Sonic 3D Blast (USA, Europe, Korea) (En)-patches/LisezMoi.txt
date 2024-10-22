@@ -1,0 +1,129 @@
+
+Je suis assez fier de vous présenter mon tout 1er patch de 
+traduction.
+Le jeu n'est pas en reste puisqu'il s'agit quand même de la
+mascotte de SEGA, j'ai nommé Sonic !!
+
+
+----------------------------------------------------------------
+***********************Table des matières***********************
+----------------------------------------------------------------
+
+1.	INFORMATION SUR LE JEU
+2.      CONTENU DE L'ARCHIVE ET UTILISATION
+3.	TOUT CE QUI A ÉTÉ FAIT
+4.      HISTORIQUE DES VERSIONS
+5.	L'ÉQUIPE DE TRADUCTION
+6.      REMERCIEMENTS
+7.	REMARQUES LÉGALES
+
+----------------------------------------------------------------
+1.  INFORMATION SUR LE JEU
+----------------------------------------------------------------
+
+Titre       : Sonic 3D
+Console     : Mega Drive (Genesis)
+Développeur : Traveller's Tales
+Editeur     : SEGA
+Année       : 1996
+Genre       : Plate-forme
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+L'archive ZIP doit contenir :
+
+SONIC3Dfr.IPS  - Le patch IPS de Sonic 3D
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+(Lunar IPS  par exemple).
+Ce patch est à utiliser avec la rom Sonic 3D Blast (W) [!].bin ou
+Sonic 3D Blast (UE) [!].gen
+
+Voir ci-après les empreintes numériques pour vour permettre de 
+vérifier que vous avez la bonne ROM :
+-MD5 : 50acbea2461d179b2bf11460a1cc6409
+-SHA1: 89957568386a5023d198ac2251ded9dfb2ab65e7
+
+
+À vérifier ici : https://md5file.com/calculator
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+
+Vous pouvez patcher la rom en ligne via l'adresse suivante:
+https://www.marcrobledo.com/RomPatcher.js/
+
+Vous pouvez aussi le faire sur votre ordinateur :
+Si vous êtes sous Windows ou Linux, je vous conseille l'utilisation
+de Floating IPS (Flips).
+Si vous êtes sous Mac, je vous conseille l'utilisation de
+MultiPatch par Sappharad.
+
+       |   Windows   |     Mac    | Linux |   Android  |
+--------------------------------------------------------
+  BPS  |    Flips    | MultiPatch | Flips | RomPatcher |
+--------------------------------------------------------
+
+Tous les patcheurs susnommés sont disponibles sur 
+https://www.romhacking.net/
+
+----------------------------------------------------------------
+3.  TOUT CE QUI A ÉTÉ FAIT
+----------------------------------------------------------------
+
+Cinématiques	: 100 %
+Crédits		:   5 %
+Menu		:  20 %
+
+----------------------------------------------------------------
+4.  HISTORIQUE DES VERSIONS
+----------------------------------------------------------------
+
+1.0 (05/04/09) : sortie initiale du patch
+1.1 (12/10/19) : ajustements mineures, traduction partielle des
+crédits et intégration d'une somme de contrôle (checksum)
+correcte.
+
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+Corrigo : Tout
+
+Si vous trouvez des erreurs dans le patch, merci de m'envoyer un
+courriel à : corrigo@outlook.fr avec si possible une capture 
+d'écran du soucis.	
+
+----------------------------------------------------------------
+6.  REMERCIEMENTS
+----------------------------------------------------------------
+
+Je tiens à remercier l'équipe du site http://traf.romhack.org/ 
+qui m'a permis de traduire ce jeu, grace à leurs tutos et leur 
+aide sur le forum.
+
+----------------------------------------------------------------
+7.  REMARQUES LÉGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de Sonic 3D n'est pas
+officiel et n'est pas supporté par SEGA et/ou Traveller's Tales.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+Corrigo

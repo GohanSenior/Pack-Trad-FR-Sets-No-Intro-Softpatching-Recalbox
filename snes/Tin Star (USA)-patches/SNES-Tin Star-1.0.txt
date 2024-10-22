@@ -1,0 +1,113 @@
+			Génération IX (http://generation9.kanshima.net) 
+			   vous présente la traduction de Tin Star
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre   : Tin Star
+Console : Super Nintendo
+Développeur : Nintendo
+Date  : Novembre 1994
+Genre : Jeu de tir à la souris ou au superscope
+
+
+\ ETAT DE LA TRADUCTION : Version 1.0 créée le 26/02/2007 
+ \________________________________________________________
+
+Il est des jeux dont malheureusement personne n'entend quasiment jamais parler. Oublions un moment
+les block busters que sont les Final Fantasy ou Seiken Densetsu, et regardons parmi ce qui reste...
+Dans le tas des méconnus, y'a évidement de bonnes grosses daubes bien visqueuses, mais également
+des petits bijous qui n'ont pas eu le succès escompté. Pourquoi ?? Ca c'est une bonne question !
+
+Aujourd'hui, je me suis arrêté sur Tin Star. Ce petit shoot a retenu mon attention pour plusieurs
+raisons :
+
+- L'ambiance : On avait déjà vu des jeux de tir dans le style western, mais celui ci va plus loin !
+Exit les canassons et les tuniques bleues; voici venir la SF Western ! Ici pas d'humain, mais des
+créatures androïdesques et des chevaux et vaches mécaniques...
+
+- Les graphismes : Très sympas et colorés, ils sont typiquement toonesques et collent parfaitement
+à l'univers du jeu. Les personnages sont rigolos et les décors relativement bien travaillés, même
+s'ils sont parfois répétitifs...
+
+- La musique et les bruitages : Bon, ben là je saurai pas dire... En fait, j'ai fait la traduction
+au bureau pendant mes quelques moments de temps libre, donc j'ai pas pu mettre le son :D
+
+- La jouabilité : Très facile de jouer à Tin Star ! Y'a même que l'embarras du choix : Joypad,
+souris ou superscope sont utilisables ! On peut guère rêver mieux, non ? Par contre, c'est assez
+chaud au joypad, préférez la souris... L'action est progressive et omniprésente, comme l'humour,
+d'ailleurs.
+
+
+- L'histoire : Au niveau du scénario, tous les clichés du western sont de sortie ! Attaques de
+banques, évasions de prison, protection de convois, attaques de train... Rien ne sera épargné !
+Comme dans tout bon western, il y'aura du duel, beaucoup de duels, même...
+
+A noter que ce jeu possède trois fins différentes selon le score obtenu.
+
+
+La traduction de ce jeu avait démarré il y'a déjà quelques temps (Juillet 2006 pour être
+exact !) , mais arriver au bout pour voir qu'il y'a plusieurs fins à tester, ben ça fout un
+coup au moral... J'ai eu beaucoup de mal à me remettre dessus, mais après plus d'une semaine
+de tests, ça y'est enfin ; je sors le patch...
+
+Tout le script est traduit (et je pensais pas en voir autant dans ce jeu ! ), mais il manque
+l'insertion d'accents dans une fonte qui semble compressée (ce que je ne maîtrise pas vraiment)
+
+
+\ CODES DE TRICHE
+ \________________
+
+Histoire de changer, je me suis encore attardé à chercher des codes Action Replay :
+
+
+Effet			Adresse		Valeur
+-----------------------------------------------
+Vies infinies		7E0928		  9
+Energie infinie		7E09C8		 160
+
+
+C'est y pas cool ça ??
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack 	   : Happexamendios
+Traduction : Happexamendios
+Bêta-Test  : Happexamendios
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "SNES-Tin Star-1.0.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Tin Star (U) [h1C].smc
+  Taille de la rom: 2 097 152 octets
+  Rom avec Header ? Non
+  CRC de la rom   : AC8220DD
+  CRC rom patchée : 735B839E
+
+Le patch a été créé avec WindHex32 et a été testé avec les émulateurs suivants :
+  BSnes          [ ]		SNes9X 1.51    [x]
+  Snes 9X 1.43   [ ]		Snes 9X 1.53   [x]
+  Snes 9x Geiger [ ]		Snes GT        [ ]
+  ZSnes          [ ]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction. 
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut. 
+Site Web : http://generation9.kanshima.net 
+Forum : http://www.bessab.com/viewforum.php?f=12 
+Hack : fredchev@tele2.fr

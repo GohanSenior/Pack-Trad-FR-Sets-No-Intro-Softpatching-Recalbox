@@ -1,0 +1,62 @@
+/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+|                                           Génération IX                                           |
+|                                 (http://generation9.kanshima.net)                                 |
+|                                                                                                   |
+|                       vous présente la traduction de Crystalis sur Nintendo                       |
+\___________________________________________________________________________________________________/
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre       : Crystalis
+Console     : Nintendo
+Développeur : SNK
+Date        : 1990
+Genre       : RPG
+
+
+\ ETAT DE LA TRADUCTION : Patch 1.1 du 31/10/2016
+ \_________________________________________________
+
+Tout à normalement été traduit
+Petite correction qui faisait planter le jeu. Le patch avait déjà été donné sur un forum mais
+je ne l'avais jamais publié officiellement.
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack       : BahaBulle
+ASM        : BahaBulle
+Traduction : BahaBulle
+Bêta-Test  : BahaBulle
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Le Patch NES-Crystalis-1.1.ips est à appliquer sur la rom Crystalis (U) [!].nes
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher. 
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils 
+peuvent créer une sauvegarde de la rom avant de patcher). 
+Voilà maintenant votre rom avec les modifications apportées par notre traduction. 
+
+
+\ HISTORIQUE DE LA TRADUCTION
+ \____________________________
+
+fiquetpa du groupe BessaB avait commencé à traduire le jeu.
+Par manque de temps, le projet a été mis de côté. Je lui ai donc demandé si je pouvais
+le reprendre et il accepta.
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum    : http://www.bessab.com/viewforum.php?f=12

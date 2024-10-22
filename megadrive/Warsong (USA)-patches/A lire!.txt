@@ -1,0 +1,57 @@
+Warsong (Mega Drive)
+Traduction en Français v1.0 (17/10/2022)
+(C) 2022 Traduction Alucard73 et PlayerTIME
+
+---------------
+Histoire du Jeu
+----------------
+Warsong (Langrisser en version originale) est un jeu de rôle tactique 
+sur Megadrive se déroulant dans un univers fantastique. 
+Les combats se présentent en tour par tour et le joueur contrôle plusieurs 
+généraux sur le champ de bataille. Chaque général commande une unité de huit 
+types différents (soldats, archers mais aussi hommes-lézards ou encore sirènes) 
+et se bat aux côtés de ses troupes.
+
+-----------------
+Ce qui a été fait
+-----------------
+Script    : 100 %
+Graphismes: 100 %
+
+--------------------
+Notes et Bugs connus
+--------------------
+Normalement aucun.
+Si vous rencontrer un bug, vous pouvez me contacter sur le Forum de la Traf.
+
+--------------------------
+Instructions pour le patch
+--------------------------
+Au format, vous pouvez utiliser LunarIPS ou Floating IPS.
+Archive utilisée:
+
+Warsong (USA).md
+
+MD5: 146996a42ef0cca2578f4d56da2c4206
+SHA1: 9B13A85F39B3F4CC31F54077DF29BBE812405A08
+CRC32: 4B680285
+Size: 524288
+
+-------
+Credits
+-------
+Alucard73 - Hacking, traduction et tests.
+PlayerTIME - Hacking Graphiques
+-----------------
+REMARQUES LEGALES
+-----------------
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.

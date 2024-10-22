@@ -1,0 +1,116 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                               Dino City
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Dino City
+Console		: Super Nintendo
+Développeur	: Smart Egg Pictures
+Editeur		: Irem
+Date		: 1992
+Genre		: Plates-formes
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 07/11/2015) :
+ \_________________________________________________________________
+
+Cela faisait longtemps que j'avais ce projet sur mon disque dur
+sans avoir pris la peine de créer le patch ips.
+Le mal est réparé presque 2 ans après...
+
+En fait, j'espérais arriver à finaliser le patch en traduisant
+les grosses fontes et certains graphismes, mais il s'est avéré
+que c'était au delà de mes maigres compétences.
+
+Certains me diront qu'il existe déjà une traduction de ce jeu
+en français, mais je leur répondrai que, sans dénigrer le travail
+de l'auteur, je ne suis pas fan de la version faite à des fins
+parodiques.
+
+Il ne me fallut donc pas longtemps pour franciser les textes
+de cet agréable jeu de plates-formes qui serait tiré d'un film
+d'après Wikipédia.
+
+L'histoire est un pur prétexte : 2 gamins utilisent une machine
+étrange pour voir des films et se retrouvent propulsés dans
+une autre dimension où les dinosaures sont conscients.
+Il ne leur reste plus qu'à faire équipe avec
+leurs dinos et parcourir les 7 niveaux du jeu avant de
+rentrer chez eux.
+
+L'originalité du titre repose l'utilisation du dinosaure
+pour faciliter la progression des héros en bloquant les
+ennemis ou en permettant d'atteindre des plates-formes
+en hauteur.
+
+Les graphismes sont beaux et bien lisibles, et même si on a
+une certaine impression de déjà-vu, on se prend à parcourir
+les niveaux colorés avec plaisir.
+Rotations et effets divers viennent rehausser l'ambiance.
+
+C'est donc un bon jeu de plates-formes qu'Irem nous propose,
+et il vaut la peine d'être essayé.
+
+La traduction des scripts est complète, mais il manque les
+"gros" textes (stage clear, bonus stage...) ce qui n'est pas
+critique pour jouer, cela dit...
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Energie infinie        0x7E16ED         03
+Vies infinies          0x7E1731         09
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "dino city.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Dino City (E) [!].smc
+  Taille de la rom: 1 048 576 octets
+  Rom avec Header ? Non
+  CRC de la rom   : C495320A
+  CRC rom patchée : 2F5B8F81
+
+Le patch a été créé avec SmartIPS et a été testé avec les émulateurs suivants :
+  BSnes          [ ]		SNes9X 1.51    [x]
+  Snes 9X 1.43   [ ]		Snes 9X 1.53   [x]
+  Snes 9x Geiger [ ]		Snes GT        [ ]
+  ZSnes          [x]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

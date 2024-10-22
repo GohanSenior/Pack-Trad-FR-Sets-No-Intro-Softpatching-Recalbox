@@ -1,0 +1,63 @@
+				Emulation-151 (http://emulation-151.com)
+
+		      vous présente la traduction de Firestriker sur Super Nintendo
+
+
+\ INFOS SUR LE JEU
+ \_________________
+
+Titre       : Fire Striker
+Console     : Super Nintendo (SNES)
+Développeur : DTMC Inc.
+Date        : 1994
+Genre       : Aventure - Casse briques
+
+
+\ ETAT DE LA TRADUCTION : Patch 0.99 du 7/08/2007
+ \_________________________________________________
+
+Ce qui a été fait :
+
+- Ecran d'introduction ajouté.
+- Modifications graphiques tès nombreuses. Tous les graphismes ont été modifiés 
+sauf un : Le "Well Done" après un duel d'hésros ^^.
+- Texte entièrement traduit.
+- Ecrant titre modifié avec la traduction  : "L'élu du vent".
+- Tous les menus traduit.
+- Les crédits à la fin sont traduits également.
+			 
+Ce qui n'est pas fait
+- Je n'ai pas trouvé sur l'écran titre le "Multi Mode" et "Player" j'ai donc modifié comme j'ai pu :).
+- Une phrase dans le jeu, lorsque l'on combat : "Push Start".
+
+\ EQUIPE DE TRADUCTION FRANCAISE
+ \_______________________________
+
+Traduction :	  	KS151.
+Modif Graphiques : 	KS151
+Extraction /Insertion : KS151
+Beta Test : 	  	KS151
+
+
+\ COMMENT APPLIQUER LE PATCH
+ \___________________________
+
+ATTENTION !!! Le patch est à appliquer sur la rom Fire Striker (U).smc
+              La rom  doit faire 1 048 576 octets.
+	      SNESTools permet d'ajouter un header aux roms.
+	      Les autres roms (si elles existent) n'ont pas été testées. Il est donc possible que ça ne marche pas.
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher.
+Il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org).
+Il suffit ensuite généralement de sélectionner la rom puis le fichier ips et de valider
+(Certains outils peuvent créer une sauvegarde de la rom avant de patcher).
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://www.emulation-151.com
+Forum :   http://www.emulation-151.com/Forum/phpBB2/index.php

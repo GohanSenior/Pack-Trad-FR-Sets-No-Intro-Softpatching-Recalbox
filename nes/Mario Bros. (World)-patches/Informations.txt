@@ -1,0 +1,44 @@
+Mario Bros., NES, traduction française 1.0
+
+
+IPS à appliquer sur "Mario Bros. (U) [!].nes".
+
+
+Pour appliquer un fichier IPS, vous devez posséder le fichier original puis utiliser un applicateur de fichier IPS comme Spi que vous pouvez télécharger sur www.lyssal.fr.
+
+
+
+
+         II
+        IIII
+       .IIII.                    _                         _
+       IIIIII                   | |                       | |
+ .I    IIIIII    I.             | |    _   _ ___ ___  __ _| |
+ I:I.  IIIIII  .I:I             | |   | | | / __/ __|/ _` | |
+I:IIIIIIIIIIIIIIII:I            | |___| |_| \__ \__ \ (_| | |
+IIIII:IIIIIIII:IIIII            \_____/\__, |___/___/\__,_|_|
+IIIII:IIIIIIII:IIIII           ===========/ |=================
+IIIIII:IIIIII:IIIIII                   |___/
+I:IIIIIIIIIIIIIIII:I
+:IIIIIIIIIIIIIIIIII:
+.IIIIIIIIIIIIIIIIII.           ==== http://www.lyssal.fr/ ====
+ IIIIIIIIIIIIIIIIII
+ I:IIIIIIIIIIIIII:I
+  IIIIIIIIIIIIIIII
+   IIIIIIIIIIIIII              LOGICIELS LIBRES
+    .I:IIIIII:I.               JEUX GRATUITS
+     IIIIIIIIII                EMULATION
+    .IIIIIIIIII.               LINUX
+    IIIIIIIIIIII               ETC
+   .IIIIIIIIIIII.
+   IIIIIIIIIIIIII
+   IIIII:II:IIIII
+  .IIIIIIIIIIIIII.             Lyssal.fr est un recueil de logiciels et de jeux vidéo
+  I:II::IIII::II:I             dont le dénominateur commun est la gratuité.
+  I:  :IIIIII:  :I
+      .IIIIII.
+       IIIIII
+       IIIIII
+       IIIIII
+        IIII
+         II

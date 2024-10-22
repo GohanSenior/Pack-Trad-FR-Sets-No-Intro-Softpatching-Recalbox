@@ -1,0 +1,95 @@
+TERMINUS TRADUCTION présente
+
+DOUBLE DRAGON 2
+
+----------------------------------------------------------------
+***********************Table des matières***********************
+----------------------------------------------------------------
+
+1.    L'HISTOIRE DU JEU
+2.      CONTENU DE L'ARCHIVE ET UTILISATION
+3.    LES PATCHS PUBLIES
+4.      TOUT CE QUI A ETE FAIT
+5.    L'ÉQUIPE DE LA TRADUCTION
+6.      CONTACTS
+7.    REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  L'HISTOIRE DE DOUBLE DRAGON 2
+----------------------------------------------------------------
+
+Double Dragon est un des jeux de baston les plus connus en
+arcade. L'adaptation Game Boy du second épisode est en fait un
+relooking d'un autre jeu de baston sorti au japon sous le nom de
+"Nekketsu Kouha Kunio-Kun".
+
+----------------------------------------------------------------
+3.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir :
+
+DdGb2Fr.ips  - Le patch IPS de Double Dragon 2
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+(le Patcheur Terminus par exemple).
+Ce patch est à utiliser avec la rom Double Dragon 2 (U).
+
+----------------------------------------------------------------
+4.  LES PATCHS PUBLIES
+----------------------------------------------------------------
+
+-Version finale
+
+----------------------------------------------------------------
+5.  TOUT CE QUI A ETE FAIT
+----------------------------------------------------------------
+
+Script    : 100 %
+Graphismes: 100 %
+
+----------------------------------------------------------------
+6.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+   FlashPV : Hacking, Traduction
+
+----------------------------------------------------------------
+7.  CONTACTS
+----------------------------------------------------------------
+
+Une remarque, une question ou une correction à apporter à la
+traduction de Double Dragon 2.
+
+FlashPV - FlashPV@aol.com
+
+Vous voulez mieux connaître le groupe, télécharger nos derniers
+patchs ou vous renseigner sur un projet.
+
+Site Web - http://terminus.romhack.net
+
+----------------------------------------------------------------
+8.  REMARQUES LEGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de DOUBLE DRAGON 2 n'est pas
+officiel et n'est pas supporté par Acclaim, Nintendo ou
+Technos.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+FlashPV

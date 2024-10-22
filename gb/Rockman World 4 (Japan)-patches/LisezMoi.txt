@@ -1,0 +1,72 @@
+MegaMan World 4 (Game Boy)
+Traduction en Français v1.0 (19/04/2023)
+
+
+------------------------
+Genre: plateforme
+------------------------
+Mega Man IV (Rockman World 4 au Japon), est un jeu d'action-plates-formes. Il s'agit du quatrième jeu de la 
+série à être sorti sur Game Boy.
+
+------------------------
+Histoire
+------------------------
+En plein salon annuel de la robotique, le professeur Wily s'empare des robots exposés et les reprogramme 
+pour exécuter ses noirs desseins. Mega Man, présent sur place, doit donc, une fois de plus, combattre 
+les subordonnées de Wily et arrêter le criminel professeur. Mais c'est sans compter l'apparition surprise 
+d'un nouveau Chasseur de Mega Man, Ballade. 
+
+------------------------
+CONTENU DE L'ARCHIVE ET UTILISATION
+------------------------
+Normalement, l'archive ZIP doit contenir:
+Megaman_World_4_FR.ips - Le patch IPS de MegaMan World 3 
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+comme LumarIPS.
+Ce patch est à utiliser avec la rom Rockman World 4 (Japan).gb
+Taille: 524288 octets (512 KiB)
+CRC32: 16AEC559
+SHA256: 6c1df0d0c395f485c4d9faecab2ab2305c65e5eadd7327234fd93571213eec0a
+
+ROM patché:
+Taille: 524288 octets (512 KiB)
+CRC32: FE259887
+SHA256: d950000d96e36a659da7599fcb4c60362d6f56adb9982db0edd91d1bb2ce32d6
+
+--------
+TRADUCTION
+--------
+Yoda07: menu, script, GFX : 100%
+ajout des lettres minuscules et lettres accentuées.
+
+
+----------------------------------------------------------------
+CONTACTS
+----------------------------------------------------------------
+Une remarque, une question ou une correction à apporter à la
+traduction de MegaMan World 4.
+
+Yoda07 mail: juin-2010@hotmail.fr
+
+----------------------------------------------------------------
+REMARQUES LEGALES
+----------------------------------------------------------------
+Le patch de traduction française de MegaMan World 4 n'est
+pas officiel et n'est pas supporté par Capcom ou Nintendo.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !

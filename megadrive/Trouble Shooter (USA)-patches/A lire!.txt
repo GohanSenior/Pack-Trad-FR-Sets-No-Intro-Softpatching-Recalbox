@@ -1,0 +1,63 @@
+Trouble Shooter (Mega Drive)
+Traduction en Français v1.0 (19/09/2023)
+(C) 2023 Traduction Alucard73
+
+---------------
+Histoire du Jeu
+----------------
+Trouble Shooter (Battle Mania au Japon) sur Megadrive vous met dans la peau 
+de Madison une mercenaire assignée pour sauver le prince Eldon, kidnappé par 
+Blackball un scientifique maniaque des armes. Dans ce jeu de tir à défilement 
+horizontal, vous serez accompagné par votre partenaire Crystal qui à loisir 
+pourra couvrir vos arrières ou vous soutenir à l'avant.
+
+-----------------
+Ce qui a été fait
+-----------------
+Script    : 100 %
+Graphismes: 0 %
+
+-----------------------
+Ce qui n'a pas été fait
+-----------------------
+Les Options (problème avec le nombre de caractères)
+
+--------------------
+Notes et Bugs connus
+--------------------
+Normalement aucun.
+si vous rencontrez un bug, vous pouvez me contacter sur le Forum de la Traf.
+
+--------------------------
+Instructions pour le patch
+--------------------------
+Vous pouvez utiliser LunarIPS ou Floating IPS.
+ROM utilisée:
+
+Trouble Shooter (USA).md
+
+MD5: f29c5049a48f37a37b811a22dc731e3c
+SHA-1: 3FC9FFA49ECE5E9CBBA1F2A5BA1DFD068B86C65D
+CRC32:BECFC39B
+Size: 524288
+
+-------
+Credits
+-------
+Alucard73 - Hacking, traduction
+Munch - Test et relecture du jeu avec ses compagnons de route
+Kayser, TAMA et Thorbjorn
+
+-----------------
+REMARQUES LEGALES
+-----------------
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.

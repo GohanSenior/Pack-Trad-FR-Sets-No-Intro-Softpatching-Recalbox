@@ -1,0 +1,182 @@
+____________________________________________________________________________
+4 décembre 2019
+
+Mise à jour flash par Ingo
+- correction de 2 fautes de frappe dans l'introduction du jeu
+- suppression du besoin d'utiliser un header pour patcher
+- correction du checksum
+
+patch à appliquer sur :
+Prince of Persia (U).smc
+sans Header
+CRC32 de la rom : 891BB2BB
+
+2 versions :
+Skaiboy.ips  police de caractère "classic"
+Gro.ips      police de caractère "remix"
+
+
+____________________________________________________________________________
+22 avril 2002
+
+ ___________________________________________________________________________
+               
+                        Traduction de Prince of Persia
+                              par Cigarette Patch
+
+ ___________________________________________________________________________
+
+ Public, tu nous a demandé de traduire Prince of Persia. Nous sommes fiers
+ de t'offrir non pas un mais deux patchs pour ce jeu ma foi très.... très...
+ ___________________________________________________________________________
+ 
+ Patch version 1.00
+
+ Disclaimeur
+ Publicité
+ Passwords
+ Remerciements		          		      
+ ___________________________________________________________________________
+
+ Disclaimeur:
+
+ Public, Publique,
+
+ Aujourd'hui Cigarette Patch à l'extrême horreur de vous présenter en avant
+ première exclusive dans le monde des porcs, le discours officiel de ce
+ gros connard de Jean Marie le P'Haine. Pour mieux comprendre, notre
+ confrère, l'acteur porcin Babe vous conseille de remplacer ci dessous le
+ mot "huui huui" par un couinement de porc. Merci et bon vomi.
+
+ "Gaulois, Gauloise,
+
+ Aujourd'hui (huuii huui), la France et aussi la Gaule ont atteint leur 
+ heure de gloire. Mon daron Charles Martel est en train de kiffer sa race,
+ ma race, la meilleure race, celle des gros porcs qui couinent.
+ Je vous rappelle que dans notre beau pays, (huui huui), il y a de 
+ l'insécurité chez les jeunes en survet' qui vivent dans les "téci" comme
+ ils disent, (huuui huuii). Voici donc mes promesses électorales pour 
+ combattre (huuui huiiii), l'insécurité. Here we go! (Non papa, me tape pas, 
+ j'ai pas parlé le rosbif!)
+
+ * Je supprime le Loft, c'est pas bon pour l'insécurité de mes yeux.
+ * Je supprime les femmes au volant (surtout les vieilles), c'est pas bon
+   pour l'insécurité routière. (je vous rapelle que c'est jenmarie qui
+   parle)
+ * Je supprime les hopitaux, c'est pas bon pour l'insécurité de la sécurité
+   sociale.
+ * Je supprime l'erreur 404, c'est pas bon pour l'insécurité de mon forfait
+   aol.
+ * Je supprime vos sexes, c'est pas bon pour l'insécurité du sida (et en plus
+   ça donne envie de pisser).
+ * Je supprime le tabac, c'est pas bon pour l'insécurité de la couche 
+   d'ozone.
+ * Je supprime les avions, c'est pas bon pour l'insécurité des tours.
+ * Je supprime le Bigdile, c'est pas bon pour l'insécurité du rideau.
+ * Je supprime Canal+, c'est pas bon pour l'insécurité de mon confrère
+   des Jenmarie anonymes (spéciale dédicace Jenmarie M.)
+ * Mais par contre je ne supprime pas les filles de mauvaise vies, les
+   tapins ou encore les tepu, car ma mère c'est sacré."
+
+ 				*Fin du discours*
+
+ La première et dernière fois que moi, Skaiboy, serai sérieux:
+
+ "Pour combattre ce mal, qui ronge notre pays depuis des années et qui
+ menace forcément notre beau pays qui a vu naître les droits de l'
+ Homme et du Citoyen en 1789, ne laissons pas notre pays aux mains de
+ ces nazis. La France ne deviendra pas l'Italie de Berlusconi, ni
+ l'Autriche de Haider. Nous devons défendre l'honneur et la liberté de
+ la France. Nous devons laver l'honneur de la France. Dimanche 5 mai
+ 2002, allez voter. Chirac ou blanc peu importe. Taux d'absenstention
+ record = Le Pen au 2ème tour. Merci".
+
+ Avec Cigarette Patch, la délepenisation de la France est en marche.
+ Après la page de pub, la dépénalisation du cannabis!
+ ___________________________________________________________________________
+
+ Publicité:
+
+ Bon allez, quelques conneries pour détendre ton atmosphère de ta chambre
+ public. Tu vas voir c'est encore mieux que Air Wick. :o
+
+ Cigarette Patch, ce groupe merveilleux du monde merveilleux de la trad
+ francophone. Ce groupe qui est en parfaite harmonie avec la nature, ce
+ groupe qui fait cui cui comme les chants des oiseaux, ce groupe qui
+ respecte le blanc et les couleurs de dedans ta machine à laver....
+ 
+ Ce groupe qui fait des patch tellement pourris.... tels que:
+
+ Ninja Gaiden Trilogy (SNES) : Le projet mythique de ce groupe qui finira
+  			       bien un jour ou l'autre dans un cendrier...
+
+ Final Fight 2 (SNES)	     : Un patch parodique très mauvais pour ton 
+			       insécurité de dans la rue.
+
+ Prince of Persia (SNES)     : Le patch très humm, très.....
+
+ Veuillez contacter Gro, si vous avez aimé la police remix de Prince of
+ Persia. Il sera heureux si vous voudriez l'implementer dans un de vos patch. 
+ ___________________________________________________________________________
+    
+ Passwords
+
+ Cigarette, le groupe qui aime son public, t'offre un fabuleux séjour
+ de voyage dans la page des passwords de Prince of Persia.....
+
+ << PRINCE OF PERSIA >>
+
+  1. B R N G B B 9	11. 7 F 3 9 R 1 B
+  2. M R G 5 L 2 X	12. H 9 T Z D 8 N
+  3. B 6 + T W N N	13. 7 T X F + 9 V
+  4. 9 Z 3 N R D X 	14. H + K X 3 L 7
+  5. L Q H W T V R	15. G Z 9 M R Z J
+  6. C G K D B Z 2	16. 8 4 C P B C 6
+  7. T H 4 Q + + B	17. Q Q N L 2 P V
+  8. V X P N B Y 2	18. 4 Q 7 T M H J
+  9. Q L L ! W H R	19. Q H J G ! Q 7
+ 10. H W B 9 3 W X	20. 4 4 N G C L S
+
+ En pleine partie, tapez START et maintenez le bouton bien enfoncé. Appuyez 
+ ensuite sur SELECT pour obtenir un sound test. 
+
+ Souce: www.gamefaq.com
+ ___________________________________________________________________________
+
+
+ Remerciements
+
+ Le site de la TRAF : Pour nous avoir proposé plein de patch, ainsi que des
+                      FAQ qui m'ont permi de comprendre comment traduire les
+                      jeux. Et surtout pour avoir accepté de publier mon 
+                      patch sur leur site. Merci les gars :)
+		      (en particulier Hell).
+		      http://traf.romhack.net
+
+ Asmo               : Pour m'avoir encouragé et pour m'avoir proposé de
+		      l'aide. Ainsi que pour son interêt pour mon modeste
+		      travail. (Bien, ton site d'info sur la trad, je l'avais
+		      pas vu...)
+		      http://www.asmolution.fr.st
+
+ Romhack.net        : Pour vous être réveillé ;) (<- smiley donc blague gentille)
+
+ Seb                : Pour avoir écrit la FAQ (La Traduction pour les Nuls)
+                      qui m'a enfin fait comprendre comment traduire les 
+                      jeux.
+
+ Prince de Lu       : Pour leur gateaux très appétissants pour nos ventres.
+
+ Prince of Persia   : Pour sa modeste participation à ce jeu.
+ 
+ Dev-C++            : Pour avoir niqué Script-I Script-E et pour m'avoir
+                      obligé à utiliser Thingy. Merci Dev!
+
+ Les créateurs de ZSnes, Snes9x, ScriptI, ScriptE, Hexposure, Tile Layer
+ Pro, Thingy, Word, Bloc Notes, et mes dicos Harrap's et Hatier...
+ ___________________________________________________________________________
+
+ Patch de Traduction classique Prince of Persia Copyright 2002 Skaiboy
+ Patch de Traduction remix Prince of Persia Copyright 2002 Gro
+ http://cigarette.consolemul.com
+ skaiboy@aol.com

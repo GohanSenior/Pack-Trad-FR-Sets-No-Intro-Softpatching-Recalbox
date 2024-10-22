@@ -1,0 +1,61 @@
+				GENERATION IX (http://generation9.kanshima.net)
+
+				   présente la traduction de Rolan's Curse
+
+----------------------------------------------------------------------------------------------------------------
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre       : Rolan's Curse
+Console     : Gameboy (GB)
+Développeur : American Sammy Corp.
+Date        : 1990
+Genre       : RPG
+
+
+\ ETAT DE LA TRADUCTION : Patch Bêta du : 09/11/2004
+ \___________________________________________________
+
+Il ne doit y avoir que le titre qui n'a pas été traduit.
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________ 
+
+Hack       : BahaBulle
+Traduction : BahaBulle - GreatSkaori
+Bêta-Test  : BahaBulle
+
+
+\ CONTENU DU ZIP
+ \_______________
+
+GB-RolansCurse-0.9.txt : Fichier d'informations (vous être en train de le lire ;))
+GB-RolansCurse-0.9.ips : Patch français de la rom
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "GB-RolansCurse-0.9.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Rolan's Curse (U) [!].gb
+  Taille de la rom: 65 536 octets
+  Rom avec Header ? Non
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Forum    : http://www.bessab.com/viewforum.php?f=12
+Site Web : http://generation9.kanshima.net
