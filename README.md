@@ -64,9 +64,9 @@ Avertissements:
 
 	- Si vous constatez un patch non pris en charge, un jeu figé sur un écran noir ou tout autre bugs:
 
-	- Regarder dans le(s) fichier(s) .txt présent(s) dans quasiment chaque dossier.
+		- Regarder dans le(s) fichier(s) .txt présent(s) dans chaque dossier.
 
-	- Voir sur https://traf.romhack.org/ sur la fiche du jeu.
+		- Voir sur https://traf.romhack.org/ sur la fiche du jeu.
 
 	- Je suis disponible sur le Discord Recalbox au pseudo GohanSenior pour toutes demandes, suggestions ou propositions. 
 
