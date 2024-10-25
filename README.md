@@ -43,7 +43,7 @@ Contenu du pack:
 
 	Master System: 52 patchs				(testé sur Libretro Gearsystem)
 
-	Megadrive: 121 patchs					(testé sur Libretro Picodrive)
+	Mega Drive: 121 patchs					(testé sur Libretro Picodrive)
 
 	NEO·GEO Pocket Color: 2 patchs				(testé sur Libretro Mednafen_WSWAN)
 
