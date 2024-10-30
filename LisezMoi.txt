@@ -79,6 +79,190 @@ Avertissements:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
+Changelog:
+
+v1.0.0: 
+	- sortie initiale.
+
+v1.1.0:	
+	- ajout des patchs pour Satellaview et Megadrive.
+
+v1.2.0:	
+	- ajout des patchs pour Famicom Disk System, NEO·GEO Pocket Color, Nintendo 64.
+
+V1.2.1:	
+	- suppression d'un fichier zip oublié dans le dossier gb.
+
+v1.2.2:	
+
+	SNES:
+
+	- suppression des patchs "3 Ninjas Kick Back (USA)", "Aero Fighters (USA)".
+
+v1.3.0:	
+	NES:
+
+	- ajout des patchs:
+
+		"Adventures of Lolo (USA)", "Adventures of Lolo 2 (USA)", "Air Fortress (Japan)", "Armadillo (Japan)",
+
+	 	2/2 "Bugs Bunny Blowout, The (Europe)", "DuckTales 2 (USA)", "Fester's Quest (USA)", "Gyromite (World)",
+
+		1/2 "Legend of Zelda, The (Europe) (Rev 1)", "Nintendo World Cup (USA)", 1/2 "Rygar (Europe)",
+
+		"SD Gundam Gaiden - Knight Gundam Monogatari (Japan)", "Super Star Force (Japan)".
+
+	- suppression des patchs:
+
+	 	"Contra (USA)", "Fire Emblem Gaiden (Japan)", 1/2 "Friday the 13th (USA)", 1/2 "Star Force (USA)".
+
+	- remplacement du patch:
+
+	 	"Adventures of Rad Gravity, The".
+
+	- correction du nom de dossier pour:
+
+		"Boulder Dash (Europe)", "Wrath of the Black Manta (USA)".
+
+	- correction de l'extension pour les patchs:
+
+		"Cool World (USA)", "Darkwing Duck (USA)", "Dick Tracy (USA)", 1/2 "Final Fantasy (USA)",
+
+		"Final Fantasy II (Japan)", "Hook (Europe)", "Isolated Warrior (USA)",
+
+		"Little Nemo - The Dream Master (USA)",	"Ninja Gaiden (USA)", "Ninja Gaiden II - The Dark Sword of Chaos (USA)",
+
+		"Ninja Gaiden III - The Ancient Ship of Doom (USA)", "Rollergames (USA)", "Shatterhand (Europe)",
+
+		"Tatakai no Banka (Japan) (Rev 1)", "Totally Rad (USA)", "Ufouria - The Saga (Europe)", "Wacky Races (USA)".
+
+	- ajout d'un fichier .txt des cores compatibles pour les patchs:
+	
+		"SD Gundam Gaiden - Knight Gundam Monogatari (Japan)", "Shufflepuck Cafe (Japan)", "Wagyan Land (Japan)",
+
+		"WWF WrestleMania - Steel Cage Challenge (USA)".
+
+v1.4.0:
+
+	SNES:
+
+	- ajout des patchs:
+
+		"Dragon Ball Z - Hyper Dimension (Japan)", 
+
+	- suppression des patchs:
+
+		"Animaniacs (USA)", "Bastard!! - Ankoku no Hakaishin (Japan)", "Battle Blaze (USA)", "BioMetal (Europe)",
+
+		"Bugs Bunny - Rabbit Rampage (Europe)", "Captain America and the Avengers (Europe)", "Captain Commando (USA)",
+
+		"Chaos Engine, The (Europe)", "Daffy Duck - The Marvin Missions (Europe)", "Daze Before Christmas (Europe)",
+
+		"Dragon Ball Z - Super Saiya Densetsu (Japan) (Rev 1)", "Dream T.V. (USA)", "Equinox (Europe)",
+
+		"Faceball 2000 (USA)", 1/2 "Final Fantasy III (USA) (Rev 1)", "Final Fight (USA)", "Firepower 2000 (USA)",
+
+		"Hameln no Violin Hiki (Japan)", "Hook (Europe)", "Incredible Hulk, The (Europe)", "Pinocchio (USA)",
+
+		"Super R-Type (USA)", 1/2 "Tales of Phantasia (Japan)", "Warlock (USA)"
+
+	- remplacement des patch:
+
+		"Final Fantasy V (Japan)", "Zombies Ate My Neighbors (USA)"
+
+	- correction de l'extension pour les patchs:
+
+		"Final Fantasy III (USA) (Rev 1)", "Hyper V-Ball (Europe)", 1/2 "Xardion (USA)"
+
+	GBA:
+
+	- ajout d'un fichier .txt des cores compatibles pour les patchs:
+
+		"Wario Land 4 (USA, Europe)"
+
+	GBC:
+
+	- suppression des patchs:
+
+		"Konami GB Collection Vol.1 (Europe) (GB Compatible)"
+
+	- correction de l'extension pour les patchs:
+
+		"Magical Chase GB - Minarai Mahoutsukai Kenja no Tani e (Japan)"
+
+	- ajout d'un fichier .txt des cores compatibles pour les patchs:
+
+		"Revelations - The Demon Slayer (USA) (SGB Enhanced) (GB Compatible)"
+
+	Megadrive:
+
+	- suppression des patchs:
+
+		1/2 "MUSHA - Metallic Uniframe Super Hybrid Armor (USA)", "World of Illusion Starring Mickey Mouse and Donald Duck (Europe)"
+
+	- remplacement des patch:
+
+		"Combat Cars (USA, Europe)"
+
+	- correction de l'extension pour les patchs:
+
+		"Hellfire (USA)", "Mega Man - The Wily Wars (Europe)", 1/2 "MUSHA - Metallic Uniframe Super Hybrid Armor (USA)",
+
+		"Shinobi III - Return of the Ninja Master (Europe)", "Strider (USA, Europe)",
+
+		"Toki - Going Ape Spit (USA, Europe)", "Zero Wing (Europe)"
+
+v1.5.0
+
+	Satellaview:
+
+	- suppression des patchs:
+
+		"Treasure Conflix (Japan)"
+
+	- suppression du dossier satellaview
+
+	Famicom Disk System:
+
+	- suppression des patchs:
+
+		"Kamen Rider Black - Taiketsu Shadow Moon (Japan)"
+
+	Master system:
+
+	- suppression des patchs:
+
+		"Alex Kidd in Shinobi World (USA, Europe, Brazil) (En)", "Time Soldiers (USA, Europe, Brazil) (En)"
+
+	- correction du nom de dossier pour:
+
+		"E-SWAT (USA, Europe, Brazil) (En)", "Sonic The Hedgehog 2 (Europe, Brazil) (En) (Rev 1)"
+
+
+	- correction de l'extension pour les patchs:
+
+		"Aladdin (Europe, Brazil) (En)", "Hokuto no Ken (Japan)", "Vigilante (USA, Europe, Brazil) (En)"
+
+	GB:
+
+	- suppression des patchs:
+
+		"Another Bible (Japan) (SGB Enhanced)"
+
+	- correction de l'extension pour les patchs:
+
+		"Double Dragon II (USA, Europe)", "Mortal Kombat (USA, Europe)", "Star Wars (Europe)",
+
+		"Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA)"
+
+	- ajout d'un fichier .txt des cores compatibles pour les patchs:
+
+		"Fist of the North Star (USA)", "Noobow (Japan)", "R-Type (USA, Europe)", "Taiyou no Yuusha - Fighbird GB (Japan)",
+
+		"Terminator 2 - Judgment Day (USA, Europe)"
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
 Bon jeux à vous!
 
 GohanSenior.
