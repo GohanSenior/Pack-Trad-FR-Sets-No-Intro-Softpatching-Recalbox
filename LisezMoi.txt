@@ -261,6 +261,14 @@ v1.5.0
 
 		"Terminator 2 - Judgment Day (USA, Europe)"
 
+v1.5.1
+
+	Satellaview:
+
+	- rajout du dossier et du patch:
+
+		"Treasure Conflix (Japan)"
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 Bon jeux à vous!
