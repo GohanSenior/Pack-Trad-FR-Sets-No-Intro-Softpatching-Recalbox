@@ -9,7 +9,7 @@ Pack non prévu pour l'utilisation de plusieurs patchs en même temps.
 
 Plus d'info sur le softpatching: https://wiki.recalbox.com/fr/basic-usage/features/softpatching
 
-		♡ Merci à toute l'épique de Recalbox sans qui rien ne serai possible. ♡
+		♡ Merci à toute l'équipe de Recalbox sans qui rien ne serai possible. ♡
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
