@@ -1,0 +1,119 @@
+25/12/2002
+
+TERMINUS TRADUCTION présente
+
+BS CHRONO TRIGGER MUSIC LIBRARY
+
+----------------------------------------------------------------
+***********************Table des matières***********************
+----------------------------------------------------------------
+
+1.	L'HISTOIRE DE CHRONO TRIGGER MUSIC LIBRARY
+2.      CONTENU DE L'ARCHIVE ET UTILISATION
+3.      LES PATCHS PUBLIES
+4.	TOUT CE QUI A ETE FAIT
+5.	L'ÉQUIPE DE LA TRADUCTION
+6.      CONTACTS
+7.	REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  L'HISTOIRE DE CHRONO TRIGGER MUSIC LIBRARY
+----------------------------------------------------------------
+
+Cette ROM est l'une de celles qui furent publiées au moyen du
+Satellaview Broadcasting System.
+
+Elle contient tous les thèmes musicaux du jeu Chrono Trigger,
+ainsi que deux inédits. Tous ces thèmes sont l'oeuvre de
+Yasunori Mitsuda et Nobuo Uematsu.
+
+Nous vous proposons ici deux versions de la traduction : l'une
+reprend les titres officiels des chansons en langue anglaise,
+tandis que l'autre les traduit en français.
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir :
+
+bsctmleng.ips - Le patch IPS de Chrono Trigger Music Library
+avec titres en anglais.
+bsctmlfr.ips - Le patch IPS de Chrono Trigger Music Library
+avec titres en français.
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Si vous utilisez ZSNES, vous pouvez renommer le patch du nom 
+de votre rom (bsctml.ips si votre rom s'appelle bsctml.smc), et 
+le patching sera automatique avec les dernières versions de 
+cet émulateur en le lançant.
+
+Dans tous les cas, l'utilisation du Terminus Patcher, qui est
+disponible sur notre site, vous permettra d'utiliser ce patch
+très facilement et quel que soit l'émulateur que vous utilisez.
+
+----------------------------------------------------------------
+3.  LES PATCHS PUBLIES
+----------------------------------------------------------------
+
+1.00 - 25/12/2002
+
+Patch final, traduisant les menus de la ROM et les titres des
+thèmes musicaux.
+
+----------------------------------------------------------------
+4.  TOUT CE QUI A ETE FAIT
+----------------------------------------------------------------
+
+Font      : 100 %
+Vwf       : 100 %
+Pointeurs : 100 %
+Textes    : 100 %
+
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+   Neo Mithrandil   : Chef du projet
+
+
+Remerciement à Copernic qui a créé la font utilisée pour ce
+patch lors de sa traduction de Chrono Trigger.
+
+----------------------------------------------------------------
+6.  CONTACTS
+----------------------------------------------------------------
+
+Une remarque, une question ou une correction à apporter à la
+traduction de BS Chrono Trigger Music Library.
+
+Neo Mithrandil - neo.mithrandil@laposte.net
+
+Vous voulez mieux connaître le groupe, télécharger nos derniers
+patchs ou vous renseigner sur un projet.
+
+Site Web - http://terminus.romhack.net
+
+----------------------------------------------------------------
+7.  REMARQUES LEGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de BS Chrono Trigger Music
+Library n'est pas officiel et n'est pas supporté par Squaresoft.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+Neo Mithrandil
