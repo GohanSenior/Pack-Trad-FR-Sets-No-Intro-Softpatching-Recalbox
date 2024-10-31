@@ -1,3 +1,6 @@
+
+![softpatching_recalbox](https://github.com/user-attachments/assets/573576f2-dbea-41dd-ab03-7fae07353810)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 Collection de 823 patchs de traduction FR pour Set No-Intro, préparée pour la fonctionnalité de softpatching de Recalbox.
