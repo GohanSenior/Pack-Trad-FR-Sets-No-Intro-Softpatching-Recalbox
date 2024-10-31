@@ -265,9 +265,9 @@ v1.5.1
 
 	Satellaview:
 
-	- rajout du dossier et du patch:
+	- rajout du dossier et des patchs:
 
-		"Treasure Conflix (Japan)"
+		"Treasure Conflix (Japan)", "Chrono Trigger - Music Library (Japan)"
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
