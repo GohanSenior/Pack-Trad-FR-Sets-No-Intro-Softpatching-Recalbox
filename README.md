@@ -3,7 +3,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-Collection de 823 patchs de traduction FR pour Set No-Intro, préparée pour la fonctionnalité de softpatching de Recalbox.
+Collection de 825 patchs de traduction FR pour Set No-Intro, préparée pour la fonctionnalité de softpatching de Recalbox.
 
 Pack non prévu pour l'utilisation de plusieurs patchs en même temps.
 
@@ -56,6 +56,7 @@ Contenu du pack:
 
 	Super Nintendo Entertainment System: 149 patchs		(testé sur Libretro Snes9x)
 
+	Satellaview: 2 patchs					(testé sur Libretro Snes9x)
 
 		*: certains patchs nécessitent un core different. (voir le fichier patch_fr_debug.txt pour les patchs concernés) 
 
@@ -70,6 +71,8 @@ Avertissements:
 		- Regarder dans le(s) fichier(s) .txt présent(s) dans chaque dossier.
 
 		- Voir sur https://traf.romhack.org/ sur la fiche du jeu.
+
+  		- Ouvrir un ticket ici: https://github.com/GohanSenior/Pack-TradFr-Sets-No-Intro-Softpatching-Recalbox/issues
 
 	- Je suis disponible sur le Discord Recalbox au pseudo GohanSenior pour toutes demandes, suggestions ou propositions. 
 
