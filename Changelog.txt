@@ -191,4 +191,9 @@ v1.5.1
 
 		"Treasure Conflix (Japan)", "Chrono Trigger - Music Library (Japan)"
 
+v1.5.2
+
+	- modification du fichier lisezmoi.txt en changelog.txt et suppression à l'intérieur de tout ce qui faisait doublon avec le README.md
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
