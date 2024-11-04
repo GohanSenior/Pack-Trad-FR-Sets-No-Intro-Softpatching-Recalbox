@@ -25,7 +25,7 @@
 
 - Choisir l'option SELECTIONNER dans: OPTIONS DES JEUX / SOFTPATCHING.
 
-- Au lancement du jeu, vous pourrez appliquer ou non le patch et choisir quand il y en a plusieurs de disponibles.
+- Au lancement du jeu, vous pourrez choisir quel patch à appliquer.
 
 - À vous les joies de découvrir pleins de nouveaux jeux !!!
 
