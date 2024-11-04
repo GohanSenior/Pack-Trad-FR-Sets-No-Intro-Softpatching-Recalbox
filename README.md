@@ -1,85 +1,72 @@
+[//]: <> (This readme is in the markdown format. Please preview in a markdown parser.)
 
 ![softpatching_recalbox](https://github.com/user-attachments/assets/573576f2-dbea-41dd-ab03-7fae07353810)
 
---------------------------------------------------------------------------------------------------------------------------------------------------
+## À propos:
 
-Collection de 825 patchs de traduction FR pour Set No-Intro, préparée pour la fonctionnalité de softpatching de Recalbox.
+### Collection de plus de 800 patchs de traduction FR, préparée pour la fonctionnalité de softpatching de Recalbox.
 
-Pack non prévu pour l'utilisation de plusieurs patchs en même temps.
+- Plus d'info sur Recalbox: https://www.recalbox.com/fr/
 
-Plus d'info sur le softpatching: https://wiki.recalbox.com/fr/basic-usage/features/softpatching
+- Plus d'info sur le softpatching: https://wiki.recalbox.com/fr/basic-usage/features/softpatching
 
-Vidéo de notre ami Fabrice sur le sujet. (Abonnez-vous):  https://youtu.be/z6rdZ0jpSvs?si=ZQ6eWgdMe-Me4O7T
+- Vidéo de notre ami Fabrice sur le sujet. (Abonnez-vous):  https://youtu.be/z6rdZ0jpSvs?si=ZQ6eWgdMe-Me4O7T
 
-		♡ Merci à toute l'équipe de Recalbox sans qui rien ne serai possible. ♡
+### Patchs récupérés sur: https://traf.romhack.org/
 
---------------------------------------------------------------------------------------------------------------------------------------------------
+- Je vous invite à aller sur le site les remercier, faire une demande sur un patch ou encore découvrir tout les autres patchs disponibles.
+  
 
-Patchs récupérés sur: https://traf.romhack.org/
+## ♡ Un grand merci à toute l'équipe de Recalbox, à traf.romhack.org et à tout les traducteurs ♡
 
-Je vous invite à aller sur le site les remercier, faire une demande sur un patch ou encore découvrir le monde de la traduction.
+## Utilisation:
 
-		♡ Un grand merci à eux et à tout les traducteurs pour leur immense travail. ♡
+- copier/coller chaque dossier de système désiré dans votre dossier SHARE/ROMS Recalbox.
 
--------------------------------------------------------------------------------------------------------------------------------------------------- 
+- Choisir l'option SELECTIONNER dans: OPTIONS DES JEUX / SOFTPATCHING.
 
-Utilisation:
+- Au lancement du jeu, vous pourrez appliquer ou non le patch et choisir quand il y en a plusieurs de disponibles.
 
-	- Sélectionner chaque dossier de système désiré, copier et coller les dans votre dossier SHARE/ROMS Recalbox.
+- À vous les joies de découvrir pleins de nouveaux jeux !!!
 
-	- Choisir l'option SELECTIONNER dans: OPTIONS DES JEUX / SOFTPATCHING.
+## Patchs pour:
 
-	- Au lancement du jeu, vous pourrez appliquer ou non le patch et choisir quand il y en a plusieurs de disponibles.
+- Famicom Disk System: 5 jeux (testé sur Libretro FCEUmm)
 
-	- À vous les joies de découvrir pleins de nouveaux jeux !!!
+- Gameboy: 117 jeux (Libretro Gambatte)*
 
+- Gameboy Color: 23 jeux (testé sur Libretro Gambatte)*
 
---------------------------------------------------------------------------------------------------------------------------------------------------
+- Gameboy Advance: 13 jeux (testé sur Libretro mGBA)*
 
-Contenu du pack:
+- Master System: 52 jeux (testé sur Libretro Gearsystem)
 
-	Famicom Disk System: 5 patchs				(testé sur Libretro FCEUmm)
+- Mega Drive: 121 jeux (testé sur Libretro Picodrive)
 
-	Gameboy: 117 patchs					(Libretro Gambatte)*
+- NEO·GEO Pocket Color: 2 jeux (testé sur Libretro Mednafen_WSWAN)
 
-	Gameboy Color: 23 patchs				(testé sur Libretro Gambatte)*
+- Nintendo 64: 4 jeux (testé sur Libretro Mupen64Plus NX)
 
-	Gameboy Advance: 13 patchs				(testé sur Libretro mGBA)*
+- Nintendo Entertainment System: 337 jeux (testé sur Libretro Nestopia)*
 
-	Master System: 52 patchs				(testé sur Libretro Gearsystem)
+- Super Nintendo Entertainment System: 149 jeux (testé sur Libretro Snes9x)
 
-	Mega Drive: 121 patchs					(testé sur Libretro Picodrive)
+- Satellaview: 2 jeux (testé sur Libretro Snes9x)
 
-	NEO·GEO Pocket Color: 2 patchs				(testé sur Libretro Mednafen_WSWAN)
+	*: certains patchs nécessitent un core different. (voir le fichier patch_fr_debug.txt pour les patchs concernés) 
 
-	Nintendo 64: 4 patchs					(testé sur Libretro Mupen64Plus NX)
+## Commentaires:
 
-	Nintendo Entertainment System: 337 patchs		(testé sur Libretro Nestopia)*
+- Pack pour sets No-Intro.
 
-	Super Nintendo Entertainment System: 149 patchs		(testé sur Libretro Snes9x)
+- Je garantie le bon lancement de tout les patchs avec les cores testés. Mais pas les bugs pouvant encore exister en jeu.
 
-	Satellaview: 2 patchs					(testé sur Libretro Snes9x)
+- Les fichiers readme.txt présents dans chaque dossier de patch ne sont là que pour les crédits ou informations.
 
-		*: certains patchs nécessitent un core different. (voir le fichier patch_fr_debug.txt pour les patchs concernés) 
+	(Quoi que demandé dans le fichier, aucune autre action ne vous est réquise).
 
---------------------------------------------------------------------------------------------------------------------------------------------------
+- Je suis disponible sur le Discord Recalbox au pseudo GohanSenior pour toutes demandes, suggestions ou propositions.
+  
+## Bon jeux à vous!
 
-Avertissements:
-
-	- Je garantie le bon lancement de tout les patchs avec les cores testés. Mais pas les bugs pouvant encore exister en jeu.
-
-	- Si vous constatez un patch non pris en charge, un jeu figé sur un écran noir ou tout autre bugs:
-
-		- Regarder dans le(s) fichier(s) .txt présent(s) dans chaque dossier.
-
-		- Voir sur https://traf.romhack.org/ sur la fiche du jeu.
-
-  		- Ouvrir un ticket ici: https://github.com/GohanSenior/Pack-TradFr-Sets-No-Intro-Softpatching-Recalbox/issues
-
-	- Je suis disponible sur le Discord Recalbox au pseudo GohanSenior pour toutes demandes, suggestions ou propositions. 
-
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-Bon jeux à vous!
-
-GohanSenior.
+### GohanSenior.
