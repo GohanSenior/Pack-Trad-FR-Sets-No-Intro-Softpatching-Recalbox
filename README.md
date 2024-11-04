@@ -17,7 +17,7 @@
 - Je vous invite à aller sur le site les remercier, faire une demande sur un patch ou encore découvrir tout les autres patchs disponibles.
   
 
-### ♡ Un grand merci à toute l'équipe de Recalbox, à traf.romhack.org et à tout les traducteurs ♡
+### ♡ Un grand merci à toute l'équipe de Recalbox, à traf.romhack.org et aux traducteurs ♡
 
 ## Utilisation:
 
