@@ -63,7 +63,7 @@
 
 - Les fichiers readme.txt présents dans chaque dossier de patch ne sont là que pour les crédits ou informations.
 
-	(Quoi que demandé dans le fichier, aucune autre action ne vous est réquise).
+	(Quoi que demandé dans le fichier, aucune autre action ne vous est requise).
 
 - Je suis disponible sur le Discord Recalbox au pseudo GohanSenior pour toutes demandes, suggestions ou propositions.
   
