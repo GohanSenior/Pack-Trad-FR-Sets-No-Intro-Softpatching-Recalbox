@@ -1,15 +1,15 @@
-TERMINUS TRADUCTION présente
+TERMINUS TRADUCTION prï¿½sente
 
 KWIRK - HE'S A-MAZE-ING!
 ----------------------------------------------------------------
-*******************Table des matières******************
+*******************Table des matiï¿½res******************
 ----------------------------------------------------------------
 
 1.    L'HISTOIRE DU JEU
 2.      CONTENU DE L'ARCHIVE ET UTILISATION
 3.    LES PATCHS PUBLIES
 4.      TOUT CE QUI A ETE FAIT
-5.    L'ÉQUIPE DE LA TRADUCTION
+5.    L'ï¿½QUIPE DE LA TRADUCTION
 6.      CONTACTS
 7.    REMARQUES LEGALES
 
@@ -19,9 +19,9 @@ KWIRK - HE'S A-MAZE-ING!
 
 Ce jeu de puzzle (connu sous le nom de "Puzzle Boy" au japon) est
 un des premiers titres du genre sortis sur la petite portable de
-Nintendo. Commme à l'accoutumée avec ce genre de jeu il ne faut
-pas s'attendre à des prouesses graphiques mais le concept du jeu
-est sympa et lui aura valu assez de succès pour connaître une
+Nintendo. Commme ï¿½ l'accoutumï¿½e avec ce genre de jeu il ne faut
+pas s'attendre ï¿½ des prouesses graphiques mais le concept du jeu
+est sympa et lui aura valu assez de succï¿½s pour connaï¿½tre une
 suite.
 
 ----------------------------------------------------------------
@@ -30,11 +30,11 @@ suite.
 
 Normalement, l'archive ZIP doit contenir :
 KwirkFr.ips  - Le patch IPS de Kwirk
-LisezMoi.txt - Le fichier que vous êtes en train de lire
+LisezMoi.txt - Le fichier que vous ï¿½tes en train de lire
 
 Pour utiliser cette traduction, il faut utiliser un PATCHEUR
 (le Patcheur Terminus par exemple).
-Ce patch est à utiliser avec la rom
+Ce patch est ï¿½ utiliser avec la rom
 Kwirk - He's A-maze-ing! (USA, Europe).gb
 
 ----------------------------------------------------------------
@@ -51,7 +51,7 @@ Script    :    100 %
 Graphismes:    100 %
 
 ----------------------------------------------------------------
-5.  L'ÉQUIPE DE LA TRADUCTION
+5.  L'ï¿½QUIPE DE LA TRADUCTION
 ----------------------------------------------------------------
 
 FlashPV : Hacking, Traduction
@@ -60,12 +60,12 @@ FlashPV : Hacking, Traduction
 6.  CONTACTS
 ----------------------------------------------------------------
 
-Une remarque, une question ou une correction à apporter à la
+Une remarque, une question ou une correction ï¿½ apporter ï¿½ la
 traduction de Kwirk.
 
 FlashPV - FlashPV@aol.com
 
-Vous voulez mieux connaître le groupe, télécharger nos derniers
+Vous voulez mieux connaï¿½tre le groupe, tï¿½lï¿½charger nos derniers
 patchs ou vous renseigner sur un projet.
 
 Site Web - http://terminus.romhack.net
@@ -74,23 +74,23 @@ Site Web - http://terminus.romhack.net
 7.  REMARQUES LEGALES
 ----------------------------------------------------------------
 
-Le patch de traduction française de Kwirk n'est pas officiel et
-n'est pas supporté par Akklaim, Atlus ou Nintendo.
+Le patch de traduction franï¿½aise de Kwirk n'est pas officiel et
+n'est pas supportï¿½ par Akklaim, Atlus ou Nintendo.
 
-Ce patch est gratuit et peut être distribué gratuitement tant 
-qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
-et que l'archive originale n'est pas modifiée non plus. Ni 
-argent, biens ou services ne peuvent être demandés pour ce 
-patch, dans sa forme originale ou appliquée.
+Ce patch est gratuit et peut ï¿½tre distribuï¿½ gratuitement tant 
+qu'il n'est pas modifiï¿½, appliquï¿½ ou distribuï¿½ avec une rom, 
+et que l'archive originale n'est pas modifiï¿½e non plus. Ni 
+argent, biens ou services ne peuvent ï¿½tre demandï¿½s pour ce 
+patch, dans sa forme originale ou appliquï¿½e.
 
-Tous ceux qui utilisent ce patch le font à leurs propres 
-risques. Aucune personne citée dans cette documentation ne 
-pourra être responsable de n'importe quels dommages 
+Tous ceux qui utilisent ce patch le font ï¿½ leurs propres 
+risques. Aucune personne citï¿½e dans cette documentation ne 
+pourra ï¿½tre responsable de n'importe quels dommages 
 provenant de son usage.
 
 ----------------------------------------------------------------
 
-Merci d'avoir lu jusqu'au bout et à bientôt !
+Merci d'avoir lu jusqu'au bout et ï¿½ bientï¿½t !
 
 FlashPV
 

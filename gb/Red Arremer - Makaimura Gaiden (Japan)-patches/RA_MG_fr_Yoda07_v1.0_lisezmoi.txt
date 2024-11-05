@@ -1,0 +1,96 @@
+﻿Gargoyle's Quest (Game Boy)
+Traduction en Français v1.0 (02/10/2024)
+
+-----------
+GENRE: ACTION RPG
+-----------
+Gargoyle's Quest (sous-titré Ghosts 'n Goblins), ou Red Arremer: Makaimura Gaiden au Japon, est un jeu vidéo de plates-formes 
+de la société japonaise Capcom, distribué en 1990 sur Game Boy.
+
+----------
+HISTOIRE
+----------
+Dans Gargoyle's Quest, le joueur incarne une gargouille nommée Firebrand (Red Arremer en version japonaise), créature ennemie
+du chevalier Arthur, héros de la série Ghosts 'n Goblins. Autrefois, une invasion dans le royaume des Goules par les Destructeurs 
+avait mis le pays à feu et à sang.
+
+Firebrand vit reclus dans une autre dimension lorsque des goules en peine viennent réclamer son aide. 
+En effet, le maléfique Breager est de retour et les Destructeurs attaquent de nouveau. 
+La seule solution réside en une vieille légende qui dit qu'un héros nommé « Red Blaze » trouvera le feu sacré et ramènera une nouvelle 
+fois la paix. Firebrand est alors appelé au secours pour trouver ce héros. Il se jette au travers du portail laissé ouvert par les envahisseurs. 
+
+
+------------------------
+CONTENU DE L'ARCHIVE ET UTILISATION
+------------------------
+Normalement, l'archive ZIP doit contenir:
+GQ_FR.ips - Le patch IPS de Darkwing Duck
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+comme LumarIPS.
+Ce patch est à utiliser avec la rom
+Red Arremer - Makaimura Gaiden (Japan).gb
+Taille: 131072 octets (128 KiB)
+CRC32: AE0122AA
+SHA256: 8003d6151ff5522616c3bc1c9e5029426a03a0680a1dfa0e197784c7822a86b4
+
+ROM patché:
+Taille: 262144 octets (256 KiB)
+CRC32: 304AFE26
+SHA256: 5caf22d228f0b31a18c222147d94671fe6eff9b38fcdae5c446aaefef46c17ce
+
+--------
+TRADUCTION
+--------
+menu: 100%
+script: 100%
+graphisme: 100%
+
+Equipe:
+Yoda07: traduction (menu, script, GFX (nouvelle écran titre), beta test et correction de divers bug.
+4PH: outils d'extraction et d'insertion du script.
+FlashPV: aide à la traduction Yes/No
+
+------------
+REMERCIMENTS
+------------
+La team de la traduction anglaise à partir de la version Japonaise:
+Credits go to:
+Pennywise - hacking, text editing
+catfoodmoney - translation
+Ryusui - additional Translation
+Tom - misc translation help
+FlashPV - title screen design
+harmony7 - special thanks
+cccmar - testing
+Xanathis - testing
+
+----------------------------------------------------------------
+CONTACTS
+----------------------------------------------------------------
+Une remarque, une question ou une correction à apporter à la
+traduction de Gargoyle's Quest.
+
+Yoda07 - juin-2010@hotmail.fr
+
+----------------------------------------------------------------
+REMARQUES LEGALES
+----------------------------------------------------------------
+Le patch de traduction française de Gargoyle's Quest n'est
+pas officiel et n'est pas supporté par Capcom ou Nintendo.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
