@@ -24,7 +24,7 @@
 
 - Au lancement du jeu, vous pourrez choisir quel patch à appliquer.
 
-- À vous les joies de découvrir pleins de nouveaux jeux !!!
+- À vous les joies de découvrir tout ces jeux en français!!!
 
 ## Comment lire le nom d'un patch:
 
