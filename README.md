@@ -24,7 +24,7 @@
 
 - Au lancement du jeu, vous pourrez choisir quel patch à appliquer.
 
-- À vous les joies de découvrir tout ces jeux en français!!!
+- À vous les joies de découvrir tout ces jeux, maintenant, en français!!!
 
 ## Comment lire le nom d'un patch:
 
@@ -32,27 +32,19 @@
 
 ## Patchs pour:
 
-- Famicom Disk System: 5 jeux (testé sur Libretro FCEUmm)
-
-- Gameboy: 117 jeux (Libretro Gambatte) :heavy_exclamation_mark:
-
-- Gameboy Color: 23 jeux (testé sur Libretro Gambatte) :heavy_exclamation_mark:
-
-- Gameboy Advance: 13 jeux (testé sur Libretro mGBA) :heavy_exclamation_mark:
-
-- Master System: 52 jeux (testé sur Libretro Gearsystem)
-
-- Mega Drive: 121 jeux (testé sur Libretro Picodrive) :heavy_exclamation_mark:
-
-- NEO·GEO Pocket Color: 2 jeux (testé sur Libretro Mednafen_WSWAN)
-
-- Nintendo 64: 4 jeux (testé sur Libretro Mupen64Plus NX)
-
-- Nintendo Entertainment System: 337 jeux (testé sur Libretro Nestopia) :heavy_exclamation_mark:
-
-- Super Nintendo Entertainment System: 149 jeux (testé sur Libretro Snes9x)
-
-- Satellaview: 2 jeux (testé sur Libretro Snes9x)
+| Nb Jeux | Systèmes | Cores testé |
+|:-------:|:--------:|:-----------:|
+| 5 | Famicom Disk System | Libretro FCEUmm |
+| 117 | Gameboy | Libretro Gambatte :heavy_exclamation_mark: | 
+| 23 | Gameboy Color | Libretro Gambatte :heavy_exclamation_mark: |
+| 13 | Gameboy Advance | Libretro mGBA :heavy_exclamation_mark: |
+| 52 | Master System | Libretro Gearsystem |
+| 121 | Mega Drive | Libretro Picodrive :heavy_exclamation_mark: |
+| 2 | NEO·GEO Pocket Color | Libretro Mednafen_WSWAN |
+| 4 | Nintendo 64 | Libretro Mupen64Plus NX |
+| 337 | Nintendo Entertainment System | Libretro Nestopia :heavy_exclamation_mark: |
+| 149 | Super Nintendo Entertainment System | Libretro Snes9x |
+| 2 | Satellaview | Libretro Snes9x |
 
 :heavy_exclamation_mark: Certains patchs nécessitent un core different que celui testé. (voir le fichier patch_fr_debug.txt pour les patchs concernés) 
 
