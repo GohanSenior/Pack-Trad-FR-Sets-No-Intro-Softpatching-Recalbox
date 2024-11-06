@@ -14,7 +14,7 @@
 
 - Patchs récupérés sur: [traf.romhack.org](https://traf.romhack.org/) et [romhacking.net](https://www.romhacking.net/)
 
->♡ Un grand merci à toute l'équipe de **Recalbox**, aux **sites hébergeurs** et aux **traducteurs** ♡
+>:heart: Un grand merci à toute l'équipe de **Recalbox**, aux **sites hébergeurs** et aux **traducteurs** :heart:
 
 ## Utilisation:
 
@@ -24,7 +24,7 @@
 
 - Au lancement du jeu, vous pourrez choisir quel patch à appliquer.
 
-- À vous les joies de découvrir tout ces jeux en français!!!
+- À vous les joies de découvrir tout ces jeux en français!!! :video_game:
 
 ## Comment lire le nom d'un patch:
 
@@ -34,27 +34,27 @@
 
 - Famicom Disk System: 5 jeux (testé sur Libretro FCEUmm)
 
-- Gameboy: 117 jeux (Libretro Gambatte)*
+- Gameboy: 117 jeux (Libretro Gambatte) :heavy_exclamation_mark:
 
-- Gameboy Color: 23 jeux (testé sur Libretro Gambatte)*
+- Gameboy Color: 23 jeux (testé sur Libretro Gambatte) :heavy_exclamation_mark:
 
-- Gameboy Advance: 13 jeux (testé sur Libretro mGBA)*
+- Gameboy Advance: 13 jeux (testé sur Libretro mGBA) :heavy_exclamation_mark:
 
 - Master System: 52 jeux (testé sur Libretro Gearsystem)
 
-- Mega Drive: 121 jeux (testé sur Libretro Picodrive)
+- Mega Drive: 121 jeux (testé sur Libretro Picodrive) :heavy_exclamation_mark:
 
 - NEO·GEO Pocket Color: 2 jeux (testé sur Libretro Mednafen_WSWAN)
 
 - Nintendo 64: 4 jeux (testé sur Libretro Mupen64Plus NX)
 
-- Nintendo Entertainment System: 337 jeux (testé sur Libretro Nestopia)*
+- Nintendo Entertainment System: 337 jeux (testé sur Libretro Nestopia) :heavy_exclamation_mark:
 
 - Super Nintendo Entertainment System: 149 jeux (testé sur Libretro Snes9x)
 
 - Satellaview: 2 jeux (testé sur Libretro Snes9x)
 
-	*: certains patchs nécessitent un core different. (voir le fichier patch_fr_debug.txt pour les patchs concernés) 
+:heavy_exclamation_mark: Certains patchs nécessitent un core different que celui testé. (voir le fichier patch_fr_debug.txt pour les patchs concernés) 
 
 ## Commentaires:
 
@@ -64,9 +64,9 @@
 
 - Les fichiers "lisezmoi.txt" présents dans chaque dossier de patch ne sont là qu'à titre informatif.
 
-	(Quoi que demandé dans le fichier, aucune autre action ne vous est requise).
+  :warning: **Quoi que demandé dans le fichier, aucune autre action ne vous est requise**. :warning:
 
-- Je suis disponible sur le Discord Recalbox au pseudo GohanSenior pour toutes demandes, suggestions ou propositions.
+- Je suis disponible sur le [Discord Recalbox](https://discordapp.com/invite/HKg3mZG) au pseudo **GohanSenior** pour toutes demandes ou propositions.
   
 ## Bon jeux à vous!
 
