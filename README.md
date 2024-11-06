@@ -24,7 +24,7 @@
 
 - Au lancement du jeu, vous pourrez choisir quel patch à appliquer.
 
-- À vous les joies de découvrir tout ces jeux en français!!! :video_game:
+- À vous les joies de découvrir tout ces jeux en français!!!
 
 ## Comment lire le nom d'un patch:
 
@@ -68,6 +68,6 @@
 
 - Je suis disponible sur le [Discord Recalbox](https://discordapp.com/invite/HKg3mZG) au pseudo **GohanSenior** pour toutes demandes ou propositions.
   
-## Bon jeux à vous!
+# :video_game: Bons jeux à vous! :round_pushpin:
 
-### GohanSenior.
+## GohanSenior.
