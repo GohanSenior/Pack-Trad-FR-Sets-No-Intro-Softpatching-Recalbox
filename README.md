@@ -20,7 +20,7 @@
 
 - **copier/coller** chaque dossier de système désiré dans votre dossier **SHARE/ROMS** Recalbox.
 
-- Choisir l'option **SELECTIONNER** dans: **OPTIONS DES JEUX / SOFTPATCHING**.
+- Choisir l'option **SELECTIONNER** dans **OPTIONS DES JEUX / SOFTPATCHING**.
 
 - Au lancement du jeu, vous pourrez choisir quel patch à appliquer.
 
