@@ -1,0 +1,54 @@
+
+         M.U.S.H.A version Fran�aise avec Accents 100% termin�
+
+
+Merci � Floflo (http://www.multimania.com/floflostraduc/)
+pour ses explications et son aide � l'insertion des accents :)
+
+n�c�ssite la rom US (M.U.S.H.A).
+______________________________________________
+2000 - byblo
+mail : navyl@skynet.be
+ce fichier provient du Complete Aleste Shrine
+               http://users.skynet.be/ALESTE/
+
+NOTE: ne virez pas ce fichier d'explication si vous diffusez ce patch, svp.
+
+----------------------------------------------------------------------------------------------
+
+          /���������������������������������������\
+          |         Note de la T.R.A.F.           |
+          |                                       |
+          |       Traduction de M.U.S.H.A         |
+          |                                       |
+          |                Byblo                  |
+          \_______________________________________/
+
+
+- Edition du 12/10/2006
+
+L'�quipe de la TRAF, pour vous faciliter le travail, vous a pr�par�
+un patch directement applicable sur la ROM M.U.S.H.A (U) [!].bin issue
+du GoodGen. Nous n'avons pas touch� � un seul des octets de la
+traduction de Byblo. Il ne s'agit que d'une convertion.
+
+MUSHA_FR.IPS est le patch original cr�� par Byblo.
+MUSHA_BIN_FR.IPS est le patch cr�� par la T.R.A.F
+
+
+- Note du 10/10/2006
+
+Avant d'appliquer ce patch, vous devez convertir la ROM du GoodGen,
+M.U.S.H.A (U) [!].bin, au format SMD. Pour cela, vous pouvez utiliser
+le logiciel ROM Converter disponible sur la TRAF.
+
+Vous pourrez ensuite appliquer le patch MUSHA_FR.ips � la ROM
+M.U.S.H.A (U) [!].smd ainsi cr��e. Cette ROM devrait fonctionner avec
+n'importe quel �mulateur. Si jamais ce n'est pas le cas, utilisez
+ROM Converter pour retransformet la ROM au format BIN.
+
+
+
+
+-- L'�quipe de la T.R.A.F. --
+   http://traf.romhack.org

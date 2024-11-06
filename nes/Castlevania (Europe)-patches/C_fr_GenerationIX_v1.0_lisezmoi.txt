@@ -1,0 +1,106 @@
+
+
+				Baha et GreatSkaori
+
+				      présentent :
+
+		En exclusivité pour Génération IX (http://generation9.uhrft.org)
+
+				C a s t l e v a n i a
+
+
+
+
+Nom du jeu : Castlevania / Akamajô Dracula
+Développeur : Konami
+Année de sortie : 1988
+Plate-forme : Nes
+Type : Chasseur de vampire en 2D
+
+
+
+Sommaire
+
+--Carnet de bord du Capitaine
+--Quelle drôle d'idée
+--Versions du patch
+--Bugs Connus
+--Générique de fin
+--En cas de pépin
+
+
+
+-- Carnet de bord du Capitaine : Jeudi 19 Juin 2003
+
+
+
+Vous venez de télécharger le fichier zip de traduction de Castlevania sur nes.
+Ce fichier zip contient 3 fichiers, dont un que vous êtes en train de lire actuellement, malgré
+son titre, vous êtes une personne sage et ça nous plaît!
+
+Les deux autres fichiers sont des patchs ips, un pour la version "E" du jeu, l'autre pour la version "J".
+
+Quelle différence?
+
+La version Japonaise a un titre plus joli et propose un choix de difficulté quand on commence.
+Sinon les deux jeux restent identiques. Vu que la traduction a été la plus courte jamais réalisée, on
+s'est dit qu'on pourrait tout aussi bien faire un patch pour les deux jeux.
+
+
+
+--Quelle drôle d'idée
+
+Au mois de novembre 2002, lex a débarqué sur le forum et il travaillait sur Castlevania 3. On est vite
+entrés en contact et on a fait le jeu à deux. Quelques temps après il a intégré le groupe. Et j'avais,
+sur mon disque dur la traduction de Castlevania 2 sur nes qui traînait depuis quelques mois et qui
+attendaient désespérement le retour de metallines et/ou de kAiNz. Lex a bien voulu reprendre le tout.
+On allait donc avoir Castlevania 2 et 3. Alors pourquoi ne pas faire le 1?
+Lex n'était pas tellement emballé, alors Baha est arrivé avec sa grande épée et il a proposé de le faire.
+
+Comme vous le savez peut-être ... il n'y a aucun dialogue dans ce jeu. Juste un petit menu en haut
+de l'écran avec 4 mots qui se baladent... Et un staff complètement tordu à la fin. Alors on a traduit
+le 4 mots qui se couraient après, l'écran titre et le staff...
+Seulement, ce staff était complètement farfelu. Avec des noms comme Vram Stoker ou encore
+Christopher Bee. Alors, pour rire, on a un peu changé tout ça...
+Mes sincères excuses à tout le monde :D
+
+
+
+-- Versions du patch :
+
+-> Version Finale du 19 Juin 2003
+
+Tout a été fait.
+
+Utilisez le patch "Castlevania 1 (E) v2.ips" sur la rom "Castlevania (E).nes".
+
+Utilisez le patch "Castlevania 1 (J) v2.ips" sur la rom "Akumajou Dracula (J).nes".
+
+
+-- Bugs Connus
+
+Aucuns à notre connaissance
+
+
+
+-- Générique de fin
+
+Au hacking : Baha
+A la trad : GreatSkaori
+Assistant trads foireuses : Baha
+Au béta-test : Baha, GreatSkaori
+
+
+
+-- En cas de pépin
+
+On ne sait jamais, y a toujours un truc qui tourne pas rond, alors n'hésitez pas à nous
+contacter via le forum ( http://forum.bessab.net/viewforum.php?f=12 )
+Ou par mail :
+
+Baha : DragonBahamuth23@hotmail.com
+GreatSkaori : GreatSkaori arobase yahoo point com
+
+Le nom de ce fichier texte est (C) Dark Schneider ^__^
+
+http://generation9.uhrft.org

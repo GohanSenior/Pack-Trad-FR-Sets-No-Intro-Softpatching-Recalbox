@@ -1,0 +1,90 @@
+King`s Knight Traduction en Français Version 1.0 finale ,par Wild Ham
+visitez mon sites à 
+http://www.squareplanet.net/Airship/traf/main.html
+
+
+1.Quoi de neuf?
+
+2.Jusqu`a maintenant...
+
+3.Il reste quoi?
+
+4.Comment utiliser l`IPS patch
+
+5.Autres traductions.
+
+6.Voulez vous vous joindre?
+
+
+-----------------------------------------------------------------
+
+1.Quoi de neuf?
+
+----
+Version 1.0 Finale (04/23/98)
+
+-Première sortie!
+
+-100% de traduit!
+
+------------------------------------------------------------------
+2.Jusqu`a maintenant...
+
+-Tout (100%)
+
+---------------------------------------------------------------------
+3.Il reste quoi?
+
+-Rien!
+
+-----------------------------------------------------------------------
+
+4.Comment utiliser l`IPS patch
+
+Premièrement unzippez tous les fichiers dans le même dossier (Assurez-vous 
+que le ROM King`s Knight est dans le même répertoire et sous le nom de
+kingk.nes).
+Après actionnez (Double-click) le fichiers kingkf.bat, lorsque c`est finis
+retrouvez le fichiers kingk.nes qui est maintenant en français.
+Maintenant, plus qu`a l`utiliser sur votre émulateur favoris.
+
+--------------------------------------------------------------------
+
+5.Traductions disponible chez le même traducteur:
+
+-Final Fantasy (NES) Version 2.1 Finale
+
+-Final Fantasy Legend (GB) Version 1.0 
+
+-Zelda II: The Adventure of Link (NES) Version 1.1 Finale
+
+-Final Fantasy II (SNES) Version 1.8
+
+
+Fait par d`autres traducteurs:
+
+-Final Fantasy III (SNES) version 0.3 par Hacking Moogles
+
+-Final Fantasy V (SNES) version 0.1 par Hacking Moogles
+
+-Chrono Trigger (SNES) par Pronia Software
+
+-Super Mario Bros 3 (NES) par Pronia Software
+
+-Zelda: Link`s Awakening (GB) par Pronia Software
+
+-Punch Out (NES) par Malex
+
+-Et encore plus... 
+----------------------------------------------------------------------
+6. Voulez-vous passer un commentaire? M`engeuler? Me niaiser? Me 
+   dire que vous voulez que je traduise un autre jeux?
+
+Si oui,contactez-moi à "wildh@usa.net", aussi si vous avez vos propre
+traductions, je me ferais un plaisir de les publiers.
+
+S.V.P. contactez-moi lorsque vous trouvez un bug ou une erreure de 
+traduction.
+
+
+						Merci!

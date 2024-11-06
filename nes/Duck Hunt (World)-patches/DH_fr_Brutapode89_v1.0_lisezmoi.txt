@@ -1,0 +1,12 @@
+﻿Le patch français de Duck Hunt sorti à Noël 2022 n'est plus une beta.
+
+Version 1.0 :
+
+- HIT en bas de l'écran a été traduit, cette fois-ci.
+
+- Quelques trucs ont été changés.
+
+
+Le patch doit être appliqué sur la ROM Duck Hunt (W) [!].nes
+
+Bon jeu !

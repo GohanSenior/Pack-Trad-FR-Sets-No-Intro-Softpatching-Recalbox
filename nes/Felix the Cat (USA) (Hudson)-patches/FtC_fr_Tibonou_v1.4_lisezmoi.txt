@@ -1,0 +1,30 @@
+FELIX THE CAT - Version 1.4 FR - By Tibonou
+
+============================================
+
+Le fichier "felix14.ips" est un patch pour
+traduire en français le jeu NES "Felix the Cat".
+
+============================================
+
+Le patch traduit le jeu en totalité, à 100%.
+
+
+============================================
+
+Ce patch est à appliquer directement sur la
+rom "Felix the Cat [U].nes" à l'aide d'un
+patcheur, il y en a plein sur le site de la TRAF.
+
+============================================
+
+Si vous rencontrez des bugs, ou autre problème,
+merci de m'en faire part à l'adresse suivante:
+tibonou@free.fr
+
+============================================
+
+Merci à Ti Dragon pour ses retours et conseils.
+
+Merci à BahaBulle qui m'a bien aidé pour la
+traduction de l'écran titre.

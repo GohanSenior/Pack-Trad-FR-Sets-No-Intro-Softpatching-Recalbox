@@ -1,0 +1,87 @@
+Akumajou Densetsu (Castlevania 3) : traduction française
+Version 1.0
+
+
+
+
+Pourquoi traduire Akumajou Densetsu ? 
+-------------------------------------
+(et non pas directement la version US de Castlevania 3 )
+
+Tout simplement car le jeu japonais est supérieur à 
+son homologue américain.
+
+En plus d'une difficulté mieux dosée, la cartouche possédait un 
+chip spécial (le VCR6) qui lui offrait des améliorations graphiques
+par endroits, et surtout des musiques de bien meilleure qualité sonore
+(certaines ont d'ailleurs émigré dans le récent Circle of the Moon). 
+Et l'on connait l'importance des musiques dans les jeux Castlevania.
+
+Si la cartouche n'était pas émulée il y a quelques années 
+(à cause du chip), ce n'est plus le cas aujourd'hui. 
+Des émulateurs comme Virtuanes la font tourner parfaitement.
+
+En bref, ce patch permet de redécouvrir le vrai Castlevania 3.
+
+Plus d'infos sur Castlevania sur http://www.classicgaming.com/castlevania/
+
+
+Soud Test
+---------
+Pour accéder au sound test appuyer sur A+start à l'écran titre
+(lorsqu'il y a le choix de débuter le jeu ou de rentrer un password)
+
+
+
+
+Sur quelle ROM appliquer le patch ?
+-----------------------------------
+
+Il faut au préalable avoir
+une ROM japonaise Akumajou Densetsu 
+
+si ça ne fonctionne pas, 
+essayez une autre version de la ROM
+(il existe des versions de 384k et de 512k)
+
+
+
+
+
+Ont travaillé sur ce projet ?
+-----------------------------
+ 
+Lex = romhacking basé sur le patch de David Mullen & Duke Serkol
+      traduction
+
+GreatSkaori = traduction
+ 
+
+
+Amélioration possible
+---------------------
+
+Cette traduction est basée sur le script US.
+Une traduction à partir du script japonais est à envisager.
+(si quelqu'un est motivé ...)
+
+
+
+Remerciements
+-------------
+
+David Mullen & Duke Serkol - c'est leur patch US qui m'a fait 
+découvrir les différences entre les versions de Castlevania 3
+
+GreatSkaori - Pour sa participation
+
+
+
+Contact
+-------
+
+remarques, bugs, etc. - a_riv777@yahoo.fr
+
+
+*********************************************************************
+Lex 18-11-2002
