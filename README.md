@@ -6,18 +6,15 @@
 
 ### Collection de plus de 800 patchs de traduction FR, préparée pour la fonctionnalité de softpatching de Recalbox.
 
-- Plus d'info sur Recalbox: https://www.recalbox.com/fr/
+- Plus d'info sur [Recalbox](https://www.recalbox.com/fr/ "recalbox.com")
 
-- Plus d'info sur le softpatching: https://wiki.recalbox.com/fr/basic-usage/features/softpatching
+- Plus d'info sur le [softpatching](https://wiki.recalbox.com/fr/basic-usage/features/softpatching "wiki.recalbox.com")
 
-- Vidéo de notre ami Fabrice sur le sujet. (Abonnez-vous):  https://youtu.be/z6rdZ0jpSvs?si=ZQ6eWgdMe-Me4O7T
+- Vidéo de notre ami Fabrice sur le sujet. [Abonnez-vous!](https://youtu.be/z6rdZ0jpSvs?si=ZQ6eWgdMe-Me4O7T "Chaine Youtube Recalbox")
 
-### Patchs récupérés sur: https://traf.romhack.org/
+- Patchs récupérés sur: [traf.romhack.org](https://traf.romhack.org/) et [romhacking.net](https://www.romhacking.net/)
 
-- Je vous invite à aller sur le site les remercier, faire une demande sur un patch ou encore découvrir tout les autres patchs disponibles.
-  
-
-### ♡ Un grand merci à toute l'équipe de Recalbox, à traf.romhack.org et aux traducteurs ♡
+>♡ Un grand merci à toute l'équipe de **Recalbox**, aux **sites hébergeurs** et aux **traducteurs** ♡
 
 ## Utilisation:
 
@@ -28,6 +25,10 @@
 - Au lancement du jeu, vous pourrez choisir quel patch à appliquer.
 
 - À vous les joies de découvrir pleins de nouveaux jeux !!!
+
+## Comment lire le nom d'un patch:
+
+- NomduJeu_langue_Auteur_version_info_supplémentaire (NdJ_fr_GohanSenior_v1.0_super_pack)
 
 ## Patchs pour:
 
@@ -61,7 +62,7 @@
 
 - Je garantie le bon lancement de tout les patchs avec les cores testés. Mais pas les bugs pouvant encore exister en jeu.
 
-- Les fichiers readme.txt présents dans chaque dossier de patch ne sont là que pour les crédits ou informations.
+- Les fichiers "lisezmoi.txt" présents dans chaque dossier de patch ne sont là qu'à titre informatif.
 
 	(Quoi que demandé dans le fichier, aucune autre action ne vous est requise).
 
