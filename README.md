@@ -2,9 +2,9 @@
 
 ![softpatching_recalbox](https://github.com/user-attachments/assets/573576f2-dbea-41dd-ab03-7fae07353810)
 
-## À propos':'
+## À propos:
 
-### Collection de plus de 800 patchs de traduction FR, préparée pour la fonctionnalité de softpatching de Recalbox'.'
+### Collection de plus de 800 patchs de traduction FR, préparée pour la fonctionnalité de softpatching de Recalbox.
 
 - Plus d'info sur [Recalbox](https://www.recalbox.com/fr/ "recalbox.com")
 
@@ -16,7 +16,7 @@
 
 >:heart: Un grand merci à toute l'équipe de **Recalbox**, aux **sites hébergeurs** et aux **traducteurs** :heart:
 
-## Utilisation':'
+## Utilisation:
 
 - **copier/coller** chaque dossier de système désiré dans votre dossier **SHARE/ROMS** Recalbox.
 
@@ -26,11 +26,11 @@
 
 - À vous les joies de découvrir tout ces jeux, maintenant, en français!!!
 
-## Comment lire le nom d'un patch':'
+## Comment lire le nom d'un patch:
 
-- NomduJeu_langue_Auteur_version_info_supplémentaire (NdJ_fr_GohanSenior_v1.0_super_pack)
+- NomduJeu_langue_Auteur_version_info_supplémentaire (ex: NdJ_fr_GohanSenior_v1.0_super_pack)
 
-## Patchs pour':'
+## Patchs pour:
 
 | Nb Jeux | Systèmes | Cores testé |
 |:-------:|:--------:|:-----------:|
@@ -48,7 +48,7 @@
 
 :heavy_exclamation_mark: Certains patchs nécessitent un core different que celui testé. (voir le fichier patch_fr_debug.txt pour les patchs concernés)
 
-## Commentaires':'
+## Commentaires:
 
 - Pack pour sets No-Intro.
 
