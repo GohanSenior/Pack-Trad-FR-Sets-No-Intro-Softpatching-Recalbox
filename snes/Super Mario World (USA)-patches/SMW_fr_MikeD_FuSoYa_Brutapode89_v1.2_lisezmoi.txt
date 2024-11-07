@@ -1,0 +1,79 @@
+﻿***** LE PATCH *****
+
+----- Utilisation -----
+Ce patch gratuit et non officiel propose de découvrir une alternative française aux dialogues anglais de la cartouche de votre jeu original.
+À appliquer sur le fichier image :
+Super Mario World (U) [!].smc SANS HEADER
+CRC32 de la rom : B19ED489
+
+Pour voir le CRC32 d'un fichier, vous pouvez installer 7-Zip puis clic droit sur le fichier et CRC SHA > CRC32.
+Pour utiliser le patch, vous pouvez par exemple utiliser Lunar IPS disponible ici :
+https://traf.romhack.org/?p=outils&oid=151
+
+CRC32 de la rom après patch: F06D0514
+Le checksum restera bon après patchage de la rom.
+
+----- Remerciements & Questions -----
+Vous pouvez m'écrire en laissant un message sur ce sujet du forum :
+https://www.romhack.org/viewtopic.php?f=43&t=4225
+
+
+
+***** LE JEU *****
+
+----- Série Mario -----
+On ne présente plus les aventures du célèbre plombier. Ce jeu est le quatrième de Nintendo après 3 jeux sur la Nes. Il introduit le mémorable et important personnage de Yoshi qui change bien des choses dans le ressenti du jeu.
+
+----- Pièces Dragon -----
+Pièces à l'image de l'ami Yoshi : les pièces Dragon. Où les trouver ?
+Yoshi absent des manoirs ou châteaux, il n'y a pas de pièces Dragon en ces lieux.
+Elles sont absentes aussi des zones secrètes des portes Etoile dans les niveaux 2, 3, 4 et 5, mais aussi du niveau 1 de la Forêt Illusion et du niveau 4 de la Vallée de Bowser. Une seule pièce se trouve dans le niveau secret de l'Île Chocolat.
+
+----- Pommes -----
+10 pommes rouges = 1 champignon
+ 2 pommes rosées = 1 nuage secret
+ 1 pomme  verte  = + de temps :-)
+
+----- Lunes -----
+Il existe 7 lunes dans le jeu. :-)
+bonne découverte !
+
+
+
+***** LES TRAVAUX ANGLOPHONES *****
+
+----- Messages dans le jeu -----
+L'écriture des messages est plutôt hétérogène.
+Si les boîtes de dialogues ont juste un code différent de l'ASCII, les messages des boss et le nom des niveaux pour la carte sont plus complexes à décrypter.
+Un grand merci à FUSOYA pour le logiciel Lunar Magic qui permet de faire facilement les modifications.
+
+----- Graphismes -----
+Les graphismes sont généralement compressés.
+Le logiciel Lunar Magic permet la compression/réintégration des éléments à traduire. Un grand merci à FUSOYA à nouveau.
+
+
+***** LES TRAVAUX FRANCOPHONES *****
+
+----- Messages dans le jeu -----
+100 noms de niveaux sur la carte (fidèlement repris de la VF de Super Mario Advance 2 sur Game Boy Advance)
+25 boîtes d'aide, trucs & astuces
+8 messages de fin de châteaux
+
+----- Graphismes -----
+lettres accentuées (é, ê, è, â, à, ô, ù)
+Nintendo présente (intro)
+Temps (écran)
+Merci (châteaux)
+Sortie (maisons fantômes)
+Tu es un super joueur !! (dernier niveau monde Etoile)
+
+----- Ecrits spéciaux -----
+menus pour lancer un jeu, effacer un jeu, choisir le mode joueur, sauvegarder
+message de fin
+générique programmeurs
+
+-----   Version 1.1   -----
+message de fin modifié
+
+-----   Version 1.2   -----
+Dialogues modifiées (Presque fidèlement repris de la VF de Super Mario Advance 2 sur Game Boy Advance mais avec du tutoiement à la place du vouvoiement (vousoiement en Suisse romande)).

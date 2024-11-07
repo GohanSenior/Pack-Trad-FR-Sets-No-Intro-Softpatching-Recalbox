@@ -1,0 +1,28 @@
+POWER BLADE 2
+Ce patch traduit le jeu a 99% (Terminé)
+----------------------------------------------------------------------
+Voici ce qui est traduit:
+- Les dialogues et les statuts de Nova
+----------------------------------------------------------------------
+Fichier IPS et traduction par YFO6 TRADUC
+http://yf06traduc.consolemul.com
+----------------------------------------------------------------------
+Notes:
+
+- Quand vous verrez des passages étroits, essayez de vous y-glisser
+en faisant la manipulation suivante: Bas + A
+Cette technique sera vitale contre certains boss !.
+
+- Si vous récupérez des armures (contre les mini-boss dragon), vous
+pourrez les utiliser et mettant la pause et en séléctionnant de haut
+en bas... Relachez la pause et Nova aura l'armure que vous avez 
+choisi ! 
+(ATTENTION, n'oubliez pas de récupérer des batteries et des petites 
+bouteilles pour recharger les armures !)
+
+- Dernière chose: Quand votre niveau d'énergie est bas, vous pouvez
+en récupérer si vous utilisez les boites de conserves que vous 
+récolterez en chemin (SELECT + Bas pour utiliser)
+----------------------------------------------------------------------
+Pour appliquer ce patch vous aurez besoin du programme Patcheur Arkana
+

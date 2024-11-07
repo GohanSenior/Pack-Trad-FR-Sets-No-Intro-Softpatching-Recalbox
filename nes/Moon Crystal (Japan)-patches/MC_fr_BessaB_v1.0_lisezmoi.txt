@@ -1,0 +1,69 @@
+         ________					   ________
+        /¯¯¯¯¯¯¯¯\					  /¯¯¯¯¯¯¯¯\
+       /   _     /	÷¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨/   _     /¨¨¨¨¨¨÷
+      /   /_/   / /¯¯¯¯¯\  /¯¯¯¯¯\ /¯¯¯¯¯\  /¯¯¯¯¯\/¯¯\ /   /¯/   /       ÷
+     /     ¯   / /  __   \/   ___//   ___/ /          //     ¯   /        ÷
+    /   ___    \/  /__/  /   /__ /   /    /   /¯¯/   //   ___    \        ÷
+   /   /¯¯¯/   /        /\___   \\___ ¯¯\/   /  /   //   /¯¯¯/   /        ÷
+  /   /___/   /   /¯¯¯¯¯    /   /   /   /   /  /   //   /___/   /         ÷
+ /     ¯¯¯   /\   ¯¯¯¯¯¯\¯¯¯   /¯¯¯¯   /\   ¯¯¯   //     ¯¯¯   /          ÷
+/___________/  \________/_____/_______/  \___/\____/__________/©          ÷
+ ¯¯¯¯¯¯¯¯¯¯¯    ¯¯¯¯¯¯¯¯÷¯¯¯¯¯ ¯¯¯¯¯¯¯    ¯¯¯  ¯¯¯¯ ¯¯¯¯¯¯¯¯¯¯            ÷
+                        ÷     Traduction de roms en Français              ÷
+                         ¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨ 
+         	 BessaB: http://www.bessab.go.to
+		           bessab@francemail.com
+
+		 	 
+		        /""""""""""""""""""""""""\ 
+                       |       Moon Crystal       |
+                        \......................../
+
+                           _Créé par Hector en 1992__
+		           Traduit en Anglais par AWJ
+	                   ¯¯¯¯¯¯¯¯Aventure¯¯¯¯¯¯¯¯¯¯
+			           ¯¯¯¯¯¯¯¯
+
+
+Ver 1.00 final_______8 septembre 2000____________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+	IMPORTANT: IL EXISTE DEUX PATCHS DE NOTRE TRADUCTION. VERIFIEZ BIEN LA VERSION DE LA ROM
+	---------  DE MOON CRYSTAL, AVANT DE LA PATCHER!!!
+	
+	Etat: 100% traduit
+	¯¯¯¯¯
+
+	Nouveautés par rapport à la version 0.99 beta:
+	¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+			- Un petit bug d'affichage dans l'intro corrigé (merci AWJ!!!)
+			- Traduction du mot Enemy (désolé, c'était un oubli).
+
+	Sur le projet
+	¯¯¯¯¯¯¯¯¯¯¯¯¯
+	Biglo => Traducteur, Rom-hackeur et beta-testeur
+
+
+Comment appliquer le patch ?
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Tout d'abord, munissez-vous de la rom Moon Crystal (la rom japonaise est disponible sur
+notre site). Vérifier bien la version de la rom. Elle doit être la version jap ou la version
+anglaise (traduite par AWJ). Si ce n'est pas le cas, vous risquerez d'avoir des problèmes
+avec notre traduction.
+
+Copiez dans le même dossier: la rom, IPS.EXE et le patch adéquat en fonction de la version de
+votre rom. Ouvrez une fenêtre dos, déplacez-vous dans le bon répertoire à l'aide de la fonction
+CD. Ensuite, tapez ips.exe nomdevotrerom.nes nomdupatch.ips. Si vous n'arrivez pas, nommez
+votre rom moon.nes et lancez moonfrj.bat (pour la version jap) ou moonfre (version anglaise).
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Cette traduction est gratuite et ne peut en aucun car être vendue. Elle ne peut
+non plus être modifiée sans l'accord de ses traducteurs. Tous les nouveaux patchs
+seront disponibles sur: 
+
+- BessaB: http://bessab.emuplayer.com
+- SGC: http://sgc.emu2k.com
+- Consolemul: http://www.consolemul.com
+- Zophar Domain: http://www.zophar.net
+- RCRoms: http://www.rcroms.com
+- T.R.A.F: http://traf.romhack.net______________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯     

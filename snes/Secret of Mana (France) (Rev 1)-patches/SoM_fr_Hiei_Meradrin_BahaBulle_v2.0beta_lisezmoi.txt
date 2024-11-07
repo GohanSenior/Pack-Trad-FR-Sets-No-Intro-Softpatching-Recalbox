@@ -1,0 +1,342 @@
+25/12/2011
+
+RETRADUCTION DE SECRET OF MANA (VERSION 1.0)
+
+----------------------------------------------------------------
+***********************Table des matières***********************
+----------------------------------------------------------------
+
+1.	L'HISTOIRE DE SECRET OF MANA
+2.	L'HISTORIQUE DE LA RETRADUCTION
+3.	CONTENU DU PATCH ET UTILISATION
+4.	LES PATCHS PUBLIÉS
+5.	TOUT CE QUI A ETE FAIT
+6.	BUGS CONNUS
+7.	L'EQUIPE DE LA RETRADUCTION
+8.	CONTACTS
+9.	REMARQUES LÉGALES
+
+----------------------------------------------------------------
+1.  L'HISTOIRE DE SECRET OF MANA
+----------------------------------------------------------------
+
+"Secret of Mana", intitulé Seiken Densetsu 2 (« La légende de
+l’épée sacrée 2 ») au Japon, est un jeu vidéo développé et édité
+par l'entreprise japonaise Square (édité par Nintendo en Europe).
+
+Il s’agit d’un jeu de rôle de type Action-RPG, sorti sur
+"Super Nintendo" en 1993 au Japon et en Amérique du Nord,
+puis en 1994 en Europe.
+
+Il constitue le second opus de la série de jeux vidéo
+"Seiken densetsu". Le premier épisode, sorti sur Game Boy en 1991,
+a été renommé "Mystic Quest" sur le marché occidental.
+
+Le jeu combine des éléments de jeu de rôle, comme l’évolution des
+personnages avec une action soutenue et des combats en temps réel.
+
+Il est également notable pour offrir la possibilité de jouer
+en coopératif à trois joueurs simultanément et pour avoir été
+l'un des premiers jeux du genre à être traduit en français.
+
+Important succès critique et commercial, Secret of Mana s’est vendu
+à plus de 1,8 million d’exemplaires à travers le monde, et est
+considéré comme l’un des plus grands jeux de l’histoire du jeu vidéo.
+
+Il a été réédité sur la "Console virtuelle" de la "Wii" en 2008,
+sur téléphone portable au Japon, et débarque en 2010 sur l'Apple Store.
+
+(Source : Wikipédia)
+
+http://download.abandonware.org/magazines/Joypad/joypad_numero036/Joypad%20036%20-%20Page%20128%20(1994-11).jpg
+http://download.abandonware.org/magazines/Joypad/joypad_numero036/Joypad%20036%20-%20Page%20129%20(1994-11).jpg
+http://download.abandonware.org/magazines/Joypad/joypad_numero036/Joypad%20036%20-%20Page%20130%20(1994-11).jpg
+http://download.abandonware.org/magazines/Joypad/joypad_numero036/Joypad%20036%20-%20Page%20131%20(1994-11).jpg
+
+(Source des liens : Joypad 36, note 92%)
+
+Le jeu ayant été retraduit intégralement du Japonais lors de sa sortie
+sur "l'Apple Store", ce patch vous propose de retrouver cette nouvelle
+traduction directement dans le jeu "Super Nintendo" (même si la version
+"Iphone/Ipod/Ipad" est loin d'être horrible niveau maniabilité, on est
+quand même à 100 lieues de la maniabilité de la "Super Nintendo").
+
+Amusez-vous bien !
+
+----------------------------------------------------------------
+2.  L'HISTORIQUE DE LA RETRADUCTION
+----------------------------------------------------------------
+
+Ce projet a, à la base, été mis sur ses rails par Le Noble Bahamut
+qui voulait retraduire le jeu intégralement du Japonais lui-même
+(même si la version française est loin d'être honteuse, la traduction
+américaine a été amputée d'environ un tiers du script et reformulée
+pour que la traduction "rentre" dans la cartouche d'époque, ce qui
+a évidemment impacté, de la même façon, la version française).
+
+Cependant, comme je trouve un peu inutile de réinventer la roue et
+que le jeu a très bien été retraduit pour la version "Apple Store",
+j'ai décidé de me proposer pour réintégrer cette traduction dans
+la version "Super Nintendo", et permettre ainsi que Le Noble Bahamut
+traduise un autre jeu à la place, un qui n'est jamais sorti en français
+("Arabian Nights" sur Super Famicom, traduction en cours de finalisation).
+
+Si vous appréciez cette nouvelle traduction du jeu, n'hésitez pas
+à vous procurer le jeu sur "l'Apple Store" pour rémunérer
+les développeurs qui ont permis d'avoir cette nouvelle traduction.
+
+----------------------------------------------------------------
+3.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir :
+
+saof50tf.ips - Nouvelle traduction, nouvel écran-titre ("Secret of Mana"), mode 50 Hz.
+saof60tf.ips - Nouvelle traduction, nouvel écran-titre ("Secret of Mana"), mode 60 Hz.
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Utilisez un patcheur IPS tel que "IPS XP", "Lunar IPS" ou autre
+pour appliquer l'un de ces patchs.
+
+Ces patchs s'appliquent sur la rom française originale du jeu,
+nommé "Secret of Mana (F).smc" (Taille : 2 097 152 octets,
+CRC32 : 6BE4CA95).
+
+Choisissez le patch (50 ou 60 Hz) selon vos goûts. La version 50 Hz
+conserve la vitesse d'origine et la version 60 Hz permet d'avoir
+une vitesse plus rapide pendant le jeu (utile si vous possédez
+une "Super Nintendo" switchée ou si vous forcez votre émulateur
+à lancer la rom en "NTSC", donc en 60 Hz.
+
+Il faut savoir qu'en 60 Hz, certaines musiques n'auront pas le temps
+de se finir avant de passer à la scène suivante, du fait de la différence
+de vitesse entre le jeu et celles-ci (le bug se produit, entre autre,
+à la fin de l'introduction). Cependant, la nouvelle vitesse du jeu
+(celle NTSC) offrant un plaisir de jeu accru, je vous conseille
+d'utiliser le patch 60 Hz, malgré ce petit bug.
+
+Note : Une version assez avancée (version 50 Hz) du patch de traduction
+a été testée sur une "Super Nintendo" à l'aide d'un TSOP 29F032 et a fonctionnée
+sans problème. La version 60 Hz n'a pas été testée de fond en comble,
+mais elle ne devrait pas poser de problème particulier (elle ne servira qu'aux
+gens qui possèdent de quoi faire tourner le jeu sur "Super Nintendo", mais qui
+n'ont pas de console switchée, ce qui est très rare (en général, lorsqu'on
+possède de quoi faire tourner le jeu sur la console d'origine, on possède
+souvent une console switchée). Si des problèmes dus au patch de traduction
+ou plus spécifiquement à la version 60 Hz surviennent, n'hésitez pas
+à le signaler en vous rendant sur le lien cité plus-bas.
+
+http://www.romhack.org/viewtopic.php?f=43&t=3332
+
+Les patchs ont aussi été testés sur Everdrive et sur le linker
+de Tototek et sont censés fonctionner correctement sur les deux.
+
+----------------------------------------------------------------
+4.  LES PATCHS PUBLIÉS
+----------------------------------------------------------------
+Patch v2.0 - 30/06/2013
+
+Seconde version du patch. De nombreux bugs et corrections ont
+été apportées. En vrac, depuis le début du projet :
+
+À faire
+-------
+* Ajouter les accents français sur la police de caractères
+  principale (VWF).
+* Modifier la taille des caractères de la VWF par rapport aux
+  accents français rajoutés.
+* Modifier la table de caractères du script par rapport aux
+  changements dans la police de caractères.
+* Agrandir la taille de la rom (passage de 2 à 3 Mo / 16 à 24 MB)
+* Réinsérer le hack ASM des pointeurs 24-bits pour le script
+  principal.
+* Réinsérer le script principal.
+* Modifier la DTE pour les textes secondaires.
+* Ajouter les accents français sur la police de caractères
+  secondaire.
+* Réinsérer le script
+* Reformatter le script principal pour tenir compte de la VWF.
+
+À corriger (bugs/oublis)
+------------------------
+* Corriger le bug du pixel décalé sur le P de la police de
+  caractères des menus.
+* Corriger les "MO" (argent) restants en "PO".
+* enter de corriger le bug de l'intro qui laggue (musique par
+  rapport à l'image/aux textes).
+* Corriger le bug des dialogues/évènements zappés devant l'Arbre
+  Mana.
+* Corriger le bug d'affichage du niveau suivant d'expérience dans
+  le menu "Statistiques".
+* Corriger l'erreur du "ú" à la place du "ù" dans la police de
+  caractères du script.
+* Inverser les guillemets dans les polices de caractères (et
+  modifier l'espace qui suit les guillemets en conséquence).
+* Modifier "Village de Potos" en "Village Potos" dans la liste
+  des points de sauvegarde pour garder une cohérence avec le nom
+  utilisé dans le script principal.
+* Modifier le "Tu manques d'argent. ." en "Tu manques d'argent."
+  dans le menu des boutiques.
+* Traduire le mot "Nada" sur les slots de sauvegarde vides.
+* Traduire le "Flècha" dans le menu de chargement des sauvegardes.
+* Il manque un "é" sur la phrase "Cela ne m'interresse pas"
+  lorsque l'on essait de vendre un objet invendable.
+* Modifier le "X" qui indique le nombre d'objets dans les menus,
+  le nouveau rend moins bien que l'original. Le remplacer par la
+  lettre "x" (minuscule).
+* Modifier la table en conséquence, et modifier manuellement les
+  noms d'objets/de magie/textes des menus.
+* Remplacer "PO" par "Luc" en utilisant les deux tiles libérées
+  par le "X" (nombre d'objets) et le "É
+* Remplacer l'icône de l'auberge dans les villes de Septentria/
+  l'Ile d'Or qui utilise un modèle différent des autres villes.
+* Modifier toutes les correspondances "PO/Lucs" (LC dans les
+  sous-menus qui ne permettent que deux lettres) lorsque la
+  bordure droite du cadre aura été corrigée.
+* Revoir certains messages de combats qui peuvent maintenant être
+  non-abrégés suite à l'implémentation de la VWF, et corriger les
+  accents (qui ne sont plus les bons vu que la police de
+  caractères a changé depuis l'ancienne version).
+* Traduire les différents status dans le menu "Statistiques"
+  ("Inconscient", "Empoisonné", etc...)
+* Modifier la police de caractères des crédits de fin.
+* Le mot "LUCS" dans le menu du forgeron dépasse un peu et brise
+  le cadre. Essayer d'agrandir un peu le cadre pour régler le
+  problème.
+* Corriger le bug du cadre du dialogue "Bienvenue à Kakkara,
+  l'oasis du désert !" (ce n'est finalement pas un problème de
+  chevauchement de banks. J'ai même tenté de déplacer le dialogue
+  ailleurs, mais le bug est toujours présent.)
+* Corriger le bug des messages des combats (les messages de la
+  fille n'apparaissent pas à cause du hack espagnol).
+* Modifier le nom de la rom dans l'header SNES et corriger le
+  checksum. Vérifier aussi que la taille de la rom dans l'header
+  SNES a bien été passée à 24 MB (à faire tout à la fin).
+
+À ajouter (optionnel)
+---------------------
+* Réinsérer la version non-censurée de "Theiera" ("Tronçonnator").
+* Réinsérer l'un des deux dialogues se trouvant dans la rom, mais non-utilisé.
+* Rétablir l'icône originale de la magie "Séisme" (Gnome).
+
+
+Patch v1.0 - 25/12/2011
+
+Première version du patch. Aucun bug ne bloquant le jeu n'a été
+détecté durant les bêta-tests. Si vous trouvez un bug autre que
+les deux bugs listés dans la section "Bugs connus", un dépassement
+de texte dans une fenêtre, dans un menu ou autre, n'hésitez pas
+à venir le signaler à cette adresse en fournissant une savestate,
+une photo ou une capture d'écran du problème, si possible :
+
+http://www.romhack.org/viewtopic.php?t=3332
+
+Une VWF (police de caractères à taille variable) sera peut-être
+incluse un de ces jours, mais ce n'est qu'une supposition.
+
+Je suis ouvert à toute proposition à ce sujet, sachant que nous
+avons déjà, à notre disposition, un code ASM pour une VWF, mais
+celui-ci demanderait d'être reconverti pour le compilateur "xkas".
+
+Note : Le texte "Houla ! Il y a des lapyns ici ?! Je vais devoir
+être prudent !" est bien orthographié. Le personnage du jeu fait
+aussi une faute dans le mot "lapin" en Japonais, faute qui a donc
+été restituée dans la nouvelle version française.
+
+----------------------------------------------------------------
+5.  TOUT CE QUI A ÉTÉ FAIT
+----------------------------------------------------------------
+
+Intro     :  99 % *
+Script    : 100 %
+Combats   : 100 %
+Objets    : 100 %
+Menus     : 100 %
+Magies    : 100 %
+Monstres  : 100 %
+Titre     : 100 %
+Crédits   :  99 % **
+
+*  L'introduction a été retraduite sans accents. Le seul accent
+   disponible était le "É", je me suis donc dit qu'il fallait
+   mieux ne pas mettre d'accents du tout plutôt qu'un seul.
+
+** Les apostrophes ont été remplacées par des points dans les crédits
+   de la traduction car l'apostrophe n'est pas un caractère utilisable
+   dans les crédits de fin du jeu.
+
+----------------------------------------------------------------
+6.  BUGS CONNUS
+----------------------------------------------------------------
+
+Lors du passage sur le bateau des sables, un soldat permet de
+sauvegarder. La fonction sauvegarde mais la subrillance est
+complètement foirée sur le choix du dialogue en question.
+Il faut considérer que le choix par défaut est oui et donc se
+fier à ça
+   
+----------------------------------------------------------------
+7.  L'ÉQUIPE DE LA RETRADUCTION
+----------------------------------------------------------------
+
+   Idée originale du projet : Hiei-
+                              Kogami
+                              Le Noble Bahamut
+
+   Romhacking, Programmation, Assembleur : Meradrin
+					   BahaBulle
+
+   Outil de modification de l'introduction : Meradrin
+                                             BahaBulle
+
+   Modification graphique de l'écran-titre : Lyan53
+					     
+   Réinsertion de la nouvelle traduction   : Hiei-
+
+   Bêta-test : Hiei-
+               Musashi
+
+   Remerciements spéciaux : Le Noble Bahamut
+                            Kogami
+                            Loki
+                            Lestat
+                            Lyan53
+			    ManZ
+                            Pinky
+                            Hella
+			    "LunarCompress/Decompress" de Fusoya
+                            
+                            Et tous les membres de la T.R.A.F.
+
+----------------------------------------------------------------
+8.  CONTACTS
+----------------------------------------------------------------
+
+T.R.A.F. : http://traf.romhack.org
+Forum : http://www.romhack.org (Pseudo : Hiei-)
+E-mail : scripts-elysion@hiei-tf.fr (sujet : "Secret of Mana")
+
+Pour les bugs : http://www.romhack.org/viewtopic.php?t=3332
+
+----------------------------------------------------------------
+9.  REMARQUES LÉGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de Secret of Mana n'est pas 
+officiel et n'est pas supporté par Square Enix.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Aucun 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de quelque dommage provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+Hiei-

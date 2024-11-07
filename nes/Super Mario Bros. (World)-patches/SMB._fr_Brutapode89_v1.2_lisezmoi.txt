@@ -1,0 +1,13 @@
+﻿Mise à jour 1.2 : Patch espagnol de Her-Saki utilisé pour avoir plus de place et faire une version française plus juste.
+
+Par exemple :
+
+Ce dialogue...
+
+"MERCI MARIO !" "MAIS PEACH EST DANS UN AUTRE CHATEAU !"
+
+...a été remplacée par celui-ci,
+
+"MERCI MARIO DE M'AVOIR SAUVE !" "SEULEMENT, LA PRINCESSE PEACH EST PRISONNIERE AILLEURS !"
+
+- Le patch "Super Mario Bros. FR 1.2" pour la ROM Super Mario Bros. (W) [!].nes

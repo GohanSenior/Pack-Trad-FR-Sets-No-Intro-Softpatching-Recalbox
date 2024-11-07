@@ -1,0 +1,22 @@
+﻿   _____ __                ____                      
+  / ___// /_____ ______   / __ \________  ____ _____ 
+  \__ \/ __/ __ `/ ___/  / / / / ___/ _ \/ __ `/ __ \
+ ___/ / /_/ /_/ / /     / /_/ / /__/  __/ /_/ / / / /
+/____/\__/\__,_/_/      \____/\___/\___/\__,_/_/ /_/ 
+MEIMU.ENIX 1996
+TRI-ACE
+
+Une fois n’est pas coutume, la BadCompany revient en force avec un jeu qui était le chat noir de la scène de romhacking française… Tant d’années écoulé sans jamais avoir ne serait-ce qu’une bride de ce jeu en français. Maintenant la malédiction est brisée grâce à une belle rencontre entre deux passionnés de la Super Nintendo.
+Ce présent patch est le fruit de la collaboration franco-allemande entre la BadCompany et Snes-Projects.de 
+Un grand merci à mon ami RedScorpion qui a fait en sorte que nous puissions avoir une belle localisation française jouable. Nous avons travaillé comme des acharnés un nombre d’heures hallucinant tant sur le texte que sur les tiles graphiques du jeu. RedScorpion a dû réadapter les outils permettant d’avoir le résultat actuel. La partie gestion des graphismes a été la tâche la plus ardue pour moi. Le texte a été vu et revu un bon nombre de fois.
+Je suis véritablement tombé sous le charme de cet rpg, je partais avec quelques aprioris qui se sont très vite estompés au fur et à mesure que j’avançais. C’est beau, c’est propre, le son est extra, le jeu bien rythmé.
+Il se peut qu’il reste encore des coquilles diverses et variées, mais qui j’en suis sûr me seront signalés ou remontés par message amical. Je vous dis cela, car si certains ou certaines veulent faire vivre le patch, ça sera tout à fait possible.
+
+Instruction pour patché le jeu.
+Avoir une rom jap original de 6mo, prendre le présent patch français et l’appliquer avec flips par exemple. Le jeu fonction à merveille sur snes9x geiger ainsi que sur znes ou bsnes plus.
+
+
+Remerciement à : RedScorpion (Chris) de SNES-PROJECTS.DE
+Remerciement à : Philippe Opie pour la correction du texte principal.
+
+A bientôt, Julien.J

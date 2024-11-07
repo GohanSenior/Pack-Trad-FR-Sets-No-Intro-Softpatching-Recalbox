@@ -1,0 +1,74 @@
+        ________                 
+       /	\	  ___________
+      .\_	 \......./	     \.............
+      : /   / \   \      \_____    __/[J3d!]      :
+      :/   /  /   /	       \   \ /¯¯¯¯\	  :
+      /   /  /   //¯¯¯¯¯\      /   //      \   /¯¯¯¯¯¯¯¯\
+    /¯    ¯¯¯   //  _    \ ___/   //   /\   \ /   ____   \
+    \__________//  //    //	 //   /  \   \\   \  /   /
+       :	\  \\   / \_____/ \   ¯¯¯¯\   \\   \/   /
+       :	 \  ¯¯¯¯\	   \______/\__/ \   \__/
+       :..........\_____/........................\   \
+         [s N E S  r O M  t R A N S L A T I O N S]\__/
+ 
+                             ET
+  
+                   ÛÛÛÛÛ Û Û   Û ÛÛÛÛ Û      
+                   Û       ÛÛ  Û Û  Û Û     
+                   ÛÛÛ   Û Û Û Û ÛÛÛÛ Û      
+                   Û     Û Û  ÛÛ Û  Û Û      
+                   Û     Û Û   Û Û  Û ÛÛÛÛ   
+
+ ÛÛÛÛÛÛÛ ÛÛ   ÛÛÛÛ Û   Û  ÛÛÛ Û    ÛÛÛÛ ÛÛÛÛÛ Û ÛÛÛÛ Û   Û
+    Û    Û Û  Û  Û ÛÛ  Û  Û   Û    Û  Û   Û     Û  Û ÛÛ  Û
+    Û    ÛÛ   ÛÛÛÛ Û Û Û  ÛÛÛ Û    ÛÛÛÛ   Û   Û Û  Û Û Û Û
+    Û    Û Û  Û  Û Û  ÛÛ    Û Û    Û  Û   Û   Û Û  Û Û  ÛÛ
+    Û    Û  Û Û  Û Û   Û  ÛÛÛ ÛÛÛÛ Û  Û   Û   Û ÛÛÛÛ Û   Û
+
+	
+			-=Version 2.0=-
+	
+
+
+Statut :
+======
+
+Programmation : 96%
+Traduction : 100%
+Correction : 100%
+
+
+Historique :
+==========
+
+Le jeu Tales of Phantasia, à l'origine non sorti du Japon, suscita bien des convoitises et des frustrations de la part des joueurs qui connaissaient sa réputation de grand jeu. C'est pourquoi Dejap s'est attelé à sa traduction pour sortir un patch en 2000, après un travail acharné pour optimiser le jeu à une version occidentale. Conscient de l'importance de sa tâche, DarkForce, le programmeur de la traduction, décida de faciliter celle des traducteurs étrangers qui allaient évidemment vouloir faire une version dans leur langue. Il adapta donc son compilateur automatique pour la gestion de plusieurs langues, laissant ainsi libre cours à la créativité des traducteurs, en réduisant les contraintes techniques inhérentes à ce type d'activité. Parmi ces langues se trouvait le français, pris en charge en deux versions: celle de nos confrères de Terminus Traduction et la nôtre, celle de Final Translation. Après une sorte de course à l'armement, les deux patchs sortirent plus ou moins simultanément, en 2002. Final Translation avait vu les choses en grand et avait créé une page indépendante pour présenter la traduction. Dans la foulée fut découvert le fameux "bug du poulet", lié à la traduction : certains textes affichés sans fenêtre étaient prévus pour ne s'afficher que sur deux lignes ; si ce texte faisait plus de deux lignes, le texte débordait de la mémoire et écrasait l'inventaire, remplaçant la plupart des objets (dont des objets indispensables dans le scénario) par d'objet "poulet", rendant le jeu injouable. Heureusement, un correctif fut vite sorti, mais ce bug hanta encore longtemps les réseaux. La chose en resta là pendant des années. DarkForce disparut peu après de la scène de traduction, laissant derrière lui un compilateur pas tout à fait achevé (quelques bugs et quelques choses non optimisées). On ne parla plus guère alors des traductions de Tales of Phantasia, et la page dédiée au patch de Final Translation finit par disparaître, rendant la traduction plus difficile à trouver.
+
+C'est alors que votre serviteur (Hroşgar SCRB), qui avait déjà été chargé de la correction de la traduction, se réveilla de sa léthargie et décida de lui donner un coup de jeune et de lui rendre par la même occasion une meilleure visibilité. Ainsi, des milliers de corrections furent faites dans le script principal, lequel fut rendu plus vivant (l'original étant trop rigide). De longues heures de recherches rendirent leur nom original aux monstres, donnèrent un nom explicite aux objets, un nom crédible aux compétences, un nom (qui avait été supprimé de la traduction anglaise) aux boutiques, tout cela pour votre plus grand plaisir. En outre, ManZ (de Terminus Traduction) mit la main à la pâte pour augmenter l'espace d'affichage des noms des monstres et des objets, compensant une lacune du hack de DarkForce.
+
+
+Bugs connus :
+============
+
+- Dans la gestion des vivres, manque de place pour l'intitulé "vivres:"
+- Dans la gestion de l'équipement, décalage du nombre restant de l'objet équipé
+- Bug d'affichage en combat lors de l'affichage des faiblesses d'un monstre
+- Imperfections dans l'ombrage des objets de l'inventaire
+
+Si vous rencontrez d'autres bugs, n'hésitez pas à faire signe ! ;)
+
+
+Comment appliquer le patch :
+========================
+
+- Vérifiez que votre ROM est bien la ROM originale japonaise certifiée GoodSNES et qui doit faire exactement 6291456 octets.
+Puis:
+- renommez la ROM et l'IPS avec le même nom et lancez zsnes qui patchera pour vous (de façon temporaire).
+- ou vous utilisez Snestool ou tout autre programme de patchage où la manière de procéder vous sera expliquée, et le tour est joué
+
+Nous remercions toute l'équipe de Dejap pour nous avoir permis de traduire ce magnifique RPG.
+Nous remercions tous les traducteurs qui ont participé à la traduction.
+Nous remercions aussi Hroşgar pour avoir corrigé et fait quelques fontes et les dessins  ^^.
+Nous remercions les bêta testeurs (Aurette, Metallines, Tsukasa) qui ont traqué les incohérences et coquilles qui pouvaient rester.
+
+et vous souhaitons BON JEU !
+

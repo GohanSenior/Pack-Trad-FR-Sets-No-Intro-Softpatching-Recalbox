@@ -1,0 +1,3 @@
+FR : Le patch doit Ítre appliqu√© sur la ROM Super Mario Bros. 3 (U) (PRG1) [!].
+
+EN: Apply the patch to the ROM Super Mario Bros. 3 (U) (PRG1) [!].

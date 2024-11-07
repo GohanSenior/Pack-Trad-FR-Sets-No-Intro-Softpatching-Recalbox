@@ -1,0 +1,27 @@
+﻿  ___ _    _              _       ___              _    _   ___       _ _           __  __                
+ | _ |_)__| |_  ___ _  _ (_)___  / __| ___ _ _  __| |_ (_) / __| __ _(_) |___ _ _  |  \/  |___  ___ _ _   
+ | _ \ (_-< ' \/ _ \ || || / _ \ \__ \/ -_) ' \(_-< ' \| | \__ \/ _` | | / _ \ '_| | |\/| / _ \/ _ \ ' \  
+ |___/_/__/_||_\___/\_,_|/ \___/ |___/\___|_||_/__/_||_|_| |___/\__,_|_|_\___/_|   |_|  |_\___/\___/_||_| 
+                       |__/                                                                               
+					   
+					   Patch pour le jeu Sailor moon
+					 
+					 
+Version actuelle du patch, V1 définitive.
+29/05/2023.
+
+Ce qui a été fait: L'ensemble des scripts, générique, les différentes fins du jeu ont été traduites.
+                   Les graphismes tels que le tableau score, menu options du jeu sont traduits en français.
+
+
+Ce projet été initialement conduit par Mziab qui s'est occupé des outils, la reprogrammation, 
+la traduction, et de l'édition graphique et FlamePurge de l'édition graphique, consultation en matière
+de localisation, tests des graphismes en anglais dont voici le patch permettant d'y jouer en version anglaise.
+Cette récente collaboration avec Mziab a permis de faire intégralement le jeu en Français, aussi bien
+les scripts que la partie graphique du jeu.
+
+Patch à appliquer sur la rom Japonaise du jeu, Bishoujo Senshi Sailor Moon (jap).
+1536ko sans header.
+La rom patché passe à 2048ko.
+
+Bon jeu à tous...
