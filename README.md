@@ -18,7 +18,7 @@
 
 ## Utilisation
 
-- **copier/coller** chaque dossier de système désiré dans votre dossier **SHARE/ROMS** Recalbox.
+- **COPIER / COLLER** chaque dossier de système dans votre dossier **SHARE / ROMS** Recalbox.
 
 - Choisir l'option **SELECTIONNER** dans **OPTIONS DES JEUX / SOFTPATCHING**.
 
