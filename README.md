@@ -1,6 +1,6 @@
 #
 
-![softpatching_recalbox](https://github.com/user-attachments/assets/573576f2-dbea-41dd-ab03-7fae07353810)
+![softpatching_recalbox](softpatching_recalbox.png)
 
 ## À propos
 
