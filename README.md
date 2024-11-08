@@ -18,13 +18,13 @@
 
 ## Utilisation
 
-- **COPIER / COLLER** chaque dossier de système dans votre dossier **SHARE / ROMS** Recalbox.
+1. **COPIER / COLLER** chaque dossier de système dans votre dossier **SHARE / ROMS** Recalbox.
 
-- Choisir l'option **SELECTIONNER** dans **OPTIONS DES JEUX / SOFTPATCHING**.
+2. Choisir l'option **SELECTIONNER** dans **OPTIONS DES JEUX / SOFTPATCHING**.
 
-- Au lancement du jeu, vous pourrez choisir quel patch à appliquer.
+3. Au lancement du jeu, vous pourrez choisir quel patch à appliquer.
 
-- À vous les joies de découvrir tout ces jeux, maintenant, en français!!!
+4. À vous les joies de découvrir tout ces jeux, maintenant, en français!!!
 
 ## Comment lire le nom d'un patch
 
