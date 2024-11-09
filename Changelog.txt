@@ -196,4 +196,16 @@ v1.5.2
 	- modification du fichier lisezmoi.txt en changelog.txt et suppression à l'intérieur de tout ce qui faisait doublon avec le README.md
 
 
+v1.6.0
+
+	- mise en place de la nomenclature
+
+v1.6.1
+
+	- légères corrections du readme et ajout de son image d'entête au dossier main
+
+v1.6.2
+
+	retrait provisoire du dossier FDS
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
