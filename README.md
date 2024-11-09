@@ -58,6 +58,8 @@
 
   :warning: **Quoi que demandé dans le fichier, aucune autre action ne vous est requise**. :warning:
 
+- Pack de traduction anglophone disponible [ici](https://github.com/GohanSenior/Pack-Trans-EN-Sets-No-Intro-Softpatching-Recalbox "Pack-Trans-EN-Sets-No-Intro-Softpatching-Recalbox")
+
 - Je suis disponible sur le [Discord Recalbox](https://discord.gg/GQJREVqrU2) au pseudo **GohanSenior** pour toutes demandes ou propositions.
   
 ## :video_game: Bons jeux à vous! :round_pushpin:
