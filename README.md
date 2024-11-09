@@ -34,7 +34,7 @@
 
 | Nb Jeux | Systèmes | Cores testé |
 |:-------:|:--------:|:-----------:|
-| 5 | Famicom Disk System | Libretro FCEUmm |
+| 5 | Famicom Disk System (bientôt de retour) | Libretro FCEUmm | 
 | 117 | Gameboy | Libretro Gambatte :heavy_exclamation_mark: |
 | 24 | Gameboy Color | Libretro Gambatte :heavy_exclamation_mark: |
 | 13 | Gameboy Advance | Libretro mGBA :heavy_exclamation_mark: |
