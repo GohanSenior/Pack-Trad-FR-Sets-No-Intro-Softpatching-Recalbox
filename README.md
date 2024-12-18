@@ -16,6 +16,10 @@
 
 >:heart: Un grand merci à toute l'équipe de **Recalbox**, aux **sites hébergeurs** et aux **traducteurs** :heart:
 
+## Téléchargement
+
+![dl](https://github.com/user-attachments/assets/bf9406cc-2332-4933-b9a1-0832e8d38701)
+
 ## Utilisation
 
 1. **COPIER / COLLER** chaque dossier de système dans votre dossier **SHARE / ROMS** Recalbox.
