@@ -12,6 +12,8 @@ NES:
 
 	- "WWF WrestleMania - Steel Cage Challenge (USA)" ne fonctionne qu'avec le core Libretro FCEUmm
 
+	- "Ys III - Wanderers from Ys (Japan)" ne fonctionne qu'avec les cores Libretro FCEUmm, Libretro Mesen
+
 GBA:
 
 	- "Wario Land 4 (USA, Europe)" ne fonctionne qu'avec le core Libretro Meteor
