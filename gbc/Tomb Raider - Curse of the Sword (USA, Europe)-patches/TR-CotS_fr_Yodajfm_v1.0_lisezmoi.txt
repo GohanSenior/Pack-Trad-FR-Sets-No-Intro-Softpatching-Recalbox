@@ -1,0 +1,74 @@
+Tomb Raider - Curse of the Sword  (Game Boy Color)
+Traduction en Français v1.0 (17/11/2024)
+
+-----------
+GENRE: ACTION/PLATEFORME
+-----------
+Tomb Raider : La Malédiction de l'Épée, ou Tomb Raider: Curse of the Sword aux États-Unis, est un jeu vidéo d'action - plate-forme sorti sur Game Boy Color en 2001. Il s'agit du deuxième opus de la série Tomb Raider, mettant en scène l'héroïne Lara Croft, édité sur cette console portable.
+
+----------
+HISTOIRE
+----------
+Alors que Lara Croft visite un musée avec une amie, un groupe armé adorateur de sorcellerie fait irruption, et s'empare d'un sabre aux propriétés étranges. L'héroïne se lance alors à leur poursuite et, dans la confusion, se coupe avec le sabre. Cette coupure la condamne à devenir la nouvelle enveloppe d'un esprit défunt. Lara doit désormais se battre pour sauver son esprit et lever la malédiction.
+
+
+------------------------
+CONTENU DE L'ARCHIVE ET UTILISATION
+------------------------
+Normalement, l'archive ZIP doit contenir:
+TR - CotS_FR.ips - Le patch IPS de Tomb Raider - Curse of the Sword (USA, Europe)
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+comme LumarIPS.
+Ce patch est à utiliser avec la rom:
+Tomb Raider - Curse of the Sword (USA, Europe).gbc
+Taille: 4194304 octets : 4096 KiB
+CRC32: 02C1035A
+SHA256: a75109b2730df5bef628f05660d670f07a1be6c6249d73f7f88375061c3f3bbb
+
+
+ROM patché:
+Taille: 4194304 octets : 4096 KiB
+CRC32: 5A1F0534
+SHA256: 21ae98fbab00e7be3f4f1115d2b035578591738c12e7b6d996f54f033652cdc5
+
+--------
+TRADUCTION
+--------
+menu: 100%
+script: 100%
+GFX: 0%
+
+Equipe:
+Yoda07: traduction (menu, script, beta test et correction de divers bug.)
+
+
+----------------------------------------------------------------
+CONTACTS
+----------------------------------------------------------------
+Une remarque, une question ou une correction à apporter à la
+Tomb Raider - Curse of the Sword.
+
+Yoda07 - juin-2010@hotmail.fr
+
+----------------------------------------------------------------
+REMARQUES LEGALES
+----------------------------------------------------------------
+Le patch de traduction française de Tomb Raider - Curse of the Sword n'est
+pas officiel et n'est pas supporté par CORE, EIDOS ou Nintendo.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
