@@ -1,0 +1,96 @@
+TERMINUS TRADUCTION  présente
+
+ULTRAMAN - LA LEGENDE DU SUPER GUERRIER
+----------------------------------------------------------------
+*******************Table des matières******************
+----------------------------------------------------------------
+
+1.    L'HISTOIRE DU JEU
+2.      CONTENU DE L'ARCHIVE ET UTILISATION
+3.    LES PATCHS PUBLIES
+4.      TOUT CE QUI A ETE FAIT
+5.    L'ÉQUIPE DE LA TRADUCTION
+6.      CONTACTS
+7.    REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  L'HISTOIRE D'ULTRAMAN - LA LEGENDE DU SUPER GUERRIER
+----------------------------------------------------------------
+
+Ultraman est le précurseur des Tokusatsu et à ce titre, il a
+connu de nombreuses suites et adaptation.
+Ce titre Game Boy est assez court mais plutôt réussi, bien que
+son principal interêt reste néanmoins l'usage de la licence.
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir:
+UltramanSuperGuerrierFr.ips  - Le patch IPS d'Ultraman
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+supportant le format IPS (patcheur Terminus exemple).
+Ce patch est à utiliser avec la Rom NO-INTRO
+Ultraman Chou Toushi Gekiden (Japan) (SGB Enhanced).gb
+
+----------------------------------------------------------------
+3.  LES PATCHS PUBLIES
+----------------------------------------------------------------
+
+-V1.00
+Traduction complète
+
+----------------------------------------------------------------
+4.  TOUT CE QUI A ETE FAIT
+----------------------------------------------------------------
+
+Script    :   100 %
+Pointeurs :   100 %
+ 
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+FlashPV : Hacking, Traduction
+Basé sur la traduction anglaise de Gorgyrip
+
+----------------------------------------------------------------
+6.  CONTACTS
+----------------------------------------------------------------
+
+Une remarque, une question ou une correction à apporter à la
+traduction d'Ultraman - La Légende du Super Guerrier.
+
+FlashPV - FlashPV@aol.com
+
+Vous voulez mieux connaître le groupe, télécharger nos derniers
+patchs ou vous renseigner sur un projet.
+
+Site Web - http://terminus.romhack.net
+
+----------------------------------------------------------------
+7.  REMARQUES LEGALES
+----------------------------------------------------------------
+
+Le patch de traduction française d'Ultraman - La Légende du Super
+Guerrier n'est pas officiel et n'est pas supporté par Bandai ou
+Nintendo.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+FlashPV
