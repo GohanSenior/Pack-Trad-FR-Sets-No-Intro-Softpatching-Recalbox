@@ -1,0 +1,104 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                            Captain Silver
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Captain Silver
+Console		: Master System
+Développeur	: Data East
+Editeur		: Sega
+Date		: Aout 1987
+Genre		: Action
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 08/01/2025) :
+ \_________________________________________________________________
+
+Ca faisait longtemps, hein ?
+Ben c'est pas faux !..
+
+Mais on finit toujours par revenir à ses premières amours, et même si le temps m'a manqué (ainsi que la motivation)
+pour m'y recoller, j'avais toujours cette envie de bidouiller de la rom qui me trottait dans la tête.
+
+Puis vint "Captain Silver"... Ca faisait longtemps que ce jeu me tentait, mais je n'avais pas pris le temps de
+m'y atteler. Je m'attendais à un grand jeu d'aventures, autant dire que j'ai été quelque peu déçu.
+
+Allez, on va se faire une heure de Jim...
+
+L'histoire : 
+Vous êtes Jim, un blondinet armé d'un sabre dont le seul désir dans la vie est de mettre la main sur le fabuleux
+trésor du capt'ain Igloo. pardon... du Captain Silver !
+Sûrement que les batonnets de colin, c'est moins fun qu'un trésor pour pécho de la bergère.
+
+Notre héros à catogan va donc se fritter avec tout ce qui bouge durant 6 niveaux sympas, bien que doté
+de couleurs affreusement criardes et de musiques vite casse bonbons.
+
+Le jeu en lui-même n'est pas forcément compliqué dès qu'on a compris qu'il ne faut pas avancer comme un bourrin.
+Chaque fleur, chaque papillon, chaque être vivant se faisant un malin plaisir de faire de votre vie un enfer,
+vous allez donc devoir progresser intelligement et précautionneusement, car toute mort implique de se retaper
+l'intégralité du niveau en cours.
+
+Si vous vous débrouillez bien, le jeu peut se terminer en une petite heure et sera oublié tout aussi vite.
+
+
+Du côté de la traduction, je peux pas dire que ça ait mis des jours à hacker. A dire vrai, il n'y a pas
+la moindre bribe de scénario si ce n'est la scène de fin de jeu.
+Même pas un générique à se mettre sous l'éditeur !
+J'espérais un peu plus, mais ça permet de se remettre en jambe pour pas cher...
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Vies infinies          0x00C028         09
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "Captain Silver.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Captain Silver (E) [!].sms
+  Taille de la rom: 262 145 octets
+  Rom avec Header ? Non
+  CRC de la rom   : AAB4170
+  CRC rom patchée : 7B13D7BD
+
+Le patch a été créé avec SmartIPS et a été testé avec les émulateurs suivants :
+  Emukon           [ ]		Kega Fusion 3.64 [x]
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

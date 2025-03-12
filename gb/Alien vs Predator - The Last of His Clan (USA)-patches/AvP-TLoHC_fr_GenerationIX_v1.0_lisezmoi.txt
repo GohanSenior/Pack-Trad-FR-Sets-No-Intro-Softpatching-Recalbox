@@ -1,0 +1,132 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+               Alien vs Predator - The Last of His Clan
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Alien vs Predator - The Last of His Clan
+Console		: Game Boy
+Développeur	: ASK
+Editeur		: Activision
+Date		: Novembre 1993
+Genre		: Action
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 07/02/2025) :
+ \_________________________________________________________________
+
+Nous sommes en l'an de grâce 2593, toute la planète Alpha Centuri 3 est colonisée par les humains.
+Toute ? Non... 
+Même plus du tout, même...
+
+En effet, des Predators ont apportés des oeufs aliens pour leurs chasses rituelles. Pas de bol,
+les xénomorphes se sont tellement répandus que les chasseurs ont fini par devenir les proies.
+Dommage pour les colons, ils ont été les victimes collatérales de nos amis Yautjas.
+
+C'est à vous, le dernier de votre clan, de coller vos lames dans la tripaille d'alien afin
+de restaurer l'honneur de vos frères de chasse.
+
+Pour ce faire, vous allez parcourir 7 niveaux et dégommer du facehugger et du Xeno en veux-tu
+en voilà jusqu'au duel final contre l'inévitable reine.
+Heureusement pour vous, vous serez doté du dernier cri en matière de matos à viander : camouflage
+optique, disque tranchant, l'indispensable canon laser d'épaule et des bombes dévastatrices sans
+lesquelles vous ne pourrez pas terminer le jeu.
+
+L'objectif des niveaux est simple : trouver la clé qui vous permettra de débloquer la sortie.
+Evidemment, les xénos ne l'entendent pas de ce tentacule et se feront un plaisir de vous traquer
+jusqu'à ce que mort s'ensuive...
+
+Le jeu est... intéressant.
+Amusant 5 minutes, il devient toutefois vite répétitif. Le gameplay est basique et le seul moment
+d'angoisse survient lorsqu'on cherche à ramasser cette foutue clé située sur une plateforme trop
+haute pour l'atteindre. 
+Je vous donne l'astuce : il faut poser une bombe et sauter juste avant qu'elle n'explose pour
+être propulsé en hauteur.
+
+Sorti de ça le jeu est assez simple. Les niveaux ne sont pas super immenses et on se sent peu en
+danger face aux aliens. Mais après tout, on est un Yautja ! On est pas une princesse en détresse, nondidiou !!
+
+Et c'est là qu'est le problème. Si on pense "AvP", on s'attend à des combats dantesques entre
+des monstres sacrés du cinéma. Là, on est plus dans la promenade de grand-père. 
+
+Clairement on est pas sur du chef d'oeuvre, mais ça permet de se faire un p'tit trip à la cool.
+Et buter de l'alien est toujours plaisant.
+
+La traduction est complète, hormis l'écran titre qui me plaît bien comme il est (et surtout
+pasque j'arrivais pas à trouver ce foutu "START" qui me fait des trucs bizarres).
+J'avoue m'être bien amusé avec toutes les tilemaps et graphismes à bricoler.
+
+Il n'y a pas beaucoup de textes, mais j'ai pris grand plaisir à traduire ce jeu et
+j'espère que vous en aurez à y jouer même si, comme l'a dit Schwarzy dans le premier
+film Predator : "il a pas une gueule de porte-bonheur".
+
+
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Energie infinie        0xC7A4          30
+Disque infini          0xC598          05
+Vies infinies          0xC7A0          09
+Pv infinis             0xC7A2          09
+Bombes infinies        0xC59A          20
+Canon laser infini     0xC599          99
+
+Attention : les codes des munitions infinies peuvent merdouiller lors des
+changements de niveaux. Parfois il suffit de les désactiver et de les réactiver, 
+alors qu'à d'autres moments ils se "réveilleront" dès que vous aurez
+ramassé l'arme en question.
+
+Attention 2 : il est impératif de désactiver tous les codes lors du décompte
+de fin de niveau sous peine de faire tourner le calcul des points bonus indéfiniment.
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "avp - Last of his clan.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Alien vs Predator - The Last of His Clan (USA).gb
+  Taille de la rom: 131 073 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 7A2E8C2E
+  CRC rom patchée : A090D5B4
+
+Le patch a été créé avec SmartIPS et a été testé avec les émulateurs suivants :
+  BgB               [x]		GBEmul            [ ]
+  VisualBoy Advance [ ]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

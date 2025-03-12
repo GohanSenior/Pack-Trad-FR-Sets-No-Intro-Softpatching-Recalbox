@@ -1,0 +1,26 @@
+﻿retraduction de la version française officielle de Soleil sur Megadrive par Ingo version 1.0
+
+---- utilisation du patch
+- CRC32 de la rom à rechercher sur le web : 08DC1EAD
+- c'est la version française du jeu : Soleil (France).md
+- pour vérifier le CRC32 d'un fichier, installer 7-Zip et faire un clic droit sur le fichier
+- patch créé avec Lunar IPS téléchargeable sur https://traf.romhack.org/?p=outils&oid=151
+
+---- détails de la retraduction
+- histoire retraduite à partir du japonais
+- restauration des vrais noms des personnages, animaux et ennemis
+- intégration complète et cohérente du tutoiement
+- clarification des astuces données par le jeu
+- correction de fautes de frappe
+- affichage amélioré des textes et de la mise en page
+- correction de bogues
+plus de détails sur :
+https://www.ultimate-consoles.fr/topic/20466-la-version-revisit%C3%A9e-de-soleil-en-fr/
+
+---- le jeu en profondeur
+- les dialogues changent régulièrement tout au long de l'aventure :
+* dans les villes humaines de Soleil et Iris ainsi que dans le camp de Rafflesia
+* dans les villes animales de Nénuphar, Iris et l'oasis du désert Camélia
+- le nom officiel du héros est CORONA pour ceux qui aiment mettre le nom officiel dans le jeu
+- 15 pommes d'or sont à découvrir, augmentant l'énergie jusqu'au niveau x4 :
+https://www.squarepalace.com/megadrive-action-aventure-artwork-solution/soleil-soluce-anecdotes-illustrations
