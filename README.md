@@ -50,7 +50,7 @@
 | 149 | Super Nintendo Entertainment System | Libretro Snes9x |
 | 2 | Satellaview | Libretro Snes9x |
 
-:heavy_exclamation_mark: Certains patchs nécessitent un core different que celui testé. (voir le fichier patch_fr_debug.txt pour les patchs concernés)
+:heavy_exclamation_mark: Certains patchs nécessitent un core different que celui testé. (voir le fichier patch_fr_debug.txt pour ceux concernés)
 
 ## Commentaires
 
