@@ -39,14 +39,14 @@
 | Nb Jeux | Systèmes | Cores testé |
 |:-------:|:--------:|:-----------:|
 | 5 | Famicom Disk System (bientôt de retour) | Libretro FCEUmm |
-| 118 | Gameboy | Libretro Gambatte :heavy_exclamation_mark: |
+| 119 | Gameboy | Libretro Gambatte :heavy_exclamation_mark: |
 | 24 | Gameboy Color | Libretro Gambatte :heavy_exclamation_mark: |
 | 13 | Gameboy Advance | Libretro mGBA :heavy_exclamation_mark: |
-| 52 | Master System | Libretro Gearsystem |
-| 121 | Mega Drive | Libretro Picodrive :heavy_exclamation_mark: |
+| 54 | Master System | Libretro Gearsystem |
+| 122 | Mega Drive | Libretro Picodrive :heavy_exclamation_mark: |
 | 2 | NEO·GEO Pocket Color | Libretro Mednafen_WSWAN |
 | 4 | Nintendo 64 | Libretro Mupen64Plus NX |
-| 340 | Nintendo Entertainment System | Libretro Nestopia :heavy_exclamation_mark: |
+| 341 | Nintendo Entertainment System | Libretro Nestopia :heavy_exclamation_mark: |
 | 149 | Super Nintendo Entertainment System | Libretro Snes9x |
 | 2 | Satellaview | Libretro Snes9x |
 
