@@ -1,0 +1,123 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                              Laser Ghost
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Laser Ghost
+Console		: Master System
+Développeur	: Sega
+Editeur		: SEGA
+Date		: 1991
+Genre		: Action
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 11/03/2025) :
+ \_________________________________________________________________
+
+Il y avait longtemps que je ne m'étais pas fait un p'tit jeu utilisant le pistolaser, et "Laser Ghost" me semblait intéressant.
+
+Ghost City... Située quelque part à la frontière entre la vie et la mort, entre rêve et réalité ; cette ville héberge
+toute une faune de monstres horribles et de créatures toutes plus malfaisantes les unes que les autres (un peu comme Midian dans
+le roman "Cabal" de Clive Barker. Je vous conseille de le découvrir si ce n'est pas déjà fait).
+
+Tous les treize ans, Ghost City réapparaît et ses habitants en profitent pour enlever des humains et dévorer leurs âmes.
+
+Aujourd'hui, c'est sur la pauvre Catherine, petite blondinette d'une dizaine d'années, que les monstres ont jeté
+leurs pattes griffues et c'est à vous qu'elle demande de l'aide.
+Il faudra donc user du pistolaser pour aider la ch'tiote à traverser les 6 niveaux du jeu avant d'affronter le boss final
+dans un combat dantesque.
+
+Comme souvent dans ce genre de jeu, il faudra être précis et rapide car les streums déboulent de partout. Heureusement, les
+bonus cachés un peu partout facilitent un peu le travail...
+Attention toutefois ! Si vous touchez Catherine, cela la fera reculer ou avancer brutalement. Cela peut l'aider à éviter
+des accidents, mais ce sera aux dépends de sa santé. 
+
+Les niveaux sont relativement variés même si les décors sont quelque peu répétitifs, mais cela permet de rendre les cibles
+plus visibles. On va traverser le sous-sol d'un manoir, un marais, une forêt hantée et même un hôtel maudit façon Overlook
+(l'hôtel du démentiel roman "Shining" de Stephen King pour ceux qui ne connaitraient pas), et vous aurez maille à partir
+avec des chauves-souris peu souriantes, des armures possédées aussi rutilantes que dangereuses, des fruits cannibales,
+et tout un tas de vacheries visqueuses, gluantes et scrofuleuses prodigieusement hargneuses.
+
+Bien évidemment, il faudra traverser les niveaux avant que le timer n'atteigne le zéro fatidique ; sinon ce ne serait pas drôle...
+
+Pour l'anecdote, le premier écran qu'on peut voir après le titre propose de, je me cite : "bien lire le manuel".
+Je vous conseille fortement de le faire !!
+En effet, n'ayant absolument pas suivi cette recommandation je ne comprenais pas pourquoi le curseur ne bougeait pas
+et que rien ne fonctionnait correctement.
+
+J'ai fini par télécharger la notice et il est dit clairement qu'il ne faut SURTOUT pas tirer avec le light gun sur l'écran
+titre sous peine de désactiver ce dernier. Il faut simplement appuyer sur un bouton de la manette 2 pour pouvoir jouer correctement.
+Bizarrement ça change tout !
+
+Une fois cela compris, je me suis bien amusé avec ce petit jeu. Certes il ne révolutionne pas le genre, mais il est assez
+sympathique pour mériter un petit patch de francisation.
+
+Concernant la traduction, cela a été plus long que prévu ; la faute à une fonte (assez moche, il faut le dire) composée
+de deux tuiles superposées et un manque de place certain qui m'a obligé à pas mal remanier le texte d'origine.
+
+Le seul truc qui n'a pas été traduit est le "Time up". Il n'y avait ni la place, ni les caractères suffisants
+pour en faire quelque chose de valable.
+
+Fun fact : la fille est dénommée "Catherine" dans le script du jeu, mais "Katherine" dans la notice.
+
+PS : bon courage pour le boss de fin !! Je crois qu'aller se fritter avec Belzébuth en slip et armé d'un couteau
+à beurre est moins mortel que ce fumier de %*ù£m#§ !!
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]---------------------[Adresse]-----[Valeur]---
+Attaques spéciales infinies	0x00C00E         09
+Crédits infinis        		0x00C027         09
+Energie infinie        		0x00C338         30
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "laserghost.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Laser Ghost (E) [!].sms
+  Taille de la rom: 262 144 octets
+  Rom avec Header ? Non
+  CRC de la rom   : CA95637
+  CRC rom patchée : A15C3538
+
+Le patch a été créé avec SmartIPS et a été testé avec les émulateurs suivants :
+  Emukon           [ ]		Kega Fusion 3.64 [x]
+
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

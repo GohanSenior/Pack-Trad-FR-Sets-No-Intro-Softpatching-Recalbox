@@ -1,0 +1,128 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                          Lester the Unlikely
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Lester the Unlikely
+Console		: Super Nintendo
+Développeur	: Visual Concept
+Editeur		: DTMC
+Date		: Janvier 1994
+Genre		: Plates-formes / Réflexion
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 05/03/2025) :
+ \_________________________________________________________________
+
+Vous êtes-vous déjà demandé ce qu'il pouvait advenir d'un geek pur jus lorsqu'il pointe le bout de nez dehors ?
+Non, hein ?
+Et bien la ROM d'aujourd'hui va pouvoir amener un début de réponse.
+
+Dans "Lester, the unlikely" vous incarnez un ado basique, avec options "cheveux gras", "regard vide" et surtout
+"posture de glandeur dégingandé" qu'on a envie de redresser en lui enfonçant un manche à balai dans le fondement.
+Bref, il est mou, fan de comics, flemmard et trouillard comme pas deux !
+Ca me rappellerait presque mes années de collège, tiens...
+
+Notre cher glandu vient de s'acheter le dernier comic à la mode et comme faire 500 mètres en marchant l'a prodigieusement
+épuisé, Lester se pose pour lire sa bédé et s'endort. Il se réveillera dans un bateau cargo en partance pour
+fort-fort-lointain et se fera aborder par des pirates.
+
+C'est là que commence notre aventure...
+Echoué sur une île perdue au milieu de nulle-part, Lester devra user de toutes ses maigres ressources pour rentrer chez lui.
+Et autant dire qu'il va falloir du courage ! Ce petit bout de terre égaré dans l'océan fera tout son possible pour
+réduire notre héros en charpie : tortues géantes, statues de Tiki cracheuses de flèchettes empoisonnées, course
+contre un tigre affamé (ou un guépard, je ne suis pas sûr et je ne lui ai pas demandé ses papiers), des hordes
+de pirates ou une fuite devant une coulée de lave seront au programme des 19 niveaux de ce jeu assez surprenant
+et plein d'humour.
+
+A première vue on se dit qu'il s'agit d'un banal jeu de plates-formes, mais on se rend compte très rapidement
+qu'il n'en est rien. Certains passages nécessitent de la précision, ou de réfléchir et de chercher le meilleur moyen
+d'avancer avec les quelques objets ramassés ça et là.
+
+A mi chemin entre "Flashback" et "Prince of Persia" (sans le génie ni la classe) pour les animations et la conception
+des énigmes émaillant le jeu ; "Lester the Unlikely" axe son gameplay sur le fait que le personnage a peur de son ombre.
+
+En effet, il fuit la première fois qu'il voit une créature étrange, puis tremble et hésite à la deuxième rencontre ;
+puis finalement arrive à surmonter sa trouille et peut flanquer des coups de tatane sans rique.
+
+Dommage que les graphismes ne soient pas plus à la hauteur de la Super Nintendo. Certains niveaux sont sympas, d'autres
+plus dignes d'une Nes et c'est bien dommage. 
+
+L'animation de Lester est pas mal foutue on sent que Visual Concept a cherché à bien faire, mais là encore c'est gâché
+par une prise en main parfois lourde et souvent imprécise. Autant dire que dans les moments où il faut être rapide et
+efficace, ça va vite vous faire criser.
+
+Et cette musique, sérieux !? Qui a pondu ça ? (Question purement réthorique, c'est marqué dans les crédits)
+Le flonflon de tuba quasi omniprésent finit par devenir totalement insupportable. Au début, ça m'a fait penser
+au joueur de tuba de Shaka Ponk dans le clip "Story O' my LF" et je trouvais ça marrant; au bout de 4 niveaux
+j'ai fini par baisser le son...
+
+Ce jeu devient vite exigeant, et le peu de vies et de continues disponibles n'aident pas à arriver au bout
+(même avec le cheat codes de la santé infinie). Je n'ai qu'un conseil à vous donner : n'hésitez surtout pas à zyeuter
+le guide dispo sur Gamefaqs.com. Ca vous épargnera bien des incompréhensions et des nervous breakdowns.
+
+Ca faisait longtemps que j'avais repéré cette ROM, mais les étoiles n'étaient pas assez alignées pour que je m'y attelle.
+Désormais tous les textes sont francisés. Il n'y a que l'écran de continue et les cases d'objets et d'armes qui ne sont
+pas retouchés bicoze que c'est compressé et j'ai pas les connaissances (et surtout la flemme).
+
+On n'est pas sur du chef d'oeuvre, mais avec un gameplay moins approximatif et un poil plus de travail sur
+les graphismes, on aurait eu un jeu nettement plus intéressant.
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Energie infinie        0x7E859B         03
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "lester-the-unlikely.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Lester the Unlikely (U).smc
+  Taille de la rom: 1 048 577 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 2F7A4409
+  CRC rom patchée : 28E4693
+
+Le patch a été créé avec SmartIPS et a été testé avec les émulateurs suivants :
+  BSnes          [ ]		SNes9X 1.51    [ ]
+  Snes 9X 1.43   [ ]		Snes 9X 1.53   [x]
+  Snes 9x Geiger [ ]		Snes GT        [ ]
+  ZSnes          [ ]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

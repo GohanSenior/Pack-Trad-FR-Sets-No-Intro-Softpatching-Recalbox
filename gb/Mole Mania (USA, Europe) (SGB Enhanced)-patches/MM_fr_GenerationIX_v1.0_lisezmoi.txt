@@ -1,0 +1,135 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                              Mole Mania
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Mole Mania
+Console		: Game Boy
+Développeur	: Pax Softonica
+Editeur		: Nintendo
+Date		: 1997
+Genre		: Réflexion
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 17/04/2025) :
+ \_________________________________________________________________
+
+Haaaa !
+Ben en voilà un jeu qui n'est une bonne surprise !
+
+MoleMania a été une sorte de révélation lorsque je suis tombé dessus. C'est en relisant le descriptif de ce jeu
+dans mon "anthologie GameBoy" que je me suis dit qu'incarner une taupe dans un jeu signé Shigeru Miyamoto pouvait être amusant.
+J'étais loin, très loin du compte...
+
+Cette petite cartouche est une pépite ! Un aller simple vers le Nirvana (non, pas le groupe de grunge, mais bien
+"l'état de sérénité suprême auquel on parvient après avoir renoncé au désir humain"), bref c'est du bonheur pur.
+
+J'en entends déjà couiner "mais pourquoi il nous parle d'un bon jeu alors qu'il ne traduit habituellement que
+des jeux indignes de la pire fosse sceptique ?"
+Ben déjà je fais c'que j'veux, et toc !
+Et ensuite, même si j'ai encore quelques bousasses from outer space en stock ; se faire un vrai bon jeu est somme toute assez plaisant.
+Et MoleMania mérite vraiment qu'on s'y attarde...
+
+Comme annoncé plus avant, vous incarnez Muddy, une taupe d'un fort beau gabarit qui s'en est allée piquer des choux dans le jardin du méchant Jinbe.
+Celui-ci, aussi fourbe et mesquin qu'un contrôleur fiscal décide pour se venger d'enlever la femme et les sept enfants de Muddy.
+Notre taupe modèle devra donc parcourir les 223 niveaux des 8 mondes disponibles pour aller à leur secours.
+
+Chaque monde se compose d'un certain nombres d'écrans, et chaque écran (ou "zone") est une énigme à résoudre pour passer à la zone suivante.
+
+L'objectif est simple sur le papier : amener une boule noire en contact avec une porte afin de l'ouvrir ; mais bien entendu
+cela ne sera pas toujours une promenade de grand-père. Autant les premières énigmes sont simples, voire simplistes ; autant celles
+des niveaux 6 et 7 pourront nécessiter un certain nombre d'expérimentations ou un timing aux p'tits oignons...
+Et je ne parle même pas des streums qui rôdent afin de faire de votre peau douce et velue de magnifiques chaussons fourrés.
+
+Chaque niveau a sa propre ambiance (désert, tuyaux géants, steppes enneigées...) et se voit bien entendu sanctionner par un boss
+pas piqué des hannetons (kangourou géant, plombier psychopathe, bonhomme de neige mutant...).
+
+Afin de rajouter un peu de fun, l'objectif est d'atteindre les 100 points par monde. Comment cela ? Et bien en trouvant certains objets
+(parfois bien cachés), piquer les 20 choux répartis dans chaque monde, et en gagnant un mini jeu (bien planqué lui aussi) dans lequel
+on doit affronter Jinbe en personne dans une arène.
+
+Heureusement, bien que certaines énigmes soient bien retorses, le jeu ne sanctionne pas l'échec. Les sauvegardes se font de façon
+automatique ; votre grand-papy qui se terre dans certaines salles vous permettra de guérir de vos blessures au prix de son radotage
+incessant (pour le fun, amusez-vous à lui parler plusieurs fois de suite ! Il peut être très susceptible le papy !! )
+
+Esthétiquement, le jeu est très mignon. Il m'a un peu (même beaucoup) fait penser au fabulissimesque "Link's awakening" sur la même
+console. Chaque élément est très lisible (ce qui est un minimum pour un jeu de réflexion) et à aucun moment on ne se demande ce qu'est tel ou tel objet.
+
+Côté musique, on est sur du bon son (pour de la 8 bits, j'entends). Les partitions sont variées, très entraînantes et ne font
+pas saigner des oreilles. Franchement, j'ai bien aimé.
+
+Pour le reste, là aussi le jeu est dans le haut du panier ! Notre taupe a plein de petites animations rigolotes et soignées, elle réagit
+au quart de poil, et le jeu est plein de petits traits d'humour (mention spéciale aux scénettes post boss).
+
+La rom est généreuse à tous points de vue, mais si je rajoute qu'il y a un mode deux joueurs en Versus dans 16 arènes différentes,
+peut-être que ça vous convaincra de l'essayer, qui sait ?!
+
+La traduction du jeu a été plus longue que ce que je pensais. Déjà parce que la rom est bourrée de textes et de dialogues. Certains n'ont
+d'ailleurs pas été vus en jeu. Je soupçonne des trucs entamés mais pas intégrés par manque de temps. En effet, il y a un moment où
+le grand-père dit qu'il a entendu Jinbe crier "qu'il ne voulait pas faire ça", mais on ne saura jamais de quoi il est question.
+
+Beaucoup de graphismes ont été retouchés, et un relatif manque de place m'a obligé à tricher comme un gros sagouin pour arriver à
+obtenir ce que je voulais. Je pense notamment aux boutons de l'inventaire qui sont devenus des "v" ou "X", ou encore les "won/lost"
+du mode deux joueurs changés en smileys. Et je ne parle même pas des bulles "Arene" et "Talent" sur lesquelles je me suis un peu cassé les dents.
+
+Le seul truc qui n'a pas été traduit, c'est le générique de fin. J'ai juste pas trouvé comment s'affichaient les tilemaps correspondant aux postes des développeurs.
+Mais ça ne gêne en rien la compréhension de cette petite merveille de la portable de Nintendo.
+
+
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Energie infinie        0xCE52          04
+Tps illimité pour le minijeu0xC14B          2F
+
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "molemania.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Mole Mania (U) [S][!].gb
+  Taille de la rom: 524 288 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 2C36C74C
+  CRC rom patchée : 272C8A1A
+
+Le patch a été créé avec SmartIPS et a été testé avec les émulateurs suivants :
+  BgB               [x]		GBEmul            [ ]
+  VisualBoy Advance [ ]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12

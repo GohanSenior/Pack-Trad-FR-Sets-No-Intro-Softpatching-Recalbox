@@ -1,0 +1,106 @@
+            Génération IX (http://generation9.kanshima.net
+                    vous présente la traduction de
+                      The Jetsons, Robot Panic
+
+
+
+\ INFOS SUR LE JEU :
+ \___________________
+
+Titre		: Jetsons, The
+Console		: Game Boy
+Développeur	: ACT Japan
+Editeur		: Taito
+Date		: 29/04/1993
+Genre		: Plates-formes
+
+
+
+\ ETAT DE LA TRADUCTION : (patch version 1.0 créé le 23/02/2025) :
+ \_________________________________________________________________
+
+
+Tiré du vieux dessin animé de Hanna & Barbera, vous allez incarner les membres de la famille Jetsons
+dans un jeu de plates-formes ma foi fort sympathique.
+
+Les robots ont pété un boulon et attaquent la ville. Heureusement, les Jetson sont là et vont tout
+remettre en état gràce à leurs aptitudes respectives :
+Judy, l'adolescente au coeur d'artichaud a des bottes qui lui permettent de marcher au plafond,
+Elroy, le gamin surdoué peut lancer des boules ; Jane, la mère, quant à elle peut utiliser un jetpack.
+
+Une fois les trois premiers niveaux terminés, vous pourrez incarner George Jetson qui pourra bénéficier
+de toutes les capacités des autres personnages.
+
+L'objectif du jeu est simplissime : trouver la sortie des niveaux labyrinthiques en usant et abusant
+des aptitudes de la famille Jetson et en balançant des caisses sur les ennemis.
+
+Les niveaux sont assez longs et bien tortueux, les effets sonores dans la moyenne et les graphismes
+bien lisibles et détaillés. La difficulté est suffisamment relevée pour qu'on ne torche pas la cartouche
+en une heure, et si on meurt c'est généralement qu'on s'est loupé. Le jeu n'est pas injuste...
+
+J'avais entamé la traduction de ce petit jeu il y a bien longtemps, mais comme j'ai une fâcheuse
+tendance à commencer plein de projets et de les délaisser pour de nouveaux ; la rom avait fini
+par prendre la poussière. Quelques années plus tard, je me suis dit qu'il était grand temps de
+faire du ménage dans les vieux projets et "The Jetsons" a enfin vu le jour.
+
+Tous les textes sont francisés ainsi que certains graphismes, et aucun bug n'a été détecté lors
+des tests.
+
+Have fun :)
+
+
+\ CODES DE TRICHE :
+ \__________________
+
+---[Effet]-------------[Adresse]-----[Valeur]---
+Santé infinie          0xD480          05
+Energie infinie        0xC324          13
+
+
+/!\ Informations relatives à l'utilisation des codes de triche :
+
+Attention : le cheat de l'énergie infinie est pas tip-top.
+Des fois, ça marche ; des fois ça marche pas...
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE :
+ \_________________________________
+
+Hack		: Happexamendios
+Traduction	: Happexamendios
+Graphismes	: Happexamendios
+Bêta-Test	: Happexamendios
+
+
+
+\ COMMENT APPLIQUER LE PATCH ?
+ \_____________________________
+
+Le patch "jetsons - robot panic.ips" est à utiliser sur la rom suivante :
+  Nom de la rom   : Jetsons, The (U).gb
+  Taille de la rom: 329 619 octets
+  Rom avec Header ? Non
+  CRC de la rom   : 6386C870
+  CRC rom patchée : A74DA923
+
+Le patch a été créé avec SmartIPS et a été testé avec les émulateurs suivants :
+  BgB               [x]		GBEmul            [ ]
+  VisualBoy Advance [ ]
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher la rom
+(il en existe plusieurs que vous pourrez trouver sur le site de la TRAF (http://traf.romhack.org)).
+
+Il suffit ensuite de sélectionner la rom puis le fichier ips et de valider (Certains outils
+peuvent créer une sauvegarde de la rom avant de patcher).
+
+Voilà maintenant votre rom avec les modifications apportées par notre traduction.
+
+
+
+\ CONTACTS :
+ \___________
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Site Web : http://generation9.kanshima.net
+Forum	 : http://www.bessab.com/viewforum.php?f=12
