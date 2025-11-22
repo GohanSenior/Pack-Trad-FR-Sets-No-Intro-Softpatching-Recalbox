@@ -1,0 +1,102 @@
+TERMINUS TRADUCTION présente
+
+LAST BIBLE S
+----------------------------------------------------------------
+*******************Table des matières******************
+----------------------------------------------------------------
+
+1.    L'HISTOIRE DU JEU
+2.      CONTENU DE L'ARCHIVE ET UTILISATION
+3.    LES PATCHS PUBLIES
+4.      TOUT CE QUI A ETE FAIT
+5.    L'ÉQUIPE DE LA TRADUCTION
+6.      CONTACTS
+7.    REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  L'HISTOIRE DE LAST BIBLE S
+----------------------------------------------------------------
+
+Si la série Last Bible est un spin-off de Megami Tensei, ce titre
+intitulé Last Bible S (pour Special) est un jeu lui-même à part.
+Déjà, le titre est exclusif à la Game Gear développé par Sega.
+Ensuite, le déroulement du jeu est différent des autres épisodes
+puisque c'est un Donjon crawler.
+Ce soft est vraiment bien réalisé, on reprochera juste un niveau
+de difficulté vraiment haut, même si le hack anglais avait
+atténué ce défaut en divisant le taux de rencontre par deux et
+en multipliant l'expérience gagnée au combat.
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir:
+LastBibleSpecialFr.ips  - Le patch IPS de Last Bible S
+LastBibleSfr.tbl  -  La table de la traduction française
+LastBibleS.tbl  -  La table de la traduction anglaise
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+(le Patcheur Terminus par exemple).
+Ce patch est à utiliser avec la rom NO-INTRO
+Megami Tensei Gaiden - Last Bible Special (Japan).gg
+
+----------------------------------------------------------------
+3.  LES PATCHS PUBLIES
+----------------------------------------------------------------
+
+-V1.00
+Traduction complète
+
+----------------------------------------------------------------
+4.  TOUT CE QUI A ETE FAIT
+----------------------------------------------------------------
+
+Script    :   100 %
+Pointeurs :   100 %
+
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+FlashPV : Hacking, Traduction
+Basé sur la version anglaise de MrRichard, SSTranslations & Tom
+
+----------------------------------------------------------------
+6.  CONTACTS
+----------------------------------------------------------------
+
+Une remarque, une question ou une correction à apporter à la
+traduction de Last Bible S.
+
+FlashPV - FlashPV@aol.com
+
+Vous voulez mieux connaître le groupe, télécharger nos derniers
+patchs ou vous renseigner sur un projet.
+
+Site Web - http://terminus.romhack.net
+
+----------------------------------------------------------------
+7.  REMARQUES LEGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de Last Bible S n'est pas
+officiel et n'est pas supporté par Atlus ou Sega.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+FlashPV

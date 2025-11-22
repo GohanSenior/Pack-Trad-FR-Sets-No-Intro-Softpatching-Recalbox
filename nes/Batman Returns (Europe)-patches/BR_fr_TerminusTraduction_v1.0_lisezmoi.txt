@@ -1,0 +1,105 @@
+TERMINUS TRADUCTION présente
+
+BATMAN RETURNS
+----------------------------------------------------------------
+*******************Table des matières******************
+----------------------------------------------------------------
+
+1.    L'HISTOIRE DU JEU
+2.      CONTENU DE L'ARCHIVE ET UTILISATION
+3.    LES PATCHS PUBLIES
+4.      TOUT CE QUI A ETE FAIT
+5.    L'ÉQUIPE DE LA TRADUCTION
+6.      CONTACTS
+7.    REMARQUES LEGALES
+
+----------------------------------------------------------------
+1.  L'HISTOIRE DE BATMAN RETURNS
+----------------------------------------------------------------
+
+"Batman Returns est un jeu vidéo de 1993 développé et publié par
+Konami pour la Nintendo Entertainment System. Basé sur le
+super-héros Batman de DC Comics, il est inspiré film de 1992 du
+même nom.
+Dans l’histoire principale, Batman doit affronter à la fois
+Catwoman et le Pingouin.
+Batman Returns sur NES a été produit par Kuniaki Kinoshita et
+conçu par Teisaku Seki.
+La musique a été composée par Shigemasa Matsuo et Takashi
+Tateishi, surtout connu pour son travail dans Mega Man 2.
+Le jeu a reçu un accueil moyen de la part des critiques, qui
+ont fait l’éloge de la bande-son, mais la plupart étaient divisés
+en ce qui concerne les visuels, les commandes et le gameplay."
+Wikipedia
+
+----------------------------------------------------------------
+2.  CONTENU DE L'ARCHIVE ET UTILISATION
+----------------------------------------------------------------
+
+Normalement, l'archive ZIP doit contenir:
+BatmanReturnsFr.ips  - Le patch IPS du jeu
+LisezMoi.txt - Le fichier que vous êtes en train de lire
+Diverses Captures
+
+Pour utiliser cette traduction, il faut utiliser un PATCHEUR
+(le Patcheur Terminus par exemple).
+Ce patch est à utiliser avec la ROM No-Intro:
+Batman Returns (Europe).nes
+
+----------------------------------------------------------------
+3.  LES PATCHS PUBLIES
+----------------------------------------------------------------
+
+-V1.00
+Traduction complète
+
+----------------------------------------------------------------
+4.  TOUT CE QUI A ETE FAIT
+----------------------------------------------------------------
+
+Traduction, retouches graphiques
+
+----------------------------------------------------------------
+5.  L'ÉQUIPE DE LA TRADUCTION
+----------------------------------------------------------------
+
+Kazan:   Hacking, Traduction
+
+----------------------------------------------------------------
+6.  CONTACTS
+----------------------------------------------------------------
+
+Une remarque, une question ou une correction à apporter à la
+traduction du jeu.
+
+Kazan - newkazan@hotmail.fr
+
+Vous voulez mieux connaître le groupe, télécharger nos derniers
+patchs ou vous renseigner sur un projet.
+
+Site Web - http://terminus.romhack.net
+Facebook - https://www.facebook.com/TerminusTrad/
+
+----------------------------------------------------------------
+7.  REMARQUES LEGALES
+----------------------------------------------------------------
+
+Le patch de traduction française de ce jeu n'est pas officiel et
+n'est pas supporté par Konami ou Nintendo.
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+Kazan

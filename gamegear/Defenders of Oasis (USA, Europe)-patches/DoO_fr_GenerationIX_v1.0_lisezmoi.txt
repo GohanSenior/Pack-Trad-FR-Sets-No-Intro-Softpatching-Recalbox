@@ -1,0 +1,127 @@
+                                              GENERATION IX
+
+                              est fier de vous présenter la traduction de :
+
+                                           DEFENDERS OF OASIS
+
+--------------------------------------------------------------------------------------------------------
+
+
+\ INFOS SUR LE JEU 
+ \_________________ 
+
+Titre       : Defenders of Oasis
+Console     : Game Gear
+Développeur : SEGA
+Editeur     : SEGA
+Année       : 1992
+Genre       : RPG
+
+
+\ ETAT DE LA TRADUCTION : Patch 1.0 du 07/11/2008
+ \________________________________________________
+
+- Traduction des scripts    : 100%
+- Traduction des graphismes : 100%
+- Ajouts des accents        : 100%
+- Correction de textes mal pointés par le jeu (à un moment dans le jeu, quand on répondait Yes, c'était
+  la phrase du No qui apparaissait et inversement)
+
+
+\ CONTENU DU ZIP
+ \_______________
+
+GG-DefenderOfOasis-1.0.txt  Fichier que vous êtes en train de lire
+GG-DefenderOfOasis-1.0.ips  Patch de traduction française
+
+
+\ EQUIPE DE TRADUCTION FRANCAISE 
+ \_______________________________
+
+RomHack        : Bahabulle
+Programmation  : Bahabulle
+Graphismes     : Ti Dragon
+Traduction     : barbe_folle, GreatSkaori
+Relecture      : Bahabulle, Happexamendios, Solaris
+Bêta-Test      : BahaBulle, Solaris
+
+
+\ HISTOIRE DE LA TRADUCTION
+ \__________________________
+
+AAAH, mon premier projet pour lequel j'ai développé un décompresseur/compresseur :D
+Ca remonte maintenant à 2005. J'avais remarqué que ce jeu était compressé dans une forme de LZ et je l'ai donc choisi
+pour faire mes armes dans ce domaine.
+Malheureusement, ne connaissant rien à l'ASM, j'ai eu énormément de mal pour comprendre la routine de décompression.
+Jes est alors arrivé à mon secours en m'expliquant son fonctionnement. J'ai donc pu développer les outils nécessaires
+à la décompression des textes du jeu.
+La tradution s'est faite assez rapidement mais énormément de textes dépassaient des cadres, les menus
+étaient tout décalés et les graphismes n'étaient pas extraits.
+N'ayant pas la motivation pour jouer au jeu et corriger les textes et n'ayant pas les connaissances pour trouver
+les graphismes, le projet dormi pendant un long moment (au moins 3 ans :p).
+Jusqu'au jour où Solaris, un fan du jeu qui voulait le traduire, se lança dans le beta-test pour corriger les dépassements
+de cadre.
+Cela me remotiva pour le terminer, surtout qu'aujourd'hui, je possède quelques compétences en ASM ;)
+J'ai donc pu trouver et extraire les graphismes en développant les outils nécessaires et également corriger les menus.
+Tout est maintenant terminé et parfaitement jouable :D
+
+
+\ REMERCIEMENTS
+ \______________
+
+Nous remercions bien évidemment :
+- Jes pour son aide dans la compréhension de la compression
+- Solaris pour avoir accepter de béta-tester le jeu et ainsi relancer le projet pour qu'il arrive à terme
+- et bien sûr, nous parce que nous le valons bien :D
+
+
+\ COMMENT APPLIQUER LE PATCH 
+ \___________________________ 
+
+Le Patch GG-DefenderOfOasis-1.0.ips est à appliquer sur la ROM Defenders of Oasis (UE).gg
+de 512 Ko (524 288 octets)
+
+Il n'a pas été testé sur d'autres ROMs, donc il est possible qu'il y ait des problèmes si vous
+utilisez une autre ROM que celle recommandée ici.
+
+Pour appliquer le patch de traduction, il faut tout d'abord récupérer un outil pour patcher.
+Il en existe plusieurs que vous pourrez trouver sur le site de la T.R.A.F (http://traf.romhack.org). 
+Il suffit ensuite de sélectionner la ROM puis le fichier ips et de valider (certains outils 
+peuvent créer une sauvegarde de la ROM avant de patcher). 
+
+Certains émulateurs permettent de patcher directement les ROMs sans les altérer. Pour plus
+d'explications, je vous invite à consulter le site de la TRAF dans la partie "Utiliser un patch IPS".
+
+
+\ CONTACTS 
+ \_________ 
+
+N'hésitez pas à nous faire part de vos remarques, des éventuels bugs et fautes de français 
+ou même des endroits non traduits qui n'auraient pas été cités plus haut.
+Forum     : http://www.bessab.com/viewforum.php?f=12
+Sites Web : Génération IX     - http://generation9.kanshima.net/
+            T.R.A.F.          - http://traf.romhack.org/
+
+
+\ REMARQUES LEGALES
+ \_________________
+
+Génération IX vous propose une traduction non-officielle réalisée à but non
+lucratif par des amateurs bénévoles. Elle n'est en aucun cas supportée par SEGA.
+Cette traduction est donc gratuite et ne peut être vendue sous quelque forme que
+ce soit (vente de fichiers sur CD, de cartouches modifiées, de cartouches flash
+copiées, etc.) : son usage commercial est par conséquent strictement interdit.
+
+Vous utilisez ce patch de traduction en dégageant les auteurs de toute responsabilité
+concernant d'éventuels dommages.
+
+© 2008 Génération IX
+Tous droits réservés
+
+
+GAMEGEAR® et DEFENDERS OF OASIS® sont les propriétés de SEGA®.
+Les mentions légales relatives à SEGA se trouvent décrites dans un livret fourni avec chacun
+de leurs produits. Veuillez les lire attentivement.
+
+© 1992 SEGA®
+Tous droits réservés

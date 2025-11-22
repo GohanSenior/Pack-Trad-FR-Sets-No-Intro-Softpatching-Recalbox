@@ -1,0 +1,39 @@
+traduction de Phantasy Star III sur Megadrive depuis le japonais par Ingo v1.0
+
+---- utilisation du patch
+	- CRC32 de la rom à rechercher sur le web : C6B42B0F
+	- c'est la version internationale du jeu : Phantasy Star III - Generations of Doom (USA, Europe).md
+	- pour vérifier le CRC32 d'un fichier, installer 7-Zip et faire un clic droit sur le fichier
+	- patch créé avec Lunar IPS téléchargeable sur https://traf.romhack.org/?p=outils&oid=151
+
+---- détails de la version utilisée en support pour la traduction
+version anglaise utilisée pour la traduction :
+	https://www.romhacking.net/translations/3549/
+contenu des améliorations de cette version :
+	- retraduction de qualité depuis le japonais : scénario de 45 608 vers 65 278 caractères, soit +43%
+	- nombreux bogues corrigés
+	- correction de palettes de couleurs (personnages, environnements)
+	- vitesse de marche doublée
+
+---- détails de la retraduction
+	- fonte avec accents, œ et ° pour les joyaux
+	- image de l'écran titre avec intro et crédits
+	- menus & objets
+	- dialogue des magasins et autres services assimilés
+	- tous les dialogues pour les 7 générations
+plus de détails sur :
+https://www.ultimate-consoles.fr/topic/20475-la-version-revisit%C3%A9e-de-phantasy-star-iii-en-fr/
+
+---- aide de jeu
+- je suggère ce site pour l'aide complète :
+	https://huguesjohnson.com/ps3/
+- je suggère ces codes :
+	FFC042:00FF	65280 Mesetas
+	001A00:6006	sans combats (ne pas utiliser avant tout dialogue, et surtout pas au château de Cille
+	        	pour éviter tout risque de blocage définif après sauvegarde dans une auberge)
+- je suggère ces techniques :
+	♥StarForc (GiRes)
+	♥Law (Fanbi)
+	♥Zan (Zan)
+	♥Rising (Ner)
+- j'ajoute les sauvegardes .srm de fin pour chaque génération

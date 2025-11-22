@@ -1,0 +1,119 @@
+Juin 2002 par Asmo
+
+Traduction Française de Crystal Warriors
+sur Game Gear par AsmoDeath's trads version béta 0.95
+
+
+Contenu de l'archive et utilisation
+-----------------------------------
+Normalement, l'archive ZIP doit contenir :
+
+                Crystalv0.95.ips - Le patch IPS de Crystal Warriors
+		ips.exe          - Un patcheur pour patcher votre rom*
+		LisezMoi.txt     - Le fichier que vous êtes en train de lire
+
+*Pour patcher votre rom de Crystal Warriors, utilisez IPS.EXE 
+(en passant par Ms-dos) segatool, le patcher arkana ou 
+tout autre programme ayant cette utilité!
+
+
+Ce qui a été fait
+-----------------
+Script    	 : 100 % traduit et réinseré
+Messages   	 : 100 % traduits et réinserés
+Menus            :  99 % traduits et réinserés
+Objets/equipment : 100 % traduits et réinserés
+Font        	 : 100 % modifiée avec accents
+Hack divers  	 : 100 % pointeurs, asm, etc ... 
+
+Il reste quelques images compressés, qui ne
+sont pas primordiales à traduire...
+
+
+L'équipe de traduction
+-------------------------
+   *Asmo  :       Chef de projet
+		  Hacker principal
+		  Traduction
+
+   *Patzman :	  Traduction
+		  Béta test
+		  Correction
+
+   * Cyril :	  Béta test
+
+:: Merci à siskoo pour les fautes rapportée ::
+
+
+Le jeu 
+-------------
+
+Ha Crystal Warriors...un joli nom ma foi
+pour un rpg, que dis je un T-rpg...et sur
+game gear, ma portable préférée. Les graphismes
+sont très simplistes, 1992 tout de même (10 ans)
+de même que les musiques, mais le plaisir du
+jeu est là, et pour qui aime les tactics, ça
+devrait vous satisfaire au minimum syndical :)
+
+En tout cas un bon p'tit jeu!
+
+A noter que sa suite, royal stone, toujours
+sur Game Gear, est bien meilleur mais en jap!
+
+Une version US par AGTP est en cours...s'en suivra
+probablement une version fr...par nous :)
+
+Autres Projets 
+--------------
+
+Sylvan Tale
+Defender of Oasis
+Lufia
+Spike Mc Fang
+Jyutei Senki
+Suikoden
+Last Bible the demon slayer
+Gargoyl's Quest 2
+
+etc...
+
+
+Contacts
+--------
+Une remarque, une question ou une correction à apporter à la
+traduction de Crystal Warriors
+
+Asmo      - asmodailius@wanadoo.fr
+ICQ       - 102019167
+AIM	  - Asmodailius
+
+Pour plus de détails sur les projets, sur les différentes
+personnes travaillant dessus, pour avoir des patchs, des 
+screenshots, voir leurs progressions...
+
+Site Web - http://www.asmodeath.fr.st
+
+
+Remarques Légales
+-----------------
+Le patch de traduction française de Crystal Warriors
+n'est pas officiel et n'est pas supporté par 
+l'éditeur du jeu!
+
+Ce patch est gratuit et peut être distribué gratuitement tant 
+qu'il n'est pas modifié, appliqué ou distribué avec une rom, 
+et que l'archive originale n'est pas modifiée non plus. Ni 
+argent, biens ou services ne peuvent être demandés pour ce 
+patch, dans sa forme originale ou appliquée.
+
+Tous ceux qui utilisent ce patch le font à leurs propres 
+risques. Aucune personne citée dans cette documentation ne 
+pourra être responsable de n'importe quels dommages 
+provenant de son usage.
+
+----------------------------------------------------------------
+
+Merci d'avoir lu jusqu'au bout et à bientôt !
+
+@smo

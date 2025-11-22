@@ -1,0 +1,19 @@
+retraduction de la version américaine officielle de Sky Blazer sur Super Nintendo par Ingo v1.0
+
+---- utilisation du patch
+- CRC32 de la rom à rechercher sur le web : F13B00B0
+- c'est la version américaine du jeu : Skyblazer (USA).sfc
+- pour vérifier le CRC32 d'un fichier, installer 7-Zip et faire un clic droit sur le fichier
+- patch créé avec Lunar IPS téléchargeable sur https://traf.romhack.org/?p=outils&oid=151
+
+---- détails de la retraduction
+- intégration d'une fonte avec accents produite par l'excellent travail de 4ph
+- retraduction de l'histoire depuis le japonais avec les justes éléments inspirés du védisme, le tout impulsé par le magnifique travail de retraduction anglaise de Krokodyl comprenant la notice du jeu :
+https://krokodyl.github.io/post/2024/08/skyblazer/
+- restauration du nom des niveaux et des pouvoirs magiques qui avaient été inventés dans la version américaine
+
+plus de détails sur :
+https://www.ultimate-consoles.fr/topic/20477-la-version-revisit%C3%A9e-de-skyblazer-en-fr/
+
+---- le jeu en profondeur
+- il existe deux niveaux secrets, en se plaçant sur le point de la carte du niveau MURS DES ILLUSIONS SUPREMES, appuyer sur le bouton haut

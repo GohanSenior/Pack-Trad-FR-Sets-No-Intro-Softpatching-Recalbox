@@ -1,0 +1,20 @@
+retraduction de la version française officielle de Wonder Boy in Monster Land sur Master System par Ingo version 1.0
+
+---- utilisation du patch
+- CRC32 de la rom à rechercher sur le web : 8CBEF0C1
+- c'est la version américaine/européenne du jeu : Wonder Boy in Monster Land (US, EU).sms
+- pour vérifier le CRC32 d'un fichier, installer 7-Zip et faire un clic droit sur le fichier
+- patch créé avec Lunar IPS téléchargeable sur https://traf.romhack.org/?p=outils&oid=151
+
+---- détails de la retraduction
+- tous les dialogues du SPHINX repris du japonais (4 questions et 8 astuces du bar de la pyramide)
+- tous les dialogues de l'histoire, des magasins et de la fin du jeu
+- menu des objets et équipements
+plus de détails sur :
+https://www.ultimate-consoles.fr/topic/20473-la-version-revisit%C3%A9e-de-wonder-boy-in-monster-land-en-fr/
+
+---- le jeu en profondeur
+- il existe de nombreuses pièces cachées pour acheter les objets avec une stratégie d'achat
+- le niveau 12 est un vrai labyrinthe
+tous les détails sur ces secrets ici :
+https://www.squarepalace.com/master-system-action-aventure-artwork-solution/wonder-boy-in-monster-land-soluce-anecdotes

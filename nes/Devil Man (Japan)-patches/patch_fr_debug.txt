@@ -1,0 +1,3 @@
+Nécessite pour fonctionner:
+	- Libretro FCEUmm
+	- Libretro Mesen

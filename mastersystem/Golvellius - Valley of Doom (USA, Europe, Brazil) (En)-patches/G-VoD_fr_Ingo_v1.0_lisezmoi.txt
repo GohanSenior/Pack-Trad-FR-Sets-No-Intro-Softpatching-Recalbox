@@ -1,0 +1,26 @@
+retraduction de la version anglaise officielle de Golvellius sur Master System par Ingo version 1.0
+
+---- utilisation du patch
+- CRC32 de la rom à rechercher sur le web : A51376FE
+- c'est la version américaine/européenne du jeu : Golvellius (US, EU).sms
+- pour vérifier le CRC32 d'un fichier, installer 7-Zip et faire un clic droit sur le fichier
+- patch créé avec Lunar IPS téléchargeable sur https://traf.romhack.org/?p=outils&oid=151
+
+---- détails de la traduction
+- amélioration du nom des personnages et des équipements repris fidèlement du manuel du jeu japonais
+- description améliorée des objets présentés en magasin
+- correction des astuces erronées, imprécises, absentes
+- traduction complète des messages, inventaire, menu
+- intégration des travaux de Eric R. Quinn permettant la correction de bogues (remplacement d'une salle qui était en double et affichage juste de graphismes d'une grotte)
+https://www.smspower.org/forums/14782-GolvelliusBugLostRoomHasBeenFound
+plus de détails sur :
+https://www.ultimate-consoles.fr/topic/20474-la-version-revisit%C3%A9e-de-golvellius-en-fr/
+
+---- le jeu en profondeur
+- le joueur démarre avec 1 potion de vie et le maximum sera de 18, donc il devrait y en avoir 17 à collecter mais 18 sont présentes dans le jeu, créant un bogue de dépassement du maximum de l'énergie vitale pour décompter la vitalité. Si vous souhaitez éviter ce bogue, ne prenez pas la dernière potion
+- il existe un soundtest accessible suivant la manipulation suivante :
+pendant la séquence d'ouverture qui suit le lancement d'un nouveau jeu, maintenez les touches Haut Gauche + 1 + 2 de la manette. Lorsque la vieille femme vous donne l'épée, le dialogue sera remplacé par le menu du soundtest
+- code d'invincibilité 773834:00
+ce code vous sera utile si vous privilégiez l'exploration plutôt que la difficulté
+- exploration du jeu à 100% à l'aide de 7 plans nommés « Overworld ... » de la section « Maps » disponibles sur :
+https://gamefaqs.gamespot.com/sms/588077-golvellius-valley-of-doom/faqs

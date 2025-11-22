@@ -1,0 +1,19 @@
+traduction de Alisia Dragoon sur Megadrive par Ingo v1.1
+
+---- utilisation du patch
+- CRC32 de la rom à rechercher sur le web : D28D5C40
+- c'est la version américaine du jeu : Alisia Dragoon (USA).md
+- pour vérifier le CRC32 d'un fichier, installer 7-Zip et faire un clic droit sur le fichier
+- patch créé avec Lunar IPS téléchargeable sur https://traf.romhack.org/?p=outils&oid=151
+
+---- détails de la traduction
+- « C'est ici que nous présentons le fond de l'histoire que le jeu ne suffit pas à raconter. »
+Tels sont les mots de Game Arts qui introduisit le texte et les dessins sur l'histoire d'Alisia Dragoon, le tout paru dans le magazine BEEP! Mega Drive de 1992 en février (2 pages) et mars (3 pages).
+- le manuel japonais du jeu donne aussi beaucoup d'infos sur l'histoire dans les pages 4, 5, 6, 7, 8, 9, 10, 11, 36 et 37.
+- en plus de l'ajout d'une intro narrant l'histoire, quelques rares éléments du jeu étaient à traduire (menu de démarrage, options, sélection du partenaire, 2 dialogues avec Dolgar, rang de fin de jeu)
+plus de détails illustrés sur :
+https://www.ultimate-consoles.fr/topic/20469-la-version-revisit%C3%A9e-de-alisia-dragoon-en-fr/
+
+---- le jeu en profondeur
+- les articles de l'époque mentionnent l'envie de donner un côté RPG au jeu avec la découverte de secrets, ce qui s'est concrétisé par la présence de passages secrets que vous pouvez découvrir ici :
+https://vgmaps.com/Atlas/Genesis/index.htm#AlisiaDragoon
